@@ -17,8 +17,8 @@ class Paper():
         self.imgurl = None
 
     def parse_lines(self, lines):
-        items = lines[0:7]
-        [self.title, self.year, self.paper, self.project, self.article, ainfo, self.teaser] = items
+        items = lines[0:6]
+        [self.title, self.year, self.paper, self.project, self.article, self.teaser] = items
 
         if self.project:
             self.imgurl = self.project
@@ -34,13 +34,16 @@ class Paper():
             print('ERROR: no year')
 
         self.year = int(float(self.year))
-        author_records = ainfo.split(';')
+
+        author_records = lines[6:]
         self.authors = []
         self.author_urls = []
         for author_r in author_records:
             pos_id = author_r.find('+')
             author = ''
             url = ''
+            if author_r == '':
+                continue 
             if pos_id > 0:
                 author = author_r[:pos_id]
                 url = author_r[pos_id + 1:]
@@ -96,7 +99,7 @@ class Paper():
         return html
 
     def write_md(self, md):
-        paper_md = '<table> <tbody> <tr> <td align="left" width=250>\n'
+        paper_md = '<tbody> <tr> <td align="left" width=250>\n'
         paper_md += '<a href="%s"><img src="teasers/%s"/></a></td>\n' % (self.imgurl, self.teaser)
         paper_md += '<td align="left" width=550>%s<br>\n' % self.title
         paper_md = self.add_authors(paper_md)
@@ -105,7 +108,7 @@ class Paper():
             paper_md += '<a href="%s">[Paper]</a> \n' % self.paper
         if self.project:
             paper_md += '<a href="%s">[Project]</a>\n' % self.project
-        paper_md += '</td></tr></tbody></table>\n\n\n'
+        paper_md += '</td></tr></tbody>\n\n\n'
         md += paper_md
         return md
 
@@ -138,8 +141,12 @@ def write_papers(papers, header_file=None, end_file=None, TYPE='md'):
             content = hfile.read()
 
     content += '\n<br>\n\n'
+    if (TYPE=='md'):
+        content += '<table>'
     for paper in papers:
         content = getattr(paper, mtd_str)(content)
+    if (TYPE=='md'):
+        content += '</table>'
     content += '\n<br>\n\n'
     content = add_date(content)
     content += '\n<br>\n\n'
