@@ -1,0 +1,10 @@
+Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape from Images
+2018
+http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf
+http://smalr.is.tue.mpg.de/
+CVPR 
+Zuffi2018.jpg
+spotlight
+Silvia Zuffi+https://ps.is.tuebingen.mpg.de/person/szuffi
+Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
+Michael J. Black+https://ps.is.tuebingen.mpg.de/person/black

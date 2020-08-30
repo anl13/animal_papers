@@ -1,0 +1,15 @@
+AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces
+2020
+https://arxiv.org/abs/1909.04951
+https://fdmaproject.wordpress.com/
+CVPR
+Khan2020.JPG
+poster
+Muhammad Haris Khan
+John McDonagh
+Salman Khan
+Muhammad Shahabuddin
+Aditya Arora
+Fahad Shahbaz Khan
+Ling Shao
+Georgios Tzimiropoulos+http://www.cs.nott.ac.uk/~pszyt/

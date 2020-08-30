@@ -1,8 +1,6 @@
-## Animal Paper Collection
+## Animal Paper Collection (Ongoing)
 
-Since 2017, animal reconstruction attracts more and more attention from computer vision community. Inspired by remarkable techniques for human markerless motion capture and performance capture, we have witnessed some excellent pioneering literatures for animal reconstruction like [SMAL]() and [DeepLabCut](). However, there are still many challenges before we could rely on computer vision methods to capture natural motion of arbitary animals robustly in real-time. Thus, I build this repository to track every step towards the ultimate goal for animal reconstruction in computer vision community. 
+Recently, markerless animal motion capture attracts more and more attention in computer vision community. Inspired by remarkable techniques for markerless human motion capture, a few excellent literatures appear for animal modeling and reconstruction such as [SMAL](http://smal.is.tue.mpg.de/
+) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there are still many challenges before computer vision methods are reliable in industry-grade for capturing natural motion of arbitary animals robustly and efficiently. Therefore, I contribute this repository to track every small step towards the ultimate goal for animal reconstruction, willing to witness further achievements in this area.
 
-**Animal Paper Collection** is an academic paper collection mainly covering computer vision papers which aim at animal markerless motion capture or 3D reconstruction. If you want to add/remove an article, please send an email to [Liang An](https://github.com/anl13/) (al17@mails.tsinghua.edu.cn). We thank all the authors for their contribution and support.
-
-
-See also [Webpage](http://github.com/anl13/animal_papers/animal_papers.html)
+**Animal Paper Collection** is an academic paper collection mainly covering computer vision papers which aim at markerless animal motion capture or 3D reconstruction. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(al17 at mails dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.

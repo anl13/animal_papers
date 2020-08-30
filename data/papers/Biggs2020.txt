@@ -4,6 +4,7 @@ https://arxiv.org/abs/2007.11110
 https://arxiv.org/abs/2007.11110
 ECCV 
 Biggs2020.jpg
+poster
 Benjamin Biggs+http://mi.eng.cam.ac.uk/~bjb56/
 Oliver Boyne+https://uk.linkedin.com/in/ollie-boyne
 James Charles+http://www.jjcvision.com/

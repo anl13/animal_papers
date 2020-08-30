@@ -1,0 +1,11 @@
+Articulation Aware Canonical Surface Mapping
+2020
+https://arxiv.org/pdf/2004.00614.pdf
+https://nileshkulkarni.github.io/acsm/
+CVPR
+Kulkarni2020.png
+poster 
+Nilesh Kulkarni+https://nileshkulkarni.github.io/
+Abhinav Gupta+http://www.cs.cmu.edu/~abhinavg/
+David F. Fouhey+http://web.eecs.umich.edu/~fouhey/
+Shubham Tulsiani+https://shubhtuls.github.io/

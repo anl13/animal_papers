@@ -15,10 +15,19 @@ class Paper():
         self.authors = None
         self.author_urls = None
         self.imgurl = None
+        self.poster = None
 
     def parse_lines(self, lines):
-        items = lines[0:6]
-        [self.title, self.year, self.paper, self.project, self.article, self.teaser] = items
+        items = lines[0:7]
+        [self.title, self.year, self.paper, self.project, self.article, self.teaser, self.poster] = items
+        self.title = self.title.strip()
+        self.year = self.year.strip()
+        self.paper = self.paper.strip()
+        self.project = self.project.strip()
+        self.article = self.article.strip()
+        self.teaser = self.teaser.strip()
+        self.poster = self.poster.strip()
+        
 
         if self.project:
             self.imgurl = self.project
@@ -35,7 +44,7 @@ class Paper():
 
         self.year = int(float(self.year))
 
-        author_records = lines[6:]
+        author_records = lines[7:]
         self.authors = []
         self.author_urls = []
         for author_r in author_records:
@@ -47,8 +56,10 @@ class Paper():
             if pos_id > 0:
                 author = author_r[:pos_id]
                 url = author_r[pos_id + 1:]
+                author = author.strip()
+                url = url.strip()
             else:
-                author = author_r
+                author = author_r.strip()
             self.authors.append(author)
             self.author_urls.append(url)
 
@@ -103,7 +114,10 @@ class Paper():
         paper_md += '<a href="%s"><img src="teasers/%s"/></a></td>\n' % (self.imgurl, self.teaser)
         paper_md += '<td align="left" width=550>%s<br>\n' % self.title
         paper_md = self.add_authors(paper_md)
-        paper_md += 'In %s %d<br>\n' % (self.article, self.year)
+        paper_md += 'In %s %d ' % (self.article, self.year)
+        if self.poster != "none":
+            paper_md += ('(' + self.poster +')')
+        paper_md += '<br>\n'
         if self.paper:
             paper_md += '<a href="%s">[Paper]</a> \n' % self.paper
         if self.project:
@@ -118,6 +132,7 @@ def read_papers():
     folder = "./data/papers/"
     paper_names = os.listdir(folder)
     for paper_name in paper_names:
+        print(paper_name)
         with open(folder + paper_name, 'r') as f: 
             lines = f.readlines() 
         paper = Paper()
@@ -161,7 +176,7 @@ if __name__ == '__main__':
     # example usage (markdown):    python compile_cat_papers.py -t md -o README
     # example usage (html):        python compile_cat_papers.py -t html -o cat_papers
     parser = argparse.ArgumentParser(description='Compile cat papers.')
-    parser.add_argument('-t', '--type', help='type of output file (md or html)', default='html')
+    parser.add_argument('-t', '--type', choices=['md'], help='type of output file (md)', default='md')
     parser.add_argument('-o', '--output', default=None, help='name of the output file')
     args = parser.parse_args()
     
@@ -169,8 +184,8 @@ if __name__ == '__main__':
     if not args.output:
         if args.type == 'md':
             args.output = 'README'
-        if args.type == 'html':
-            args.output = 'animal_papers'
+        # if args.type == 'html':
+        #     args.output = 'animal_papers'
 
     out_file = '%s.%s' % (args.output, args.type)  # output file
     # print('Write %s file <%s>' % (TYPE.upper(), out_file))

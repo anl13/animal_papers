@@ -1,0 +1,14 @@
+DeepLabCut: markerless pose estimation of user-defined body parts with deep learning
+2018
+https://www.nature.com/articles/s41593-018-0209-y
+http://www.mousemotorlab.org/deeplabcut
+Nature Neuroscience
+Mathis2018.jpg
+none
+Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/
+Pranav Mamidanna
+Kevin M. Cury
+Taiga Abe
+Venkatesh N. Murthy
+Mackenzie Weygandt Mathis
+Matthias Bethge+http://bethgelab.org/

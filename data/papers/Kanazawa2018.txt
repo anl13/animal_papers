@@ -1,0 +1,11 @@
+Learning Category-Specific Mesh Reconstruction from Image Collections
+2018
+https://people.eecs.berkeley.edu/~kanazawa/papers/cmr_camera_ready.pdf
+https://akanazawa.github.io/cmr/
+ECCV
+Kanazawa2018.jpg
+poster 
+Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
+Shubham Tulsiani+https://shubhtuls.github.io/
+Alexei A. Efros+https://people.eecs.berkeley.edu/~efros/
+Jitendra Malik+https://people.eecs.berkeley.edu/~malik/

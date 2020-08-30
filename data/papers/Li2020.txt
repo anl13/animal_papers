@@ -1,0 +1,13 @@
+Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals
+2020
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deformation-Aware_Unpaired_Image_Translation_for_Pose_Estimation_on_Laboratory_Animals_CVPR_2020_paper.pdf
+https://github.com/siyliepfl/deformation-aware-unpaired-image-translation
+CVPR 
+Li2020.JPG
+poster 
+Siyuan Li+https://siyliepfl.github.io/
+Semih Gunel+https://semihgunel.com/
+Mirela Ostrek
+Pavan Ramdya
+Pascal Fua
+Helge Rhodin+https://www.cs.ubc.ca/~rhodin/

@@ -1,0 +1,11 @@
+Learning 3D Deformation of Animals from 2D Images
+2016
+https://people.eecs.berkeley.edu/~kanazawa/papers/cat_eg2016.pdf
+https://github.com/akanazawa/catdeform
+Eurographics
+Kanazawa2016.jpg
+Günter Enderle Best Paper Award
+Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
+Shahar Kovalsky+https://shaharkov.github.io/
+Ronen Basri+http://www.weizmann.ac.il/math/ronen/home
+David W. Jacobs+https://www.cs.umd.edu/~djacobs/

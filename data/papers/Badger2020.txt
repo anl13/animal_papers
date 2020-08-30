@@ -4,6 +4,7 @@ https://arxiv.org/abs/2008.06133
 https://marcbadger.github.io/avian-mesh/	
 ECCV
 Badger2020.jpg
+poster
 Marc Badger+https://www.ocf.berkeley.edu/~badger/
 Yufu Wang+https://yufu-wang.github.io/
 Adarsh Modh+https://www.seas.upenn.edu/~adarshm/
