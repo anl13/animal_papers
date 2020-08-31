@@ -1,9 +1,9 @@
 ## Animal Paper Collection (Ongoing)
 
-Recently, markerless animal motion capture attracts more and more attention in computer vision community. Inspired by remarkable techniques for markerless human motion capture, a few excellent literatures appear for animal modeling and reconstruction such as [SMAL](http://smal.is.tue.mpg.de/
-) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there are still many challenges before computer vision methods are reliable in industry-grade for capturing natural motion of arbitary animals robustly and efficiently. Therefore, I contribute this repository to track every small step towards the ultimate goal for animal reconstruction, willing to witness further achievements in this area.
+Recently, markerless animal **motion capture** and **3D reconstruction** attracts more and more attention in computer vision community. Inspired by remarkable techniques for markerless human motion capture, a few excellent literatures appear for animal modeling and reconstruction such as [SMAL](http://smal.is.tue.mpg.de/
+) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there are still many challenges before computer vision methods are reliable in industry-grade for capturing natural motion of arbitary animals robustly and efficiently. 
 
-**Animal Paper Collection** is an academic paper collection mainly covering computer vision papers which aim at markerless animal motion capture or 3D reconstruction. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(al17 at mails dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.
+Therefore, I contribute this repository to track every step towards the ultimate goal of high quality animal capture. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(al17 at mails dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
@@ -269,6 +269,19 @@ In CVPR 2018 (<b>spotlight</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/1811.05804"><img src="teasers/Biggs2018.jpg"/></a></td>
+<td align="left" width=550>Creatures great and SMAL: Recovering the shape and motion of animals from video<br>
+<a href="http://mi.eng.cam.ac.uk/~bjb56/">Benjamin Biggs</a>, 
+<a href="http://mi.eng.cam.ac.uk/~tr346/">Thomas Roddick</a>, 
+<a href="https://www.microsoft.com/en-us/research/people/awf/">Andrew Fitzgibbon</a>, 
+<a href="https://mi.eng.cam.ac.uk/~cipolla/">Roberto Cipolla</a><br>
+In ACCV 2018 (<b>oral</b>)<br>
+<a href="https://arxiv.org/abs/1811.05804">[Paper]</a> 
+<a href="https://arxiv.org/abs/1811.05804">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="http://smal.is.tue.mpg.de/"><img src="teasers/Zuffi2017.jpg"/></a></td>
 <td align="left" width=550>3D Menagerie: Modeling the 3D shape and pose of animals<br>
 <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>, 
@@ -300,3 +313,5 @@ In Eurographics 2016 (<b>Günter Enderle Best Paper Award</b>)<br>
 Last updated in Aug 2020
 <br>
 
+
+This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Thank [Junyan Zhu](https://github.com/junyanz/) for his sharing!
