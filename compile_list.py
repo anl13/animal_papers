@@ -115,8 +115,9 @@ class Paper():
         paper_md += '<td align="left" width=550>%s<br>\n' % self.title
         paper_md = self.add_authors(paper_md)
         paper_md += 'In %s %d ' % (self.article, self.year)
-        if self.poster != "none":
-            paper_md += ('(' + self.poster +')')
+        if self.poster != "none" and self.poster != "poster":
+            paper_md += ('(<b>' + self.poster +'</b>)')
+                
         paper_md += '<br>\n'
         if self.paper:
             paper_md += '<a href="%s">[Paper]</a> \n' % self.paper

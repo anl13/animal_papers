@@ -3,7 +3,7 @@ Learning from Synthetic Animals
 https://arxiv.org/abs/1912.08265
 https://github.com/JitengMu/Learning-from-Synthetic-Animals
 CVPR
-Mu2020.JPG
+Mu2020.jpg
 oral
 Jiteng Mu
 Weichao Qiu+https://weichaoqiu.com/

@@ -3,7 +3,7 @@ AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces
 https://arxiv.org/abs/1909.04951
 https://fdmaproject.wordpress.com/
 CVPR
-Khan2020.JPG
+Khan2020.jpg
 poster
 Muhammad Haris Khan
 John McDonagh

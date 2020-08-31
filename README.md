@@ -32,7 +32,7 @@ In Nature Communications 2020 <br>
 <a href="http://pfrommer.us/">Bernd Pfrommer</a>, 
 <a href="https://web.sas.upenn.edu/marcschmidtlab/pages/people/">Marc F. Schmidt</a>, 
 <a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis</a><br>
-In ECCV 2020 (poster)<br>
+In ECCV 2020 <br>
 <a href="https://arxiv.org/abs/2008.06133">[Paper]</a> 
 <a href="https://marcbadger.github.io/avian-mesh/">[Project]</a>
 </td></tr></tbody>
@@ -44,7 +44,7 @@ In ECCV 2020 (poster)<br>
 <a href="https://people.eecs.berkeley.edu/~shubham-goel/">Shubham Goel</a>, 
 <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>, 
 <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a><br>
-In ECCV 2020 (poster)<br>
+In ECCV 2020 <br>
 <a href="https://arxiv.org/pdf/2007.10982.pdf">[Paper]</a> 
 <a href="https://shubham-goel.github.io/ucmr/">[Project]</a>
 </td></tr></tbody>
@@ -58,7 +58,7 @@ In ECCV 2020 (poster)<br>
 <a href="http://www.jjcvision.com/">James Charles</a>, 
 <a href="https://www.microsoft.com/en-us/research/people/awf/">Andrew Fitzgibbon</a>, 
 <a href="https://mi.eng.cam.ac.uk/~cipolla/">Roberto Cipolla</a><br>
-In ECCV 2020 (poster)<br>
+In ECCV 2020 <br>
 <a href="https://arxiv.org/abs/2007.11110">[Paper]</a> 
 <a href="https://arxiv.org/abs/2007.11110">[Project]</a>
 </td></tr></tbody>
@@ -71,14 +71,14 @@ In ECCV 2020 (poster)<br>
 Joakim Bruslund Haurum, 
 <a href="https://vbn.aau.dk/en/persons/138111">Stefan Hein Bengtson</a>, 
 <a href="https://vbn.aau.dk/en/persons/103282">Thomas B. Moeslund</a><br>
-In CVPR 2020 (poster)<br>
+In CVPR 2020 <br>
 <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pedersen_3D-ZeF_A_3D_Zebrafish_Tracking_Benchmark_Dataset_CVPR_2020_paper.pdf">[Paper]</a> 
 <a href="https://vap.aau.dk/3d-zef/">[Project]</a>
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://fdmaproject.wordpress.com/"><img src="teasers/Khan2020.JPG"/></a></td>
+<a href="https://fdmaproject.wordpress.com/"><img src="teasers/Khan2020.jpg"/></a></td>
 <td align="left" width=550>AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces<br>
 Muhammad Haris Khan, 
 John McDonagh, 
@@ -88,7 +88,7 @@ Aditya Arora,
 Fahad Shahbaz Khan, 
 Ling Shao, 
 <a href="http://www.cs.nott.ac.uk/~pszyt/">Georgios Tzimiropoulos</a><br>
-In CVPR 2020 (poster)<br>
+In CVPR 2020 <br>
 <a href="https://arxiv.org/abs/1909.04951">[Paper]</a> 
 <a href="https://fdmaproject.wordpress.com/">[Project]</a>
 </td></tr></tbody>
@@ -101,7 +101,7 @@ In CVPR 2020 (poster)<br>
 <a href="http://www.cs.cmu.edu/~abhinavg/">Abhinav Gupta</a>, 
 <a href="http://web.eecs.umich.edu/~fouhey/">David F. Fouhey</a>, 
 <a href="https://shubhtuls.github.io/">Shubham Tulsiani</a><br>
-In CVPR 2020 (poster)<br>
+In CVPR 2020 <br>
 <a href="https://arxiv.org/pdf/2004.00614.pdf">[Paper]</a> 
 <a href="https://nileshkulkarni.github.io/acsm/">[Project]</a>
 </td></tr></tbody>
@@ -116,7 +116,7 @@ Mirela Ostrek,
 Pavan Ramdya, 
 Pascal Fua, 
 <a href="https://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a><br>
-In CVPR 2020 (poster)<br>
+In CVPR 2020 <br>
 <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deformation-Aware_Unpaired_Image_Translation_for_Pose_Estimation_on_Laboratory_Animals_CVPR_2020_paper.pdf">[Paper]</a> 
 <a href="https://github.com/siyliepfl/deformation-aware-unpaired-image-translation">[Project]</a>
 </td></tr></tbody>
@@ -129,7 +129,7 @@ Jiteng Mu,
 <a href="https://weichaoqiu.com/">Weichao Qiu</a>, 
 <a href="https://www.cs.jhu.edu/hager/">Gregory Hager</a>, 
 <a href="http://www.cs.jhu.edu/~ayuille/">Alan Yuille</a><br>
-In CVPR 2020 (oral)<br>
+In CVPR 2020 (<b>oral</b>)<br>
 <a href="https://arxiv.org/abs/1912.08265">[Paper]</a> 
 <a href="https://github.com/JitengMu/Learning-from-Synthetic-Animals">[Project]</a>
 </td></tr></tbody>
@@ -143,7 +143,7 @@ In CVPR 2020 (oral)<br>
 Martin Parsons, 
 <a href="http://kimki.unist.ac.kr/">Kwang In Kim</a>, 
 <a href="http://www.cs.bath.ac.uk/~dpc/">Darren Cosker</a><br>
-In CVPR 2020 (poster)<br>
+In CVPR 2020 <br>
 <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kearney_RGBD-Dog_Predicting_Canine_Pose_from_RGBD_Sensors_CVPR_2020_paper.pdf">[Paper]</a> 
 <a href="https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20">[Project]</a>
 </td></tr></tbody>
@@ -157,7 +157,7 @@ In CVPR 2020 (poster)<br>
 <a href="https://www.maureenmccarthyphd.com/">Maureen S. McCarthy</a>, 
 <a href="https://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a>, 
 <a href="https://nneverova.github.io/">Natalia Neverova</a><br>
-In CVPR 2020 (poster)<br>
+In CVPR 2020 <br>
 <a href="https://arxiv.org/abs/2003.00080">[Paper]</a> 
 <a href="https://gdude.de/densepose-evolution/">[Project]</a>
 </td></tr></tbody>
@@ -169,7 +169,7 @@ In CVPR 2020 (poster)<br>
 <a href="https://elliottwu.com/">Shangzhe Wu</a>, 
 <a href="https://chrirupp.github.io/">Christian Rupprecht</a>, 
 <a href="http://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a><br>
-In CVPR 2020 (Best Paper Award)<br>
+In CVPR 2020 (<b>Best Paper Award</b>)<br>
 <a href="https://arxiv.org/abs/1911.11130">[Paper]</a> 
 <a href="https://elliottwu.com/projects/unsup3d/">[Project]</a>
 </td></tr></tbody>
@@ -181,7 +181,7 @@ In CVPR 2020 (Best Paper Award)<br>
 <a href="https://nileshkulkarni.github.io/">Nilesh Kulkarni</a>, 
 <a href="http://www.cs.cmu.edu/~abhinavg/">Abhinav Gupta</a>, 
 <a href="https://shubhtuls.github.io/">Shubham Tulsiani</a><br>
-In ICCV 2019 (poster)<br>
+In ICCV 2019 <br>
 <a href="https://arxiv.org/pdf/1907.10043.pdf">[Paper]</a> 
 <a href="https://nileshkulkarni.github.io/csm/">[Project]</a>
 </td></tr></tbody>
@@ -196,9 +196,21 @@ Hongyang Tang,
 <a href="http://xiaoyongshen.me/">Xiaoyong Shen</a>, 
 <a href="https://www.mvig.org/">Cewu Lu</a>, 
 Yu-Wing Tai<br>
-In ICCV 2019 (oral)<br>
+In ICCV 2019 (<b>oral</b>)<br>
 <a href="https://arxiv.org/abs/1908.05806">[Paper]</a> 
 <a href="http://www.jinkuncao.com/animalpose">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/1806.00104"><img src="teasers/Yao2019.jpg"/></a></td>
+<td align="left" width=550>MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence<br>
+Yuan Yao, 
+Yasamin Jafarian, 
+<a href="https://www-users.cs.umn.edu/~hspark/">Hyun Soo Park</a><br>
+In ICCV 2019 <br>
+<a href="https://arxiv.org/abs/1806.00104">[Paper]</a> 
+<a href="https://arxiv.org/abs/1806.00104">[Project]</a>
 </td></tr></tbody>
 
 
@@ -209,7 +221,7 @@ In ICCV 2019 (oral)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>, 
 <a href="https://www.cs.uic.edu/~tanyabw/">Tanya Berger-Wolf</a>, 
 <a href="https://ps.is.tuebingen.mpg.de/person/black">Michael J. Black</a><br>
-In ICCV 2019 (poster)<br>
+In ICCV 2019 <br>
 <a href="https://arxiv.org/abs/1908.07201">[Paper]</a> 
 <a href="https://github.com/silviazuffi/smalst">[Project]</a>
 </td></tr></tbody>
@@ -238,7 +250,7 @@ In Nature Neuroscience 2018 <br>
 <a href="https://shubhtuls.github.io/">Shubham Tulsiani</a>, 
 <a href="https://people.eecs.berkeley.edu/~efros/">Alexei A. Efros</a>, 
 <a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a><br>
-In ECCV 2018 (poster)<br>
+In ECCV 2018 <br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cmr_camera_ready.pdf">[Paper]</a> 
 <a href="https://akanazawa.github.io/cmr/">[Project]</a>
 </td></tr></tbody>
@@ -250,7 +262,7 @@ In ECCV 2018 (poster)<br>
 <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>, 
 <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>, 
 <a href="https://ps.is.tuebingen.mpg.de/person/black">Michael J. Black</a><br>
-In CVPR 2018 (spotlight)<br>
+In CVPR 2018 (<b>spotlight</b>)<br>
 <a href="http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf">[Paper]</a> 
 <a href="http://smalr.is.tue.mpg.de/">[Project]</a>
 </td></tr></tbody>
@@ -263,7 +275,7 @@ In CVPR 2018 (spotlight)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>, 
 <a href="https://www.cs.umd.edu/~djacobs/">David W. Jacobs</a>, 
 <a href="https://ps.is.tuebingen.mpg.de/person/black">Michael J. Black</a><br>
-In CVPR 2017 (spotlight)<br>
+In CVPR 2017 (<b>spotlight</b>)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cvpr17_menagerie_camready.pdf">[Paper]</a> 
 <a href="http://smal.is.tue.mpg.de/">[Project]</a>
 </td></tr></tbody>
@@ -276,7 +288,7 @@ In CVPR 2017 (spotlight)<br>
 <a href="https://shaharkov.github.io/">Shahar Kovalsky</a>, 
 <a href="http://www.weizmann.ac.il/math/ronen/home">Ronen Basri</a>, 
 <a href="https://www.cs.umd.edu/~djacobs/">David W. Jacobs</a><br>
-In Eurographics 2016 (Günter Enderle Best Paper Award)<br>
+In Eurographics 2016 (<b>Günter Enderle Best Paper Award</b>)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cat_eg2016.pdf">[Paper]</a> 
 <a href="https://github.com/akanazawa/catdeform">[Project]</a>
 </td></tr></tbody>
