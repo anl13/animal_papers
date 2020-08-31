@@ -123,7 +123,7 @@ In CVPR 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/JitengMu/Learning-from-Synthetic-Animals"><img src="teasers/Mu2020.jpg"/></a></td>
+<a href="https://github.com/JitengMu/Learning-from-Synthetic-Animals"><img src="teasers/Mu2020.JPG"/></a></td>
 <td align="left" width=550>Learning from Synthetic Animals<br>
 Jiteng Mu, 
 <a href="https://weichaoqiu.com/">Weichao Qiu</a>, 
