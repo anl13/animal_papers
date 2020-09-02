@@ -1,0 +1,13 @@
+Using DeepLabCut for 3D markerless pose estimation across species and behaviors
+2019
+https://www.nature.com/articles/s41596-019-0176-0   
+https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md
+Nature Protocols
+Nath2019.jpg
+none 
+Tanmay Nath
+Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/
+An Chi Chen
+Amir Patel
+Matthias Bethge+http://bethgelab.org/
+Mackenzie Weygandt Mathis+https://scholar.harvard.edu/mwamoroso/home

@@ -7,6 +7,30 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2009.00564"><img src="teasers/Mathis2020.jpg"/></a></td>
+<td align="left" width=550>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives<br>
+<a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
+Steffen Schneider, 
+Jessy Lauer, 
+<a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
+In arxiv 2020 <br>
+<a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
+<a href="https://arxiv.org/abs/2009.00564">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/1811.11251"><img src="teasers/Zhang2020.jpg"/></a></td>
+<td align="left" width=550>Multiview Supervision By Registration<br>
+Yilun Zhang, 
+<a href="https://www-users.cs.umn.edu/~hspark/">Hyun Soo Park</a><br>
+In WACV 2020 <br>
+<a href="https://arxiv.org/abs/1811.11251">[Paper]</a> 
+<a href="https://arxiv.org/abs/1811.11251">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://www-users.cs.umn.edu/~hspark/publication.html"><img src="teasers/Bala2020.jpg"/></a></td>
 <td align="left" width=550>OpenMonkeyStudio: Automated Markerless Pose Estimation in Freely Moving Macaques<br>
 Praneet C. Bala, 
@@ -176,6 +200,21 @@ In CVPR 2020 (<b>Best Paper Award</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md"><img src="teasers/Nath2019.jpg"/></a></td>
+<td align="left" width=550>Using DeepLabCut for 3D markerless pose estimation across species and behaviors<br>
+Tanmay Nath, 
+<a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
+An Chi Chen, 
+Amir Patel, 
+<a href="http://bethgelab.org/">Matthias Bethge</a>, 
+<a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie Weygandt Mathis</a><br>
+In Nature Protocols 2019 <br>
+<a href="https://www.nature.com/articles/s41596-019-0176-0">[Paper]</a> 
+<a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://nileshkulkarni.github.io/csm/"><img src="teasers/Kulkarni2019.jpg"/></a></td>
 <td align="left" width=550>Canonical Surface Mapping via Geometric Cycle Consistency<br>
 <a href="https://nileshkulkarni.github.io/">Nilesh Kulkarni</a>, 
@@ -232,10 +271,10 @@ In ICCV 2019 <br>
 <td align="left" width=550>DeepLabCut: markerless pose estimation of user-defined body parts with deep learning<br>
 <a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
 Pranav Mamidanna, 
-Kevin M. Cury, 
+<a href="https://muckrack.com/kevin-m-cury">Kevin M. Cury</a>, 
 Taiga Abe, 
-Venkatesh N. Murthy, 
-Mackenzie Weygandt Mathis, 
+<a href="https://vnmurthylab.org/">Venkatesh N. Murthy</a>, 
+<a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie Weygandt Mathis</a>, 
 <a href="http://bethgelab.org/">Matthias Bethge</a><br>
 In Nature Neuroscience 2018 <br>
 <a href="https://www.nature.com/articles/s41593-018-0209-y">[Paper]</a> 
@@ -310,7 +349,7 @@ In Eurographics 2016 (<b>Günter Enderle Best Paper Award</b>)<br>
 </table>
 <br>
 
-Last updated in Aug 2020
+Last updated in Sep 2020
 <br>
 
 

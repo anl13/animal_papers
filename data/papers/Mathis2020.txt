@@ -1,0 +1,11 @@
+A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives
+2020
+https://arxiv.org/pdf/2009.00564.pdf
+https://arxiv.org/abs/2009.00564
+arxiv
+Mathis2020.jpg
+none
+Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/
+Steffen Schneider
+Jessy Lauer
+Mackenzie W. Mathis+https://scholar.harvard.edu/mwamoroso/home

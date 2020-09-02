@@ -1,0 +1,9 @@
+Multiview Supervision By Registration
+2020
+https://arxiv.org/abs/1811.11251
+https://arxiv.org/abs/1811.11251
+WACV
+Zhang2020.jpg
+poster
+Yilun Zhang
+Hyun Soo Park+https://www-users.cs.umn.edu/~hspark/

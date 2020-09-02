@@ -7,8 +7,8 @@ Mathis2018.jpg
 none
 Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/
 Pranav Mamidanna
-Kevin M. Cury
+Kevin M. Cury+https://muckrack.com/kevin-m-cury
 Taiga Abe
-Venkatesh N. Murthy
-Mackenzie Weygandt Mathis
+Venkatesh N. Murthy+https://vnmurthylab.org/
+Mackenzie Weygandt Mathis+https://scholar.harvard.edu/mwamoroso/home
 Matthias Bethge+http://bethgelab.org/
