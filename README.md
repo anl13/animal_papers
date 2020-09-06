@@ -31,7 +31,7 @@ In WACV 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://www-users.cs.umn.edu/~hspark/publication.html"><img src="teasers/Bala2020.jpg"/></a></td>
+<a href="https://github.com/OpenMonkeyStudio"><img src="teasers/Bala2020.jpg"/></a></td>
 <td align="left" width=550>OpenMonkeyStudio: Automated Markerless Pose Estimation in Freely Moving Macaques<br>
 Praneet C. Bala, 
 Benjamin R. Eisenreich, 
@@ -41,7 +41,7 @@ Benjamin Y. Hayden,
 <a href="https://med.umn.edu/bio/medical-discovery-teams/jan-zimmermann">Jan Zimmermann</a><br>
 In Nature Communications 2020 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.01.31.928861v1">[Paper]</a> 
-<a href="https://www-users.cs.umn.edu/~hspark/publication.html">[Project]</a>
+<a href="https://github.com/OpenMonkeyStudio">[Project]</a>
 </td></tr></tbody>
 
 
@@ -321,6 +321,16 @@ In ACCV 2018 (<b>oral</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf"><img src="teasers/Kanazawa2017.jpg"/></a></td>
+<td align="left" width=550>Single-View 3D Reconstruction of Animals<br>
+<a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a><br>
+In Ph.D Thesis 2017 <br>
+<a href="https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf">[Paper]</a> 
+<a href="https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="http://smal.is.tue.mpg.de/"><img src="teasers/Zuffi2017.jpg"/></a></td>
 <td align="left" width=550>3D Menagerie: Modeling the 3D shape and pose of animals<br>
 <a href="https://ps.is.tuebingen.mpg.de/person/szuffi">Silvia Zuffi</a>, 
@@ -330,6 +340,16 @@ In ACCV 2018 (<b>oral</b>)<br>
 In CVPR 2017 (<b>spotlight</b>)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cvpr17_menagerie_camready.pdf">[Paper]</a> 
 <a href="http://smal.is.tue.mpg.de/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://open.bu.edu/handle/2144/19720"><img src="teasers/Breslav2016.jpg"/></a></td>
+<td align="left" width=550>3D Pose Estimation of Flying Animals in Multi-view Video Datasets<br>
+<a href="http://people.bu.edu/breslav/">Mikhail Breslav</a><br>
+In Ph.D Thesis 2016 <br>
+<a href="https://open.bu.edu/handle/2144/19720">[Paper]</a> 
+<a href="https://open.bu.edu/handle/2144/19720">[Project]</a>
 </td></tr></tbody>
 
 

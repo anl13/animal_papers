@@ -1,7 +1,7 @@
 OpenMonkeyStudio: Automated Markerless Pose Estimation in Freely Moving Macaques
 2020
 https://www.biorxiv.org/content/10.1101/2020.01.31.928861v1
-https://www-users.cs.umn.edu/~hspark/publication.html
+https://github.com/OpenMonkeyStudio
 Nature Communications
 Bala2020.jpg
 none
