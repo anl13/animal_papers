@@ -1,0 +1,13 @@
+ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data
+2020
+https://export.arxiv.org/abs/2009.05389
+https://export.arxiv.org/abs/2009.05389
+SCA (ACM Siggraph/Eurographics Symposium on Computer Animation)
+Fangbemi2020.jpg
+none
+Abassin Sourou Fangbemi
+Yi Fei Lu
+Mao Yuan Xu
+Xiao Wu Luo
+Alexis Rolland
+Chedy Raissi

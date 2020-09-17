@@ -7,6 +7,45 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
+<td align="left" width=550>Mapping Mouse Behavior with an Unsupervised Spatiotemporal Sequence Decomposition Framework<br>
+Kang Huang, 
+Yaning Han, 
+Ke Chen, 
+Hongli Pan, 
+Wenling Yi, 
+Xiaoxi Li, 
+Siyuan Liu, 
+<a href="https://www.researchgate.net/profile/Pengfei_Wei2">Pengfei Wei</a>, 
+<a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=lab_members">Liping Wang</a><br>
+In biorxiv 2020 <br>
+<a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
+<a href="https://behavioratlas.tech/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://sleap.ai/"><img src="teasers/Pereira2020.jpg"/></a></td>
+<td align="left" width=550>SLEAP: Multi-animal pose tracking<br>
+<a href="https://biophysics.princeton.edu/people/talmo-pereira">Talmo D. Pereira</a>, 
+Nathaniel Tabris, 
+Junyu Li, 
+Shruthi Ravindranath, 
+Eleni S. Papadoyannis, 
+Z. Yan Wang, 
+David M. Turner, 
+Grace McKenzie-Smith, 
+Sarah D. Kocher, 
+Annegret L. Falkner, 
+Joshua W. Shaevitz, 
+<a href="https://murthylab.princeton.edu/mala-murthy">Mala Murthy</a><br>
+In biorxiv 2020 <br>
+<a href="https://doi.org/10.1101/2020.08.31.276246">[Paper]</a> 
+<a href="https://sleap.ai/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://arxiv.org/abs/2009.00564"><img src="teasers/Mathis2020.jpg"/></a></td>
 <td align="left" width=550>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives<br>
 <a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
@@ -27,6 +66,21 @@ Yilun Zhang,
 In WACV 2020 <br>
 <a href="https://arxiv.org/abs/1811.11251">[Paper]</a> 
 <a href="https://arxiv.org/abs/1811.11251">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://export.arxiv.org/abs/2009.05389"><img src="teasers/Fangbemi2020.jpg"/></a></td>
+<td align="left" width=550>ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data<br>
+Abassin Sourou Fangbemi, 
+Yi Fei Lu, 
+Mao Yuan Xu, 
+Xiao Wu Luo, 
+Alexis Rolland, 
+Chedy Raissi<br>
+In SCA (ACM Siggraph/Eurographics Symposium on Computer Animation) 2020 <br>
+<a href="https://export.arxiv.org/abs/2009.05389">[Paper]</a> 
+<a href="https://export.arxiv.org/abs/2009.05389">[Project]</a>
 </td></tr></tbody>
 
 

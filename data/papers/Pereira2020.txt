@@ -1,0 +1,19 @@
+SLEAP: Multi-animal pose tracking
+2020
+https://doi.org/10.1101/2020.08.31.276246
+https://sleap.ai/
+biorxiv
+Pereira2020.jpg
+none
+Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira
+Nathaniel Tabris
+Junyu Li
+Shruthi Ravindranath
+Eleni S. Papadoyannis
+Z. Yan Wang
+David M. Turner
+Grace McKenzie-Smith
+Sarah D. Kocher
+Annegret L. Falkner
+Joshua W. Shaevitz
+Mala Murthy+https://murthylab.princeton.edu/mala-murthy
