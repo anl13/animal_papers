@@ -1,0 +1,15 @@
+LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals
+2020
+https://www.biorxiv.org/content/10.1101/2020.09.18.292680v1.full.pdf+html
+https://github.com/NeLy-EPFL/LiftPose3D
+biorxiv
+Gosztolai2020.jpg
+none
+Adam Gosztolai
+Semih Gunel
+Marco Pietro Abrate
+Daniel Morales
+Victor Lobato Rios
+Helge Rhodin+https://www.cs.ubc.ca/~rhodin/
+Pascal Fua
+Pavan Ramdya+https://www.epfl.ch/labs/ramdya-lab/

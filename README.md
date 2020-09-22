@@ -7,6 +7,23 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
+<td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals<br>
+Adam Gosztolai, 
+Semih Gunel, 
+Marco Pietro Abrate, 
+Daniel Morales, 
+Victor Lobato Rios, 
+<a href="https://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>, 
+Pascal Fua, 
+<a href="https://www.epfl.ch/labs/ramdya-lab/">Pavan Ramdya</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.09.18.292680v1.full.pdf+html">[Paper]</a> 
+<a href="https://github.com/NeLy-EPFL/LiftPose3D">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
 <td align="left" width=550>Mapping Mouse Behavior with an Unsupervised Spatiotemporal Sequence Decomposition Framework<br>
 Kang Huang, 
