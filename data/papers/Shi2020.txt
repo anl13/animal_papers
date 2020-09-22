@@ -1,0 +1,11 @@
+Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network
+2020
+https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf
+https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf
+ECCV 
+Shi2020.jpg
+none 
+Xiao Shi
+Chenxue Yang
+Xue Xia 
+Xiujuan Chai+http://aii.caas.cn/bsgk/ywbm/nyxxjzsyb/xzbm3/203034.htm

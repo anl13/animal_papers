@@ -1,0 +1,12 @@
+idTracker: Tracking individuals in a group by automatic identification of unmarked animals
+2014
+https://www.nature.com/articles/nmeth.2994
+http://www.idtracker.es/
+Nature Methods
+Escudero2014.jpg
+none
+Alfonso Pérez-Escudero
+Julián Vicente-Page
+Robert C Hinz
+Sara Arganda
+Gonzalo G de Polavieja1+http://www.neuro.fchampalimaud.org/en/person/276/

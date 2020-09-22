@@ -87,6 +87,19 @@ In WACV 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival."><img src="teasers/Dolensek2020.jpg"/></a></td>
+<td align="left" width=550>Facial expressions of emotion states and their neuronal correlates in mice<br>
+Nejc Dolensek, 
+Daniel A. Gehrlach, 
+<a href="https://muckrack.com/alexandra-s-klein">Alexandra S. Klein</a>, 
+<a href="https://www.neuro.mpg.de/gogolla">Nadine Gogolla</a><br>
+In Science 2020 <br>
+<a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival.">[Paper]</a> 
+<a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival.">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://export.arxiv.org/abs/2009.05389"><img src="teasers/Fangbemi2020.jpg"/></a></td>
 <td align="left" width=550>ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data<br>
 Abassin Sourou Fangbemi, 
@@ -130,6 +143,19 @@ In Nature Communications 2020 <br>
 In ECCV 2020 <br>
 <a href="https://arxiv.org/abs/2008.06133">[Paper]</a> 
 <a href="https://marcbadger.github.io/avian-mesh/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf"><img src="teasers/Shi2020.jpg"/></a></td>
+<td align="left" width=550>Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network<br>
+Xiao Shi, 
+Chenxue Yang, 
+Xue Xia, 
+<a href="http://aii.caas.cn/bsgk/ywbm/nyxxjzsyb/xzbm3/203034.htm">Xiujuan Chai</a><br>
+In ECCV 2020 <br>
+<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf">[Paper]</a> 
+<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf">[Project]</a>
 </td></tr></tbody>
 
 
@@ -271,6 +297,22 @@ In CVPR 2020 (<b>Best Paper Award</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/jgraving/deepposekit"><img src="teasers/Graving2019.jpg"/></a></td>
+<td align="left" width=550>DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning<br>
+<a href="https://jakegraving.com/files/cv/jacob_graving_cv.pdf">Jacob M. Graving</a>, 
+<a href="https://www.danielchae.com/">Daniel Chae</a>, 
+Hemal Naik, 
+Liang Li, 
+Benjamin Koger, 
+<a href="http://www.blaircostelloe.com/">Blair R. Costelloe</a>, 
+<a href="http://collectivebehaviour.com/people/couzin-iain/#:~:text=Iain%20Couzin%20is%20Director%20of%20the%20Max%20Planck,Fellow%20in%20the%20Sciences%20at%20Balliol%20College%2C%20Oxford.">Iain D. Couzin</a><br>
+In eLife 2019 <br>
+<a href="https://www.biorxiv.org/content/10.1101/620245v7">[Paper]</a> 
+<a href="https://github.com/jgraving/deepposekit">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md"><img src="teasers/Nath2019.jpg"/></a></td>
 <td align="left" width=550>Using DeepLabCut for 3D markerless pose estimation across species and behaviors<br>
 Tanmay Nath, 
@@ -282,6 +324,40 @@ Amir Patel,
 In Nature Protocols 2019 <br>
 <a href="https://www.nature.com/articles/s41596-019-0176-0">[Paper]</a> 
 <a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://idtrackerai.readthedocs.io/en/latest/"><img src="teasers/Ferrero2019.jpg"/></a></td>
+<td align="left" width=550>idtracker.ai: tracking all individuals in small or large collectives of unmarked animals<br>
+<a href="https://www.researchgate.net/profile/Francisco_Romero-Ferrero">Francisco Romero-Ferrero</a>, 
+Mattia G. Bergomi, 
+Robert C. Hinz, 
+Francisco J. H. Heras, 
+<a href="http://www.neuro.fchampalimaud.org/en/person/276/">Gonzalo G. de Polavieja</a><br>
+In Nature Methods 2019 (<b>Brief Communication</b>)<br>
+<a href="https://arxiv.org/abs/1803.04351">[Paper]</a> 
+<a href="https://idtrackerai.readthedocs.io/en/latest/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/"><img src="teasers/Chaumont2019.jpg"/></a></td>
+<td align="left" width=550>Real-time analysis of the behaviour of groups of mice via a depth-sensing camera and machine learning<br>
+<a href="https://research.pasteur.fr/en/member/fabrice-de-chaumont/">Fabrice de Chaumont</a>, 
+Elodie Ey, 
+Nicolas Torquet, 
+Thibault Lagache, 
+Stéphane Dallongeville, 
+Albane Imbert, 
+Thierry Legou, 
+Anne-Marie Le Sourd, 
+Philippe Faure, 
+<a href="https://research.pasteur.fr/en/member/thomas-bourgeron/">Thomas Bourgeron</a>, 
+<a href="https://research.pasteur.fr/en/member/jean-christophe-olivo-marin/">Jean-Christophe Olivo-Marin</a><br>
+In Nature Biomedical Engineering 2019 <br>
+<a href="https://www.nature.com/articles/s41551-019-0396-1">[Paper]</a> 
+<a href="https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/">[Project]</a>
 </td></tr></tbody>
 
 
@@ -434,6 +510,20 @@ In Ph.D Thesis 2016 <br>
 In Eurographics 2016 (<b>Günter Enderle Best Paper Award</b>)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cat_eg2016.pdf">[Paper]</a> 
 <a href="https://github.com/akanazawa/catdeform">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="http://www.idtracker.es/"><img src="teasers/Escudero2014.jpg"/></a></td>
+<td align="left" width=550>idTracker: Tracking individuals in a group by automatic identification of unmarked animals<br>
+Alfonso Pérez-Escudero, 
+Julián Vicente-Page, 
+Robert C Hinz, 
+Sara Arganda, 
+<a href="http://www.neuro.fchampalimaud.org/en/person/276/">Gonzalo G de Polavieja1</a><br>
+In Nature Methods 2014 <br>
+<a href="https://www.nature.com/articles/nmeth.2994">[Paper]</a> 
+<a href="http://www.idtracker.es/">[Project]</a>
 </td></tr></tbody>
 
 

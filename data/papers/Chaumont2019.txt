@@ -1,0 +1,18 @@
+Real-time analysis of the behaviour of groups of mice via a depth-sensing camera and machine learning
+2019
+https://www.nature.com/articles/s41551-019-0396-1
+https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/
+Nature Biomedical Engineering
+Chaumont2019.jpg
+none
+Fabrice de Chaumont+https://research.pasteur.fr/en/member/fabrice-de-chaumont/
+Elodie Ey
+Nicolas Torquet
+Thibault Lagache
+Stéphane Dallongeville
+Albane Imbert
+Thierry Legou
+Anne-Marie Le Sourd
+Philippe Faure
+Thomas Bourgeron+https://research.pasteur.fr/en/member/thomas-bourgeron/
+Jean-Christophe Olivo-Marin+https://research.pasteur.fr/en/member/jean-christophe-olivo-marin/
