@@ -7,6 +7,22 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/lambdaloop/anipose"><img src="teasers/Karashchuk2020.jpg"/></a></td>
+<td align="left" width=550>Anipose: a toolkit for robust markerless 3D pose estimation<br>
+<a href="https://github.com/lambdaloop">Pierre Karashchuk</a>, 
+Katie L. Rupp, 
+Evyn S. Dickinson, 
+Elischa Sanders, 
+<a href="https://www.salk.edu/scientist/eiman-azim/">Eiman Azim</a>, 
+<a href="https://www.bingbrunton.com/">Bingni W. Brunton</a>, 
+<a href="http://faculty.washington.edu/tuthill/">John C. Tuthill</a><br>
+In biorxiv 2020 <br>
+<a href="http://faculty.washington.edu/tuthill/docs/anipose.pdf">[Paper]</a> 
+<a href="https://github.com/lambdaloop/anipose">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
 <td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals<br>
 Adam Gosztolai, 
@@ -324,6 +340,22 @@ Amir Patel,
 In Nature Protocols 2019 <br>
 <a href="https://www.nature.com/articles/s41596-019-0176-0">[Paper]</a> 
 <a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/talmo/leap"><img src="teasers/Pereira2019.jpg"/></a></td>
+<td align="left" width=550>Fast animal pose estimation using deep neural networks<br>
+<a href="https://biophysics.princeton.edu/people/talmo-pereira">Talmo D. Pereira</a>, 
+<a href="https://olveczkylab.oeb.harvard.edu/people/diego-etiony-aldarondo">Diego E. Aldarondo</a>, 
+Lindsay Willmore, 
+<a href="Mikhail Kislin">Mikhail Kislin</a>, 
+<a href="https://scholar.princeton.edu/wanglab/people/samuel-s-h-wang">Samuel S.-H. Wang</a>, 
+<a href="https://murthylab.princeton.edu/mala-murthy">Mala Murthy</a>, 
+<a href="https://molbiod.princeton.edu/people/joshua-w-shaevitz">Joshua W. Shaevitz</a><br>
+In Nature Methods 2019 <br>
+<a href="https://www.nature.com/articles/s41592-018-0234-5">[Paper]</a> 
+<a href="https://github.com/talmo/leap">[Project]</a>
 </td></tr></tbody>
 
 

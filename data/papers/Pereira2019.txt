@@ -1,0 +1,14 @@
+Fast animal pose estimation using deep neural networks
+2019
+https://www.nature.com/articles/s41592-018-0234-5
+https://github.com/talmo/leap
+Nature Methods
+Pereira2019.jpg
+none
+Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira
+Diego E. Aldarondo+https://olveczkylab.oeb.harvard.edu/people/diego-etiony-aldarondo
+Lindsay Willmore
+Mikhail Kislin+Mikhail Kislin
+Samuel S.-H. Wang+https://scholar.princeton.edu/wanglab/people/samuel-s-h-wang
+Mala Murthy+https://murthylab.princeton.edu/mala-murthy
+Joshua W. Shaevitz+https://molbiod.princeton.edu/people/joshua-w-shaevitz
