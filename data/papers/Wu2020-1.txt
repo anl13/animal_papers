@@ -1,0 +1,24 @@
+Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking
+2020
+https://www.biorxiv.org/content/biorxiv/early/2020/08/22/2020.08.20.259705.full.pdf
+https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing
+biorxiv 
+Wu2020-1.jpg 
+none 
+Anqi Wu
+E. Kelly Buchanan
+Matthew Whiteway
+Michael Schartner
+Guido Meijer
+Jean-Paul Noel
+Erica Rodriguez
+Claire Everett
+Amy Norovich
+Evan Schaffer
+Neeli Mishra
+C. Daniel Salzman
+Dora Angelaki
+Andrés Bendesky
+The International Brain Laboratory
+John Cunningham
+Liam Paninski+http://www.stat.columbia.edu/~liam/

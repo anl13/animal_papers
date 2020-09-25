@@ -1,0 +1,9 @@
+Automatic tracking of mouse social posture dynamics by 3D videography, deep learning and GPU-accelerated robust optimization
+2020
+https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf
+https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf
+biorxiv
+Ebbesen2020.jpg
+none
+Christian L. Ebbesen
+Robert C. Froemke+http://froemkelab.med.nyu.edu/people

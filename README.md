@@ -23,6 +23,43 @@ In biorxiv 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf"><img src="teasers/Ebbesen2020.jpg"/></a></td>
+<td align="left" width=550>Automatic tracking of mouse social posture dynamics by 3D videography, deep learning and GPU-accelerated robust optimization<br>
+Christian L. Ebbesen, 
+<a href="http://froemkelab.med.nyu.edu/people">Robert C. Froemke</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf">[Paper]</a> 
+<a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing"><img src="teasers/Wu2020-1.jpg"/></a></td>
+<td align="left" width=550>Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking<br>
+Anqi Wu, 
+E. Kelly Buchanan, 
+Matthew Whiteway, 
+Michael Schartner, 
+Guido Meijer, 
+Jean-Paul Noel, 
+Erica Rodriguez, 
+Claire Everett, 
+Amy Norovich, 
+Evan Schaffer, 
+Neeli Mishra, 
+C. Daniel Salzman, 
+Dora Angelaki, 
+Andrés Bendesky, 
+The International Brain Laboratory, 
+John Cunningham, 
+<a href="http://www.stat.columbia.edu/~liam/">Liam Paninski</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2020/08/22/2020.08.20.259705.full.pdf">[Paper]</a> 
+<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
 <td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals<br>
 Adam Gosztolai, 
