@@ -194,15 +194,14 @@ if __name__ == '__main__':
     # input & output
     header_file = os.path.join(WORK_DIR, 'header.%s' % TYPE)
     end_file = os.path.join(WORK_DIR, 'end.%s' % TYPE)
-    csv_file = os.path.join(WORK_DIR, 'reference.csv')  # ./usr/local/google/home/junyanz/Projects/CatPapers/reference.csv'
     # load papers
     papers = read_papers()
-
     # sort papers
     papers.sort(key=lambda p: p.title)
     papers.sort(key=lambda p: (p.year, p.article), reverse=True)
 
     # write papers
+    print(out_file)
     with open(out_file, 'w') as f:
         md_content = write_papers(papers, header_file, end_file, TYPE=TYPE)
         f.write(md_content)

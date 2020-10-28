@@ -116,15 +116,13 @@ In biorxiv 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/2009.00564"><img src="teasers/Mathis2020.jpg"/></a></td>
-<td align="left" width=550>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives<br>
-<a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
-Steffen Schneider, 
-Jessy Lauer, 
-<a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
-In arxiv 2020 <br>
-<a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
-<a href="https://arxiv.org/abs/2009.00564">[Project]</a>
+<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf"><img src="teasers/Walter2020.jpg"/></a></td>
+<td align="left" width=550>TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction<br>
+<a href="https://www.orn.mpg.de/person/45292/409958">Tristan Walter</a>, 
+<a href="http://collectivebehaviour.com/">Iain D Couzin</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf">[Paper]</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf">[Project]</a>
 </td></tr></tbody>
 
 
@@ -164,6 +162,19 @@ Chedy Raissi<br>
 In SCA (ACM Siggraph/Eurographics Symposium on Computer Animation) 2020 <br>
 <a href="https://export.arxiv.org/abs/2009.05389">[Paper]</a> 
 <a href="https://export.arxiv.org/abs/2009.05389">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2009.00564"><img src="teasers/Mathis2020.jpg"/></a></td>
+<td align="left" width=550>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives<br>
+<a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
+Steffen Schneider, 
+Jessy Lauer, 
+<a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
+In Neuron 2020 <br>
+<a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
+<a href="https://arxiv.org/abs/2009.00564">[Project]</a>
 </td></tr></tbody>
 
 
@@ -599,7 +610,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Sep 2020
+Last updated in Oct 2020
 <br>
 
 
