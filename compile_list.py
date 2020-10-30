@@ -29,7 +29,7 @@ class Paper():
         self.poster = self.poster.strip()
         
 
-        if self.project:
+        if self.project is not "none":
             self.imgurl = self.project
         elif self.paper:
             self.imgurl = self.paper
@@ -121,8 +121,10 @@ class Paper():
         paper_md += '<br>\n'
         if self.paper:
             paper_md += '<a href="%s">[Paper]</a> \n' % self.paper
-        if self.project:
+        
+        if self.project != "none":
             paper_md += '<a href="%s">[Project]</a>\n' % self.project
+
         paper_md += '</td></tr></tbody>\n\n\n'
         md += paper_md
         return md

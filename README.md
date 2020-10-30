@@ -23,13 +23,12 @@ In biorxiv 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf"><img src="teasers/Ebbesen2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Ebbesen2020.jpg"/></a></td>
 <td align="left" width=550>Automatic tracking of mouse social posture dynamics by 3D videography, deep learning and GPU-accelerated robust optimization<br>
 Christian L. Ebbesen, 
 <a href="http://froemkelab.med.nyu.edu/people">Robert C. Froemke</a><br>
 In biorxiv 2020 <br>
 <a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf">[Paper]</a> 
-<a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf">[Project]</a>
 </td></tr></tbody>
 
 
@@ -116,29 +115,27 @@ In biorxiv 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf"><img src="teasers/Walter2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Walter2020.jpg"/></a></td>
 <td align="left" width=550>TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction<br>
 <a href="https://www.orn.mpg.de/person/45292/409958">Tristan Walter</a>, 
 <a href="http://collectivebehaviour.com/">Iain D Couzin</a><br>
 In biorxiv 2020 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf">[Paper]</a> 
-<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf">[Project]</a>
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/1811.11251"><img src="teasers/Zhang2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Zhang2020.jpg"/></a></td>
 <td align="left" width=550>Multiview Supervision By Registration<br>
 Yilun Zhang, 
 <a href="https://www-users.cs.umn.edu/~hspark/">Hyun Soo Park</a><br>
 In WACV 2020 <br>
 <a href="https://arxiv.org/abs/1811.11251">[Paper]</a> 
-<a href="https://arxiv.org/abs/1811.11251">[Project]</a>
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival."><img src="teasers/Dolensek2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Dolensek2020.jpg"/></a></td>
 <td align="left" width=550>Facial expressions of emotion states and their neuronal correlates in mice<br>
 Nejc Dolensek, 
 Daniel A. Gehrlach, 
@@ -146,12 +143,11 @@ Daniel A. Gehrlach,
 <a href="https://www.neuro.mpg.de/gogolla">Nadine Gogolla</a><br>
 In Science 2020 <br>
 <a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival.">[Paper]</a> 
-<a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival.">[Project]</a>
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://export.arxiv.org/abs/2009.05389"><img src="teasers/Fangbemi2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Fangbemi2020.jpg"/></a></td>
 <td align="left" width=550>ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data<br>
 Abassin Sourou Fangbemi, 
 Yi Fei Lu, 
@@ -161,12 +157,11 @@ Alexis Rolland,
 Chedy Raissi<br>
 In SCA (ACM Siggraph/Eurographics Symposium on Computer Animation) 2020 <br>
 <a href="https://export.arxiv.org/abs/2009.05389">[Paper]</a> 
-<a href="https://export.arxiv.org/abs/2009.05389">[Project]</a>
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/2009.00564"><img src="teasers/Mathis2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Mathis2020.jpg"/></a></td>
 <td align="left" width=550>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives<br>
 <a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
 Steffen Schneider, 
@@ -174,7 +169,25 @@ Jessy Lauer,
 <a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
 In Neuron 2020 <br>
 <a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
-<a href="https://arxiv.org/abs/2009.00564">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Nourizonoz2020.jpg"/></a></td>
+<td align="left" width=550>EthoLoop: automated closed-loop neuroethology in naturalistic environments<br>
+Ali Nourizonoz, 
+Robert Zimmermann, 
+Chun Lum Andy Ho, 
+Sebastien Pellat, 
+Yannick Ormen, 
+Clément Prévost-Solié, 
+Gilles Reymond, 
+Fabien Pifferi, 
+Fabienne Aujard, 
+Anthony Herrel, 
+<a href="https://www.unige.ch/medecine/neuf/en/">Daniel Huber</a><br>
+In Nature Methods 2020 <br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/32994566/">[Paper]</a> 
 </td></tr></tbody>
 
 
@@ -211,7 +224,7 @@ In ECCV 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf"><img src="teasers/Shi2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Shi2020.jpg"/></a></td>
 <td align="left" width=550>Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network<br>
 Xiao Shi, 
 Chenxue Yang, 
@@ -219,7 +232,6 @@ Xue Xia,
 <a href="http://aii.caas.cn/bsgk/ywbm/nyxxjzsyb/xzbm3/203034.htm">Xiujuan Chai</a><br>
 In ECCV 2020 <br>
 <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf">[Paper]</a> 
-<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf">[Project]</a>
 </td></tr></tbody>
 
 
@@ -236,7 +248,7 @@ In ECCV 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/2007.11110"><img src="teasers/Biggs2020.jpg"/></a></td>
+<a href="none"><img src="teasers/Biggs2020.jpg"/></a></td>
 <td align="left" width=550>Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop<br>
 <a href="http://mi.eng.cam.ac.uk/~bjb56/">Benjamin Biggs</a>, 
 <a href="https://uk.linkedin.com/in/ollie-boyne">Oliver Boyne</a>, 
@@ -245,7 +257,6 @@ In ECCV 2020 <br>
 <a href="https://mi.eng.cam.ac.uk/~cipolla/">Roberto Cipolla</a><br>
 In ECCV 2020 <br>
 <a href="https://arxiv.org/abs/2007.11110">[Paper]</a> 
-<a href="https://arxiv.org/abs/2007.11110">[Project]</a>
 </td></tr></tbody>
 
 
@@ -469,14 +480,13 @@ In ICCV 2019 (<b>oral</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/1806.00104"><img src="teasers/Yao2019.jpg"/></a></td>
+<a href="none"><img src="teasers/Yao2019.jpg"/></a></td>
 <td align="left" width=550>MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence<br>
 Yuan Yao, 
 Yasamin Jafarian, 
 <a href="https://www-users.cs.umn.edu/~hspark/">Hyun Soo Park</a><br>
 In ICCV 2019 <br>
 <a href="https://arxiv.org/abs/1806.00104">[Paper]</a> 
-<a href="https://arxiv.org/abs/1806.00104">[Project]</a>
 </td></tr></tbody>
 
 
@@ -535,7 +545,7 @@ In CVPR 2018 (<b>spotlight</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/1811.05804"><img src="teasers/Biggs2018.jpg"/></a></td>
+<a href="none"><img src="teasers/Biggs2018.jpg"/></a></td>
 <td align="left" width=550>Creatures great and SMAL: Recovering the shape and motion of animals from video<br>
 <a href="http://mi.eng.cam.ac.uk/~bjb56/">Benjamin Biggs</a>, 
 <a href="http://mi.eng.cam.ac.uk/~tr346/">Thomas Roddick</a>, 
@@ -543,17 +553,15 @@ In CVPR 2018 (<b>spotlight</b>)<br>
 <a href="https://mi.eng.cam.ac.uk/~cipolla/">Roberto Cipolla</a><br>
 In ACCV 2018 (<b>oral</b>)<br>
 <a href="https://arxiv.org/abs/1811.05804">[Paper]</a> 
-<a href="https://arxiv.org/abs/1811.05804">[Project]</a>
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf"><img src="teasers/Kanazawa2017.jpg"/></a></td>
+<a href="none"><img src="teasers/Kanazawa2017.jpg"/></a></td>
 <td align="left" width=550>Single-View 3D Reconstruction of Animals<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a><br>
 In Ph.D Thesis 2017 <br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf">[Paper]</a> 
-<a href="https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf">[Project]</a>
 </td></tr></tbody>
 
 
@@ -571,12 +579,11 @@ In CVPR 2017 (<b>spotlight</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://open.bu.edu/handle/2144/19720"><img src="teasers/Breslav2016.jpg"/></a></td>
+<a href="none"><img src="teasers/Breslav2016.jpg"/></a></td>
 <td align="left" width=550>3D Pose Estimation of Flying Animals in Multi-view Video Datasets<br>
 <a href="http://people.bu.edu/breslav/">Mikhail Breslav</a><br>
 In Ph.D Thesis 2016 <br>
 <a href="https://open.bu.edu/handle/2144/19720">[Paper]</a> 
-<a href="https://open.bu.edu/handle/2144/19720">[Project]</a>
 </td></tr></tbody>
 
 

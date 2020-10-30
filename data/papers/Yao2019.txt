@@ -1,7 +1,7 @@
 MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence
 2019
 https://arxiv.org/abs/1806.00104
-https://arxiv.org/abs/1806.00104
+none
 ICCV
 Yao2019.jpg
 poster

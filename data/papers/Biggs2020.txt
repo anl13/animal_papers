@@ -1,7 +1,7 @@
 Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop
 2020
 https://arxiv.org/abs/2007.11110
-https://arxiv.org/abs/2007.11110
+none
 ECCV 
 Biggs2020.jpg
 poster

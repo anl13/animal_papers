@@ -1,7 +1,7 @@
 Creatures great and SMAL: Recovering the shape and motion of animals from video
 2018
 https://arxiv.org/abs/1811.05804
-https://arxiv.org/abs/1811.05804
+none
 ACCV
 Biggs2018.jpg
 oral

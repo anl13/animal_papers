@@ -1,7 +1,7 @@
 Multiview Supervision By Registration
 2020
 https://arxiv.org/abs/1811.11251
-https://arxiv.org/abs/1811.11251
+none
 WACV
 Zhang2020.jpg
 poster

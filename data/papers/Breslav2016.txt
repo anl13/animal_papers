@@ -1,7 +1,7 @@
 3D Pose Estimation of Flying Animals in Multi-view Video Datasets
 2016
 https://open.bu.edu/handle/2144/19720
-https://open.bu.edu/handle/2144/19720
+none
 Ph.D Thesis
 Breslav2016.jpg
 none

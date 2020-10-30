@@ -1,7 +1,7 @@
 Single-View 3D Reconstruction of Animals
 2017
 https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf
-https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf
+none
 Ph.D Thesis 
 Kanazawa2017.jpg
 none
