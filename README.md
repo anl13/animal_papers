@@ -173,6 +173,17 @@ In Neuron 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Pereira2020-1.jpg"/></a></td>
+<td align="left" width=550>Quantifying behavior to understand the brain<br>
+<a href="https://biophysics.princeton.edu/people/talmo-pereira">Talmo D. Pereira</a>, 
+<a href="https://molbiod.princeton.edu/people/joshua-w-shaevitz">Joshua W. Shaevitz</a>, 
+<a href="htps://murthylab.princeton.edu/mala-murthy">Mala Murthy</a><br>
+In Nature Neuroscience 2020 (<b>review article</b>)<br>
+<a href="https://www.nature.com/articles/s41593-020-00734-z">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Nourizonoz2020.jpg"/></a></td>
 <td align="left" width=550>EthoLoop: automated closed-loop neuroethology in naturalistic environments<br>
 Ali Nourizonoz, 
@@ -186,14 +197,14 @@ Fabien Pifferi,
 Fabienne Aujard, 
 Anthony Herrel, 
 <a href="https://www.unige.ch/medecine/neuf/en/">Daniel Huber</a><br>
-In Nature Methods 2020 <br>
+In Nature Methods 2020 (<b>cover</b>)<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/32994566/">[Paper]</a> 
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/OpenMonkeyStudio"><img src="teasers/Bala2020.jpg"/></a></td>
-<td align="left" width=550>OpenMonkeyStudio: Automated Markerless Pose Estimation in Freely Moving Macaques<br>
+<a href="openmonkeystudio.org"><img src="teasers/Bala2020.jpg"/></a></td>
+<td align="left" width=550>Automated Markerless Pose Estimation in Freely Moving Macaques using OpenMonkeyStudio<br>
 Praneet C. Bala, 
 Benjamin R. Eisenreich, 
 Seng Bum Michael Yoo, 
@@ -202,7 +213,7 @@ Benjamin Y. Hayden,
 <a href="https://med.umn.edu/bio/medical-discovery-teams/jan-zimmermann">Jan Zimmermann</a><br>
 In Nature Communications 2020 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.01.31.928861v1">[Paper]</a> 
-<a href="https://github.com/OpenMonkeyStudio">[Project]</a>
+<a href="openmonkeystudio.org">[Project]</a>
 </td></tr></tbody>
 
 
@@ -396,7 +407,7 @@ An Chi Chen,
 Amir Patel, 
 <a href="http://bethgelab.org/">Matthias Bethge</a>, 
 <a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie Weygandt Mathis</a><br>
-In Nature Protocols 2019 <br>
+In Nature Protocols 2019 (<b>cover</b>)<br>
 <a href="https://www.nature.com/articles/s41596-019-0176-0">[Paper]</a> 
 <a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md">[Project]</a>
 </td></tr></tbody>
@@ -617,7 +628,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Oct 2020
+Last updated in Nov 2020
 <br>
 
 
