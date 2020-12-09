@@ -59,6 +59,20 @@ In biorxiv 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/"><img src="teasers/Zimmermann2020.jpg"/></a></td>
+<td align="left" width=550>FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces<br>
+<a href="https://lmb.informatik.uni-freiburg.de/people/zimmermc/">Christian Zimmermann</a>, 
+Artur Schneider, 
+Mansour Alyahyay, 
+<a href="https://lmb.informatik.uni-freiburg.de/people/brox/">Thomas Brox</a>, 
+<a href="https://www.optophysiology.uni-freiburg.de/labmembers/diester/">Ilka Diester</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.02.27.967620v1">[Paper]</a> 
+<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
 <td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals<br>
 Adam Gosztolai, 
@@ -111,6 +125,26 @@ Joshua W. Shaevitz,
 In biorxiv 2020 <br>
 <a href="https://doi.org/10.1101/2020.08.31.276246">[Paper]</a> 
 <a href="https://sleap.ai/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Nilsson2020.jpg"/></a></td>
+<td align="left" width=550>Simple Behavioral Analysis (SimBA)-an open source toolkit for computer classification of complex social behaviors in experimental animals<br>
+Simon RO Nilsson, 
+Nastacia L. Goodwin, 
+Jia Jie Choong, 
+Sophia Hwang, 
+Hayden R Wright, 
+Zane C Norville, 
+Xiaoyu Tong, 
+Dayu Lin, 
+Brandon S. Bentzley, 
+Neir Eshel, 
+Ryan J McLaughlin, 
+<a href="https://goldenneurolab.com/people">Sam A. Golden</a><br>
+In biorxiv 2020 <br>
+<a href="https://doi.org/10.1101/2020.04.19.049452">[Paper]</a> 
 </td></tr></tbody>
 
 
@@ -568,6 +602,19 @@ In ACCV 2018 (<b>oral</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Klibaite2017.jpg"/></a></td>
+<td align="left" width=550>An unsupervised method for quantifying the behavior of paired animals<br>
+Ugne Klibaite, 
+Gordon J Berman, 
+Jessica Cande, 
+David L Stern, 
+<a href="https://molbio.princeton.edu/people/joshua-w-shaevitz">Joshua W Shaevitz</a><br>
+In Physical Biology 2017 <br>
+<a href="https://doi.org/10.1088/1478-3975/aa5c50">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Kanazawa2017.jpg"/></a></td>
 <td align="left" width=550>Single-View 3D Reconstruction of Animals<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a><br>
@@ -628,7 +675,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Nov 2020
+Last updated in Dec 2020
 <br>
 
 

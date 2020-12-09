@@ -1,0 +1,19 @@
+Simple Behavioral Analysis (SimBA)-an open source toolkit for computer classification of complex social behaviors in experimental animals
+2020
+https://doi.org/10.1101/2020.04.19.049452
+none
+biorxiv
+Nilsson2020.jpg
+none
+Simon RO Nilsson
+Nastacia L. Goodwin
+Jia Jie Choong
+Sophia Hwang
+Hayden R Wright
+Zane C Norville
+Xiaoyu Tong
+Dayu Lin
+Brandon S. Bentzley
+Neir Eshel
+Ryan J McLaughlin
+Sam A. Golden+https://goldenneurolab.com/people
