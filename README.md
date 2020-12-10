@@ -7,6 +7,26 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/ZexinChen/AlphaTracker"><img src="teasers/Chen2020.jpg"/></a></td>
+<td align="left" width=550>AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool<br>
+Zexin Chen, 
+Ruihan Zhang, 
+Yu Eva Zhang, 
+Haowen Zhou, 
+Hao-Shu Fang, 
+Rachel R. Rock, 
+Aneesh Bal, 
+Nancy Padilla-Coreano, 
+Laurel Keyes, 
+Kay M. Tye, 
+<a href="https://www.mvig.org/">Cewu Lu</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.12.04.405159v1.full.pdf">[Paper]</a> 
+<a href="https://github.com/ZexinChen/AlphaTracker">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/lambdaloop/anipose"><img src="teasers/Karashchuk2020.jpg"/></a></td>
 <td align="left" width=550>Anipose: a toolkit for robust markerless 3D pose estimation<br>
 <a href="https://github.com/lambdaloop">Pierre Karashchuk</a>, 

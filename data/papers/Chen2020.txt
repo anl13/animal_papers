@@ -1,0 +1,18 @@
+AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool 
+2020
+https://www.biorxiv.org/content/10.1101/2020.12.04.405159v1.full.pdf
+https://github.com/ZexinChen/AlphaTracker
+biorxiv 
+Chen2020.jpg 
+none 
+Zexin Chen
+Ruihan Zhang
+Yu Eva Zhang
+Haowen Zhou
+Hao-Shu Fang
+Rachel R. Rock
+Aneesh Bal
+Nancy Padilla-Coreano
+Laurel Keyes
+Kay M. Tye
+Cewu Lu+https://www.mvig.org/
