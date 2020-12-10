@@ -1,0 +1,12 @@
+Real-time, low-latency closed-loop feedback using markerless posture tracking
+2020
+https://www.biorxiv.org/content/10.1101/2020.08.04.236422v1.full.pdf?__cf_chl_jschl_tk__=b9df066ff7ae3cdc8a30b0014f61e593f833d295-1607564977-0-AV9YDnvk1ZsmZ7yzGJxFn7XR9zROg4LX5aeFaTybhW1nG_oLMWNHOb8g8GrA3LPseOyA8C4Y6bVXKX0lYsi5XJ2WBSqTypjFIBD6Lg0Sz-cM2oNNbBNGAdLeyUOxAn4umoqr2XO39elhhNc9TBerOMTgd-M8oeWDaMpFRC45KOzIAL1fMoNGQjYHX3f3yLQGqAcwfZ-pQ7LhEwC5jbnyt-OKRIRs4kKOTbNvRo0UxdgDUAHJIxOapTN1NFV5Ze0NY1NblcJT0Fb4RMKVJCA0SKGX1InBOaRbGfiTbANTuF9m0USPGrMHpf-DfvIR7DZO1D8aY7MGX0qacL7HD5KzdYwuue2MpARl2gVpZD9L9sHP
+https://github.com/DeepLabCut/DeepLabCut-live
+biorxiv
+Kane2020.jpg
+none
+Gary Kane
+Gonçalo Lopes
+Jonny L. Saunders
+Alexander Mathis+https://www.mathislab.org/people
+Mackenzie W. Mathis

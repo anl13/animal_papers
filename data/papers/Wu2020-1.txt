@@ -2,7 +2,7 @@ Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose
 2020
 https://www.biorxiv.org/content/biorxiv/early/2020/08/22/2020.08.20.259705.full.pdf
 https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing
-biorxiv 
+NeurIPS 
 Wu2020-1.jpg 
 none 
 Anqi Wu

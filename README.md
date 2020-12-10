@@ -1,7 +1,7 @@
 ## Animal Paper Collection (Ongoing)
 
 Recently, markerless animal **motion capture** and **3D reconstruction** attracts more and more attention in computer vision community. Inspired by remarkable techniques for markerless human motion capture, a few excellent literatures appear for animal modeling and reconstruction such as [SMAL](http://smal.is.tue.mpg.de/
-) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there are still many challenges before computer vision methods are reliable in industry-grade for capturing natural motion of arbitary animals robustly and efficiently. 
+) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there is still a long way before computer vision methods could capture natural motion of arbitary animals in industrial-grade. 
 
 Therefore, I contribute this repository to track every step towards the ultimate goal of high quality animal capture. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(al17 at mails dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.
 <br>
@@ -29,32 +29,6 @@ Christian L. Ebbesen,
 <a href="http://froemkelab.med.nyu.edu/people">Robert C. Froemke</a><br>
 In biorxiv 2020 <br>
 <a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing"><img src="teasers/Wu2020-1.jpg"/></a></td>
-<td align="left" width=550>Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking<br>
-Anqi Wu, 
-E. Kelly Buchanan, 
-Matthew Whiteway, 
-Michael Schartner, 
-Guido Meijer, 
-Jean-Paul Noel, 
-Erica Rodriguez, 
-Claire Everett, 
-Amy Norovich, 
-Evan Schaffer, 
-Neeli Mishra, 
-C. Daniel Salzman, 
-Dora Angelaki, 
-Andrés Bendesky, 
-The International Brain Laboratory, 
-John Cunningham, 
-<a href="http://www.stat.columbia.edu/~liam/">Liam Paninski</a><br>
-In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/biorxiv/early/2020/08/22/2020.08.20.259705.full.pdf">[Paper]</a> 
-<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing">[Project]</a>
 </td></tr></tbody>
 
 
@@ -104,6 +78,20 @@ Siyuan Liu,
 In biorxiv 2020 <br>
 <a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
 <a href="https://behavioratlas.tech/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/DeepLabCut/DeepLabCut-live"><img src="teasers/Kane2020.jpg"/></a></td>
+<td align="left" width=550>Real-time, low-latency closed-loop feedback using markerless posture tracking<br>
+Gary Kane, 
+Gonçalo Lopes, 
+Jonny L. Saunders, 
+<a href="https://www.mathislab.org/people">Alexander Mathis</a>, 
+Mackenzie W. Mathis<br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.08.04.236422v1.full.pdf?__cf_chl_jschl_tk__=b9df066ff7ae3cdc8a30b0014f61e593f833d295-1607564977-0-AV9YDnvk1ZsmZ7yzGJxFn7XR9zROg4LX5aeFaTybhW1nG_oLMWNHOb8g8GrA3LPseOyA8C4Y6bVXKX0lYsi5XJ2WBSqTypjFIBD6Lg0Sz-cM2oNNbBNGAdLeyUOxAn4umoqr2XO39elhhNc9TBerOMTgd-M8oeWDaMpFRC45KOzIAL1fMoNGQjYHX3f3yLQGqAcwfZ-pQ7LhEwC5jbnyt-OKRIRs4kKOTbNvRo0UxdgDUAHJIxOapTN1NFV5Ze0NY1NblcJT0Fb4RMKVJCA0SKGX1InBOaRbGfiTbANTuF9m0USPGrMHpf-DfvIR7DZO1D8aY7MGX0qacL7HD5KzdYwuue2MpARl2gVpZD9L9sHP">[Paper]</a> 
+<a href="https://github.com/DeepLabCut/DeepLabCut-live">[Project]</a>
 </td></tr></tbody>
 
 
@@ -159,6 +147,22 @@ In biorxiv 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Jiang2020.jpg"/></a></td>
+<td align="left" width=550>Muti-view Mouse Social Behaviour Recognition with Deep Graphic Model<br>
+Zheheng Jiang, 
+Feixiang Zhou, 
+Aite Zhao, 
+Xin Li, 
+Ling Li, 
+<a href="https://dl.acm.org/profile/81100159571">Dacheng Tao</a>, 
+<a href="http://www.dcs.bbk.ac.uk/~xuelong/">Xuelong Li</a>, 
+<a href="https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou">Huiyu Zhou</a><br>
+In arxiv 2020 <br>
+<a href="https://arxiv.org/pdf/2011.02451.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Zhang2020.jpg"/></a></td>
 <td align="left" width=550>Multiview Supervision By Registration<br>
 Yilun Zhang, 
@@ -203,6 +207,32 @@ Jessy Lauer,
 <a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
 In Neuron 2020 <br>
 <a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing"><img src="teasers/Wu2020-1.jpg"/></a></td>
+<td align="left" width=550>Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking<br>
+Anqi Wu, 
+E. Kelly Buchanan, 
+Matthew Whiteway, 
+Michael Schartner, 
+Guido Meijer, 
+Jean-Paul Noel, 
+Erica Rodriguez, 
+Claire Everett, 
+Amy Norovich, 
+Evan Schaffer, 
+Neeli Mishra, 
+C. Daniel Salzman, 
+Dora Angelaki, 
+Andrés Bendesky, 
+The International Brain Laboratory, 
+John Cunningham, 
+<a href="http://www.stat.columbia.edu/~liam/">Liam Paninski</a><br>
+In NeurIPS 2020 <br>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2020/08/22/2020.08.20.259705.full.pdf">[Paper]</a> 
+<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing">[Project]</a>
 </td></tr></tbody>
 
 
