@@ -1,0 +1,16 @@
+Robust mouse tracking in complex environments using neural networks
+2019
+https://www.nature.com/articles/s42003-019-0362-1
+none
+Communications Biology
+Geuther2019.jpg 
+none 
+Brian Q. Geuther
+Sean P. Deats
+Kai J. Fox
+Steve A. Murray
+Robert E. Braun
+Jacqueline K. White
+Elissa J. Chesler
+Cathleen M. Lutz
+Vivek Kumar

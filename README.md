@@ -67,6 +67,23 @@ In biorxiv 2020 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Sheppard2020.jpg"/></a></td>
+<td align="left" width=550>Gait-level analysis of mouse open field behavior using deep learning-based pose estimation<br>
+Keith Sheppard, 
+Justin Gardin, 
+Gautam Sabnis, 
+Asaf Peer, 
+Megan Darrell, 
+Sean Deats, 
+Brian Geuther, 
+Cathleen M. Lutz, 
+<a href="https://www.kumarlab.org/">Vivek Kumar</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.12.29.424780v1">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
 <td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals<br>
 Adam Gosztolai, 
@@ -599,6 +616,23 @@ In ICCV 2019 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Geuther2019.jpg"/></a></td>
+<td align="left" width=550>Robust mouse tracking in complex environments using neural networks<br>
+Brian Q. Geuther, 
+Sean P. Deats, 
+Kai J. Fox, 
+Steve A. Murray, 
+Robert E. Braun, 
+Jacqueline K. White, 
+Elissa J. Chesler, 
+Cathleen M. Lutz, 
+Vivek Kumar<br>
+In Communications Biology 2019 <br>
+<a href="https://www.nature.com/articles/s42003-019-0362-1">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="http://www.mousemotorlab.org/deeplabcut"><img src="teasers/Mathis2018.jpg"/></a></td>
 <td align="left" width=550>DeepLabCut: markerless pose estimation of user-defined body parts with deep learning<br>
 <a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
@@ -725,7 +759,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Dec 2020
+Last updated in Jan 2021
 <br>
 
 
