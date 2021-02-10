@@ -7,6 +7,17 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
+<td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
+Angie M Michaiel, 
+Elliott TT Abe, 
+Cristopher M Niell<br>
+In eLife 2020 <br>
+<a href="https://elifesciences.org/articles/57458">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/ZexinChen/AlphaTracker"><img src="teasers/Chen2020.jpg"/></a></td>
 <td align="left" width=550>AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool<br>
 Zexin Chen, 
@@ -244,6 +255,20 @@ Jessy Lauer,
 <a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
 In Neuron 2020 <br>
 <a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Marshall2020.jpg"/></a></td>
+<td align="left" width=550>Continuous Whole-Body 3D Kinematic Recordings across the Rodent Behavioral Repertoire<br>
+Jesse D. Marshall, 
+Diego E. Aldarondo, 
+Timothy W. Dunn, 
+William L. Wang, 
+Gordon J. Berman, 
+<a href="https://oeb.harvard.edu/people/bence-p-olveczky">Bence P. O¨lveczky</a><br>
+In Neuron 2020 <br>
+<a href="https://www.cell.com/neuron/fulltext/S0896-6273(20)30894-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627320308941%3Fshowall%3Dtrue">[Paper]</a> 
 </td></tr></tbody>
 
 
@@ -759,7 +784,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Jan 2021
+Last updated in Feb 2021
 <br>
 
 
