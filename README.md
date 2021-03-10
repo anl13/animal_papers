@@ -7,6 +7,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/SchwarzNeuroconLab/DeepLabStream"><img src="teasers/Schweihoff2021.jpg"/></a></td>
+<td align="left" width=550>DeepLabStream enables closed-loop behavioral experiments using deep learning-based markerless, real-time posture detection<br>
+Jens F. Schweihoff, 
+Matvey Loshakov, 
+Irina Pavlova, 
+Laura Kück, 
+Laura A. Ewell, 
+Martin K. Schwarz<br>
+In Communications Biology 2021 <br>
+<a href="https://www.nature.com/articles/s42003-021-01654-9">[Paper]</a> 
+<a href="https://github.com/SchwarzNeuroconLab/DeepLabStream">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
 <td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
 Angie M Michaiel, 
@@ -14,6 +29,20 @@ Elliott TT Abe,
 Cristopher M Niell<br>
 In eLife 2020 <br>
 <a href="https://elifesciences.org/articles/57458">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/DeepLabCut/DeepLabCut-live"><img src="teasers/Kane2020.jpg"/></a></td>
+<td align="left" width=550>Real-time, low-latency closed-loop feedback using markerless posture tracking<br>
+Gary Kane, 
+Gonçalo Lopes, 
+Jonny L. Saunders, 
+<a href="https://www.mathislab.org/people">Alexander Mathis</a>, 
+Mackenzie W. Mathis<br>
+In eLife 2020 (<b>Featured by Nature Methods</b>)<br>
+<a href="https://elifesciences.org/articles/61909">[Paper]</a> 
+<a href="https://github.com/DeepLabCut/DeepLabCut-live">[Project]</a>
 </td></tr></tbody>
 
 
@@ -126,20 +155,6 @@ Siyuan Liu,
 In biorxiv 2020 <br>
 <a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
 <a href="https://behavioratlas.tech/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/DeepLabCut/DeepLabCut-live"><img src="teasers/Kane2020.jpg"/></a></td>
-<td align="left" width=550>Real-time, low-latency closed-loop feedback using markerless posture tracking<br>
-Gary Kane, 
-Gonçalo Lopes, 
-Jonny L. Saunders, 
-<a href="https://www.mathislab.org/people">Alexander Mathis</a>, 
-Mackenzie W. Mathis<br>
-In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.08.04.236422v1.full.pdf?__cf_chl_jschl_tk__=b9df066ff7ae3cdc8a30b0014f61e593f833d295-1607564977-0-AV9YDnvk1ZsmZ7yzGJxFn7XR9zROg4LX5aeFaTybhW1nG_oLMWNHOb8g8GrA3LPseOyA8C4Y6bVXKX0lYsi5XJ2WBSqTypjFIBD6Lg0Sz-cM2oNNbBNGAdLeyUOxAn4umoqr2XO39elhhNc9TBerOMTgd-M8oeWDaMpFRC45KOzIAL1fMoNGQjYHX3f3yLQGqAcwfZ-pQ7LhEwC5jbnyt-OKRIRs4kKOTbNvRo0UxdgDUAHJIxOapTN1NFV5Ze0NY1NblcJT0Fb4RMKVJCA0SKGX1InBOaRbGfiTbANTuF9m0USPGrMHpf-DfvIR7DZO1D8aY7MGX0qacL7HD5KzdYwuue2MpARl2gVpZD9L9sHP">[Paper]</a> 
-<a href="https://github.com/DeepLabCut/DeepLabCut-live">[Project]</a>
 </td></tr></tbody>
 
 
@@ -784,7 +799,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Feb 2021
+Last updated in Mar 2021
 <br>
 
 
