@@ -1,5 +1,5 @@
-Mapping Mouse Behavior with an Unsupervised Spatiotemporal Sequence Decomposition Framework
-2020
+A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping
+2021
 https://doi.org/10.1101/2020.09.14.295808
 https://behavioratlas.tech/
 biorxiv
@@ -12,5 +12,5 @@ Hongli Pan
 Wenling Yi
 Xiaoxi Li
 Siyuan Liu
-Pengfei Wei+https://www.researchgate.net/profile/Pengfei_Wei2
 Liping Wang+http://wanglab.siat.ac.cn/wanglab_en/index.php?a=lab_members
+Pengfei Wei+https://www.researchgate.net/profile/Pengfei_Wei2
