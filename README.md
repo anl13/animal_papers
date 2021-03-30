@@ -51,6 +51,17 @@ In Communications Biology 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/chaneyddtt/UDA-Animal-Pose"><img src="teasers/Li2021.jpg"/></a></td>
+<td align="left" width=550>From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation<br>
+<a href="https://chaneyddtt.github.io/">Chen Li</a>, 
+<a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a><br>
+In CVPR 2021 (<b>oral</b>)<br>
+<a href="https://arxiv.org/pdf/2103.14843.pdf">[Paper]</a> 
+<a href="https://github.com/chaneyddtt/UDA-Animal-Pose">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
 <td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
 Angie M Michaiel, 
