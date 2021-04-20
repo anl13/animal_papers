@@ -25,6 +25,23 @@ In biorxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="teasers/Sun2021.jpg"/></a></td>
+<td align="left" width=550>The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions<br>
+Jennifer J. Sun, 
+Tomomi Karigo, 
+Dipam Chakraborty, 
+Sharada P. Mohanty, 
+David J. Anderson, 
+Pietro Perona, 
+Yisong Yue, 
+Ann Kennedy<br>
+In arxiv 2021 <br>
+<a href="https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions">[Paper]</a> 
+<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ziegler2021.jpg"/></a></td>
 <td align="left" width=550>Big behavior: challenges and opportunities in a new era of deep behavior profiling<br>
 Lukas von Ziegler, 
@@ -821,7 +838,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Mar 2021
+Last updated in Apr 2021
 <br>
 
 
