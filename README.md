@@ -53,6 +53,24 @@ In Neuropsychopharmacology 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/ubcbraincircuits/mCBF"><img src="teasers/Bolanos2021.jpg"/></a></td>
+<td align="left" width=550>A three-dimensional virtual mouse generates synthetic training data for behavioral analysis<br>
+Luis A. Bolaños, 
+Dongsheng Xiao, 
+Nancy L. Ford, 
+Jeff M. LeDue, 
+Pankaj K. Gupta, 
+Carlos Doebeli, 
+Hao Hu, 
+Helge Rhodin, 
+Timothy H. Murphy<br>
+In Nature Methods (Brief Communication) 2021 (<b>cover</b>)<br>
+<a href="https://www.nature.com/articles/s41592-021-01103-9">[Paper]</a> 
+<a href="https://github.com/ubcbraincircuits/mCBF">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/SchwarzNeuroconLab/DeepLabStream"><img src="teasers/Schweihoff2021.jpg"/></a></td>
 <td align="left" width=550>DeepLabStream enables closed-loop behavioral experiments using deep learning-based markerless, real-time posture detection<br>
 Jens F. Schweihoff, 
