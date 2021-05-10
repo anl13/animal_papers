@@ -97,6 +97,24 @@ In CVPR 2021 (<b>oral</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://lasr-google.github.io/"><img src="teasers/Yang2021.jpg"/></a></td>
+<td align="left" width=550>LASR: Learning Articulated Shape Reconstruction from a Monocular Video<br>
+<a href="https://gengshan-y.github.io/">Gengshan Yang</a>, 
+<a href="https://deqings.github.io/">Deqing Sun</a>, 
+<a href="https://varunjampani.github.io/">Varun Jampani</a>, 
+<a href="https://people.csail.mit.edu/drdaniel/">Daniel Vlasic</a>, 
+<a href="https://people.csail.mit.edu/fcole/">Forrester Cole</a>, 
+Huiwen Chang, 
+<a href="http://www.cs.cmu.edu/~deva/">Deva Ramanan</a>, 
+<a href="https://billf.mit.edu/">William T. Freeman</a>, 
+<a href="https://people.csail.mit.edu/celiu/">Ce Liu</a><br>
+In CVPR 2021 <br>
+<a href="https://arxiv.org/pdf/2105.02976.pdf">[Paper]</a> 
+<a href="https://lasr-google.github.io/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
 <td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
 Angie M Michaiel, 
@@ -856,7 +874,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Apr 2021
+Last updated in May 2021
 <br>
 
 
