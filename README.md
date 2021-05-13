@@ -25,6 +25,20 @@ In biorxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers/Li2021-2.jpg"/></a></td>
+<td align="left" width=550>4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface<br>
+Yang Li, 
+Hikari Takehara, 
+Takafumi Taketomi, 
+Bo Zheng, 
+<a href="https://niessnerlab.org/">Matthias Nießner</a><br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2105.01905.pdf">[Paper]</a> 
+<a href="https://github.com/rabbityl/DeformingThings4D">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="teasers/Sun2021.jpg"/></a></td>
 <td align="left" width=550>The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions<br>
 Jennifer J. Sun, 
