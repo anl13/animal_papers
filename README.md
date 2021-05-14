@@ -7,24 +7,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
-<a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
-<td align="left" width=550>A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping<br>
-Kang Huang, 
-Yaning Han, 
-Ke Chen, 
-Hongli Pan, 
-Wenling Yi, 
-Xiaoxi Li, 
-Siyuan Liu, 
-<a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=lab_members">Liping Wang</a>, 
-<a href="https://www.researchgate.net/profile/Pengfei_Wei2">Pengfei Wei</a><br>
-In biorxiv 2021 <br>
-<a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
-<a href="https://behavioratlas.tech/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Corcoran2021.jpg"/></a></td>
 <td align="left" width=550>ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking<br>
 Aaron J. Corcoran, 
@@ -93,6 +75,24 @@ Timothy H. Murphy<br>
 In Nature Methods (Brief Communication) 2021 (<b>cover</b>)<br>
 <a href="https://www.nature.com/articles/s41592-021-01103-9">[Paper]</a> 
 <a href="https://github.com/ubcbraincircuits/mCBF">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
+<td align="left" width=550>A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping<br>
+Kang Huang, 
+Yaning Han, 
+Ke Chen, 
+Hongli Pan, 
+Wenling Yi, 
+Xiaoxi Li, 
+Siyuan Liu, 
+<a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=lab_members">Liping Wang</a>, 
+<a href="https://www.researchgate.net/profile/Pengfei_Wei2">Pengfei Wei</a><br>
+In Nature Communications 2021 <br>
+<a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
+<a href="https://behavioratlas.tech/">[Project]</a>
 </td></tr></tbody>
 
 
