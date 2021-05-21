@@ -112,6 +112,19 @@ In Communications Biology 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://yufu-wang.github.io/aves/"><img src="teasers/Wang2021.jpg"/></a></td>
+<td align="left" width=550>Birds of a Feather: Capturing Avian Shape Models from Images<br>
+<a href="https://yufu-wang.github.io/">Yufu Wang</a>, 
+<a href="https://www.seas.upenn.edu/~nkolot/">Nikos Kolotouros</a>, 
+<a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis</a>, 
+<a href="https://www.ocf.berkeley.edu/~badger/">Marc Badger</a><br>
+In CVPR 2021 <br>
+<a href="https://arxiv.org/pdf/2105.09396.pdf">[Paper]</a> 
+<a href="https://yufu-wang.github.io/aves/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/chaneyddtt/UDA-Animal-Pose"><img src="teasers/Li2021.jpg"/></a></td>
 <td align="left" width=550>From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation<br>
 <a href="https://chaneyddtt.github.io/">Chen Li</a>, 
