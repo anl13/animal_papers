@@ -79,6 +79,28 @@ In Nature Methods (Brief Communication) 2021 (<b>cover</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/spoonsso/DANNCE"><img src="teasers/Dunn2021.jpg"/></a></td>
+<td align="left" width=550>Geometric deep learning enables 3D kinematic profiling across species and environments<br>
+Timothy W. Dunn, 
+Jesse D. Marshall, 
+Kyle S. Severson, 
+Diego E. Aldarondo, 
+David G. C. Hildebrand, 
+Selmaan N. Chettih, 
+William L. Wang, 
+Amanda J. Gellis, 
+David E. Carlson, 
+Dmitriy Aronov, 
+Winrich A. Freiwald, 
+Fan Wang, 
+Bence P. Ölveczky<br>
+In Nature Methods 2021 <br>
+<a href="https://www.nature.com/articles/s41592-021-01106-6.pdf">[Paper]</a> 
+<a href="https://github.com/spoonsso/DANNCE">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
 <td align="left" width=550>A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping<br>
 Kang Huang, 

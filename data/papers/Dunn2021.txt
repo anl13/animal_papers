@@ -1,0 +1,20 @@
+Geometric deep learning enables 3D kinematic profiling across species and environments
+2021 
+https://www.nature.com/articles/s41592-021-01106-6.pdf
+https://github.com/spoonsso/DANNCE
+Nature Methods
+Dunn2021.jpg
+none 
+Timothy W. Dunn
+Jesse D. Marshall
+Kyle S. Severson
+Diego E. Aldarondo
+David G. C. Hildebrand
+Selmaan N. Chettih
+William L. Wang
+Amanda J. Gellis
+David E. Carlson
+Dmitriy Aronov
+Winrich A. Freiwald
+Fan Wang
+Bence P. Ölveczky
