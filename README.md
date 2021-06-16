@@ -176,6 +176,21 @@ In CVPR 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="http://sites.google.com/view/task-programming"><img src="teasers/Sun2021-1.jpg"/></a></td>
+<td align="left" width=550>Task Programming: Learning Data Efficient Behavior Representations<br>
+Jennifer J. Sun, 
+Ann Kennedy, 
+Eric Zhan, 
+David J. Anderson, 
+Yisong Yue, 
+Pietro Perona<br>
+In CVPR 2021 (<b>Best Paper Candidate</b>)<br>
+<a href="http://export.arxiv.org/pdf/2011.13917">[Paper]</a> 
+<a href="http://sites.google.com/view/task-programming">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
 <td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
 Angie M Michaiel, 
@@ -935,7 +950,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in May 2021
+Last updated in Jun 2021
 <br>
 
 
