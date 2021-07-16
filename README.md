@@ -1,28 +1,35 @@
 ## Animal Paper Collection (Ongoing)
+[2021.07.16] I recommend CV4Animal workshop in CVPR 2021 (https://www.cv4animals.com/) because it is a good collection of recent advances in animal pose estimation area! 
 
 Recently, markerless animal **motion capture** and **3D reconstruction** attracts more and more attention in computer vision community. Inspired by remarkable techniques for markerless human motion capture, a few excellent literatures appear for animal modeling and reconstruction such as [SMAL](http://smal.is.tue.mpg.de/
 ) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there is still a long way before computer vision methods could capture natural motion of arbitary animals in industrial-grade. 
-
-I recommend CV4Animal workshop in CVPR 2021 (https://www.cv4animals.com/) because it is a good collection of recent advances in animal pose estimation area! 
 
 Therefore, I contribute this repository to track every step towards the ultimate goal of high quality animal capture. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(al17 at mails dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
-<a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
-<td align="left" width=550>A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping<br>
-Kang Huang, 
-Yaning Han, 
-Ke Chen, 
-Hongli Pan, 
-Wenling Yi, 
-Xiaoxi Li, 
-Siyuan Liu, 
-<a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=lab_members">Liping Wang</a>, 
-<a href="https://www.researchgate.net/profile/Pengfei_Wei2">Pengfei Wei</a><br>
+<a href="none"><img src="teasers/Corcoran2021.jpg"/></a></td>
+<td align="left" width=550>ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking<br>
+Aaron J. Corcoran, 
+Michael R. Schirmacher, 
+Eric Black, 
+<a href="https://biomech.web.unc.edu/people/">Tyson L. Hedrick</a><br>
 In biorxiv 2021 <br>
-<a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
-<a href="https://behavioratlas.tech/">[Project]</a>
+<a href="https://www.biorxiv.org/content/10.1101/2021.05.12.443854v1.full.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers/Li2021-2.jpg"/></a></td>
+<td align="left" width=550>4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface<br>
+Yang Li, 
+Hikari Takehara, 
+Takafumi Taketomi, 
+Bo Zheng, 
+<a href="https://niessnerlab.org/">Matthias Nießner</a><br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2105.01905.pdf">[Paper]</a> 
+<a href="https://github.com/rabbityl/DeformingThings4D">[Project]</a>
 </td></tr></tbody>
 
 
@@ -73,6 +80,46 @@ In Nature Methods (Brief Communication) 2021 (<b>cover</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/spoonsso/DANNCE"><img src="teasers/Dunn2021.jpg"/></a></td>
+<td align="left" width=550>Geometric deep learning enables 3D kinematic profiling across species and environments<br>
+Timothy W. Dunn, 
+Jesse D. Marshall, 
+Kyle S. Severson, 
+Diego E. Aldarondo, 
+David G. C. Hildebrand, 
+Selmaan N. Chettih, 
+William L. Wang, 
+Amanda J. Gellis, 
+David E. Carlson, 
+Dmitriy Aronov, 
+Winrich A. Freiwald, 
+Fan Wang, 
+Bence P. Ölveczky<br>
+In Nature Methods 2021 <br>
+<a href="https://www.nature.com/articles/s41592-021-01106-6.pdf">[Paper]</a> 
+<a href="https://github.com/spoonsso/DANNCE">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
+<td align="left" width=550>A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping<br>
+Kang Huang, 
+Yaning Han, 
+Ke Chen, 
+Hongli Pan, 
+Wenling Yi, 
+Xiaoxi Li, 
+Siyuan Liu, 
+<a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=lab_members">Liping Wang</a>, 
+<a href="https://www.researchgate.net/profile/Pengfei_Wei2">Pengfei Wei</a><br>
+In Nature Communications 2021 <br>
+<a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
+<a href="https://behavioratlas.tech/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/SchwarzNeuroconLab/DeepLabStream"><img src="teasers/Schweihoff2021.jpg"/></a></td>
 <td align="left" width=550>DeepLabStream enables closed-loop behavioral experiments using deep learning-based markerless, real-time posture detection<br>
 Jens F. Schweihoff, 
@@ -88,6 +135,19 @@ In Communications Biology 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://yufu-wang.github.io/aves/"><img src="teasers/Wang2021.jpg"/></a></td>
+<td align="left" width=550>Birds of a Feather: Capturing Avian Shape Models from Images<br>
+<a href="https://yufu-wang.github.io/">Yufu Wang</a>, 
+<a href="https://www.seas.upenn.edu/~nkolot/">Nikos Kolotouros</a>, 
+<a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis</a>, 
+<a href="https://www.ocf.berkeley.edu/~badger/">Marc Badger</a><br>
+In CVPR 2021 <br>
+<a href="https://arxiv.org/pdf/2105.09396.pdf">[Paper]</a> 
+<a href="https://yufu-wang.github.io/aves/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/chaneyddtt/UDA-Animal-Pose"><img src="teasers/Li2021.jpg"/></a></td>
 <td align="left" width=550>From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation<br>
 <a href="https://chaneyddtt.github.io/">Chen Li</a>, 
@@ -95,6 +155,39 @@ In Communications Biology 2021 <br>
 In CVPR 2021 (<b>oral</b>)<br>
 <a href="https://arxiv.org/pdf/2103.14843.pdf">[Paper]</a> 
 <a href="https://github.com/chaneyddtt/UDA-Animal-Pose">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://lasr-google.github.io/"><img src="teasers/Yang2021.jpg"/></a></td>
+<td align="left" width=550>LASR: Learning Articulated Shape Reconstruction from a Monocular Video<br>
+<a href="https://gengshan-y.github.io/">Gengshan Yang</a>, 
+<a href="https://deqings.github.io/">Deqing Sun</a>, 
+<a href="https://varunjampani.github.io/">Varun Jampani</a>, 
+<a href="https://people.csail.mit.edu/drdaniel/">Daniel Vlasic</a>, 
+<a href="https://people.csail.mit.edu/fcole/">Forrester Cole</a>, 
+Huiwen Chang, 
+<a href="http://www.cs.cmu.edu/~deva/">Deva Ramanan</a>, 
+<a href="https://billf.mit.edu/">William T. Freeman</a>, 
+<a href="https://people.csail.mit.edu/celiu/">Ce Liu</a><br>
+In CVPR 2021 <br>
+<a href="https://arxiv.org/pdf/2105.02976.pdf">[Paper]</a> 
+<a href="https://lasr-google.github.io/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="http://sites.google.com/view/task-programming"><img src="teasers/Sun2021-1.jpg"/></a></td>
+<td align="left" width=550>Task Programming: Learning Data Efficient Behavior Representations<br>
+Jennifer J. Sun, 
+Ann Kennedy, 
+Eric Zhan, 
+David J. Anderson, 
+Yisong Yue, 
+Pietro Perona<br>
+In CVPR 2021 (<b>Best Paper Candidate</b>)<br>
+<a href="http://export.arxiv.org/pdf/2011.13917">[Paper]</a> 
+<a href="http://sites.google.com/view/task-programming">[Project]</a>
 </td></tr></tbody>
 
 

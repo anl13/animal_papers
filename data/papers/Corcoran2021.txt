@@ -1,0 +1,11 @@
+ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking
+2021
+https://www.biorxiv.org/content/10.1101/2021.05.12.443854v1.full.pdf
+none 
+biorxiv
+Corcoran2021.jpg
+none
+Aaron J. Corcoran
+Michael R. Schirmacher
+Eric Black
+Tyson L. Hedrick+https://biomech.web.unc.edu/people/

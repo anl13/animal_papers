@@ -1,0 +1,13 @@
+Task Programming: Learning Data Efficient Behavior Representations
+2021
+http://export.arxiv.org/pdf/2011.13917
+http://sites.google.com/view/task-programming
+CVPR
+Sun2021-1.jpg
+Best Paper Candidate
+Jennifer J. Sun
+Ann Kennedy
+Eric Zhan
+David J. Anderson
+Yisong Yue
+Pietro Perona

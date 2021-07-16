@@ -1,0 +1,12 @@
+4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface
+2021
+https://arxiv.org/pdf/2105.01905.pdf
+https://github.com/rabbityl/DeformingThings4D
+arxiv
+Li2021-2.jpg
+none 
+Yang Li
+Hikari Takehara
+Takafumi Taketomi
+Bo Zheng
+Matthias Nießner+https://niessnerlab.org/

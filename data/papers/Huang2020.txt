@@ -2,7 +2,7 @@ A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapp
 2021
 https://doi.org/10.1101/2020.09.14.295808
 https://behavioratlas.tech/
-biorxiv
+Nature Communications
 Huang2020.jpg
 none
 Kang Huang
