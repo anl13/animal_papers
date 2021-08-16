@@ -102,6 +102,23 @@ In Nature Methods 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
+<td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals<br>
+Adam Gosztolai, 
+Semih Gunel, 
+Marco Pietro Abrate, 
+Daniel Morales, 
+Victor Lobato Rios, 
+<a href="https://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>, 
+Pascal Fua, 
+<a href="https://www.epfl.ch/labs/ramdya-lab/">Pavan Ramdya</a><br>
+In Nature Methods 2021 <br>
+<a href="https://www.nature.com/articles/s41592-021-01226-z.pdf">[Paper]</a> 
+<a href="https://github.com/NeLy-EPFL/LiftPose3D">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
 <td align="left" width=550>A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping<br>
 Kang Huang, 
@@ -290,23 +307,6 @@ Cathleen M. Lutz,
 <a href="https://www.kumarlab.org/">Vivek Kumar</a><br>
 In biorxiv 2020 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.12.29.424780v1">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
-<td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals<br>
-Adam Gosztolai, 
-Semih Gunel, 
-Marco Pietro Abrate, 
-Daniel Morales, 
-Victor Lobato Rios, 
-<a href="https://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>, 
-Pascal Fua, 
-<a href="https://www.epfl.ch/labs/ramdya-lab/">Pavan Ramdya</a><br>
-In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.09.18.292680v1.full.pdf+html">[Paper]</a> 
-<a href="https://github.com/NeLy-EPFL/LiftPose3D">[Project]</a>
 </td></tr></tbody>
 
 
@@ -951,7 +951,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Jul 2021
+Last updated in Aug 2021
 <br>
 
 

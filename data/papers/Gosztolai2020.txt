@@ -1,8 +1,8 @@
-LiftPose3D, a deep learning-based approach for transforming 2D to 3D pose in laboratory animals
-2020
-https://www.biorxiv.org/content/10.1101/2020.09.18.292680v1.full.pdf+html
+LiftPose3D, a deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals
+2021
+https://www.nature.com/articles/s41592-021-01226-z.pdf
 https://github.com/NeLy-EPFL/LiftPose3D
-biorxiv
+Nature Methods 
 Gosztolai2020.jpg
 none
 Adam Gosztolai
