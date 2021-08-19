@@ -1,6 +1,6 @@
 Gait-level analysis of mouse open field behavior using deep learning-based pose estimation
 2020
-https://www.biorxiv.org/content/10.1101/2020.12.29.424780v1
+https://www.biorxiv.org/content/10.1101/2020.12.29.424780v2.full.pdf
 none 
 biorxiv
 Sheppard2020.jpg

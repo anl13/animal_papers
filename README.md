@@ -8,6 +8,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
+<td align="left" width=550>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster<br>
+Victor Lobato Rios, 
+Pembe Gizem Ozdil, 
+Shravan Tata Ramalingasetty, 
+Jonathan Arreguit, 
+<a href="https://www.epfl.ch/labs/biorob/people/ijspeert/">Auke Jan Ijspeert</a>, 
+<a href="https://people.epfl.ch/pavan.ramdya">Pavan Ramdya</a><br>
+In biorxiv 2021 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.04.17.440214v2">[Paper]</a> 
+<a href="https://nely-epfl.github.io/NeuroMechFly/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Corcoran2021.jpg"/></a></td>
 <td align="left" width=550>ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking<br>
 Aaron J. Corcoran, 
@@ -165,6 +180,19 @@ In CVPR 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Neverova2021.jpg"/></a></td>
+<td align="left" width=550>Discovering Relationships between Object Categories via Universal Canonical Maps<br>
+Natalia Neverova, 
+Artsiom Sanakoyeu, 
+Patrick Labatut, 
+David Novotny, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a><br>
+In CVPR 2021 <br>
+<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Neverova_Discovering_Relationships_Between_Object_Categories_via_Universal_Canonical_Maps_CVPR_2021_paper.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/chaneyddtt/UDA-Animal-Pose"><img src="teasers/Li2021.jpg"/></a></td>
 <td align="left" width=550>From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation<br>
 <a href="https://chaneyddtt.github.io/">Chen Li</a>, 
@@ -306,7 +334,7 @@ Brian Geuther,
 Cathleen M. Lutz, 
 <a href="https://www.kumarlab.org/">Vivek Kumar</a><br>
 In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.12.29.424780v1">[Paper]</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2020.12.29.424780v2.full.pdf">[Paper]</a> 
 </td></tr></tbody>
 
 
