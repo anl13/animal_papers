@@ -49,6 +49,21 @@ In arxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/AlexTheBad/AP-10K"><img src="teasers/Yu2021.jpg"/></a></td>
+<td align="left" width=550>AP-10K: A Benchmark for Animal Pose Estimation in the Wild<br>
+Hang Yu, 
+Yufei Xu, 
+Jing Zhang, 
+Wei Zhao, 
+Ziyu Guan, 
+<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">Dacheng Tao</a><br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2108.12617.pdf">[Paper]</a> 
+<a href="https://github.com/AlexTheBad/AP-10K">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="teasers/Sun2021.jpg"/></a></td>
 <td align="left" width=550>The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions<br>
 Jennifer J. Sun, 
