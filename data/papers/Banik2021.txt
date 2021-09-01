@@ -1,0 +1,10 @@
+A Novel Dataset for Keypoint Detection of Quadruped Animals from Images
+2021 
+https://arxiv.org/pdf/2108.13958.pdf
+none 
+arxiv 
+Banik2021.jpg 
+none 
+Prianka Banik
+Lin Li 
+Xishuang Dong 

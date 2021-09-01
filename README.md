@@ -49,6 +49,17 @@ In arxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Banik2021.jpg"/></a></td>
+<td align="left" width=550>A Novel Dataset for Keypoint Detection of Quadruped Animals from Images<br>
+Prianka Banik, 
+Lin Li, 
+Xishuang Dong<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2108.13958.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/AlexTheBad/AP-10K"><img src="teasers/Yu2021.jpg"/></a></td>
 <td align="left" width=550>AP-10K: A Benchmark for Animal Pose Estimation in the Wild<br>
 Hang Yu, 
@@ -994,7 +1005,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Aug 2021
+Last updated in Sep 2021
 <br>
 
 
