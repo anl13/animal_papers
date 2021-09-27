@@ -1,0 +1,17 @@
+OpenMonkeyChallenge: Dataset and Benchmark Challenges for Pose Tracking of Non-human Primates
+2021
+https://www.biorxiv.org/content/10.1101/2021.09.08.459549v1.full.pdf
+http://openmonkeychallenge.com/
+biorxiv
+Yao2021.jpg 
+none 
+Yuan Yao
+Abhiraj Mohan
+Eliza Bliss-Moreau
+Kristine Coleman
+Sienna M. Freeman
+Christopher J. Machado
+Jessica Raper
+Jan Zimmermann
+Benjamin Y. Hayden
+Hyun Soo Park

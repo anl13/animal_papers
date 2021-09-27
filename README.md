@@ -23,6 +23,25 @@ In biorxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="http://openmonkeychallenge.com/"><img src="teasers/Yao2021.jpg"/></a></td>
+<td align="left" width=550>OpenMonkeyChallenge: Dataset and Benchmark Challenges for Pose Tracking of Non-human Primates<br>
+Yuan Yao, 
+Abhiraj Mohan, 
+Eliza Bliss-Moreau, 
+Kristine Coleman, 
+Sienna M. Freeman, 
+Christopher J. Machado, 
+Jessica Raper, 
+Jan Zimmermann, 
+Benjamin Y. Hayden, 
+Hyun Soo Park<br>
+In biorxiv 2021 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.09.08.459549v1.full.pdf">[Paper]</a> 
+<a href="http://openmonkeychallenge.com/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Corcoran2021.jpg"/></a></td>
 <td align="left" width=550>ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking<br>
 Aaron J. Corcoran, 
