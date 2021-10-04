@@ -1,0 +1,15 @@
+DeepImageJ: A user-friendly environment to run deep learning models in ImageJ
+2021 
+https://www.nature.com/articles/s41592-021-01262-9.pdf
+https://deepimagej.github.io/deepimagej/
+Nature Methods (brief communication)
+Mariscal2021.jpg 
+none
+Estibaliz Gómez-de-Mariscal
+Carlos García-López-de-Haro
+Wei Ouyang
+Laurène Donati
+Emma Lundberg
+Michael Unser
+Arrate Muñoz-Barrutia
+Daniel Sage+https://people.epfl.ch/daniel.sage/?lang=en

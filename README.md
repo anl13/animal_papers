@@ -122,6 +122,23 @@ In Neuropsychopharmacology 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://deepimagej.github.io/deepimagej/"><img src="teasers/Mariscal2021.jpg"/></a></td>
+<td align="left" width=550>DeepImageJ: A user-friendly environment to run deep learning models in ImageJ<br>
+Estibaliz Gómez-de-Mariscal, 
+Carlos García-López-de-Haro, 
+Wei Ouyang, 
+Laurène Donati, 
+Emma Lundberg, 
+Michael Unser, 
+Arrate Muñoz-Barrutia, 
+<a href="https://people.epfl.ch/daniel.sage/?lang=en">Daniel Sage</a><br>
+In Nature Methods (brief communication) 2021 <br>
+<a href="https://www.nature.com/articles/s41592-021-01262-9.pdf">[Paper]</a> 
+<a href="https://deepimagej.github.io/deepimagej/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/ubcbraincircuits/mCBF"><img src="teasers/Bolanos2021.jpg"/></a></td>
 <td align="left" width=550>A three-dimensional virtual mouse generates synthetic training data for behavioral analysis<br>
 Luis A. Bolaños, 
@@ -780,6 +797,20 @@ In Nature Protocols 2019 (<b>cover</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://idtrackerai.readthedocs.io/en/latest/"><img src="teasers/Ferrero2019.jpg"/></a></td>
+<td align="left" width=550>idtracker.ai: tracking all individuals in small or large collectives of unmarked animals<br>
+<a href="https://www.researchgate.net/profile/Francisco_Romero-Ferrero">Francisco Romero-Ferrero</a>, 
+Mattia G. Bergomi, 
+Robert C. Hinz, 
+Francisco J. H. Heras, 
+<a href="http://www.neuro.fchampalimaud.org/en/person/276/">Gonzalo G. de Polavieja</a><br>
+In Nature Methods (Brief Communication) 2019 <br>
+<a href="https://arxiv.org/abs/1803.04351">[Paper]</a> 
+<a href="https://idtrackerai.readthedocs.io/en/latest/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/talmo/leap"><img src="teasers/Pereira2019.jpg"/></a></td>
 <td align="left" width=550>Fast animal pose estimation using deep neural networks<br>
 <a href="https://biophysics.princeton.edu/people/talmo-pereira">Talmo D. Pereira</a>, 
@@ -792,20 +823,6 @@ Lindsay Willmore,
 In Nature Methods 2019 <br>
 <a href="https://www.nature.com/articles/s41592-018-0234-5">[Paper]</a> 
 <a href="https://github.com/talmo/leap">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://idtrackerai.readthedocs.io/en/latest/"><img src="teasers/Ferrero2019.jpg"/></a></td>
-<td align="left" width=550>idtracker.ai: tracking all individuals in small or large collectives of unmarked animals<br>
-<a href="https://www.researchgate.net/profile/Francisco_Romero-Ferrero">Francisco Romero-Ferrero</a>, 
-Mattia G. Bergomi, 
-Robert C. Hinz, 
-Francisco J. H. Heras, 
-<a href="http://www.neuro.fchampalimaud.org/en/person/276/">Gonzalo G. de Polavieja</a><br>
-In Nature Methods 2019 (<b>Brief Communication</b>)<br>
-<a href="https://arxiv.org/abs/1803.04351">[Paper]</a> 
-<a href="https://idtrackerai.readthedocs.io/en/latest/">[Project]</a>
 </td></tr></tbody>
 
 
@@ -1024,7 +1041,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Sep 2021
+Last updated in Oct 2021
 <br>
 
 
