@@ -79,6 +79,17 @@ In arxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ziegler2021.jpg"/></a></td>
+<td align="left" width=550>Big behavior: challenges and opportunities in a new era of deep behavior profiling<br>
+Lukas von Ziegler, 
+Oliver Sturman, 
+Johannes Bohacek<br>
+In Neuropsychopharmacology 2021 <br>
+<a href="https://www.nature.com/articles/s41386-020-0751-7">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/AlexTheBad/AP-10K"><img src="teasers/Yu2021.jpg"/></a></td>
 <td align="left" width=550>AP-10K: A Benchmark for Animal Pose Estimation in the Wild<br>
 Hang Yu, 
@@ -87,9 +98,41 @@ Jing Zhang,
 Wei Zhao, 
 Ziyu Guan, 
 <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">Dacheng Tao</a><br>
-In arxiv 2021 <br>
+In NeurIPS 2021 <br>
 <a href="https://arxiv.org/pdf/2108.12617.pdf">[Paper]</a> 
 <a href="https://github.com/AlexTheBad/AP-10K">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Vidal2021.jpg"/></a></td>
+<td align="left" width=550>Across-animal odor decoding by probabilistic manifold alignment<br>
+Pedro Herrero-Vidal, 
+Dmitry Rinberg, 
+<a href="https://as.nyu.edu/content/nyu-as/as/faculty/cristina-savin.html">Cristina Savin</a><br>
+In NeurIPS 2021 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1.full.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Fujii2021.jpg"/></a></td>
+<td align="left" width=550>Learning interaction rules from multi-animal trajectories via augmented behavioral models<br>
+Keisuke Fujii, 
+Naoya Takeishi, 
+Kazushi Tsutsui, 
+Emyo Fujioka, 
+Nozomi Nishiumi, 
+Ryoya Tanaka, 
+Mika Fukushiro, 
+Kaoru Ide, 
+Hiroyoshi Kohno, 
+Ken Yoda, 
+Susumu Takahashi, 
+Shizuko Hiryu, 
+<a href="http://en.kawahara-lab.org/~kawahara/">Yoshinobu Kawahara</a><br>
+In NeurIPS 2021 <br>
+<a href="https://arxiv.org/pdf/2107.05326.pdf">[Paper]</a> 
 </td></tr></tbody>
 
 
@@ -104,20 +147,24 @@ David J. Anderson,
 Pietro Perona, 
 Yisong Yue, 
 Ann Kennedy<br>
-In arxiv 2021 <br>
+In NeurIPS 2021 <br>
 <a href="https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions">[Paper]</a> 
 <a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications">[Project]</a>
 </td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ziegler2021.jpg"/></a></td>
-<td align="left" width=550>Big behavior: challenges and opportunities in a new era of deep behavior profiling<br>
-Lukas von Ziegler, 
-Oliver Sturman, 
-Johannes Bohacek<br>
-In Neuropsychopharmacology 2021 <br>
-<a href="https://www.nature.com/articles/s41386-020-0751-7">[Paper]</a> 
+<a href="https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587"><img src="teasers/Marshall2021-2.jpg"/></a></td>
+<td align="left" width=550>The PAIR-R24M Dataset for Multi-animal 3D Pose Estimation<br>
+Jesse Marshall, 
+Ugne Klibaite, 
+Amanda Gellis, 
+Diego Aldarondo, 
+<a href="https://oeb.harvard.edu/people/bence-p-olveczky">Bence O¨lveczky</a>, 
+Tim Dunn<br>
+In NeurIPS 2021 <br>
+<a href="https://openreview.net/pdf?id=-wVVl_UPr8">[Paper]</a> 
+<a href="https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587">[Project]</a>
 </td></tr></tbody>
 
 
@@ -1041,7 +1088,7 @@ In Nature Methods 2014 <br>
 </table>
 <br>
 
-Last updated in Oct 2021
+Last updated in Nov 2021
 <br>
 
 

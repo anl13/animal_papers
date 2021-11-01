@@ -1,0 +1,20 @@
+Learning interaction rules from multi-animal trajectories via augmented behavioral models
+2021
+https://arxiv.org/pdf/2107.05326.pdf
+none 
+NeurIPS
+Fujii2021.jpg 
+none 
+Keisuke Fujii
+Naoya Takeishi
+Kazushi Tsutsui
+Emyo Fujioka
+Nozomi Nishiumi
+Ryoya Tanaka
+Mika Fukushiro
+Kaoru Ide
+Hiroyoshi Kohno
+Ken Yoda
+Susumu Takahashi
+Shizuko Hiryu
+Yoshinobu Kawahara+http://en.kawahara-lab.org/~kawahara/

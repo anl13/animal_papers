@@ -2,7 +2,7 @@ AP-10K: A Benchmark for Animal Pose Estimation in the Wild
 2021
 https://arxiv.org/pdf/2108.12617.pdf
 https://github.com/AlexTheBad/AP-10K
-arxiv
+NeurIPS
 Yu2021.jpg 
 none 
 Hang Yu

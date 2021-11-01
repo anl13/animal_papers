@@ -2,7 +2,7 @@ The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions
 2021
 https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions
 https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications
-arxiv
+NeurIPS
 Sun2021.jpg
 none 
 Jennifer J. Sun
