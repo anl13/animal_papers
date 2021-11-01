@@ -1,0 +1,12 @@
+DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension
+2021 
+https://openaccess.thecvf.com/content/ICCV2021/html/Shapovalov_DensePose_3D_Lifting_Canonical_Surface_Maps_of_Articulated_Objects_to_ICCV_2021_paper.html
+none 
+ICCV 
+Shapovalov2021.jpg 
+none 
+Roman Shapovalov
+David Novotny
+Benjamin Graham
+Patrick Labatut
+Andrea Vedaldi

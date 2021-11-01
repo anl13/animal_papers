@@ -1,6 +1,6 @@
-Automatic tracking of mouse social posture dynamics by 3D videography, deep learning and GPU-accelerated robust optimization
+Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography
 2020
-https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf
+https://www.biorxiv.org/content/10.1101/2020.05.21.109629v2
 none
 biorxiv
 Ebbesen2020.jpg

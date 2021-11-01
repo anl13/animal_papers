@@ -2,7 +2,7 @@
 2021
 https://arxiv.org/pdf/2105.01905.pdf
 https://github.com/rabbityl/DeformingThings4D
-arxiv
+ICCV
 Li2021-2.jpg
 none 
 Yang Li

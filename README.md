@@ -54,20 +54,6 @@ In biorxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers/Li2021-2.jpg"/></a></td>
-<td align="left" width=550>4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface<br>
-Yang Li, 
-Hikari Takehara, 
-Takafumi Taketomi, 
-Bo Zheng, 
-<a href="https://niessnerlab.org/">Matthias Nießner</a><br>
-In arxiv 2021 <br>
-<a href="https://arxiv.org/pdf/2105.01905.pdf">[Paper]</a> 
-<a href="https://github.com/rabbityl/DeformingThings4D">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Banik2021.jpg"/></a></td>
 <td align="left" width=550>A Novel Dataset for Keypoint Detection of Quadruped Animals from Images<br>
 Prianka Banik, 
@@ -261,6 +247,43 @@ In Nature Communications 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers/Li2021-2.jpg"/></a></td>
+<td align="left" width=550>4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface<br>
+Yang Li, 
+Hikari Takehara, 
+Takafumi Taketomi, 
+Bo Zheng, 
+<a href="https://niessnerlab.org/">Matthias Nießner</a><br>
+In ICCV 2021 <br>
+<a href="https://arxiv.org/pdf/2105.01905.pdf">[Paper]</a> 
+<a href="https://github.com/rabbityl/DeformingThings4D">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Shapovalov2021.jpg"/></a></td>
+<td align="left" width=550>DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension<br>
+Roman Shapovalov, 
+David Novotny, 
+Benjamin Graham, 
+Patrick Labatut, 
+Andrea Vedaldi<br>
+In ICCV 2021 <br>
+<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Shapovalov_DensePose_3D_Lifting_Canonical_Surface_Maps_of_Articulated_Objects_to_ICCV_2021_paper.html">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ebbesen2021.jpg"/></a></td>
+<td align="left" width=550>Body language signals for rodent social communication<br>
+Christian L. Ebbesen, 
+<a href="https://med.nyu.edu/faculty/robert-c-froemke">Robert C. Froemke</a><br>
+In Current Opinion in Neurobiology 2021 <br>
+<a href="https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8243782&blobtype=pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/SchwarzNeuroconLab/DeepLabStream"><img src="teasers/Schweihoff2021.jpg"/></a></td>
 <td align="left" width=550>DeepLabStream enables closed-loop behavioral experiments using deep learning-based markerless, real-time posture detection<br>
 Jens F. Schweihoff, 
@@ -408,11 +431,11 @@ In biorxiv 2020 <br>
 
 <tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ebbesen2020.jpg"/></a></td>
-<td align="left" width=550>Automatic tracking of mouse social posture dynamics by 3D videography, deep learning and GPU-accelerated robust optimization<br>
+<td align="left" width=550>Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography<br>
 Christian L. Ebbesen, 
 <a href="http://froemkelab.med.nyu.edu/people">Robert C. Froemke</a><br>
 In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.21.109629.full.pdf">[Paper]</a> 
+<a href="https://www.biorxiv.org/content/10.1101/2020.05.21.109629v2">[Paper]</a> 
 </td></tr></tbody>
 
 
@@ -1082,6 +1105,33 @@ Sara Arganda,
 In Nature Methods 2014 <br>
 <a href="https://www.nature.com/articles/nmeth.2994">[Paper]</a> 
 <a href="http://www.idtracker.es/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Langford2010.jpg"/></a></td>
+<td align="left" width=550>coding of facial expressions of pain in the laboratory mouse<br>
+Dale J Langford, 
+Andrea L Bailey, 
+Mona Lisa Chanda, 
+Sarah E Clarke, 
+Tanya E Drummond, 
+Stephanie Echols, 
+Sarah Glick, 
+Joelle Ingrao, 
+Tammy Klassen-Ross, 
+Michael L LaCroix-Fralish, 
+Lynn Matsumiya, 
+Robert E Sorge, 
+Susana G Sotocinal, 
+John M Tabaka, 
+David Wong, 
+Arn M J M van den Maagdenberg, 
+Michel D Ferrari, 
+Kenneth D Craig, 
+Jeffrey S Mogil<br>
+In Nature Methods (brief communications) 2010 <br>
+<a href="https://www.nature.com/articles/nmeth.1455">[Paper]</a> 
 </td></tr></tbody>
 
 
