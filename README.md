@@ -369,6 +369,18 @@ In CVPR 2021 (<b>Best Paper Candidate</b>)<br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Kim2021.jpg"/></a></td>
+<td align="left" width=550>Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise<br>
+Kim Youwang, 
+Kim Ji-Yeon, 
+Kyungdon Joo, 
+Tae-Hyun Oh<br>
+In BMVC 2021 <br>
+<a href="https://arxiv.org/pdf/2111.02450.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
 <td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
 Angie M Michaiel, 
