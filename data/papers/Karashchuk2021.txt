@@ -1,13 +1,14 @@
 Anipose: a toolkit for robust markerless 3D pose estimation
-2020
-http://faculty.washington.edu/tuthill/docs/anipose.pdf
-https://github.com/lambdaloop/anipose
-biorxiv
-Karashchuk2020.jpg 
+2021
+https://www.sciencedirect.com/science/article/pii/S2211124721011797?via%3Dihub
+https://anipose.readthedocs.io/en/latest/index.html
+Cell Reports (Resource)
+Karashchuk2021.jpg 
 none
 Pierre Karashchuk+https://github.com/lambdaloop
 Katie L. Rupp
 Evyn S. Dickinson
+SarahWalling-Bell
 Elischa Sanders
 Eiman Azim+https://www.salk.edu/scientist/eiman-azim/
 Bingni W. Brunton+https://www.bingbrunton.com/

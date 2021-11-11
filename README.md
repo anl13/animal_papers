@@ -299,6 +299,23 @@ In Communications Biology 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://anipose.readthedocs.io/en/latest/index.html"><img src="teasers/Karashchuk2021.jpg"/></a></td>
+<td align="left" width=550>Anipose: a toolkit for robust markerless 3D pose estimation<br>
+<a href="https://github.com/lambdaloop">Pierre Karashchuk</a>, 
+Katie L. Rupp, 
+Evyn S. Dickinson, 
+SarahWalling-Bell, 
+Elischa Sanders, 
+<a href="https://www.salk.edu/scientist/eiman-azim/">Eiman Azim</a>, 
+<a href="https://www.bingbrunton.com/">Bingni W. Brunton</a>, 
+<a href="http://faculty.washington.edu/tuthill/">John C. Tuthill</a><br>
+In Cell Reports (Resource) 2021 <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S2211124721011797?via%3Dihub">[Paper]</a> 
+<a href="https://anipose.readthedocs.io/en/latest/index.html">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://yufu-wang.github.io/aves/"><img src="teasers/Wang2021.jpg"/></a></td>
 <td align="left" width=550>Birds of a Feather: Capturing Avian Shape Models from Images<br>
 <a href="https://yufu-wang.github.io/">Yufu Wang</a>, 
@@ -410,22 +427,6 @@ Kay M. Tye,
 In biorxiv 2020 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.12.04.405159v1.full.pdf">[Paper]</a> 
 <a href="https://github.com/ZexinChen/AlphaTracker">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/lambdaloop/anipose"><img src="teasers/Karashchuk2020.jpg"/></a></td>
-<td align="left" width=550>Anipose: a toolkit for robust markerless 3D pose estimation<br>
-<a href="https://github.com/lambdaloop">Pierre Karashchuk</a>, 
-Katie L. Rupp, 
-Evyn S. Dickinson, 
-Elischa Sanders, 
-<a href="https://www.salk.edu/scientist/eiman-azim/">Eiman Azim</a>, 
-<a href="https://www.bingbrunton.com/">Bingni W. Brunton</a>, 
-<a href="http://faculty.washington.edu/tuthill/">John C. Tuthill</a><br>
-In biorxiv 2020 <br>
-<a href="http://faculty.washington.edu/tuthill/docs/anipose.pdf">[Paper]</a> 
-<a href="https://github.com/lambdaloop/anipose">[Project]</a>
 </td></tr></tbody>
 
 
