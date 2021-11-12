@@ -1,0 +1,11 @@
+Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise
+2021
+https://arxiv.org/pdf/2111.02450.pdf
+none 
+BMVC 
+Kim2021.jpg 
+none 
+Kim Youwang
+Kim Ji-Yeon
+Kyungdon Joo
+Tae-Hyun Oh
