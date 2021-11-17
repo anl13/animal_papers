@@ -102,6 +102,16 @@ In NeurIPS 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Li2021-3.jpg"/></a></td>
+<td align="left" width=550>Coarse-to-fine Animal Pose and Shape Estimation<br>
+<a href="https://chaneyddtt.github.io/">Chen Li</a>, 
+<a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a><br>
+In NeurIPS 2021 <br>
+<a href="https://arxiv.org/pdf/2111.08176.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Fujii2021.jpg"/></a></td>
 <td align="left" width=550>Learning interaction rules from multi-animal trajectories via augmented behavioral models<br>
 Keisuke Fujii, 

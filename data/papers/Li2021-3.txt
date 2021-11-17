@@ -1,0 +1,9 @@
+Coarse-to-fine Animal Pose and Shape Estimation
+2021
+https://arxiv.org/pdf/2111.08176.pdf
+none 
+NeurIPS
+Li2021-3.jpg 
+none 
+Chen Li+https://chaneyddtt.github.io/
+Gim Hee Lee+https://www.comp.nus.edu.sg/~leegh/
