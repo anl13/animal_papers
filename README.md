@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2021.11.28] I recommend [MMPose](https://github.com/open-mmlab/mmpose) for 2D animal pose estimation. It has collected various kinds of [datasets](https://github.com/open-mmlab/mmpose/blob/master/docs/tasks/2d_animal_keypoint.md).
+
 [2021.07.16] I recommend CV4Animal workshop in CVPR 2021 (https://www.cv4animals.com/) because it is a good collection of recent advances in animal pose estimation area! 
 
 Recently, markerless animal **motion capture** and **3D reconstruction** attracts more and more attention in computer vision community. Inspired by remarkable techniques for markerless human motion capture, a few excellent literatures appear for animal modeling and reconstruction such as [SMAL](http://smal.is.tue.mpg.de/
