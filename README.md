@@ -8,6 +8,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Voloh2021.jpg"/></a></td>
+<td align="left" width=550>Hierarchical organization of rhesus macaque behavior<br>
+Benjamin Voloh, 
+Benjamin R. Eisenreich, 
+David J-N. Maisson, 
+R. Becket Ebitz, 
+Hyun Soo Park, 
+Benjamin Y. Hayden, 
+Jan Zimmermann<br>
+In biorxiv 2021 <br>
+<a href="https://doi.org/10.1101/2021.11.15.468721">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
 <td align="left" width=550>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster<br>
 Victor Lobato Rios, 
