@@ -10,6 +10,24 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://neuroethology.github.io/MARS/"><img src="teasers/Segalin2021.jpg"/></a></td>
+<td align="left" width=550>The Mouse Action Recognition System (MARS) software pipeline for automated analysis of social behaviors in mice<br>
+Cristina Segalin, 
+Jalani Williams, 
+Tomomi Karigo, 
+May Hui, 
+Moriel Zelikowsky, 
+Jennifer J Sun, 
+Pietro Perona, 
+David J Anderson, 
+Ann Kennedy<br>
+In eLife 2021 <br>
+<a href="https://elifesciences.org/articles/63720.pdf">[Paper]</a> 
+<a href="https://neuroethology.github.io/MARS/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Voloh2021.jpg"/></a></td>
 <td align="left" width=550>Hierarchical organization of rhesus macaque behavior<br>
 Benjamin Voloh, 
@@ -82,6 +100,23 @@ In arxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Sun2021-2.jpg"/></a></td>
+<td align="left" width=550>Self-Supervised Keypoint Discovery in Behavioral Videos<br>
+Jennifer J. Sun, 
+Serim Ryou, 
+Roni Goldshmid, 
+Brandon Weissbourd, 
+John Dabiri, 
+David J. Anderson, 
+Ann Kennedy, 
+Yisong Yue, 
+Pietro Perona<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2112.05121.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ziegler2021.jpg"/></a></td>
 <td align="left" width=550>Big behavior: challenges and opportunities in a new era of deep behavior profiling<br>
 Lukas von Ziegler, 
@@ -89,6 +124,23 @@ Oliver Sturman,
 Johannes Bohacek<br>
 In Neuropsychopharmacology 2021 <br>
 <a href="https://www.nature.com/articles/s41386-020-0751-7">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="teasers/Sun2021.jpg"/></a></td>
+<td align="left" width=550>The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions<br>
+Jennifer J. Sun, 
+Tomomi Karigo, 
+Dipam Chakraborty, 
+Sharada P. Mohanty, 
+David J. Anderson, 
+Pietro Perona, 
+Yisong Yue, 
+Ann Kennedy<br>
+In NeurIPS (Dataset & Benchmarks) 2021 <br>
+<a href="https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions">[Paper]</a> 
+<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications">[Project]</a>
 </td></tr></tbody>
 
 
@@ -146,23 +198,6 @@ Shizuko Hiryu,
 <a href="http://en.kawahara-lab.org/~kawahara/">Yoshinobu Kawahara</a><br>
 In NeurIPS 2021 <br>
 <a href="https://arxiv.org/pdf/2107.05326.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="teasers/Sun2021.jpg"/></a></td>
-<td align="left" width=550>The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions<br>
-Jennifer J. Sun, 
-Tomomi Karigo, 
-Dipam Chakraborty, 
-Sharada P. Mohanty, 
-David J. Anderson, 
-Pietro Perona, 
-Yisong Yue, 
-Ann Kennedy<br>
-In NeurIPS 2021 <br>
-<a href="https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions">[Paper]</a> 
-<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications">[Project]</a>
 </td></tr></tbody>
 
 
@@ -406,7 +441,7 @@ Eric Zhan,
 David J. Anderson, 
 Yisong Yue, 
 Pietro Perona<br>
-In CVPR 2021 (<b>Best Paper Candidate</b>)<br>
+In CVPR 2021 (<b>Best Student Paper Award</b>)<br>
 <a href="http://export.arxiv.org/pdf/2011.13917">[Paper]</a> 
 <a href="http://sites.google.com/view/task-programming">[Project]</a>
 </td></tr></tbody>
@@ -1178,7 +1213,7 @@ In Nature Methods (brief communications) 2010 <br>
 </table>
 <br>
 
-Last updated in Nov 2021
+Last updated in Dec 2021
 <br>
 
 

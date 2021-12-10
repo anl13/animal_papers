@@ -1,0 +1,16 @@
+The Mouse Action Recognition System (MARS) software pipeline for automated analysis of social behaviors in mice
+2021
+https://elifesciences.org/articles/63720.pdf
+https://neuroethology.github.io/MARS/
+eLife 
+Segalin2021.jpg 
+none 
+Cristina Segalin
+Jalani Williams
+Tomomi Karigo
+May Hui
+Moriel Zelikowsky
+Jennifer J Sun
+Pietro Perona
+David J Anderson
+Ann Kennedy
