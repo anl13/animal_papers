@@ -100,6 +100,19 @@ In arxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Le2021.jpg"/></a></td>
+<td align="left" width=550>Multimodal-based Scene-Aware Framework for Aquatic Animal Segmentation<br>
+Minh-Quan Le, 
+Trung-Nghia Le, 
+Tam V. Nguyen, 
+Isao Echizen, 
+Minh-Triet Tran<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2112.06193.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Sun2021-2.jpg"/></a></td>
 <td align="left" width=550>Self-Supervised Keypoint Discovery in Behavioral Videos<br>
 Jennifer J. Sun, 
