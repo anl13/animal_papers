@@ -100,6 +100,18 @@ In arxiv 2021 <br>
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Marshall2021.jpg"/></a></td>
+<td align="left" width=550>Leaving Flatland: Advances in 3D behavioral measurement<br>
+<a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448">Jesse D. Marshall</a>, 
+Tianqing Li, 
+Joshua H. Wu, 
+Timothy W. Dunn<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.01987.pdf">[Paper]</a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Le2021.jpg"/></a></td>
 <td align="left" width=550>Multimodal-based Scene-Aware Framework for Aquatic Animal Segmentation<br>
 Minh-Quan Le, 
@@ -1193,6 +1205,18 @@ Sara Arganda,
 In Nature Methods 2014 <br>
 <a href="https://www.nature.com/articles/nmeth.2994">[Paper]</a> 
 <a href="http://www.idtracker.es/">[Project]</a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Straw2010.jpg"/></a></td>
+<td align="left" width=550>Multi-camera real-time threedimensional tracking of multiple flying animals<br>
+<a href="https://strawlab.org/">Andrew D. Straw</a>, 
+Kristin Branson, 
+Titus R. Neumann, 
+<a href="https://www.bbe.caltech.edu/people/michael-h-dickinson">Michael H. Dickinson</a><br>
+In J. R. Soc. Interface 2011 <br>
+<a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2010.0230">[Paper]</a> 
 </td></tr></tbody>
 
 
