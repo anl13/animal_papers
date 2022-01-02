@@ -111,11 +111,11 @@ class Paper():
     def add_authors(self, content):
         for author, url in zip(self.authors[:-1], self.author_urls[:-1]):
             if url:
-                content += '<a href="%s"><small>%s</small></a>, \n' % (url, author)
+                content += '<a href="%s"><font size=2.5>%s</font></a>, \n' % (url, author)
             else:
-                content += '<small>%s</small>, \n' % author
+                content += '<font size=2.5>%s</font>, \n' % author
         if self.author_urls[-1]:
-            content += '<a href="%s"><small>%s</small></a><br>\n' % (self.author_urls[-1], self.authors[-1])
+            content += '<a href="%s"><font size=2.5>%s</font></a><br>\n' % (self.author_urls[-1], self.authors[-1])
         else:
             content += '%s<br>\n' % self.authors[-1]
         return content
@@ -125,9 +125,9 @@ class Paper():
         paper_md += '<a href="%s"><img src="teasers/%s"/></a></td>\n' % (self.imgurl, self.teaser)
         paper_md += '<td align="left" width=550><em>%s</em><br>\n' % self.title
         paper_md = self.add_authors(paper_md)
-        paper_md += '<small>In %s %d </small>' % (self.article, self.year)
+        paper_md += '<font size=2.5>In %s %d </font>' % (self.article, self.year)
         if self.poster != "none" and self.poster != "poster":
-            paper_md += ('(<b><small>' + self.poster +'</small></b>)')
+            paper_md += ('(<b><font size=2.5>' + self.poster +'</font></b>)')
                 
         paper_md += '<br>\n'
         if self.paper:
