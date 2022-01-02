@@ -5,6 +5,8 @@ https://github.com/NeLy-EPFL/LiftPose3D
 Nature Methods 
 Gosztolai2020.jpg
 none
+keyword: single-view, 3d, bio, fly, mouse, monkey
+adddate: 20210816
 Adam Gosztolai
 Semih Gunel
 Marco Pietro Abrate

@@ -5,6 +5,8 @@ https://github.com/jgraving/deepposekit
 eLife
 Graving2019.jpg
 none
+keyword: mouse, 2d, bio 
+adddate: 20201209
 Jacob M. Graving+https://jakegraving.com/files/cv/jacob_graving_cv.pdf
 Daniel Chae+https://www.danielchae.com/
 Hemal Naik

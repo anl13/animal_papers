@@ -5,6 +5,8 @@ none
 NeurIPS
 Fujii2021.jpg 
 none 
+Keypoint: social, bio 
+adddate: 20211102
 Keisuke Fujii
 Naoya Takeishi
 Kazushi Tsutsui

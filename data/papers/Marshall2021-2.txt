@@ -5,6 +5,8 @@ https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Est
 NeurIPS
 Marshall2021-2.jpg
 none 
+keyword: 3d, social, mouse, dataset, bio 
+adddate: 20211102
 Jesse Marshall 
 Ugne Klibaite 
 Amanda Gellis

@@ -5,6 +5,8 @@ https://nileshkulkarni.github.io/csm/
 ICCV
 Kulkarni2019.jpg
 poster
+keyword: dense surface, cv, quadruped
+adddate: 20201209
 Nilesh Kulkarni+https://nileshkulkarni.github.io/
 Abhinav Gupta+http://www.cs.cmu.edu/~abhinavg/
 Shubham Tulsiani+https://shubhtuls.github.io/

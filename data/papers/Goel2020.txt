@@ -5,6 +5,8 @@ https://shubham-goel.github.io/ucmr/
 ECCV
 Goel2020.jpg
 poster
+keyword: dense surface, bird, cv 
+adddate: 20201209
 Shubham Goel+https://people.eecs.berkeley.edu/~shubham-goel/
 Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
 Jitendra Malik+https://people.eecs.berkeley.edu/~malik/

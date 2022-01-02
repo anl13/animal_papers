@@ -5,6 +5,8 @@ https://lasr-google.github.io/
 CVPR
 Yang2021.jpg
 poster 
+keyword: dense surface, quadruped, single-view, cv 
+adddate: 20210510
 Gengshan Yang+https://gengshan-y.github.io/
 Deqing Sun+https://deqings.github.io/
 Varun Jampani+https://varunjampani.github.io/

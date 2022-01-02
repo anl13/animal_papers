@@ -5,6 +5,8 @@ https://idtrackerai.readthedocs.io/en/latest/
 Nature Methods (Brief Communication)
 Ferrero2019.jpg
 none 
+keyword: fly, bio, social, 2d
+adddate: 20211004
 Francisco Romero-Ferrero+https://www.researchgate.net/profile/Francisco_Romero-Ferrero
 Mattia G. Bergomi
 Robert C. Hinz

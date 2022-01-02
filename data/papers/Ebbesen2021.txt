@@ -5,5 +5,7 @@ none
 Current Opinion in Neurobiology 
 Ebbesen2021.jpg 
 none 
+keyword: mouse, social, bio
+adddate: 20211102
 Christian L. Ebbesen 
 Robert C. Froemke+https://med.nyu.edu/faculty/robert-c-froemke

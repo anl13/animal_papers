@@ -5,6 +5,8 @@ none
 CVPR 
 Neverova2021.jpg 
 poster
+keyword: dense surface, quadruped, cv 
+adddate: 20210819
 Natalia Neverova
 Artsiom Sanakoyeu
 Patrick Labatut

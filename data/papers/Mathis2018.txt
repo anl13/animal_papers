@@ -5,6 +5,8 @@ http://www.mousemotorlab.org/deeplabcut
 Nature Neuroscience
 Mathis2018.jpg
 none
+keyword: 2d, mouse, fly, bio 
+adddate: 20201209
 Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/
 Pranav Mamidanna
 Kevin M. Cury+https://muckrack.com/kevin-m-cury

@@ -5,5 +5,7 @@ none
 biorxiv
 Ebbesen2020.jpg
 none
+keyword: 3d, social, mouse, bio
+adddate: 20211102
 Christian L. Ebbesen
 Robert C. Froemke+http://froemkelab.med.nyu.edu/people

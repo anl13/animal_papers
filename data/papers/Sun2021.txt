@@ -5,6 +5,8 @@ https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-
 NeurIPS (Dataset & Benchmarks)
 Sun2021.jpg
 none 
+keyword: social, mouse, 2d, dataset, behavior, bio 
+adddate: 20211210
 Jennifer J. Sun
 Tomomi Karigo
 Dipam Chakraborty

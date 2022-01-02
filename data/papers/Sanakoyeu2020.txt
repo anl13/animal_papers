@@ -5,6 +5,8 @@ https://gdude.de/densepose-evolution/
 CVPR
 Sanakoyeu2020.jpg
 poster
+keyword: dense surface, chimp, cv 
+adddate: 20201209
 Artsiom Sanakoyeu+https://gdude.de/
 Vasil Khalidov+https://research.fb.com/people/khalidov-vasil/
 Maureen S. McCarthy+https://www.maureenmccarthyphd.com/

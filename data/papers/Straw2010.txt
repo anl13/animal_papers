@@ -5,6 +5,8 @@ none
 J. R. Soc. Interface
 Straw2010.jpg 
 none 
+keyword: multi-view, fly, 3d, bio 
+adddate: 20211215
 Andrew D. Straw+https://strawlab.org/
 Kristin Branson
 Titus R. Neumann

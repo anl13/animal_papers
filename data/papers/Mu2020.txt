@@ -5,6 +5,8 @@ https://github.com/JitengMu/Learning-from-Synthetic-Animals
 CVPR
 Mu2020.JPG
 oral
+keyword: mesh, 2d, cv, quadruped 
+adddate: 20201209
 Jiteng Mu
 Weichao Qiu+https://weichaoqiu.com/
 Gregory Hager+https://www.cs.jhu.edu/hager/

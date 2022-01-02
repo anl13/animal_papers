@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2022.01.02] To make it easy to track, I sort the papers using the timepoint I find them (not publication time), and add label badges to show paper features. 
+
 [2021.11.28] I recommend [MMPose](https://github.com/open-mmlab/mmpose) for 2D animal pose estimation. It has collected various kinds of [datasets](https://github.com/open-mmlab/mmpose/blob/master/docs/tasks/2d_animal_keypoint.md).
 
 [2021.07.16] I recommend CV4Animal workshop in CVPR 2021 (https://www.cv4animals.com/) because it is a good collection of recent advances in animal pose estimation area! 
@@ -7,138 +9,39 @@ Recently, markerless animal **motion capture** and **3D reconstruction** attract
 ) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there is still a long way before computer vision methods could capture natural motion of arbitary animals in industrial-grade. 
 
 Therefore, I contribute this repository to track every step towards the ultimate goal of high quality animal capture. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(al17 at mails dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.
+
+
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
-<a href="https://neuroethology.github.io/MARS/"><img src="teasers/Segalin2021.jpg"/></a></td>
-<td align="left" width=550>The Mouse Action Recognition System (MARS) software pipeline for automated analysis of social behaviors in mice<br>
-Cristina Segalin, 
-Jalani Williams, 
-Tomomi Karigo, 
-May Hui, 
-Moriel Zelikowsky, 
-Jennifer J Sun, 
-Pietro Perona, 
-David J Anderson, 
-Ann Kennedy<br>
-In eLife 2021 <br>
-<a href="https://elifesciences.org/articles/63720.pdf">[Paper]</a> 
-<a href="https://neuroethology.github.io/MARS/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Voloh2021.jpg"/></a></td>
-<td align="left" width=550>Hierarchical organization of rhesus macaque behavior<br>
-Benjamin Voloh, 
-Benjamin R. Eisenreich, 
-David J-N. Maisson, 
-R. Becket Ebitz, 
-Hyun Soo Park, 
-Benjamin Y. Hayden, 
-Jan Zimmermann<br>
-In biorxiv 2021 <br>
-<a href="https://doi.org/10.1101/2021.11.15.468721">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
-<td align="left" width=550>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster<br>
-Victor Lobato Rios, 
-Pembe Gizem Ozdil, 
-Shravan Tata Ramalingasetty, 
-Jonathan Arreguit, 
-<a href="https://www.epfl.ch/labs/biorob/people/ijspeert/">Auke Jan Ijspeert</a>, 
-<a href="https://people.epfl.ch/pavan.ramdya">Pavan Ramdya</a><br>
-In biorxiv 2021 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2021.04.17.440214v2">[Paper]</a> 
-<a href="https://nely-epfl.github.io/NeuroMechFly/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="http://openmonkeychallenge.com/"><img src="teasers/Yao2021.jpg"/></a></td>
-<td align="left" width=550>OpenMonkeyChallenge: Dataset and Benchmark Challenges for Pose Tracking of Non-human Primates<br>
-Yuan Yao, 
-Abhiraj Mohan, 
-Eliza Bliss-Moreau, 
-Kristine Coleman, 
-Sienna M. Freeman, 
-Christopher J. Machado, 
-Jessica Raper, 
-Jan Zimmermann, 
-Benjamin Y. Hayden, 
-Hyun Soo Park<br>
-In biorxiv 2021 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2021.09.08.459549v1.full.pdf">[Paper]</a> 
-<a href="http://openmonkeychallenge.com/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Corcoran2021.jpg"/></a></td>
-<td align="left" width=550>ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking<br>
-Aaron J. Corcoran, 
-Michael R. Schirmacher, 
-Eric Black, 
-<a href="https://biomech.web.unc.edu/people/">Tyson L. Hedrick</a><br>
-In biorxiv 2021 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2021.05.12.443854v1.full.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Banik2021.jpg"/></a></td>
-<td align="left" width=550>A Novel Dataset for Keypoint Detection of Quadruped Animals from Images<br>
-Prianka Banik, 
-Lin Li, 
-Xishuang Dong<br>
+<a href="https://banmo-www.github.io/"><img src="teasers/Yang2022.jpg"/></a></td>
+<td align="left" width=550>BANMo: Building Animatable 3D Neural Models from Many Casual Videos<br>
+<a href="https://gengshan-y.github.io/">Gengshan Yang</a>, 
+<a href="https://minhpvo.github.io/">Minh Vo</a>, 
+<a href="https://nneverova.github.io/">Natalia Neverova</a>, 
+<a href="https://www.cs.cmu.edu/~deva/">Deva Ramanan</a>, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a>, 
+<a href="https://jhugestar.github.io/">Hanbyul Joo</a><br>
 In arxiv 2021 <br>
-<a href="https://arxiv.org/pdf/2108.13958.pdf">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://arxiv.org/abs/2112.12761">[Paper]</a> 
+<a href="https://banmo-www.github.io/">[Project]</a>
+<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Marshall2021.jpg"/></a></td>
-<td align="left" width=550>Leaving Flatland: Advances in 3D behavioral measurement<br>
-<a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448">Jesse D. Marshall</a>, 
-Tianqing Li, 
-Joshua H. Wu, 
-Timothy W. Dunn<br>
-In arxiv 2021 <br>
-<a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.01987.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Le2021.jpg"/></a></td>
-<td align="left" width=550>Multimodal-based Scene-Aware Framework for Aquatic Animal Segmentation<br>
-Minh-Quan Le, 
-Trung-Nghia Le, 
-Tam V. Nguyen, 
-Isao Echizen, 
-Minh-Triet Tran<br>
-In arxiv 2021 <br>
-<a href="https://arxiv.org/pdf/2112.06193.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Sun2021-2.jpg"/></a></td>
-<td align="left" width=550>Self-Supervised Keypoint Discovery in Behavioral Videos<br>
-Jennifer J. Sun, 
-Serim Ryou, 
-Roni Goldshmid, 
-Brandon Weissbourd, 
-John Dabiri, 
-David J. Anderson, 
-Ann Kennedy, 
-Yisong Yue, 
-Pietro Perona<br>
-In arxiv 2021 <br>
-<a href="https://arxiv.org/pdf/2112.05121.pdf">[Paper]</a> 
-</td></tr></tbody>
+<a href="none"><img src="teasers/Jiang2020.jpg"/></a></td>
+<td align="left" width=550>Muti-view Mouse Social Behaviour Recognition with Deep Graphic Model<br>
+Zheheng Jiang, 
+Feixiang Zhou, 
+Aite Zhao, 
+Xin Li, 
+Ling Li, 
+<a href="https://dl.acm.org/profile/81100159571">Dacheng Tao</a>, 
+<a href="http://www.dcs.bbk.ac.uk/~xuelong/">Xuelong Li</a>, 
+<a href="https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou">Huiyu Zhou</a><br>
+In TIP 2021 <br>
+<a href="https://arxiv.org/pdf/2011.02451.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -157,18 +60,54 @@ Liping Wang,
 Pengfei Wei<br>
 In Neuroscience Bulletin 2021 <br>
 <a href="https://link.springer.com/article/10.1007%2Fs12264-021-00778-6">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/topic-brain-orange" align="bottom"><img src="https://img.shields.io/badge/topic-brain-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ziegler2021.jpg"/></a></td>
-<td align="left" width=550>Big behavior: challenges and opportunities in a new era of deep behavior profiling<br>
-Lukas von Ziegler, 
-Oliver Sturman, 
-Johannes Bohacek<br>
-In Neuropsychopharmacology 2021 <br>
-<a href="https://www.nature.com/articles/s41386-020-0751-7">[Paper]</a> 
-</td></tr></tbody>
+<a href="none"><img src="teasers/Straw2010.jpg"/></a></td>
+<td align="left" width=550>Multi-camera real-time threedimensional tracking of multiple flying animals<br>
+<a href="https://strawlab.org/">Andrew D. Straw</a>, 
+Kristin Branson, 
+Titus R. Neumann, 
+<a href="https://www.bbe.caltech.edu/people/michael-h-dickinson">Michael H. Dickinson</a><br>
+In J. R. Soc. Interface 2011 <br>
+<a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2010.0230">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://neuroethology.github.io/MARS/"><img src="teasers/Segalin2021.jpg"/></a></td>
+<td align="left" width=550>The Mouse Action Recognition System (MARS) software pipeline for automated analysis of social behaviors in mice<br>
+Cristina Segalin, 
+Jalani Williams, 
+Tomomi Karigo, 
+May Hui, 
+Moriel Zelikowsky, 
+Jennifer J Sun, 
+Pietro Perona, 
+David J Anderson, 
+Ann Kennedy<br>
+In eLife 2021 <br>
+<a href="https://elifesciences.org/articles/63720.pdf">[Paper]</a> 
+<a href="https://neuroethology.github.io/MARS/">[Project]</a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Sun2021-2.jpg"/></a></td>
+<td align="left" width=550>Self-Supervised Keypoint Discovery in Behavioral Videos<br>
+Jennifer J. Sun, 
+Serim Ryou, 
+Roni Goldshmid, 
+Brandon Weissbourd, 
+John Dabiri, 
+David J. Anderson, 
+Ann Kennedy, 
+Yisong Yue, 
+Pietro Perona<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2112.05121.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -185,33 +124,22 @@ Ann Kennedy<br>
 In NeurIPS (Dataset & Benchmarks) 2021 <br>
 <a href="https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions">[Paper]</a> 
 <a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/AlexTheBad/AP-10K"><img src="teasers/Yu2021.jpg"/></a></td>
-<td align="left" width=550>AP-10K: A Benchmark for Animal Pose Estimation in the Wild<br>
-Hang Yu, 
-Yufei Xu, 
-Jing Zhang, 
-Wei Zhao, 
-Ziyu Guan, 
-<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">Dacheng Tao</a><br>
-In NeurIPS 2021 <br>
-<a href="https://arxiv.org/pdf/2108.12617.pdf">[Paper]</a> 
-<a href="https://github.com/AlexTheBad/AP-10K">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Vidal2021.jpg"/></a></td>
-<td align="left" width=550>Across-animal odor decoding by probabilistic manifold alignment<br>
-Pedro Herrero-Vidal, 
-Dmitry Rinberg, 
-<a href="https://as.nyu.edu/content/nyu-as/as/faculty/cristina-savin.html">Cristina Savin</a><br>
-In NeurIPS 2021 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1.full.pdf">[Paper]</a> 
-</td></tr></tbody>
+<a href="http://sites.google.com/view/task-programming"><img src="teasers/Sun2021-1.jpg"/></a></td>
+<td align="left" width=550>Task Programming: Learning Data Efficient Behavior Representations<br>
+Jennifer J. Sun, 
+Ann Kennedy, 
+Eric Zhan, 
+David J. Anderson, 
+Yisong Yue, 
+Pietro Perona<br>
+In CVPR 2021 (<b>Best Student Paper Award</b>)<br>
+<a href="http://export.arxiv.org/pdf/2011.13917">[Paper]</a> 
+<a href="http://sites.google.com/view/task-programming">[Project]</a>
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -221,6 +149,75 @@ In NeurIPS 2021 <br>
 <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a><br>
 In NeurIPS 2021 <br>
 <a href="https://arxiv.org/pdf/2111.08176.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/animal-dog-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-dog-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Voloh2021.jpg"/></a></td>
+<td align="left" width=550>Hierarchical organization of rhesus macaque behavior<br>
+Benjamin Voloh, 
+Benjamin R. Eisenreich, 
+David J-N. Maisson, 
+R. Becket Ebitz, 
+Hyun Soo Park, 
+Benjamin Y. Hayden, 
+Jan Zimmermann<br>
+In biorxiv 2021 <br>
+<a href="https://doi.org/10.1101/2021.11.15.468721">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Marshall2021.jpg"/></a></td>
+<td align="left" width=550>Leaving Flatland: Advances in 3D behavioral measurement<br>
+<a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448">Jesse D. Marshall</a>, 
+Tianqing Li, 
+Joshua H. Wu, 
+Timothy W. Dunn<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.01987.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Kim2021.jpg"/></a></td>
+<td align="left" width=550>Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise<br>
+Kim Youwang, 
+Kim Ji-Yeon, 
+Kyungdon Joo, 
+Tae-Hyun Oh<br>
+In BMVC 2021 <br>
+<a href="https://arxiv.org/pdf/2111.02450.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://anipose.readthedocs.io/en/latest/index.html"><img src="teasers/Karashchuk2021.jpg"/></a></td>
+<td align="left" width=550>Anipose: a toolkit for robust markerless 3D pose estimation<br>
+<a href="https://github.com/lambdaloop">Pierre Karashchuk</a>, 
+Katie L. Rupp, 
+Evyn S. Dickinson, 
+SarahWalling-Bell, 
+Elischa Sanders, 
+<a href="https://www.salk.edu/scientist/eiman-azim/">Eiman Azim</a>, 
+<a href="https://www.bingbrunton.com/">Bingni W. Brunton</a>, 
+<a href="http://faculty.washington.edu/tuthill/">John C. Tuthill</a><br>
+In Cell Reports (Resource) 2021 <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S2211124721011797?via%3Dihub">[Paper]</a> 
+<a href="https://anipose.readthedocs.io/en/latest/index.html">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Le2021.jpg"/></a></td>
+<td align="left" width=550>Multimodal-based Scene-Aware Framework for Aquatic Animal Segmentation<br>
+Minh-Quan Le, 
+Trung-Nghia Le, 
+Tam V. Nguyen, 
+Isao Echizen, 
+Minh-Triet Tran<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2112.06193.pdf">[Paper]</a> 
 </td></tr></tbody>
 
 
@@ -257,7 +254,107 @@ Tim Dunn<br>
 In NeurIPS 2021 <br>
 <a href="https://openreview.net/pdf?id=-wVVl_UPr8">[Paper]</a> 
 <a href="https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Vidal2021.jpg"/></a></td>
+<td align="left" width=550>Across-animal odor decoding by probabilistic manifold alignment<br>
+Pedro Herrero-Vidal, 
+Dmitry Rinberg, 
+<a href="https://as.nyu.edu/content/nyu-as/as/faculty/cristina-savin.html">Cristina Savin</a><br>
+In NeurIPS 2021 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1.full.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers/Li2021-2.jpg"/></a></td>
+<td align="left" width=550>4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface<br>
+Yang Li, 
+Hikari Takehara, 
+Takafumi Taketomi, 
+Bo Zheng, 
+<a href="https://niessnerlab.org/">Matthias Nießner</a><br>
+In ICCV 2021 <br>
+<a href="https://arxiv.org/pdf/2105.01905.pdf">[Paper]</a> 
+<a href="https://github.com/rabbityl/DeformingThings4D">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Shapovalov2021.jpg"/></a></td>
+<td align="left" width=550>DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension<br>
+Roman Shapovalov, 
+David Novotny, 
+Benjamin Graham, 
+Patrick Labatut, 
+Andrea Vedaldi<br>
+In ICCV 2021 <br>
+<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Shapovalov_DensePose_3D_Lifting_Canonical_Surface_Maps_of_Articulated_Objects_to_ICCV_2021_paper.html">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ebbesen2021.jpg"/></a></td>
+<td align="left" width=550>Body language signals for rodent social communication<br>
+Christian L. Ebbesen, 
+<a href="https://med.nyu.edu/faculty/robert-c-froemke">Robert C. Froemke</a><br>
+In Current Opinion in Neurobiology 2021 <br>
+<a href="https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8243782&blobtype=pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ebbesen2020.jpg"/></a></td>
+<td align="left" width=550>Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography<br>
+Christian L. Ebbesen, 
+<a href="http://froemkelab.med.nyu.edu/people">Robert C. Froemke</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.05.21.109629v2">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Langford2010.jpg"/></a></td>
+<td align="left" width=550>coding of facial expressions of pain in the laboratory mouse<br>
+Dale J Langford, 
+Andrea L Bailey, 
+Mona Lisa Chanda, 
+Sarah E Clarke, 
+Tanya E Drummond, 
+Stephanie Echols, 
+Sarah Glick, 
+Joelle Ingrao, 
+Tammy Klassen-Ross, 
+Michael L LaCroix-Fralish, 
+Lynn Matsumiya, 
+Robert E Sorge, 
+Susana G Sotocinal, 
+John M Tabaka, 
+David Wong, 
+Arn M J M van den Maagdenberg, 
+Michel D Ferrari, 
+Kenneth D Craig, 
+Jeffrey S Mogil<br>
+In Nature Methods (brief communications) 2010 <br>
+<a href="https://www.nature.com/articles/nmeth.1455">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/AlexTheBad/AP-10K"><img src="teasers/Yu2021.jpg"/></a></td>
+<td align="left" width=550>AP-10K: A Benchmark for Animal Pose Estimation in the Wild<br>
+Hang Yu, 
+Yufei Xu, 
+Jing Zhang, 
+Wei Zhao, 
+Ziyu Guan, 
+<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">Dacheng Tao</a><br>
+In NeurIPS 2021 <br>
+<a href="https://arxiv.org/pdf/2108.12617.pdf">[Paper]</a> 
+<a href="https://github.com/AlexTheBad/AP-10K">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -274,25 +371,113 @@ Arrate Muñoz-Barrutia,
 In Nature Methods (brief communication) 2021 <br>
 <a href="https://www.nature.com/articles/s41592-021-01262-9.pdf">[Paper]</a> 
 <a href="https://deepimagej.github.io/deepimagej/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/ubcbraincircuits/mCBF"><img src="teasers/Bolanos2021.jpg"/></a></td>
-<td align="left" width=550>A three-dimensional virtual mouse generates synthetic training data for behavioral analysis<br>
-Luis A. Bolaños, 
-Dongsheng Xiao, 
-Nancy L. Ford, 
-Jeff M. LeDue, 
-Pankaj K. Gupta, 
-Carlos Doebeli, 
-Hao Hu, 
-Helge Rhodin, 
-Timothy H. Murphy<br>
-In Nature Methods (Brief Communication) 2021 (<b>cover</b>)<br>
-<a href="https://www.nature.com/articles/s41592-021-01103-9">[Paper]</a> 
-<a href="https://github.com/ubcbraincircuits/mCBF">[Project]</a>
-</td></tr></tbody>
+<a href="https://idtrackerai.readthedocs.io/en/latest/"><img src="teasers/Ferrero2019.jpg"/></a></td>
+<td align="left" width=550>idtracker.ai: tracking all individuals in small or large collectives of unmarked animals<br>
+<a href="https://www.researchgate.net/profile/Francisco_Romero-Ferrero">Francisco Romero-Ferrero</a>, 
+Mattia G. Bergomi, 
+Robert C. Hinz, 
+Francisco J. H. Heras, 
+<a href="http://www.neuro.fchampalimaud.org/en/person/276/">Gonzalo G. de Polavieja</a><br>
+In Nature Methods (Brief Communication) 2019 <br>
+<a href="https://arxiv.org/abs/1803.04351">[Paper]</a> 
+<a href="https://idtrackerai.readthedocs.io/en/latest/">[Project]</a>
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="http://openmonkeychallenge.com/"><img src="teasers/Yao2021.jpg"/></a></td>
+<td align="left" width=550>OpenMonkeyChallenge: Dataset and Benchmark Challenges for Pose Tracking of Non-human Primates<br>
+Yuan Yao, 
+Abhiraj Mohan, 
+Eliza Bliss-Moreau, 
+Kristine Coleman, 
+Sienna M. Freeman, 
+Christopher J. Machado, 
+Jessica Raper, 
+Jan Zimmermann, 
+Benjamin Y. Hayden, 
+Hyun Soo Park<br>
+In biorxiv 2021 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.09.08.459549v1.full.pdf">[Paper]</a> 
+<a href="http://openmonkeychallenge.com/">[Project]</a>
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Banik2021.jpg"/></a></td>
+<td align="left" width=550>A Novel Dataset for Keypoint Detection of Quadruped Animals from Images<br>
+Prianka Banik, 
+Lin Li, 
+Xishuang Dong<br>
+In arxiv 2021 <br>
+<a href="https://arxiv.org/pdf/2108.13958.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
+<td align="left" width=550>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster<br>
+Victor Lobato Rios, 
+Pembe Gizem Ozdil, 
+Shravan Tata Ramalingasetty, 
+Jonathan Arreguit, 
+<a href="https://www.epfl.ch/labs/biorob/people/ijspeert/">Auke Jan Ijspeert</a>, 
+<a href="https://people.epfl.ch/pavan.ramdya">Pavan Ramdya</a><br>
+In biorxiv 2021 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.04.17.440214v2">[Paper]</a> 
+<a href="https://nely-epfl.github.io/NeuroMechFly/">[Project]</a>
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Neverova2021.jpg"/></a></td>
+<td align="left" width=550>Discovering Relationships between Object Categories via Universal Canonical Maps<br>
+Natalia Neverova, 
+Artsiom Sanakoyeu, 
+Patrick Labatut, 
+David Novotny, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a><br>
+In CVPR 2021 <br>
+<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Neverova_Discovering_Relationships_Between_Object_Categories_via_Universal_Canonical_Maps_CVPR_2021_paper.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Sheppard2020.jpg"/></a></td>
+<td align="left" width=550>Gait-level analysis of mouse open field behavior using deep learning-based pose estimation<br>
+Keith Sheppard, 
+Justin Gardin, 
+Gautam Sabnis, 
+Asaf Peer, 
+Megan Darrell, 
+Sean Deats, 
+Brian Geuther, 
+Cathleen M. Lutz, 
+<a href="https://www.kumarlab.org/">Vivek Kumar</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.12.29.424780v2.full.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
+<td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals<br>
+Adam Gosztolai, 
+Semih Gunel, 
+Marco Pietro Abrate, 
+Daniel Morales, 
+Victor Lobato Rios, 
+<a href="https://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>, 
+Pascal Fua, 
+<a href="https://www.epfl.ch/labs/ramdya-lab/">Pavan Ramdya</a><br>
+In Nature Methods 2021 <br>
+<a href="https://www.nature.com/articles/s41592-021-01226-z.pdf">[Paper]</a> 
+<a href="https://github.com/NeLy-EPFL/LiftPose3D">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -314,24 +499,32 @@ Bence P. Ölveczky<br>
 In Nature Methods 2021 <br>
 <a href="https://www.nature.com/articles/s41592-021-01106-6.pdf">[Paper]</a> 
 <a href="https://github.com/spoonsso/DANNCE">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
-<td align="left" width=550>LiftPose3D, a deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals<br>
-Adam Gosztolai, 
-Semih Gunel, 
-Marco Pietro Abrate, 
-Daniel Morales, 
-Victor Lobato Rios, 
-<a href="https://www.cs.ubc.ca/~rhodin/">Helge Rhodin</a>, 
-Pascal Fua, 
-<a href="https://www.epfl.ch/labs/ramdya-lab/">Pavan Ramdya</a><br>
-In Nature Methods 2021 <br>
-<a href="https://www.nature.com/articles/s41592-021-01226-z.pdf">[Paper]</a> 
-<a href="https://github.com/NeLy-EPFL/LiftPose3D">[Project]</a>
-</td></tr></tbody>
+<a href="https://yufu-wang.github.io/aves/"><img src="teasers/Wang2021.jpg"/></a></td>
+<td align="left" width=550>Birds of a Feather: Capturing Avian Shape Models from Images<br>
+<a href="https://yufu-wang.github.io/">Yufu Wang</a>, 
+<a href="https://www.seas.upenn.edu/~nkolot/">Nikos Kolotouros</a>, 
+<a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis</a>, 
+<a href="https://www.ocf.berkeley.edu/~badger/">Marc Badger</a><br>
+In CVPR 2021 <br>
+<a href="https://arxiv.org/pdf/2105.09396.pdf">[Paper]</a> 
+<a href="https://yufu-wang.github.io/aves/">[Project]</a>
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Corcoran2021.jpg"/></a></td>
+<td align="left" width=550>ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking<br>
+Aaron J. Corcoran, 
+Michael R. Schirmacher, 
+Eric Black, 
+<a href="https://biomech.web.unc.edu/people/">Tyson L. Hedrick</a><br>
+In biorxiv 2021 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.05.12.443854v1.full.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -349,44 +542,36 @@ Siyuan Liu,
 In Nature Communications 2021 <br>
 <a href="https://doi.org/10.1101/2020.09.14.295808">[Paper]</a> 
 <a href="https://behavioratlas.tech/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers/Li2021-2.jpg"/></a></td>
-<td align="left" width=550>4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface<br>
-Yang Li, 
-Hikari Takehara, 
-Takafumi Taketomi, 
-Bo Zheng, 
-<a href="https://niessnerlab.org/">Matthias Nießner</a><br>
-In ICCV 2021 <br>
-<a href="https://arxiv.org/pdf/2105.01905.pdf">[Paper]</a> 
-<a href="https://github.com/rabbityl/DeformingThings4D">[Project]</a>
-</td></tr></tbody>
+<a href="none"><img src="teasers/Ziegler2021.jpg"/></a></td>
+<td align="left" width=550>Big behavior: challenges and opportunities in a new era of deep behavior profiling<br>
+Lukas von Ziegler, 
+Oliver Sturman, 
+Johannes Bohacek<br>
+In Neuropsychopharmacology 2021 <br>
+<a href="https://www.nature.com/articles/s41386-020-0751-7">[Paper]</a> 
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Shapovalov2021.jpg"/></a></td>
-<td align="left" width=550>DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension<br>
-Roman Shapovalov, 
-David Novotny, 
-Benjamin Graham, 
-Patrick Labatut, 
-Andrea Vedaldi<br>
-In ICCV 2021 <br>
-<a href="https://openaccess.thecvf.com/content/ICCV2021/html/Shapovalov_DensePose_3D_Lifting_Canonical_Surface_Maps_of_Articulated_Objects_to_ICCV_2021_paper.html">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ebbesen2021.jpg"/></a></td>
-<td align="left" width=550>Body language signals for rodent social communication<br>
-Christian L. Ebbesen, 
-<a href="https://med.nyu.edu/faculty/robert-c-froemke">Robert C. Froemke</a><br>
-In Current Opinion in Neurobiology 2021 <br>
-<a href="https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8243782&blobtype=pdf">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://github.com/ubcbraincircuits/mCBF"><img src="teasers/Bolanos2021.jpg"/></a></td>
+<td align="left" width=550>A three-dimensional virtual mouse generates synthetic training data for behavioral analysis<br>
+Luis A. Bolaños, 
+Dongsheng Xiao, 
+Nancy L. Ford, 
+Jeff M. LeDue, 
+Pankaj K. Gupta, 
+Carlos Doebeli, 
+Hao Hu, 
+Helge Rhodin, 
+Timothy H. Murphy<br>
+In Nature Methods (Brief Communication) 2021 (<b>cover</b>)<br>
+<a href="https://www.nature.com/articles/s41592-021-01103-9">[Paper]</a> 
+<a href="https://github.com/ubcbraincircuits/mCBF">[Project]</a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -401,50 +586,7 @@ Martin K. Schwarz<br>
 In Communications Biology 2021 <br>
 <a href="https://www.nature.com/articles/s42003-021-01654-9">[Paper]</a> 
 <a href="https://github.com/SchwarzNeuroconLab/DeepLabStream">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://anipose.readthedocs.io/en/latest/index.html"><img src="teasers/Karashchuk2021.jpg"/></a></td>
-<td align="left" width=550>Anipose: a toolkit for robust markerless 3D pose estimation<br>
-<a href="https://github.com/lambdaloop">Pierre Karashchuk</a>, 
-Katie L. Rupp, 
-Evyn S. Dickinson, 
-SarahWalling-Bell, 
-Elischa Sanders, 
-<a href="https://www.salk.edu/scientist/eiman-azim/">Eiman Azim</a>, 
-<a href="https://www.bingbrunton.com/">Bingni W. Brunton</a>, 
-<a href="http://faculty.washington.edu/tuthill/">John C. Tuthill</a><br>
-In Cell Reports (Resource) 2021 <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S2211124721011797?via%3Dihub">[Paper]</a> 
-<a href="https://anipose.readthedocs.io/en/latest/index.html">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://yufu-wang.github.io/aves/"><img src="teasers/Wang2021.jpg"/></a></td>
-<td align="left" width=550>Birds of a Feather: Capturing Avian Shape Models from Images<br>
-<a href="https://yufu-wang.github.io/">Yufu Wang</a>, 
-<a href="https://www.seas.upenn.edu/~nkolot/">Nikos Kolotouros</a>, 
-<a href="https://www.cis.upenn.edu/~kostas/">Kostas Daniilidis</a>, 
-<a href="https://www.ocf.berkeley.edu/~badger/">Marc Badger</a><br>
-In CVPR 2021 <br>
-<a href="https://arxiv.org/pdf/2105.09396.pdf">[Paper]</a> 
-<a href="https://yufu-wang.github.io/aves/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Neverova2021.jpg"/></a></td>
-<td align="left" width=550>Discovering Relationships between Object Categories via Universal Canonical Maps<br>
-Natalia Neverova, 
-Artsiom Sanakoyeu, 
-Patrick Labatut, 
-David Novotny, 
-<a href="https://www.robots.ox.ac.uk/~vedaldi/">Andrea Vedaldi</a><br>
-In CVPR 2021 <br>
-<a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Neverova_Discovering_Relationships_Between_Object_Categories_via_Universal_Canonical_Maps_CVPR_2021_paper.pdf">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -455,7 +597,7 @@ In CVPR 2021 <br>
 In CVPR 2021 (<b>oral</b>)<br>
 <a href="https://arxiv.org/pdf/2103.14843.pdf">[Paper]</a> 
 <a href="https://github.com/chaneyddtt/UDA-Animal-Pose">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -473,45 +615,7 @@ Huiwen Chang,
 In CVPR 2021 <br>
 <a href="https://arxiv.org/pdf/2105.02976.pdf">[Paper]</a> 
 <a href="https://lasr-google.github.io/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="http://sites.google.com/view/task-programming"><img src="teasers/Sun2021-1.jpg"/></a></td>
-<td align="left" width=550>Task Programming: Learning Data Efficient Behavior Representations<br>
-Jennifer J. Sun, 
-Ann Kennedy, 
-Eric Zhan, 
-David J. Anderson, 
-Yisong Yue, 
-Pietro Perona<br>
-In CVPR 2021 (<b>Best Student Paper Award</b>)<br>
-<a href="http://export.arxiv.org/pdf/2011.13917">[Paper]</a> 
-<a href="http://sites.google.com/view/task-programming">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Kim2021.jpg"/></a></td>
-<td align="left" width=550>Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise<br>
-Kim Youwang, 
-Kim Ji-Yeon, 
-Kyungdon Joo, 
-Tae-Hyun Oh<br>
-In BMVC 2021 <br>
-<a href="https://arxiv.org/pdf/2111.02450.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
-<td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
-Angie M Michaiel, 
-Elliott TT Abe, 
-Cristopher M Niell<br>
-In eLife 2020 <br>
-<a href="https://elifesciences.org/articles/57458">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -525,7 +629,49 @@ Mackenzie W. Mathis<br>
 In eLife 2020 (<b>Featured by Nature Methods</b>)<br>
 <a href="https://elifesciences.org/articles/61909">[Paper]</a> 
 <a href="https://github.com/DeepLabCut/DeepLabCut-live">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
+<td align="left" width=550>Dynamics of gaze control during prey capture in freely moving mice<br>
+Angie M Michaiel, 
+Elliott TT Abe, 
+Cristopher M Niell<br>
+In eLife 2020 <br>
+<a href="https://elifesciences.org/articles/57458">[Paper]</a> 
+<a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Marshall2020.jpg"/></a></td>
+<td align="left" width=550>Continuous Whole-Body 3D Kinematic Recordings across the Rodent Behavioral Repertoire<br>
+Jesse D. Marshall, 
+Diego E. Aldarondo, 
+Timothy W. Dunn, 
+William L. Wang, 
+Gordon J. Berman, 
+<a href="https://oeb.harvard.edu/people/bence-p-olveczky">Bence P. O¨lveczky</a><br>
+In Neuron 2020 <br>
+<a href="https://www.cell.com/neuron/fulltext/S0896-6273(20)30894-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627320308941%3Fshowall%3Dtrue">[Paper]</a> 
+<a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Geuther2019.jpg"/></a></td>
+<td align="left" width=550>Robust mouse tracking in complex environments using neural networks<br>
+Brian Q. Geuther, 
+Sean P. Deats, 
+Kai J. Fox, 
+Steve A. Murray, 
+Robert E. Braun, 
+Jacqueline K. White, 
+Elissa J. Chesler, 
+Cathleen M. Lutz, 
+Vivek Kumar<br>
+In Communications Biology 2019 <br>
+<a href="https://www.nature.com/articles/s42003-019-0362-1">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -545,177 +691,7 @@ Kay M. Tye,
 In biorxiv 2020 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.12.04.405159v1.full.pdf">[Paper]</a> 
 <a href="https://github.com/ZexinChen/AlphaTracker">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ebbesen2020.jpg"/></a></td>
-<td align="left" width=550>Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography<br>
-Christian L. Ebbesen, 
-<a href="http://froemkelab.med.nyu.edu/people">Robert C. Froemke</a><br>
-In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.05.21.109629v2">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/"><img src="teasers/Zimmermann2020.jpg"/></a></td>
-<td align="left" width=550>FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces<br>
-<a href="https://lmb.informatik.uni-freiburg.de/people/zimmermc/">Christian Zimmermann</a>, 
-Artur Schneider, 
-Mansour Alyahyay, 
-<a href="https://lmb.informatik.uni-freiburg.de/people/brox/">Thomas Brox</a>, 
-<a href="https://www.optophysiology.uni-freiburg.de/labmembers/diester/">Ilka Diester</a><br>
-In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.02.27.967620v1">[Paper]</a> 
-<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Sheppard2020.jpg"/></a></td>
-<td align="left" width=550>Gait-level analysis of mouse open field behavior using deep learning-based pose estimation<br>
-Keith Sheppard, 
-Justin Gardin, 
-Gautam Sabnis, 
-Asaf Peer, 
-Megan Darrell, 
-Sean Deats, 
-Brian Geuther, 
-Cathleen M. Lutz, 
-<a href="https://www.kumarlab.org/">Vivek Kumar</a><br>
-In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.12.29.424780v2.full.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://sleap.ai/"><img src="teasers/Pereira2020.jpg"/></a></td>
-<td align="left" width=550>SLEAP: Multi-animal pose tracking<br>
-<a href="https://biophysics.princeton.edu/people/talmo-pereira">Talmo D. Pereira</a>, 
-Nathaniel Tabris, 
-Junyu Li, 
-Shruthi Ravindranath, 
-Eleni S. Papadoyannis, 
-Z. Yan Wang, 
-David M. Turner, 
-Grace McKenzie-Smith, 
-Sarah D. Kocher, 
-Annegret L. Falkner, 
-Joshua W. Shaevitz, 
-<a href="https://murthylab.princeton.edu/mala-murthy">Mala Murthy</a><br>
-In biorxiv 2020 <br>
-<a href="https://doi.org/10.1101/2020.08.31.276246">[Paper]</a> 
-<a href="https://sleap.ai/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Nilsson2020.jpg"/></a></td>
-<td align="left" width=550>Simple Behavioral Analysis (SimBA)-an open source toolkit for computer classification of complex social behaviors in experimental animals<br>
-Simon RO Nilsson, 
-Nastacia L. Goodwin, 
-Jia Jie Choong, 
-Sophia Hwang, 
-Hayden R Wright, 
-Zane C Norville, 
-Xiaoyu Tong, 
-Dayu Lin, 
-Brandon S. Bentzley, 
-Neir Eshel, 
-Ryan J McLaughlin, 
-<a href="https://goldenneurolab.com/people">Sam A. Golden</a><br>
-In biorxiv 2020 <br>
-<a href="https://doi.org/10.1101/2020.04.19.049452">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Walter2020.jpg"/></a></td>
-<td align="left" width=550>TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction<br>
-<a href="https://www.orn.mpg.de/person/45292/409958">Tristan Walter</a>, 
-<a href="http://collectivebehaviour.com/">Iain D Couzin</a><br>
-In biorxiv 2020 <br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Jiang2020.jpg"/></a></td>
-<td align="left" width=550>Muti-view Mouse Social Behaviour Recognition with Deep Graphic Model<br>
-Zheheng Jiang, 
-Feixiang Zhou, 
-Aite Zhao, 
-Xin Li, 
-Ling Li, 
-<a href="https://dl.acm.org/profile/81100159571">Dacheng Tao</a>, 
-<a href="http://www.dcs.bbk.ac.uk/~xuelong/">Xuelong Li</a>, 
-<a href="https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou">Huiyu Zhou</a><br>
-In arxiv 2020 <br>
-<a href="https://arxiv.org/pdf/2011.02451.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Zhang2020.jpg"/></a></td>
-<td align="left" width=550>Multiview Supervision By Registration<br>
-Yilun Zhang, 
-<a href="https://www-users.cs.umn.edu/~hspark/">Hyun Soo Park</a><br>
-In WACV 2020 <br>
-<a href="https://arxiv.org/abs/1811.11251">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Dolensek2020.jpg"/></a></td>
-<td align="left" width=550>Facial expressions of emotion states and their neuronal correlates in mice<br>
-Nejc Dolensek, 
-Daniel A. Gehrlach, 
-<a href="https://muckrack.com/alexandra-s-klein">Alexandra S. Klein</a>, 
-<a href="https://www.neuro.mpg.de/gogolla">Nadine Gogolla</a><br>
-In Science 2020 <br>
-<a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival.">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Fangbemi2020.jpg"/></a></td>
-<td align="left" width=550>ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data<br>
-Abassin Sourou Fangbemi, 
-Yi Fei Lu, 
-Mao Yuan Xu, 
-Xiao Wu Luo, 
-Alexis Rolland, 
-Chedy Raissi<br>
-In SCA (ACM Siggraph/Eurographics Symposium on Computer Animation) 2020 <br>
-<a href="https://export.arxiv.org/abs/2009.05389">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Mathis2020.jpg"/></a></td>
-<td align="left" width=550>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives<br>
-<a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
-Steffen Schneider, 
-Jessy Lauer, 
-<a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
-In Neuron 2020 <br>
-<a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Marshall2020.jpg"/></a></td>
-<td align="left" width=550>Continuous Whole-Body 3D Kinematic Recordings across the Rodent Behavioral Repertoire<br>
-Jesse D. Marshall, 
-Diego E. Aldarondo, 
-Timothy W. Dunn, 
-William L. Wang, 
-Gordon J. Berman, 
-<a href="https://oeb.harvard.edu/people/bence-p-olveczky">Bence P. O¨lveczky</a><br>
-In Neuron 2020 <br>
-<a href="https://www.cell.com/neuron/fulltext/S0896-6273(20)30894-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627320308941%3Fshowall%3Dtrue">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -741,6 +717,119 @@ John Cunningham,
 In NeurIPS 2020 <br>
 <a href="https://www.biorxiv.org/content/biorxiv/early/2020/08/22/2020.08.20.259705.full.pdf">[Paper]</a> 
 <a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Nilsson2020.jpg"/></a></td>
+<td align="left" width=550>Simple Behavioral Analysis (SimBA)-an open source toolkit for computer classification of complex social behaviors in experimental animals<br>
+Simon RO Nilsson, 
+Nastacia L. Goodwin, 
+Jia Jie Choong, 
+Sophia Hwang, 
+Hayden R Wright, 
+Zane C Norville, 
+Xiaoyu Tong, 
+Dayu Lin, 
+Brandon S. Bentzley, 
+Neir Eshel, 
+Ryan J McLaughlin, 
+<a href="https://goldenneurolab.com/people">Sam A. Golden</a><br>
+In biorxiv 2020 <br>
+<a href="https://doi.org/10.1101/2020.04.19.049452">[Paper]</a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://sleap.ai/"><img src="teasers/Pereira2020.jpg"/></a></td>
+<td align="left" width=550>SLEAP: Multi-animal pose tracking<br>
+<a href="https://biophysics.princeton.edu/people/talmo-pereira">Talmo D. Pereira</a>, 
+Nathaniel Tabris, 
+Junyu Li, 
+Shruthi Ravindranath, 
+Eleni S. Papadoyannis, 
+Z. Yan Wang, 
+David M. Turner, 
+Grace McKenzie-Smith, 
+Sarah D. Kocher, 
+Annegret L. Falkner, 
+Joshua W. Shaevitz, 
+<a href="https://murthylab.princeton.edu/mala-murthy">Mala Murthy</a><br>
+In biorxiv 2020 <br>
+<a href="https://doi.org/10.1101/2020.08.31.276246">[Paper]</a> 
+<a href="https://sleap.ai/">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Walter2020.jpg"/></a></td>
+<td align="left" width=550>TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction<br>
+<a href="https://www.orn.mpg.de/person/45292/409958">Tristan Walter</a>, 
+<a href="http://collectivebehaviour.com/">Iain D Couzin</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/"><img src="teasers/Zimmermann2020.jpg"/></a></td>
+<td align="left" width=550>FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces<br>
+<a href="https://lmb.informatik.uni-freiburg.de/people/zimmermc/">Christian Zimmermann</a>, 
+Artur Schneider, 
+Mansour Alyahyay, 
+<a href="https://lmb.informatik.uni-freiburg.de/people/brox/">Thomas Brox</a>, 
+<a href="https://www.optophysiology.uni-freiburg.de/labmembers/diester/">Ilka Diester</a><br>
+In biorxiv 2020 <br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.02.27.967620v1">[Paper]</a> 
+<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/">[Project]</a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Zhang2020.jpg"/></a></td>
+<td align="left" width=550>Multiview Supervision By Registration<br>
+Yilun Zhang, 
+<a href="https://www-users.cs.umn.edu/~hspark/">Hyun Soo Park</a><br>
+In WACV 2020 <br>
+<a href="https://arxiv.org/abs/1811.11251">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Dolensek2020.jpg"/></a></td>
+<td align="left" width=550>Facial expressions of emotion states and their neuronal correlates in mice<br>
+Nejc Dolensek, 
+Daniel A. Gehrlach, 
+<a href="https://muckrack.com/alexandra-s-klein">Alexandra S. Klein</a>, 
+<a href="https://www.neuro.mpg.de/gogolla">Nadine Gogolla</a><br>
+In Science 2020 <br>
+<a href="https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival.">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Fangbemi2020.jpg"/></a></td>
+<td align="left" width=550>ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data<br>
+Abassin Sourou Fangbemi, 
+Yi Fei Lu, 
+Mao Yuan Xu, 
+Xiao Wu Luo, 
+Alexis Rolland, 
+Chedy Raissi<br>
+In SCA (ACM Siggraph/Eurographics Symposium on Computer Animation) 2020 <br>
+<a href="https://export.arxiv.org/abs/2009.05389">[Paper]</a> 
+<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Mathis2020.jpg"/></a></td>
+<td align="left" width=550>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives<br>
+<a href="http://www.people.fas.harvard.edu/~amathis/">Alexander Mathis</a>, 
+Steffen Schneider, 
+Jessy Lauer, 
+<a href="https://scholar.harvard.edu/mwamoroso/home">Mackenzie W. Mathis</a><br>
+In Neuron 2020 <br>
+<a href="https://arxiv.org/pdf/2009.00564.pdf">[Paper]</a> 
 </td></tr></tbody>
 
 
@@ -771,7 +860,7 @@ Anthony Herrel,
 <a href="https://www.unige.ch/medecine/neuf/en/">Daniel Huber</a><br>
 In Nature Methods 2020 (<b>cover</b>)<br>
 <a href="https://pubmed.ncbi.nlm.nih.gov/32994566/">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-mouse%20lemur-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse%20lemur-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a><a href="https://img.shields.io/badge/topic-brain-orange" align="bottom"><img src="https://img.shields.io/badge/topic-brain-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -786,7 +875,7 @@ Benjamin Y. Hayden,
 In Nature Communications 2020 <br>
 <a href="https://www.biorxiv.org/content/10.1101/2020.01.31.928861v1">[Paper]</a> 
 <a href="openmonkeystudio.org">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -803,31 +892,7 @@ In Nature Communications 2020 <br>
 In ECCV 2020 <br>
 <a href="https://arxiv.org/abs/2008.06133">[Paper]</a> 
 <a href="https://marcbadger.github.io/avian-mesh/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Shi2020.jpg"/></a></td>
-<td align="left" width=550>Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network<br>
-Xiao Shi, 
-Chenxue Yang, 
-Xue Xia, 
-<a href="http://aii.caas.cn/bsgk/ywbm/nyxxjzsyb/xzbm3/203034.htm">Xiujuan Chai</a><br>
-In ECCV 2020 <br>
-<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://shubham-goel.github.io/ucmr/"><img src="teasers/Goel2020.jpg"/></a></td>
-<td align="left" width=550>Shape and Viewpoint without Keypoints<br>
-<a href="https://people.eecs.berkeley.edu/~shubham-goel/">Shubham Goel</a>, 
-<a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>, 
-<a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a><br>
-In ECCV 2020 <br>
-<a href="https://arxiv.org/pdf/2007.10982.pdf">[Paper]</a> 
-<a href="https://shubham-goel.github.io/ucmr/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -840,20 +905,45 @@ In ECCV 2020 <br>
 <a href="https://mi.eng.cam.ac.uk/~cipolla/">Roberto Cipolla</a><br>
 In ECCV 2020 <br>
 <a href="https://arxiv.org/abs/2007.11110">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-dog-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-dog-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://vap.aau.dk/3d-zef/"><img src="teasers/Pedersen2020.jpg"/></a></td>
-<td align="left" width=550>3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset<br>
-<a href="https://vbn.aau.dk/en/persons/141158">Malte Pedersen</a>, 
-Joakim Bruslund Haurum, 
-<a href="https://vbn.aau.dk/en/persons/138111">Stefan Hein Bengtson</a>, 
-<a href="https://vbn.aau.dk/en/persons/103282">Thomas B. Moeslund</a><br>
+<a href="https://shubham-goel.github.io/ucmr/"><img src="teasers/Goel2020.jpg"/></a></td>
+<td align="left" width=550>Shape and Viewpoint without Keypoints<br>
+<a href="https://people.eecs.berkeley.edu/~shubham-goel/">Shubham Goel</a>, 
+<a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a>, 
+<a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a><br>
+In ECCV 2020 <br>
+<a href="https://arxiv.org/pdf/2007.10982.pdf">[Paper]</a> 
+<a href="https://shubham-goel.github.io/ucmr/">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Shi2020.jpg"/></a></td>
+<td align="left" width=550>Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network<br>
+Xiao Shi, 
+Chenxue Yang, 
+Xue Xia, 
+<a href="http://aii.caas.cn/bsgk/ywbm/nyxxjzsyb/xzbm3/203034.htm">Xiujuan Chai</a><br>
+In ECCV 2020 <br>
+<a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf">[Paper]</a> 
+<a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20"><img src="teasers/Kearney2020.jpg"/></a></td>
+<td align="left" width=550>RGBD-Dog: Predicting Canine Pose from RGBD Sensors<br>
+<a href="https://researchportal.bath.ac.uk/en/persons/sinead-kearney">Sinead Kearney</a>, 
+<a href="https://wbli.me/">Wenbin Li</a>, 
+Martin Parsons, 
+<a href="http://kimki.unist.ac.kr/">Kwang In Kim</a>, 
+<a href="http://www.cs.bath.ac.uk/~dpc/">Darren Cosker</a><br>
 In CVPR 2020 <br>
-<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pedersen_3D-ZeF_A_3D_Zebrafish_Tracking_Benchmark_Dataset_CVPR_2020_paper.pdf">[Paper]</a> 
-<a href="https://vap.aau.dk/3d-zef/">[Project]</a>
-</td></tr></tbody>
+<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kearney_RGBD-Dog_Predicting_Canine_Pose_from_RGBD_Sensors_CVPR_2020_paper.pdf">[Paper]</a> 
+<a href="https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20">[Project]</a>
+<a href="https://img.shields.io/badge/animal-dog-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-dog-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -870,7 +960,7 @@ Ling Shao,
 In CVPR 2020 <br>
 <a href="https://arxiv.org/abs/1909.04951">[Paper]</a> 
 <a href="https://fdmaproject.wordpress.com/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -883,7 +973,7 @@ In CVPR 2020 <br>
 In CVPR 2020 <br>
 <a href="https://arxiv.org/pdf/2004.00614.pdf">[Paper]</a> 
 <a href="https://nileshkulkarni.github.io/acsm/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -898,7 +988,7 @@ Pascal Fua,
 In CVPR 2020 <br>
 <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deformation-Aware_Unpaired_Image_Translation_for_Pose_Estimation_on_Laboratory_Animals_CVPR_2020_paper.pdf">[Paper]</a> 
 <a href="https://github.com/siyliepfl/deformation-aware-unpaired-image-translation">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -911,21 +1001,20 @@ Jiteng Mu,
 In CVPR 2020 (<b>oral</b>)<br>
 <a href="https://arxiv.org/abs/1912.08265">[Paper]</a> 
 <a href="https://github.com/JitengMu/Learning-from-Synthetic-Animals">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20"><img src="teasers/Kearney2020.jpg"/></a></td>
-<td align="left" width=550>RGBD-Dog: Predicting Canine Pose from RGBD Sensors<br>
-<a href="https://researchportal.bath.ac.uk/en/persons/sinead-kearney">Sinead Kearney</a>, 
-<a href="https://wbli.me/">Wenbin Li</a>, 
-Martin Parsons, 
-<a href="http://kimki.unist.ac.kr/">Kwang In Kim</a>, 
-<a href="http://www.cs.bath.ac.uk/~dpc/">Darren Cosker</a><br>
+<a href="https://vap.aau.dk/3d-zef/"><img src="teasers/Pedersen2020.jpg"/></a></td>
+<td align="left" width=550>3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset<br>
+<a href="https://vbn.aau.dk/en/persons/141158">Malte Pedersen</a>, 
+Joakim Bruslund Haurum, 
+<a href="https://vbn.aau.dk/en/persons/138111">Stefan Hein Bengtson</a>, 
+<a href="https://vbn.aau.dk/en/persons/103282">Thomas B. Moeslund</a><br>
 In CVPR 2020 <br>
-<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Kearney_RGBD-Dog_Predicting_Canine_Pose_from_RGBD_Sensors_CVPR_2020_paper.pdf">[Paper]</a> 
-<a href="https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20">[Project]</a>
-</td></tr></tbody>
+<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Pedersen_3D-ZeF_A_3D_Zebrafish_Tracking_Benchmark_Dataset_CVPR_2020_paper.pdf">[Paper]</a> 
+<a href="https://vap.aau.dk/3d-zef/">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -939,7 +1028,7 @@ In CVPR 2020 <br>
 In CVPR 2020 <br>
 <a href="https://arxiv.org/abs/2003.00080">[Paper]</a> 
 <a href="https://gdude.de/densepose-evolution/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -951,7 +1040,7 @@ In CVPR 2020 <br>
 In CVPR 2020 (<b>Best Paper Award</b>)<br>
 <a href="https://arxiv.org/abs/1911.11130">[Paper]</a> 
 <a href="https://elliottwu.com/projects/unsup3d/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-cat-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-cat-yellowgreen"></a><a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a><a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -967,7 +1056,7 @@ Benjamin Koger,
 In eLife 2019 <br>
 <a href="https://www.biorxiv.org/content/10.1101/620245v7">[Paper]</a> 
 <a href="https://github.com/jgraving/deepposekit">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -982,21 +1071,7 @@ Amir Patel,
 In Nature Protocols 2019 (<b>cover</b>)<br>
 <a href="https://www.nature.com/articles/s41596-019-0176-0">[Paper]</a> 
 <a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://idtrackerai.readthedocs.io/en/latest/"><img src="teasers/Ferrero2019.jpg"/></a></td>
-<td align="left" width=550>idtracker.ai: tracking all individuals in small or large collectives of unmarked animals<br>
-<a href="https://www.researchgate.net/profile/Francisco_Romero-Ferrero">Francisco Romero-Ferrero</a>, 
-Mattia G. Bergomi, 
-Robert C. Hinz, 
-Francisco J. H. Heras, 
-<a href="http://www.neuro.fchampalimaud.org/en/person/276/">Gonzalo G. de Polavieja</a><br>
-In Nature Methods (Brief Communication) 2019 <br>
-<a href="https://arxiv.org/abs/1803.04351">[Paper]</a> 
-<a href="https://idtrackerai.readthedocs.io/en/latest/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1012,7 +1087,7 @@ Lindsay Willmore,
 In Nature Methods 2019 <br>
 <a href="https://www.nature.com/articles/s41592-018-0234-5">[Paper]</a> 
 <a href="https://github.com/talmo/leap">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1032,19 +1107,7 @@ Philippe Faure,
 In Nature Biomedical Engineering 2019 <br>
 <a href="https://www.nature.com/articles/s41551-019-0396-1">[Paper]</a> 
 <a href="https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://nileshkulkarni.github.io/csm/"><img src="teasers/Kulkarni2019.jpg"/></a></td>
-<td align="left" width=550>Canonical Surface Mapping via Geometric Cycle Consistency<br>
-<a href="https://nileshkulkarni.github.io/">Nilesh Kulkarni</a>, 
-<a href="http://www.cs.cmu.edu/~abhinavg/">Abhinav Gupta</a>, 
-<a href="https://shubhtuls.github.io/">Shubham Tulsiani</a><br>
-In ICCV 2019 <br>
-<a href="https://arxiv.org/pdf/1907.10043.pdf">[Paper]</a> 
-<a href="https://nileshkulkarni.github.io/csm/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1059,7 +1122,19 @@ Yu-Wing Tai<br>
 In ICCV 2019 (<b>oral</b>)<br>
 <a href="https://arxiv.org/abs/1908.05806">[Paper]</a> 
 <a href="http://www.jinkuncao.com/animalpose">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://nileshkulkarni.github.io/csm/"><img src="teasers/Kulkarni2019.jpg"/></a></td>
+<td align="left" width=550>Canonical Surface Mapping via Geometric Cycle Consistency<br>
+<a href="https://nileshkulkarni.github.io/">Nilesh Kulkarni</a>, 
+<a href="http://www.cs.cmu.edu/~abhinavg/">Abhinav Gupta</a>, 
+<a href="https://shubhtuls.github.io/">Shubham Tulsiani</a><br>
+In ICCV 2019 <br>
+<a href="https://arxiv.org/pdf/1907.10043.pdf">[Paper]</a> 
+<a href="https://nileshkulkarni.github.io/csm/">[Project]</a>
+<a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1070,7 +1145,7 @@ Yasamin Jafarian,
 <a href="https://www-users.cs.umn.edu/~hspark/">Hyun Soo Park</a><br>
 In ICCV 2019 <br>
 <a href="https://arxiv.org/abs/1806.00104">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1083,24 +1158,7 @@ In ICCV 2019 <br>
 In ICCV 2019 <br>
 <a href="https://arxiv.org/abs/1908.07201">[Paper]</a> 
 <a href="https://github.com/silviazuffi/smalst">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Geuther2019.jpg"/></a></td>
-<td align="left" width=550>Robust mouse tracking in complex environments using neural networks<br>
-Brian Q. Geuther, 
-Sean P. Deats, 
-Kai J. Fox, 
-Steve A. Murray, 
-Robert E. Braun, 
-Jacqueline K. White, 
-Elissa J. Chesler, 
-Cathleen M. Lutz, 
-Vivek Kumar<br>
-In Communications Biology 2019 <br>
-<a href="https://www.nature.com/articles/s42003-019-0362-1">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1116,7 +1174,7 @@ Taiga Abe,
 In Nature Neuroscience 2018 <br>
 <a href="https://www.nature.com/articles/s41593-018-0209-y">[Paper]</a> 
 <a href="http://www.mousemotorlab.org/deeplabcut">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1129,7 +1187,7 @@ In Nature Neuroscience 2018 <br>
 In ECCV 2018 <br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cmr_camera_ready.pdf">[Paper]</a> 
 <a href="https://akanazawa.github.io/cmr/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1141,7 +1199,7 @@ In ECCV 2018 <br>
 In CVPR 2018 (<b>spotlight</b>)<br>
 <a href="http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf">[Paper]</a> 
 <a href="http://smalr.is.tue.mpg.de/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1153,7 +1211,7 @@ In CVPR 2018 (<b>spotlight</b>)<br>
 <a href="https://mi.eng.cam.ac.uk/~cipolla/">Roberto Cipolla</a><br>
 In ACCV 2018 (<b>oral</b>)<br>
 <a href="https://arxiv.org/abs/1811.05804">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1166,7 +1224,7 @@ David L Stern,
 <a href="https://molbio.princeton.edu/people/joshua-w-shaevitz">Joshua W Shaevitz</a><br>
 In Physical Biology 2017 <br>
 <a href="https://doi.org/10.1088/1478-3975/aa5c50">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1175,7 +1233,7 @@ In Physical Biology 2017 <br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a><br>
 In Ph.D Thesis 2017 <br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1188,7 +1246,7 @@ In Ph.D Thesis 2017 <br>
 In CVPR 2017 (<b>spotlight</b>)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cvpr17_menagerie_camready.pdf">[Paper]</a> 
 <a href="http://smal.is.tue.mpg.de/">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1197,7 +1255,7 @@ In CVPR 2017 (<b>spotlight</b>)<br>
 <a href="http://people.bu.edu/breslav/">Mikhail Breslav</a><br>
 In Ph.D Thesis 2016 <br>
 <a href="https://open.bu.edu/handle/2144/19720">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1210,7 +1268,7 @@ In Ph.D Thesis 2016 <br>
 In Eurographics 2016 (<b>Günter Enderle Best Paper Award</b>)<br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/papers/cat_eg2016.pdf">[Paper]</a> 
 <a href="https://github.com/akanazawa/catdeform">[Project]</a>
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a><a href="https://img.shields.io/badge/animal-cat-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-cat-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1224,52 +1282,13 @@ Sara Arganda,
 In Nature Methods 2014 <br>
 <a href="https://www.nature.com/articles/nmeth.2994">[Paper]</a> 
 <a href="http://www.idtracker.es/">[Project]</a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Straw2010.jpg"/></a></td>
-<td align="left" width=550>Multi-camera real-time threedimensional tracking of multiple flying animals<br>
-<a href="https://strawlab.org/">Andrew D. Straw</a>, 
-Kristin Branson, 
-Titus R. Neumann, 
-<a href="https://www.bbe.caltech.edu/people/michael-h-dickinson">Michael H. Dickinson</a><br>
-In J. R. Soc. Interface 2011 <br>
-<a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2010.0230">[Paper]</a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Langford2010.jpg"/></a></td>
-<td align="left" width=550>coding of facial expressions of pain in the laboratory mouse<br>
-Dale J Langford, 
-Andrea L Bailey, 
-Mona Lisa Chanda, 
-Sarah E Clarke, 
-Tanya E Drummond, 
-Stephanie Echols, 
-Sarah Glick, 
-Joelle Ingrao, 
-Tammy Klassen-Ross, 
-Michael L LaCroix-Fralish, 
-Lynn Matsumiya, 
-Robert E Sorge, 
-Susana G Sotocinal, 
-John M Tabaka, 
-David Wong, 
-Arn M J M van den Maagdenberg, 
-Michel D Ferrari, 
-Kenneth D Craig, 
-Jeffrey S Mogil<br>
-In Nature Methods (brief communications) 2010 <br>
-<a href="https://www.nature.com/articles/nmeth.1455">[Paper]</a> 
-</td></tr></tbody>
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
 
 
 </table>
 <br>
 
-Last updated in Dec 2021
+Last updated in Jan 2022
 <br>
 
 

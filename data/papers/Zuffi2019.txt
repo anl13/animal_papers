@@ -5,6 +5,8 @@ https://github.com/silviazuffi/smalst
 ICCV
 Zuffi2019.jpg
 poster
+keyword: zebra, mesh, single-view, cv 
+adddate: 20201209
 Silvia Zuffi+https://ps.is.tuebingen.mpg.de/person/szuffi
 Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
 Tanya Berger-Wolf+https://www.cs.uic.edu/~tanyabw/

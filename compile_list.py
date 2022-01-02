@@ -2,7 +2,30 @@ import csv
 import os
 import argparse
 import datetime
+import pickle 
 
+def create_badges(): 
+    animal_types = ["dog", "cat", "quadruped", "bird", "fly", "mouse", "monkey", "mouse lemur", "primate"]
+    badges = {} 
+    for animal in animal_types: 
+        animal_label = animal.replace(" ", "%20")
+        badge_string = "https://img.shields.io/badge/animal-{}-yellowgreen".format(animal_label)
+        badge_string2 = '<a href="{}" align="bottom"><img src="{}"></a>'.format(badge_string, badge_string)
+        badges.update({animal:badge_string2})
+    data_types = ["dense surface", "mesh", "3d", "2d"]
+    for data in data_types: 
+        data_label = data.replace(" ", "%20")
+        badge_string = "https://img.shields.io/badge/datatype-{}-9cf".format(data_label)
+        badge_string2 = '<a href="{}" align="bottom"><img src="{}"></a>'.format(badge_string, badge_string)
+        badges.update({data:badge_string2})
+    topic_types = ["face", "behavior", "brain", "dataset"]
+    for topic in topic_types: 
+        topic_label = topic.replace(" ", "%20")
+        badge_string = "https://img.shields.io/badge/topic-{}-orange".format(topic_label)
+        badge_string2 = '<a href="{}" align="bottom"><img src="{}"></a>'.format(badge_string, badge_string)
+        badges.update({topic:badge_string2})
+    return badges
+g_badges = create_badges()
 
 class Paper():
     def __init__(self):
@@ -27,8 +50,12 @@ class Paper():
         self.article = self.article.strip()
         self.teaser = self.teaser.strip()
         self.poster = self.poster.strip()
-        
 
+        self.keywords = lines[7][9:].strip().split(',')
+        for i in range(len(self.keywords)):
+            self.keywords[i] = self.keywords[i].strip()
+        self.adddate = lines[8][9:].strip()
+        
         if self.project is not "none":
             self.imgurl = self.project
         elif self.paper:
@@ -44,7 +71,7 @@ class Paper():
 
         self.year = int(float(self.year))
 
-        author_records = lines[7:]
+        author_records = lines[9:]
         self.authors = []
         self.author_urls = []
         for author_r in author_records:
@@ -93,22 +120,6 @@ class Paper():
             content += '%s<br>\n' % self.authors[-1]
         return content
 
-    def write_html(self, html):
-        paper_html = '<table><tbody><tr><td>\n'
-        paper_html += '<a href="%s"><img src="teasers/%s"/ border=1 width=210></a></td>\n' % (self.imgurl, self.teaser)
-        paper_html += '<td width="20"></td>\n<td valign="middle" width="680">'
-        paper_html += '<strong>%s</strong>\n' % self.title
-        paper_html += '<p class="content">'
-        paper_html = self.add_authors(paper_html)
-        paper_html += 'In %s %d<br>\n' % (self.article, self.year)
-        if self.paper:
-            paper_html += '<strong><a href="%s">[Paper]</a></strong> \n' % self.paper
-        if self.project:
-            paper_html += '<strong><a href="%s">[Project]</a></strong>\n' % self.project
-        paper_html += '</p></tr></tbody></table><br>\n\n'
-        html += paper_html
-        return html
-
     def write_md(self, md):
         paper_md = '<tbody> <tr> <td align="left" width=250>\n'
         paper_md += '<a href="%s"><img src="teasers/%s"/></a></td>\n' % (self.imgurl, self.teaser)
@@ -125,10 +136,15 @@ class Paper():
         if self.project != "none":
             paper_md += '<a href="%s">[Project]</a>\n' % self.project
 
+        for label in self.keywords: 
+            if label in list(g_badges.keys()):
+                paper_md += g_badges[label]
+
         paper_md += '</td></tr></tbody>\n\n\n'
         md += paper_md
         return md
 
+    # use https://shields.io/#your-badge to create your own badge 
 
 def read_papers():
     papers = []
@@ -141,6 +157,8 @@ def read_papers():
         paper = Paper()
         paper.parse_lines(lines)
         papers.append(paper)
+    with open("data/paper_list.pkl", 'wb') as f:
+        pickle.dump(papers,f) 
     return papers
 
 
@@ -148,6 +166,7 @@ def add_date(content):
     date_str = 'Last updated in %s' % datetime.date.today().strftime("%b %Y")
     content += date_str
     return content
+
 
 
 def write_papers(papers, header_file=None, end_file=None, TYPE='md'):
@@ -197,10 +216,12 @@ if __name__ == '__main__':
     header_file = os.path.join(WORK_DIR, 'header.%s' % TYPE)
     end_file = os.path.join(WORK_DIR, 'end.%s' % TYPE)
     # load papers
-    papers = read_papers()
+    # papers = read_papers()
+    with open("data/paper_list.pkl", 'rb') as f: 
+        papers = pickle.load(f)
     # sort papers
-    papers.sort(key=lambda p: p.title)
-    papers.sort(key=lambda p: (p.year, p.article), reverse=True)
+    papers.sort(key=lambda p: (p.adddate, p.year, p.article), reverse=True)
+    # papers.sort(key=lambda p: (p.year, p.article), reverse=True)
 
     # write papers
     print(out_file)

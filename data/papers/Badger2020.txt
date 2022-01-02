@@ -5,6 +5,8 @@ https://marcbadger.github.io/avian-mesh/
 ECCV
 Badger2020.jpg
 poster
+keyword: bird, mesh, single-view, cv
+adddate: 20201209
 Marc Badger+https://www.ocf.berkeley.edu/~badger/
 Yufu Wang+https://yufu-wang.github.io/
 Adarsh Modh+https://www.seas.upenn.edu/~adarshm/

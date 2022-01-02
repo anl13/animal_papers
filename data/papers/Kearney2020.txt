@@ -5,6 +5,8 @@ https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Ca
 CVPR 
 Kearney2020.jpg
 poster
+keyword: dog, rgbd, dataset, cv 
+adddate: 20201209
 Sinead Kearney+https://researchportal.bath.ac.uk/en/persons/sinead-kearney
 Wenbin Li+https://wbli.me/
 Martin Parsons

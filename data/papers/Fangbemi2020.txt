@@ -5,6 +5,8 @@ none
 SCA (ACM Siggraph/Eurographics Symposium on Computer Animation)
 Fangbemi2020.jpg
 none
+keyword: quadruped, 2d, 3d, cv 
+adddate: 20201209
 Abassin Sourou Fangbemi
 Yi Fei Lu
 Mao Yuan Xu

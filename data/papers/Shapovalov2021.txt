@@ -5,6 +5,8 @@ none
 ICCV 
 Shapovalov2021.jpg 
 none 
+keyword: dense surface, quadruped, cv 
+adddate: 20211102
 Roman Shapovalov
 David Novotny
 Benjamin Graham

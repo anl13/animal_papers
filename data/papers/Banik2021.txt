@@ -5,6 +5,8 @@ none
 arxiv 
 Banik2021.jpg 
 none 
+keyword: quadruped, dataset, 2d, cv
+adddate: 20210901
 Prianka Banik
 Lin Li 
 Xishuang Dong 

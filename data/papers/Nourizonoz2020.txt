@@ -5,6 +5,8 @@ none
 Nature Methods
 Nourizonoz2020.jpg
 cover
+keyword: mouse lemur, 3d, behavior, brain 
+adddate: 20201209
 Ali Nourizonoz
 Robert Zimmermann
 Chun Lum Andy Ho

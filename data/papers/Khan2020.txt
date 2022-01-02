@@ -5,6 +5,8 @@ https://fdmaproject.wordpress.com/
 CVPR
 Khan2020.jpg
 poster
+keyword: face, cv, 2d 
+adddate: 20201209
 Muhammad Haris Khan
 John McDonagh
 Salman Khan

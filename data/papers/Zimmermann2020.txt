@@ -5,6 +5,8 @@ https://lmb.informatik.uni-freiburg.de/projects/freipose/
 biorxiv
 Zimmermann2020.jpg
 none
+keyword: mouse, 3d, bio 
+adddate: 20201209
 Christian Zimmermann+https://lmb.informatik.uni-freiburg.de/people/zimmermc/
 Artur Schneider
 Mansour Alyahyay

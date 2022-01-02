@@ -5,6 +5,8 @@ https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/
 Nature Biomedical Engineering
 Chaumont2019.jpg
 none
+keyword: bio, mouse, social, depth
+adddate: 20201209
 Fabrice de Chaumont+https://research.pasteur.fr/en/member/fabrice-de-chaumont/
 Elodie Ey
 Nicolas Torquet

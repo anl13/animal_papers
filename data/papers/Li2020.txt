@@ -5,6 +5,8 @@ https://github.com/siyliepfl/deformation-aware-unpaired-image-translation
 CVPR 
 Li2020.JPG
 poster 
+keyword: 3d, mesh, fly, cv 
+adddate: 20201209
 Siyuan Li+https://siyliepfl.github.io/
 Semih Gunel+https://semihgunel.com/
 Mirela Ostrek

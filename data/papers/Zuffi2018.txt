@@ -5,6 +5,8 @@ http://smalr.is.tue.mpg.de/
 CVPR 
 Zuffi2018.jpg
 spotlight
+keyword: quadruped, mesh, cv 
+adddate: 20201209
 Silvia Zuffi+https://ps.is.tuebingen.mpg.de/person/szuffi
 Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
 Michael J. Black+https://ps.is.tuebingen.mpg.de/person/black

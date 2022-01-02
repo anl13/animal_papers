@@ -5,6 +5,8 @@ http://www.jinkuncao.com/animalpose
 ICCV
 Cao2019.jpg
 oral
+Keypoint: 2d, quadruped, cv
+adddate: 20201209
 Jinkun Cao+http://www.jinkuncao.com/
 Hongyang Tang
 Hao-Shu Fang+https://fang-haoshu.github.io/

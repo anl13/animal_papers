@@ -5,6 +5,8 @@ https://github.com/talmo/leap
 Nature Methods
 Pereira2019.jpg
 none
+keyword: 2d, fly, mouse, behavior, bio 
+adddate: 20201209
 Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira
 Diego E. Aldarondo+https://olveczkylab.oeb.harvard.edu/people/diego-etiony-aldarondo
 Lindsay Willmore

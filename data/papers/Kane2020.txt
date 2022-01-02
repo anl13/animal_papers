@@ -5,6 +5,8 @@ https://github.com/DeepLabCut/DeepLabCut-live
 eLife
 Kane2020.jpg
 Featured by Nature Methods
+keyword: 2d, bio, mouse
+adddate: 20210510
 Gary Kane
 Gonçalo Lopes
 Jonny L. Saunders

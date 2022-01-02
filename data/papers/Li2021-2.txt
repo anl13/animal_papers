@@ -5,6 +5,8 @@ https://github.com/rabbityl/DeformingThings4D
 ICCV
 Li2021-2.jpg
 none 
+keyword: dense surface, cv, dataset 
+adddate: 20211102
 Yang Li
 Hikari Takehara
 Takafumi Taketomi

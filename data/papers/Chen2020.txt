@@ -5,6 +5,8 @@ https://github.com/ZexinChen/AlphaTracker
 biorxiv 
 Chen2020.jpg 
 none 
+keyword: bio, 2d, social
+adddate: 20201210
 Zexin Chen
 Ruihan Zhang
 Yu Eva Zhang

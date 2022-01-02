@@ -5,6 +5,8 @@ https://github.com/spoonsso/DANNCE
 Nature Methods
 Dunn2021.jpg
 none 
+keyword: 3d, multi-view, mouse, monkey, bird, bio, dataset
+adddate: 20210531
 Timothy W. Dunn
 Jesse D. Marshall
 Kyle S. Severson

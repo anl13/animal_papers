@@ -5,6 +5,8 @@ none
 arxiv 
 Le2021.jpg 
 none 
+keyword: aquatic, segmentation, cv 
+adddate: 20211102
 Minh-Quan Le
 Trung-Nghia Le
 Tam V. Nguyen

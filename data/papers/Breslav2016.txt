@@ -5,4 +5,6 @@ none
 Ph.D Thesis
 Breslav2016.jpg
 none
+keyword: multi-view, bird, 3d, cv, thesis
+adddate: 20201209
 Mikhail Breslav+http://people.bu.edu/breslav/

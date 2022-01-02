@@ -5,6 +5,8 @@ https://github.com/AlexTheBad/AP-10K
 NeurIPS
 Yu2021.jpg 
 none 
+keyword: 2d, dataset, quadruped, cv 
+adddate: 20211101
 Hang Yu
 Yufei Xu
 Jing Zhang

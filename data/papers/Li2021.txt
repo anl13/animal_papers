@@ -5,5 +5,7 @@ https://github.com/chaneyddtt/UDA-Animal-Pose
 CVPR
 Li2021.jpg
 oral
+keyword: mesh, 3d, cv, quadruped
+adddate: 20210510 
 Chen Li+https://chaneyddtt.github.io/
 Gim Hee Lee+https://www.comp.nus.edu.sg/~leegh/

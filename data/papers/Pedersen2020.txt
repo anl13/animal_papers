@@ -5,6 +5,8 @@ https://vap.aau.dk/3d-zef/
 CVPR 
 Pedersen2020.jpg
 poster
+keyword: zebrafish, 3d, cv 
+adddate: 20201209
 Malte Pedersen+https://vbn.aau.dk/en/persons/141158
 Joakim Bruslund Haurum
 Stefan Hein Bengtson+https://vbn.aau.dk/en/persons/138111
