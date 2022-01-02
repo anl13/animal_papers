@@ -111,11 +111,11 @@ class Paper():
     def add_authors(self, content):
         for author, url in zip(self.authors[:-1], self.author_urls[:-1]):
             if url:
-                content += '<a href="%s">%s</a>, \n' % (url, author)
+                content += '<a href="%s"><small>%s</small></a>, \n' % (url, author)
             else:
-                content += '%s, \n' % author
+                content += '<small>%s</small>, \n' % author
         if self.author_urls[-1]:
-            content += '<a href="%s">%s</a><br>\n' % (self.author_urls[-1], self.authors[-1])
+            content += '<a href="%s"><small>%s</small></a><br>\n' % (self.author_urls[-1], self.authors[-1])
         else:
             content += '%s<br>\n' % self.authors[-1]
         return content
@@ -123,18 +123,18 @@ class Paper():
     def write_md(self, md):
         paper_md = '<tbody> <tr> <td align="left" width=250>\n'
         paper_md += '<a href="%s"><img src="teasers/%s"/></a></td>\n' % (self.imgurl, self.teaser)
-        paper_md += '<td align="left" width=550>%s<br>\n' % self.title
+        paper_md += '<td align="left" width=550><em>%s</em><br>\n' % self.title
         paper_md = self.add_authors(paper_md)
-        paper_md += 'In %s %d ' % (self.article, self.year)
+        paper_md += '<small>In %s %d </small>' % (self.article, self.year)
         if self.poster != "none" and self.poster != "poster":
-            paper_md += ('(<b>' + self.poster +'</b>)')
+            paper_md += ('(<b><small>' + self.poster +'</small></b>)')
                 
         paper_md += '<br>\n'
         if self.paper:
-            paper_md += '<a href="%s">[Paper]</a> \n' % self.paper
+            paper_md += '<a href="%s"><img src="data/paper.png"></a> \n' % self.paper
         
         if self.project != "none":
-            paper_md += '<a href="%s">[Project]</a>\n' % self.project
+            paper_md += '<a href="%s"><img src="data/project.png"></a>\n' % self.project
 
         for label in self.keywords: 
             if label in list(g_badges.keys()):
