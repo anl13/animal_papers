@@ -117,7 +117,7 @@ class Paper():
         if self.author_urls[-1]:
             content += '<a href="%s"><font size=2.5>%s</font></a><br>\n' % (self.author_urls[-1], self.authors[-1])
         else:
-            content += '%s<br>\n' % self.authors[-1]
+            content += '<font size=2.5>%s</font><br>\n' % self.authors[-1]
         return content
 
     def write_md(self, md):

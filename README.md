@@ -14,6 +14,30 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Gunel2021.jpg"/></a></td>
+<td align="left" width=550><em>Overcoming the Domain Gap in Neural Action Representations</em><br>
+<font size=2.5>Semih Gunel</font>, 
+<font size=2.5>Florian Aymanns</font>, 
+<font size=2.5>Sina Honari</font>, 
+<font size=2.5>Pavan Ramdya</font>, 
+<font size=2.5>Pascal Fua</font><br>
+<font size=2.5>In arxiv 2021 </font><br>
+<a href="https://arxiv.org/pdf/2112.01176.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Nayak2022.jpg"/></a></td>
+<td align="left" width=550><em>Incremental Learning for Animal Pose Estimation using RBF k-DPP</em><br>
+<font size=2.5>Gaurav Kumar Nayak</font>, 
+<a href="https://het-shah.github.io/"><font size=2.5>Het Shah</font></a>, 
+<a href="http://visual-computing.in/wp-content/uploads/2017/08/anirban-chakraborty.html"><font size=2.5>Anirban Chakraborty</font></a><br>
+<font size=2.5>In arxiv 2021 </font><br>
+<a href="https://arxiv.org/pdf/2110.13598.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://banmo-www.github.io/"><img src="teasers/Yang2022.jpg"/></a></td>
 <td align="left" width=550><em>BANMo: Building Animatable 3D Neural Models from Many Casual Videos</em><br>
 <a href="https://gengshan-y.github.io/"><font size=2.5>Gengshan Yang</font></a>, 
@@ -57,7 +81,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Runlong Wu</font>, 
 <font size=2.5>Aimin Wang</font>, 
 <font size=2.5>Liping Wang</font>, 
-Pengfei Wei<br>
+<font size=2.5>Pengfei Wei</font><br>
 <font size=2.5>In Neuroscience Bulletin 2021 </font><br>
 <a href="https://link.springer.com/article/10.1007%2Fs12264-021-00778-6"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/topic-brain-orange" align="bottom"><img src="https://img.shields.io/badge/topic-brain-orange"></a></td></tr></tbody>
@@ -86,7 +110,7 @@ Pengfei Wei<br>
 <font size=2.5>Jennifer J Sun</font>, 
 <font size=2.5>Pietro Perona</font>, 
 <font size=2.5>David J Anderson</font>, 
-Ann Kennedy<br>
+<font size=2.5>Ann Kennedy</font><br>
 <font size=2.5>In eLife 2021 </font><br>
 <a href="https://elifesciences.org/articles/63720.pdf"><img src="data/paper.png"></a> 
 <a href="https://neuroethology.github.io/MARS/"><img src="data/project.png"></a>
@@ -104,7 +128,7 @@ Ann Kennedy<br>
 <font size=2.5>David J. Anderson</font>, 
 <font size=2.5>Ann Kennedy</font>, 
 <font size=2.5>Yisong Yue</font>, 
-Pietro Perona<br>
+<font size=2.5>Pietro Perona</font><br>
 <font size=2.5>In arxiv 2021 </font><br>
 <a href="https://arxiv.org/pdf/2112.05121.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
@@ -120,7 +144,7 @@ Pietro Perona<br>
 <font size=2.5>David J. Anderson</font>, 
 <font size=2.5>Pietro Perona</font>, 
 <font size=2.5>Yisong Yue</font>, 
-Ann Kennedy<br>
+<font size=2.5>Ann Kennedy</font><br>
 <font size=2.5>In NeurIPS (Dataset & Benchmarks) 2021 </font><br>
 <a href="https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions"><img src="data/paper.png"></a> 
 <a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="data/project.png"></a>
@@ -135,7 +159,7 @@ Ann Kennedy<br>
 <font size=2.5>Eric Zhan</font>, 
 <font size=2.5>David J. Anderson</font>, 
 <font size=2.5>Yisong Yue</font>, 
-Pietro Perona<br>
+<font size=2.5>Pietro Perona</font><br>
 <font size=2.5>In CVPR 2021 </font>(<b><font size=2.5>Best Student Paper Award</font></b>)<br>
 <a href="http://export.arxiv.org/pdf/2011.13917"><img src="data/paper.png"></a> 
 <a href="http://sites.google.com/view/task-programming"><img src="data/project.png"></a>
@@ -161,7 +185,7 @@ Pietro Perona<br>
 <font size=2.5>R. Becket Ebitz</font>, 
 <font size=2.5>Hyun Soo Park</font>, 
 <font size=2.5>Benjamin Y. Hayden</font>, 
-Jan Zimmermann<br>
+<font size=2.5>Jan Zimmermann</font><br>
 <font size=2.5>In biorxiv 2021 </font><br>
 <a href="https://doi.org/10.1101/2021.11.15.468721"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
@@ -173,7 +197,7 @@ Jan Zimmermann<br>
 <a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448"><font size=2.5>Jesse D. Marshall</font></a>, 
 <font size=2.5>Tianqing Li</font>, 
 <font size=2.5>Joshua H. Wu</font>, 
-Timothy W. Dunn<br>
+<font size=2.5>Timothy W. Dunn</font><br>
 <font size=2.5>In arxiv 2021 </font><br>
 <a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.01987.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
@@ -185,7 +209,7 @@ Timothy W. Dunn<br>
 <font size=2.5>Kim Youwang</font>, 
 <font size=2.5>Kim Ji-Yeon</font>, 
 <font size=2.5>Kyungdon Joo</font>, 
-Tae-Hyun Oh<br>
+<font size=2.5>Tae-Hyun Oh</font><br>
 <font size=2.5>In BMVC 2021 </font><br>
 <a href="https://arxiv.org/pdf/2111.02450.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
@@ -215,7 +239,7 @@ Tae-Hyun Oh<br>
 <font size=2.5>Trung-Nghia Le</font>, 
 <font size=2.5>Tam V. Nguyen</font>, 
 <font size=2.5>Isao Echizen</font>, 
-Minh-Triet Tran<br>
+<font size=2.5>Minh-Triet Tran</font><br>
 <font size=2.5>In arxiv 2021 </font><br>
 <a href="https://arxiv.org/pdf/2112.06193.pdf"><img src="data/paper.png"></a> 
 </td></tr></tbody>
@@ -250,7 +274,7 @@ Minh-Triet Tran<br>
 <font size=2.5>Amanda Gellis</font>, 
 <font size=2.5>Diego Aldarondo</font>, 
 <a href="https://oeb.harvard.edu/people/bence-p-olveczky"><font size=2.5>Bence O¨lveczky</font></a>, 
-Tim Dunn<br>
+<font size=2.5>Tim Dunn</font><br>
 <font size=2.5>In NeurIPS 2021 </font><br>
 <a href="https://openreview.net/pdf?id=-wVVl_UPr8"><img src="data/paper.png"></a> 
 <a href="https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587"><img src="data/project.png"></a>
@@ -289,7 +313,7 @@ Tim Dunn<br>
 <font size=2.5>David Novotny</font>, 
 <font size=2.5>Benjamin Graham</font>, 
 <font size=2.5>Patrick Labatut</font>, 
-Andrea Vedaldi<br>
+<font size=2.5>Andrea Vedaldi</font><br>
 <font size=2.5>In ICCV 2021 </font><br>
 <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Shapovalov_DensePose_3D_Lifting_Canonical_Surface_Maps_of_Articulated_Objects_to_ICCV_2021_paper.html"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
@@ -336,7 +360,7 @@ Andrea Vedaldi<br>
 <font size=2.5>Arn M J M van den Maagdenberg</font>, 
 <font size=2.5>Michel D Ferrari</font>, 
 <font size=2.5>Kenneth D Craig</font>, 
-Jeffrey S Mogil<br>
+<font size=2.5>Jeffrey S Mogil</font><br>
 <font size=2.5>In Nature Methods (brief communications) 2010 </font><br>
 <a href="https://www.nature.com/articles/nmeth.1455"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a></td></tr></tbody>
@@ -400,7 +424,7 @@ Jeffrey S Mogil<br>
 <font size=2.5>Jessica Raper</font>, 
 <font size=2.5>Jan Zimmermann</font>, 
 <font size=2.5>Benjamin Y. Hayden</font>, 
-Hyun Soo Park<br>
+<font size=2.5>Hyun Soo Park</font><br>
 <font size=2.5>In biorxiv 2021 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2021.09.08.459549v1.full.pdf"><img src="data/paper.png"></a> 
 <a href="http://openmonkeychallenge.com/"><img src="data/project.png"></a>
@@ -412,7 +436,7 @@ Hyun Soo Park<br>
 <td align="left" width=550><em>A Novel Dataset for Keypoint Detection of Quadruped Animals from Images</em><br>
 <font size=2.5>Prianka Banik</font>, 
 <font size=2.5>Lin Li</font>, 
-Xishuang Dong<br>
+<font size=2.5>Xishuang Dong</font><br>
 <font size=2.5>In arxiv 2021 </font><br>
 <a href="https://arxiv.org/pdf/2108.13958.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
@@ -495,7 +519,7 @@ Xishuang Dong<br>
 <font size=2.5>Dmitriy Aronov</font>, 
 <font size=2.5>Winrich A. Freiwald</font>, 
 <font size=2.5>Fan Wang</font>, 
-Bence P. Ölveczky<br>
+<font size=2.5>Bence P. Ölveczky</font><br>
 <font size=2.5>In Nature Methods 2021 </font><br>
 <a href="https://www.nature.com/articles/s41592-021-01106-6.pdf"><img src="data/paper.png"></a> 
 <a href="https://github.com/spoonsso/DANNCE"><img src="data/project.png"></a>
@@ -550,7 +574,7 @@ Bence P. Ölveczky<br>
 <td align="left" width=550><em>Big behavior: challenges and opportunities in a new era of deep behavior profiling</em><br>
 <font size=2.5>Lukas von Ziegler</font>, 
 <font size=2.5>Oliver Sturman</font>, 
-Johannes Bohacek<br>
+<font size=2.5>Johannes Bohacek</font><br>
 <font size=2.5>In Neuropsychopharmacology 2021 </font><br>
 <a href="https://www.nature.com/articles/s41386-020-0751-7"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
@@ -567,7 +591,7 @@ Johannes Bohacek<br>
 <font size=2.5>Carlos Doebeli</font>, 
 <font size=2.5>Hao Hu</font>, 
 <font size=2.5>Helge Rhodin</font>, 
-Timothy H. Murphy<br>
+<font size=2.5>Timothy H. Murphy</font><br>
 <font size=2.5>In Nature Methods (Brief Communication) 2021 </font>(<b><font size=2.5>cover</font></b>)<br>
 <a href="https://www.nature.com/articles/s41592-021-01103-9"><img src="data/paper.png"></a> 
 <a href="https://github.com/ubcbraincircuits/mCBF"><img src="data/project.png"></a>
@@ -582,7 +606,7 @@ Timothy H. Murphy<br>
 <font size=2.5>Irina Pavlova</font>, 
 <font size=2.5>Laura Kück</font>, 
 <font size=2.5>Laura A. Ewell</font>, 
-Martin K. Schwarz<br>
+<font size=2.5>Martin K. Schwarz</font><br>
 <font size=2.5>In Communications Biology 2021 </font><br>
 <a href="https://www.nature.com/articles/s42003-021-01654-9"><img src="data/paper.png"></a> 
 <a href="https://github.com/SchwarzNeuroconLab/DeepLabStream"><img src="data/project.png"></a>
@@ -625,7 +649,7 @@ Martin K. Schwarz<br>
 <font size=2.5>Gonçalo Lopes</font>, 
 <font size=2.5>Jonny L. Saunders</font>, 
 <a href="https://www.mathislab.org/people"><font size=2.5>Alexander Mathis</font></a>, 
-Mackenzie W. Mathis<br>
+<font size=2.5>Mackenzie W. Mathis</font><br>
 <font size=2.5>In eLife 2020 </font>(<b><font size=2.5>Featured by Nature Methods</font></b>)<br>
 <a href="https://elifesciences.org/articles/61909"><img src="data/paper.png"></a> 
 <a href="https://github.com/DeepLabCut/DeepLabCut-live"><img src="data/project.png"></a>
@@ -637,7 +661,7 @@ Mackenzie W. Mathis<br>
 <td align="left" width=550><em>Dynamics of gaze control during prey capture in freely moving mice</em><br>
 <font size=2.5>Angie M Michaiel</font>, 
 <font size=2.5>Elliott TT Abe</font>, 
-Cristopher M Niell<br>
+<font size=2.5>Cristopher M Niell</font><br>
 <font size=2.5>In eLife 2020 </font><br>
 <a href="https://elifesciences.org/articles/57458"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
@@ -668,7 +692,7 @@ Cristopher M Niell<br>
 <font size=2.5>Jacqueline K. White</font>, 
 <font size=2.5>Elissa J. Chesler</font>, 
 <font size=2.5>Cathleen M. Lutz</font>, 
-Vivek Kumar<br>
+<font size=2.5>Vivek Kumar</font><br>
 <font size=2.5>In Communications Biology 2019 </font><br>
 <a href="https://www.nature.com/articles/s42003-019-0362-1"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
@@ -815,7 +839,7 @@ Vivek Kumar<br>
 <font size=2.5>Mao Yuan Xu</font>, 
 <font size=2.5>Xiao Wu Luo</font>, 
 <font size=2.5>Alexis Rolland</font>, 
-Chedy Raissi<br>
+<font size=2.5>Chedy Raissi</font><br>
 <font size=2.5>In SCA (ACM Siggraph/Eurographics Symposium on Computer Animation) 2020 </font><br>
 <a href="https://export.arxiv.org/abs/2009.05389"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
@@ -1118,7 +1142,7 @@ Chedy Raissi<br>
 <a href="https://fang-haoshu.github.io/"><font size=2.5>Hao-Shu Fang</font></a>, 
 <a href="http://xiaoyongshen.me/"><font size=2.5>Xiaoyong Shen</font></a>, 
 <a href="https://www.mvig.org/"><font size=2.5>Cewu Lu</font></a>, 
-Yu-Wing Tai<br>
+<font size=2.5>Yu-Wing Tai</font><br>
 <font size=2.5>In ICCV 2019 </font>(<b><font size=2.5>oral</font></b>)<br>
 <a href="https://arxiv.org/abs/1908.05806"><img src="data/paper.png"></a> 
 <a href="http://www.jinkuncao.com/animalpose"><img src="data/project.png"></a>
