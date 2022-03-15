@@ -14,6 +14,49 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Luo2022.jpg"/></a></td>
+<td align="left" width=550><em>Artemis: Articulated Neural Pets with Appearance and Motion Synthesis</em><br>
+<font size=2.5>Haimin Luo</font>, 
+<font size=2.5>Teng Xu</font>, 
+<font size=2.5>Yuheng Jiang</font>, 
+<font size=2.5>Chenglin Zhou</font>, 
+<font size=2.5>Qiwei Qiu</font>, 
+<font size=2.5>Yingliang Zhang</font>, 
+<font size=2.5>Wei Yang</font>, 
+<a href="https://www.xu-lan.com/"><font size=2.5>Lan Xu</font></a>, 
+<a href="https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/"><font size=2.5>Jingyi Yu</font></a><br>
+<font size=2.5>In arxiv 2022 </font><br>
+<a href="https://arxiv.org/abs/2202.05628"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/chrelli/3DDD_social_mouse_tracker/"><img src="teasers/Ebbesen2020.jpg"/></a></td>
+<td align="left" width=550><em>Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography</em><br>
+<font size=2.5>Christian L. Ebbesen</font>, 
+<a href="http://froemkelab.med.nyu.edu/people"><font size=2.5>Robert C. Froemke</font></a><br>
+<font size=2.5>In Nature Communications 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.05.21.109629v2"><img src="data/paper.png"></a> 
+<a href="https://github.com/chrelli/3DDD_social_mouse_tracker/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://banmo-www.github.io/"><img src="teasers/Yang2022.jpg"/></a></td>
+<td align="left" width=550><em>BANMo: Building Animatable 3D Neural Models from Many Casual Videos</em><br>
+<a href="https://gengshan-y.github.io/"><font size=2.5>Gengshan Yang</font></a>, 
+<a href="https://minhpvo.github.io/"><font size=2.5>Minh Vo</font></a>, 
+<a href="https://nneverova.github.io/"><font size=2.5>Natalia Neverova</font></a>, 
+<a href="https://www.cs.cmu.edu/~deva/"><font size=2.5>Deva Ramanan</font></a>, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/"><font size=2.5>Andrea Vedaldi</font></a>, 
+<a href="https://jhugestar.github.io/"><font size=2.5>Hanbyul Joo</font></a><br>
+<font size=2.5>In CVPR 2022 </font><br>
+<a href="https://arxiv.org/abs/2112.12761"><img src="data/paper.png"></a> 
+<a href="https://banmo-www.github.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Gunel2021.jpg"/></a></td>
 <td align="left" width=550><em>Overcoming the Domain Gap in Neural Action Representations</em><br>
 <font size=2.5>Semih Gunel</font>, 
@@ -35,21 +78,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In arxiv 2021 </font><br>
 <a href="https://arxiv.org/pdf/2110.13598.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://banmo-www.github.io/"><img src="teasers/Yang2022.jpg"/></a></td>
-<td align="left" width=550><em>BANMo: Building Animatable 3D Neural Models from Many Casual Videos</em><br>
-<a href="https://gengshan-y.github.io/"><font size=2.5>Gengshan Yang</font></a>, 
-<a href="https://minhpvo.github.io/"><font size=2.5>Minh Vo</font></a>, 
-<a href="https://nneverova.github.io/"><font size=2.5>Natalia Neverova</font></a>, 
-<a href="https://www.cs.cmu.edu/~deva/"><font size=2.5>Deva Ramanan</font></a>, 
-<a href="https://www.robots.ox.ac.uk/~vedaldi/"><font size=2.5>Andrea Vedaldi</font></a>, 
-<a href="https://jhugestar.github.io/"><font size=2.5>Hanbyul Joo</font></a><br>
-<font size=2.5>In arxiv 2021 </font><br>
-<a href="https://arxiv.org/abs/2112.12761"><img src="data/paper.png"></a> 
-<a href="https://banmo-www.github.io/"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -327,16 +355,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In Current Opinion in Neurobiology 2021 </font><br>
 <a href="https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8243782&blobtype=pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ebbesen2020.jpg"/></a></td>
-<td align="left" width=550><em>Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography</em><br>
-<font size=2.5>Christian L. Ebbesen</font>, 
-<a href="http://froemkelab.med.nyu.edu/people"><font size=2.5>Robert C. Froemke</font></a><br>
-<font size=2.5>In biorxiv 2020 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.05.21.109629v2"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1312,7 +1330,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jan 2022
+Last updated in Mar 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

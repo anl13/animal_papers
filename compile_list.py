@@ -216,9 +216,12 @@ if __name__ == '__main__':
     header_file = os.path.join(WORK_DIR, 'header.%s' % TYPE)
     end_file = os.path.join(WORK_DIR, 'end.%s' % TYPE)
     # load papers
+
+    ### uncomment this line to compile paper_list.pkl from txt files. 
     # papers = read_papers()
     with open("data/paper_list.pkl", 'rb') as f: 
         papers = pickle.load(f)
+
     # sort papers
     papers.sort(key=lambda p: (p.adddate, p.year, p.article), reverse=True)
     # papers.sort(key=lambda p: (p.year, p.article), reverse=True)
