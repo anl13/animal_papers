@@ -14,6 +14,19 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://barc.is.tue.mpg.de/"><img src="teasers/Ruegg2022.jpg"/></a></td>
+<td align="left" width=550><em>BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information</em><br>
+<a href="https://ps.is.mpg.de/person/nrueegg"><font size=2.5>Nadine Ruegg</font></a>, 
+<a href="https://ps.is.mpg.de/person/szuffi"><font size=2.5>Silvia Zuffi</font></a>, 
+<font size=2.5>Konrad Schindler</font>, 
+<a href="https://ps.is.mpg.de/person/black"><font size=2.5>Michael J. Black</font></a><br>
+<font size=2.5>In CVPR 2022 </font><br>
+<a href="https://arxiv.org/pdf/2203.15536.pdf"><img src="data/paper.png"></a> 
+<a href="https://barc.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-dog-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-dog-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Luo2022.jpg"/></a></td>
 <td align="left" width=550><em>Artemis: Articulated Neural Pets with Appearance and Motion Synthesis</em><br>
 <font size=2.5>Haimin Luo</font>, 
