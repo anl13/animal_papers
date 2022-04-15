@@ -14,6 +14,60 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://deeplabcut.github.io/DeepLabCut/docs/intro.html?msclkid=94c16acabc5a11ec80efaafc9aaeb28c"><img src="teasers/Lauer2022.jpg"/></a></td>
+<td align="left" width=550><em>Multi-animal pose estimation, identification and tracking with DeepLabCut</em><br>
+<font size=2.5>Jessy Lauer</font>, 
+<font size=2.5>Mu Zhou</font>, 
+<font size=2.5>Shaokai Ye</font>, 
+<font size=2.5>William Menegas</font>, 
+<font size=2.5>Steffen Schneider</font>, 
+<font size=2.5>Tanmay Nath</font>, 
+<font size=2.5>Mohammed Mostafizur Rahman</font>, 
+<font size=2.5>Valentina Di Santo</font>, 
+<font size=2.5>Daniel Soberanes</font>, 
+<font size=2.5>Guoping Feng</font>, 
+<font size=2.5>Venkatesh N. Murthy</font>, 
+<font size=2.5>George Lauder</font>, 
+<font size=2.5>Catherine Dulac</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font>, 
+<a href="https://www.mathislab.org/people"><font size=2.5>Alexander Mathis</font></a><br>
+<font size=2.5>In Nature Methods 2022 </font><br>
+<a href="https://www.nature.com/articles/s41592-022-01443-0"><img src="data/paper.png"></a> 
+<a href="https://deeplabcut.github.io/DeepLabCut/docs/intro.html?msclkid=94c16acabc5a11ec80efaafc9aaeb28c"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://sleap.ai/"><img src="teasers/Pereira2022.jpg"/></a></td>
+<td align="left" width=550><em>SLEAP: A deep learning system for multi-animal pose tracking</em><br>
+<a href="https://biophysics.princeton.edu/people/talmo-pereira"><font size=2.5>Talmo D. Pereira</font></a>, 
+<font size=2.5>Nathaniel Tabris</font>, 
+<font size=2.5>Arie Matsliah</font>, 
+<font size=2.5>David M. Turner</font>, 
+<font size=2.5>Junyu Li</font>, 
+<font size=2.5>Shruthi Ravindranath</font>, 
+<font size=2.5>Eleni S. Papadoyannis</font>, 
+<font size=2.5>Edna Normand</font>, 
+<font size=2.5>David S. Deutsch</font>, 
+<font size=2.5>Z. Yan Wang</font>, 
+<font size=2.5>Grace McKenzie-Smith</font>, 
+<font size=2.5>Catalin C. Mitelut</font>, 
+<font size=2.5>Marielisa Diez Castro</font>, 
+<font size=2.5>John D'Uva</font>, 
+<font size=2.5>Mikhail Kislin</font>, 
+<a href="https://www.saneslab.com/"><font size=2.5>Dan H. Sanes</font></a>, 
+<a href="https://lsi.princeton.edu/sarah-d-kocher"><font size=2.5>Sarah D. Kocher</font></a>, 
+<a href="https://scholar.princeton.edu/wanglab/about"><font size=2.5>Samuel S.-H. Wang</font></a>, 
+<a href="https://www.falknerlab.com/"><font size=2.5>Annegret L. Falkner</font></a>, 
+<a href="https://molbio.princeton.edu/people/joshua-w-shaevitz"><font size=2.5>Joshua W. Shaevitz</font></a>, 
+<a href="https://murthylab.princeton.edu/mala-murthy"><font size=2.5>Mala Murthy</font></a><br>
+<font size=2.5>In Nature Methods 2022 </font><br>
+<a href="https://www.nature.com/articles/s41592-022-01426-1"><img src="data/paper.png"></a> 
+<a href="https://sleap.ai/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://barc.is.tue.mpg.de/"><img src="teasers/Ruegg2022.jpg"/></a></td>
 <td align="left" width=550><em>BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information</em><br>
 <a href="https://ps.is.mpg.de/person/nrueegg"><font size=2.5>Nadine Ruegg</font></a>, 
@@ -1343,7 +1397,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Mar 2022
+Last updated in Apr 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
