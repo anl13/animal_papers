@@ -14,6 +14,34 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Blau2022.jpg"/></a></td>
+<td align="left" width=550><em>SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework</em><br>
+<font size=2.5>Ari Blau</font>, 
+<font size=2.5>Christoph Gebhardt</font>, 
+<font size=2.5>Andres Bendesky</font>, 
+<font size=2.5>Liam Paninski</font>, 
+<a href="https://sites.google.com/site/anqiwuresearch/publica"><font size=2.5>Anqi Wu</font></a><br>
+<font size=2.5>In arxiv 2022 </font><br>
+<a href="https://arxiv-export1.library.cornell.edu/pdf/2204.07072"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://sutdcv.github.io/Animal-Kingdom/"><img src="teasers/Ng2022.jpg"/></a></td>
+<td align="left" width=550><em>Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding</em><br>
+<font size=2.5>Xun Long Ng</font>, 
+<font size=2.5>Kian Eng Ong</font>, 
+<font size=2.5>Qichen Zheng</font>, 
+<font size=2.5>Yun Ni</font>, 
+<font size=2.5>Si Yong Yeo</font>, 
+<a href="https://istd.sutd.edu.sg/people/faculty/liu-jun"><font size=2.5>Jun Liu</font></a><br>
+<font size=2.5>In CVPR 2022 </font>(<b><font size=2.5>oral</font></b>)<br>
+<a href="https://www.researchgate.net/publication/359816954_Animal_Kingdom_A_Large_and_Diverse_Dataset_for_Animal_Behavior_Understanding"><img src="data/paper.png"></a> 
+<a href="https://sutdcv.github.io/Animal-Kingdom/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://deeplabcut.github.io/DeepLabCut/docs/intro.html?msclkid=94c16acabc5a11ec80efaafc9aaeb28c"><img src="teasers/Lauer2022.jpg"/></a></td>
 <td align="left" width=550><em>Multi-animal pose estimation, identification and tracking with DeepLabCut</em><br>
 <font size=2.5>Jessy Lauer</font>, 
