@@ -14,6 +14,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
+<td align="left" width=550><em>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster</em><br>
+<font size=2.5>Victor Lobato Rios</font>, 
+<font size=2.5>Pembe Gizem Ozdil</font>, 
+<font size=2.5>Shravan Tata Ramalingasetty</font>, 
+<font size=2.5>Jonathan Arreguit</font>, 
+<a href="https://www.epfl.ch/labs/biorob/people/ijspeert/"><font size=2.5>Auke Jan Ijspeert</font></a>, 
+<a href="https://people.epfl.ch/pavan.ramdya"><font size=2.5>Pavan Ramdya</font></a><br>
+<font size=2.5>In Nature Methods 2021 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.04.17.440214v2"><img src="data/paper.png"></a> 
+<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Blau2022.jpg"/></a></td>
 <td align="left" width=550><em>SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework</em><br>
 <font size=2.5>Ari Blau</font>, 
@@ -120,7 +135,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Wei Yang</font>, 
 <a href="https://www.xu-lan.com/"><font size=2.5>Lan Xu</font></a>, 
 <a href="https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/"><font size=2.5>Jingyi Yu</font></a><br>
-<font size=2.5>In arxiv 2022 </font><br>
+<font size=2.5>In TOG (Siggraph 2022) 2022 </font><br>
 <a href="https://arxiv.org/abs/2202.05628"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
@@ -553,21 +568,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In arxiv 2021 </font><br>
 <a href="https://arxiv.org/pdf/2108.13958.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
-<td align="left" width=550><em>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster</em><br>
-<font size=2.5>Victor Lobato Rios</font>, 
-<font size=2.5>Pembe Gizem Ozdil</font>, 
-<font size=2.5>Shravan Tata Ramalingasetty</font>, 
-<font size=2.5>Jonathan Arreguit</font>, 
-<a href="https://www.epfl.ch/labs/biorob/people/ijspeert/"><font size=2.5>Auke Jan Ijspeert</font></a>, 
-<a href="https://people.epfl.ch/pavan.ramdya"><font size=2.5>Pavan Ramdya</font></a><br>
-<font size=2.5>In biorxiv 2021 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2021.04.17.440214v2"><img src="data/paper.png"></a> 
-<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1425,7 +1425,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Apr 2022
+Last updated in May 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

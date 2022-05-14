@@ -218,7 +218,7 @@ if __name__ == '__main__':
     # load papers
 
     ### uncomment this line to compile paper_list.pkl from txt files. 
-    # papers = read_papers()
+    papers = read_papers()
     with open("data/paper_list.pkl", 'rb') as f: 
         papers = pickle.load(f)
 
