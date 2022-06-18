@@ -14,6 +14,22 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/EBGU/Selfee/"><img src="teasers/Jia2022.jpg"/></a></td>
+<td align="left" width=550><em>Selfee, Self-supervised Features Extraction of animal behaviors</em><br>
+<font size=2.5>Yinjun Jia</font>, 
+<font size=2.5>Shuaishuai Li</font>, 
+<font size=2.5>Xuan Guo</font>, 
+<font size=2.5>Bo Lei</font>, 
+<font size=2.5>Junqiang Hu</font>, 
+<font size=2.5>Xiao-Hong Xu</font>, 
+<font size=2.5>Wei Zhang</font><br>
+<font size=2.5>In Elife 2022 </font><br>
+<a href="https://elifesciences.org/articles/76218"><img src="data/paper.png"></a> 
+<a href="https://github.com/EBGU/Selfee/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
 <td align="left" width=550><em>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster</em><br>
 <font size=2.5>Victor Lobato Rios</font>, 
@@ -1425,7 +1441,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in May 2022
+Last updated in Jun 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
