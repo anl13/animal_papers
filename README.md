@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2022.06.22] The 2nd CV4Animal workshop in CVPR 2022 (https://www.cv4animals.com/) presents many excellent works on rodent 3D reconstruction!
+  
 [2022.01.02] To make it easy to track, I sort the papers using the timepoint I find them (not publication time), and add label badges to show paper features. 
 
 [2021.11.28] I recommend [MMPose](https://github.com/open-mmlab/mmpose) for 2D animal pose estimation. It has collected various kinds of [datasets](https://github.com/open-mmlab/mmpose/blob/master/docs/tasks/2d_animal_keypoint.md).
@@ -14,6 +16,36 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://demoavataranalysis.ap.ngrok.io/"><img src="teasers/Kim2022.jpg"/></a></td>
+<td align="left" width=550><em>AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time</em><br>
+<font size=2.5>Dae-Gun Kim</font>, 
+<font size=2.5>Anna Shin</font>, 
+<font size=2.5>Yong-Cheol Jeong</font>, 
+<font size=2.5>Seahyung Park</font>, 
+<a href="https://www.researchgate.net/profile/Daesoo-Kim-2"><font size=2.5>Daesoo Kim</font></a><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2021.12.31.474634v1"><img src="data/paper.png"></a> 
+<a href="https://demoavataranalysis.ap.ngrok.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.liruilong.cn/projects/tava/"><img src="teasers/Li2022.jpg"/></a></td>
+<td align="left" width=550><em>TAVA: Template-free Animatable Volumetric Actors</em><br>
+<a href="https://www.liruilong.cn/"><font size=2.5>Ruilong Li</font></a>, 
+<font size=2.5>Julian Tanke</font>, 
+<a href="https://minhpvo.github.io/"><font size=2.5>Minh Vo</font></a>, 
+<a href="https://zollhoefer.com/"><font size=2.5>Michael Zollhoefer</font></a>, 
+<a href="https://pages.iai.uni-bonn.de/gall_juergen/"><font size=2.5>Jurgen Gall</font></a>, 
+<a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
+<a href="https://christophlassner.de/"><font size=2.5>Christoph Lassner</font></a><br>
+<font size=2.5>In arxiv 2022 </font><br>
+<a href="https://arxiv.org/pdf/2206.08929.pdf"><img src="data/paper.png"></a> 
+<a href="https://www.liruilong.cn/projects/tava/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/EBGU/Selfee/"><img src="teasers/Jia2022.jpg"/></a></td>
 <td align="left" width=550><em>Selfee, Self-supervised Features Extraction of animal behaviors</em><br>
 <font size=2.5>Yinjun Jia</font>, 

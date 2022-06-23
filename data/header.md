@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2022.06.22] The 2nd CV4Animal workshop in CVPR 2022 (https://www.cv4animals.com/) presents many excellent works on rodent 3D reconstruction!
+  
 [2022.01.02] To make it easy to track, I sort the papers using the timepoint I find them (not publication time), and add label badges to show paper features. 
 
 [2021.11.28] I recommend [MMPose](https://github.com/open-mmlab/mmpose) for 2D animal pose estimation. It has collected various kinds of [datasets](https://github.com/open-mmlab/mmpose/blob/master/docs/tasks/2d_animal_keypoint.md).
