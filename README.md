@@ -16,6 +16,48 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Marshall2021.jpg"/></a></td>
+<td align="left" width=550><em>Leaving Flatland: Advances in 3D behavioral measurement</em><br>
+<a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448"><font size=2.5>Jesse D. Marshall</font></a>, 
+<font size=2.5>Tianqing Li</font>, 
+<font size=2.5>Joshua H. Wu</font>, 
+<font size=2.5>Timothy W. Dunn</font><br>
+<font size=2.5>In Current Opinion in Neurobiology 2022 </font><br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959438822000071?via%3Dihub"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/tqxli/dannce-pytorch"><img src="teasers/Li2022-1.jpg"/></a></td>
+<td align="left" width=550><em>Improved Markerless 3D Animal Pose Estimation Using Temporal Semi-Supervision</em><br>
+<font size=2.5>Tianqing Li</font>, 
+<font size=2.5>Kyle S. Severson</font>, 
+<font size=2.5>Fan Wang</font>, 
+<font size=2.5>Timothy W. Dunn</font><br>
+<font size=2.5>In CV4Animal workshop at CVPR 2022 2022 </font><br>
+<a href="https://drive.google.com/file/d/1lZcrXlazErthSkPJtR6g1DLhFo1HmwXU/view?usp=sharing"><img src="data/paper.png"></a> 
+<a href="https://github.com/tqxli/dannce-pytorch"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ramalingasetty2017.jpg"/></a></td>
+<td align="left" width=550><em>A whole-body musculoskeletal model of the mouse</em><br>
+<font size=2.5>Shravan Tata Ramalingasetty</font>, 
+<font size=2.5>Simon M. Danner</font>, 
+<font size=2.5>Jonathan Arreguit</font>, 
+<font size=2.5>Sergey N. Markin</font>, 
+<font size=2.5>Dimitri Rodarie</font>, 
+<font size=2.5>Claudia Kathe</font>, 
+<font size=2.5>Grégoire Courtine</font>, 
+<font size=2.5>Ilya A. Rybak</font>, 
+<a href="https://www.epfl.ch/labs/biorob/"><font size=2.5>Auke Ijspeert</font></a><br>
+<font size=2.5>In IEEE Access 2021 </font><br>
+<a href="https://ieeexplore.ieee.org/document/9638502/"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://demoavataranalysis.ap.ngrok.io/"><img src="teasers/Kim2022.jpg"/></a></td>
 <td align="left" width=550><em>AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time</em><br>
 <font size=2.5>Dae-Gun Kim</font>, 
@@ -375,18 +417,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2021 </font><br>
 <a href="https://doi.org/10.1101/2021.11.15.468721"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Marshall2021.jpg"/></a></td>
-<td align="left" width=550><em>Leaving Flatland: Advances in 3D behavioral measurement</em><br>
-<a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448"><font size=2.5>Jesse D. Marshall</font></a>, 
-<font size=2.5>Tianqing Li</font>, 
-<font size=2.5>Joshua H. Wu</font>, 
-<font size=2.5>Timothy W. Dunn</font><br>
-<font size=2.5>In arxiv 2021 </font><br>
-<a href="https://arxiv.org/ftp/arxiv/papers/2112/2112.01987.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
