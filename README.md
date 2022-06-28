@@ -34,7 +34,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Kyle S. Severson</font>, 
 <font size=2.5>Fan Wang</font>, 
 <font size=2.5>Timothy W. Dunn</font><br>
-<font size=2.5>In CV4Animal workshop at CVPR 2022 2022 </font><br>
+<font size=2.5>In CV4Animal workshop at CVPR 2022 </font><br>
 <a href="https://drive.google.com/file/d/1lZcrXlazErthSkPJtR6g1DLhFo1HmwXU/view?usp=sharing"><img src="data/paper.png"></a> 
 <a href="https://github.com/tqxli/dannce-pytorch"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
