@@ -16,6 +16,61 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ibanez2022.jpg"/></a></td>
+<td align="left" width=550><em>EXPLORE: A novel deep learning-based analysis method for exploration behaviour in object recognition tests</em><br>
+<font size=2.5>Victor Iba˜nez</font>, 
+<font size=2.5>Laurens Bohlen</font>, 
+<font size=2.5>Francesca Manuell</font>, 
+<font size=2.5>Isabelle Mansuy</font>, 
+<font size=2.5>Fritjof Helmchen</font>, 
+<a href="https://www.hifo.uzh.ch/en/research/helmchen/juniorgroup0/publication.html"><font size=2.5>Anna-Sophia Wahl</font></a><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.06.24.497470v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="teasers/Koger2022.jpg"/></a></td>
+<td align="left" width=550><em>Multi-animal behavioral tracking and environmental reconstruction using drones and computer vision in the wild</em><br>
+<font size=2.5>Benjamin Koger</font>, 
+<font size=2.5>Adwait Deshpande</font>, 
+<font size=2.5>Jeffrey T. Kerby</font>, 
+<font size=2.5>Jacob M. Graving</font>, 
+<font size=2.5>Blair R. Costelloe</font>, 
+<a href="https://collectivebehaviour.com/people/couzin-iain/"><font size=2.5>Iain D. Couzin</font></a><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.06.30.498251v1"><img src="data/paper.png"></a> 
+<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Walter2020.jpg"/></a></td>
+<td align="left" width=550><em>TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction</em><br>
+<a href="https://www.orn.mpg.de/person/45292/409958"><font size=2.5>Tristan Walter</font></a>, 
+<a href="http://collectivebehaviour.com/"><font size=2.5>Iain D Couzin</font></a><br>
+<font size=2.5>In eLife 2021 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Brattoli2021.jpg"/></a></td>
+<td align="left" width=550><em>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</em><br>
+<font size=2.5>Biagio Brattoli</font>, 
+<font size=2.5>Uta Büchler</font>, 
+<font size=2.5>Michael Dorkenwald</font>, 
+<font size=2.5>Philipp Reiser</font>, 
+<font size=2.5>Linard Filli</font>, 
+<font size=2.5>Fritjof Helmchen</font>, 
+<a href="https://www.hifo.uzh.ch/en/research/helmchen/juniorgroup0/publication.html"><font size=2.5>Anna-Sophia Wahl</font></a>, 
+<font size=2.5>Björn Ommer</font><br>
+<font size=2.5>In Nature Machine Intelligence 2021 </font><br>
+<a href="https://www.nature.com/articles/s42256-021-00326-x"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Marshall2021.jpg"/></a></td>
 <td align="left" width=550><em>Leaving Flatland: Advances in 3D behavioral measurement</em><br>
 <a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448"><font size=2.5>Jesse D. Marshall</font></a>, 
@@ -81,7 +136,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://pages.iai.uni-bonn.de/gall_juergen/"><font size=2.5>Jurgen Gall</font></a>, 
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
 <a href="https://christophlassner.de/"><font size=2.5>Christoph Lassner</font></a><br>
-<font size=2.5>In arxiv 2022 </font><br>
+<font size=2.5>In ECCV 2022 </font><br>
 <a href="https://arxiv.org/pdf/2206.08929.pdf"><img src="data/paper.png"></a> 
 <a href="https://www.liruilong.cn/projects/tava/"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
@@ -977,16 +1032,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Walter2020.jpg"/></a></td>
-<td align="left" width=550><em>TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction</em><br>
-<a href="https://www.orn.mpg.de/person/45292/409958"><font size=2.5>Tristan Walter</font></a>, 
-<a href="http://collectivebehaviour.com/"><font size=2.5>Iain D Couzin</font></a><br>
-<font size=2.5>In biorxiv 2020 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
 <a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/"><img src="teasers/Zimmermann2020.jpg"/></a></td>
 <td align="left" width=550><em>FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces</em><br>
 <a href="https://lmb.informatik.uni-freiburg.de/people/zimmermc/"><font size=2.5>Christian Zimmermann</font></a>, 
@@ -1503,7 +1548,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jun 2022
+Last updated in Jul 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
