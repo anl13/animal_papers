@@ -16,6 +16,24 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://edspace.american.edu/openbehavior/project/sipec/"><img src="teasers/Marks2022.jpg"/></a></td>
+<td align="left" width=550><em>Deep-learning based identification, tracking, pose estimation, and behavior classification of interacting primates and mice in complex environments</em><br>
+<font size=2.5>Markus Marks</font>, 
+<font size=2.5>Jin Qiuhan</font>, 
+<font size=2.5>Oliver Sturman</font>, 
+<font size=2.5>Lukas von Ziegler</font>, 
+<font size=2.5>Sepp Kollmorgen</font>, 
+<font size=2.5>Wolfger von der Behrens</font>, 
+<font size=2.5>Valerio Mante</font>, 
+<font size=2.5>Johannes Bohacek</font>, 
+<font size=2.5>Mehmet Fatih Yanik</font><br>
+<font size=2.5>In Nature Machine Intelligence 2022 </font><br>
+<a href="https://www.nature.com/articles/s42256-022-00477-5"><img src="data/paper.png"></a> 
+<a href="https://edspace.american.edu/openbehavior/project/sipec/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ibanez2022.jpg"/></a></td>
 <td align="left" width=550><em>EXPLORE: A novel deep learning-based analysis method for exploration behaviour in object recognition tests</em><br>
 <font size=2.5>Victor Iba˜nez</font>, 
