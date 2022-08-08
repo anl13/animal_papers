@@ -16,6 +16,18 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Jiang2022.jpg"/></a></td>
+<td align="left" width=550><em>Animal pose estimation: A closer look at the state-of-the-art, existing gaps and opportunities</em><br>
+<font size=2.5>Le Jiang</font>, 
+<font size=2.5>Caleb Lee</font>, 
+<font size=2.5>Divyang Teotia</font>, 
+<a href="https://coe.northeastern.edu/people/ostadabbas-sarah/"><font size=2.5>Sarah Ostadabbas</font></a><br>
+<font size=2.5>In Computer Vision and Image Understanding (CVIU) 2022 </font><br>
+<a href="https://pdf.sciencedirectassets.com/271018/1-s2.0-S1077314222X00088/1-s2.0-S1077314222000893/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFQBZBGc%2FIJ6aPoZ3UeHo3HM3Dc8FiVDb2HvRztSbMArAiEAkT%2B0QjP9moH8oJRMGp2y10SQoytVcsd3xGYscSL4xcgq0gQIFRAFGgwwNTkwMDM1NDY4NjUiDFEDG8p47QDsIUlG%2ByqvBA5JI8kfEowgxt2IgXPGTC9E0poRYc%2F17MaMbzPlftJgLE8vG1BmYC00Kxani1fUvOZK%2F20F4GjixcF3uG3cxAKjINCPMmQcLIBZb1P%2BW8VFxX1nKi5PYwxu09t4Lvh41kGsKK4V2IV5%2FO3PWHNnP0je%2FZQZTMQJOztxbdOjs4yzaWOfeoq9r07%2BbHSUJnZXjUGc%2BFNQtjf7WQthAUHyWCeLA6wNC5SAPnwQBUf1YP%2Bp9Xcaql1cPZIx3BWJg5eFgvVwLAGZD8ozUSzb4tBkXgFBD2gyLL304xiGnrAMo1IC7RS9CGpcX7EoJh%2FOwFwQJhYlcfZiqhlHCv61C99HWsRpI0aVXGTpMM14LK5RIJjO%2BcrRiNPuiwZOwC9srBqKvzYlLyp19%2FkRb4yxSFXQc0mhv9JP4%2Fqp19TCN8FcheS4hQD9AfoS3VpgyN0LiN8xwN1Z00Q4E2%2FQXr5mV21UALyJEv2TY2gA%2BUwsFdfO4%2FCPLhf61liCvvxA%2BA2Gh60QT5qIvyxy8SXSRmCsl8nTx%2FYSsVyqhnWuOCgjUgma6nBv27J9pAb4FUVCvPHuI56CJqMrs3eTVwzvTaPNxkLMahif%2B%2Fe8NLQ00D89DTCyR0PVqhwXluDHcTdMkrPlj9h3B577RFyYuHtKfaLC8GF0KudmQzVUb2sDJ9wTs0%2FJf%2BvAW90hcuE7yYuhLAQ6wPqnzVnHynPUM2R02FkYbOkGXKy8pgRErzWM%2Fqv%2BijtcNBwwmu%2FDlwY6qQG%2Fg9SPZlh7cee4Gbjbf%2F6DQ%2BeomRX8uLKle0wketa9AqGuVIxRm4pnhdpXlbwFf1sOWaOA2uxPDLMjyBLkC0cFk9jLAtl5%2F4Ce5d24dp4CVhwL%2FlnLTAnZZ6QZ6ODJuiTdViFnhak5EXdfewd8d1VAXYlxXSuuAo36P3imWvdE6ZZRprP5tHdUsK3FWccb3n9y4DLALnmpvNJZK9l38klSYdB0i4QY6sZY&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220808T122023Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5ENN2VZW%2F20220808%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7e952d9ffae1fad55c2f335e51a4bf640b38945991840d406cc6b3d6632c6020&hash=bc8710f2757341861668832706bd93e498378167e21428b1330e5275d61add91&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1077314222000893&tid=spdf-8474dc97-a5ce-4761-90d5-dcf16f473e47&sid=3a219f905ca9224d262a48d78c6e495482c7gxrqa&type=client&ua=4d5753565d5303025601&rr=737834ac4c017d6b"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/lmb-freiburg/FreiPose-docker"><img src="teasers/Schneider2022.jpg"/></a></td>
 <td align="left" width=550><em>3D pose estimation enables virtual head fixation in freely moving rats</em><br>
 <font size=2.5>Artur Schneider</font>, 
@@ -381,7 +393,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Gaurav Kumar Nayak</font>, 
 <a href="https://het-shah.github.io/"><font size=2.5>Het Shah</font></a>, 
 <a href="http://visual-computing.in/wp-content/uploads/2017/08/anirban-chakraborty.html"><font size=2.5>Anirban Chakraborty</font></a><br>
-<font size=2.5>In arxiv 2021 </font><br>
+<font size=2.5>In BMVC 2021 </font><br>
 <a href="https://arxiv.org/pdf/2110.13598.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
 
@@ -1599,7 +1611,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jul 2022
+Last updated in Aug 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
