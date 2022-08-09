@@ -18,6 +18,24 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Zhou2022.jpg"/></a></td>
+<td align="left" width=550><em>Cross-Skeleton Interaction Graph Aggregation Network for Representation Learning of Mouse Social Behaviour</em><br>
+<font size=2.5>Feixiang Zhou</font>, 
+<font size=2.5>Xinyu Yang</font>, 
+<font size=2.5>Fang Chen</font>, 
+<font size=2.5>Long Chen</font>, 
+<font size=2.5>Zheheng Jiang</font>, 
+<font size=2.5>Hui Zhu</font>, 
+<font size=2.5>Reiko Heckel</font>, 
+<font size=2.5>Haikuan Wang</font>, 
+<font size=2.5>Minrui Fei</font>, 
+<a href="https://bipl-uol.github.io/"><font size=2.5>Huiyu Zhou</font></a><br>
+<font size=2.5>In arxiv 2022 </font><br>
+<a href="https://arxiv.org/pdf/2208.03819.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Jiang2022.jpg"/></a></td>
 <td align="left" width=550><em>Animal pose estimation: A closer look at the state-of-the-art, existing gaps and opportunities</em><br>
 <font size=2.5>Le Jiang</font>, 
