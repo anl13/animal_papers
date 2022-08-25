@@ -18,6 +18,29 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/DeNardoLab/BehaviorDEPOT"><img src="teasers/Gabriel2022.jpg"/></a></td>
+<td align="left" width=550><em>BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking</em><br>
+<font size=2.5>Christopher J Gabriel</font>, 
+<font size=2.5>Zachary Zeidler</font>, 
+<font size=2.5>Benita Jin</font>, 
+<font size=2.5>Changliang Guo</font>, 
+<font size=2.5>Caitlin M Goodpaster</font>, 
+<font size=2.5>Adrienne Q Kashay</font>, 
+<font size=2.5>Anna Wu</font>, 
+<font size=2.5>Molly Delaney</font>, 
+<font size=2.5>Jovian Cheung</font>, 
+<font size=2.5>Lauren E DiFazio</font>, 
+<font size=2.5>Melissa J Sharpe</font>, 
+<font size=2.5>Daniel Aharoni</font>, 
+<font size=2.5>Scott A Wilke</font>, 
+<a href="https://wd2labs.org/denardo-lab"><font size=2.5>Laura A DeNardo</font></a><br>
+<font size=2.5>In eLife 2022 </font><br>
+<a href="https://elifesciences.org/articles/74314"><img src="data/paper.png"></a> 
+<a href="https://github.com/DeNardoLab/BehaviorDEPOT"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Zhou2022.jpg"/></a></td>
 <td align="left" width=550><em>Cross-Skeleton Interaction Graph Aggregation Network for Representation Learning of Mouse Social Behaviour</em><br>
 <font size=2.5>Feixiang Zhou</font>, 
