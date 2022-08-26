@@ -18,6 +18,26 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/umyelab/LabGym"><img src="teasers/Hu2022.jpg"/></a></td>
+<td align="left" width=550><em>LabGym: quantification of user-defined animal behaviors using learning-based holistic assessment</em><br>
+<font size=2.5>Yujia Hu</font>, 
+<font size=2.5>Carrie R. Ferrario</font>, 
+<font size=2.5>Alexander D. Maitland</font>, 
+<font size=2.5>Rita B. Ionides</font>, 
+<font size=2.5>Anjesh Ghimire</font>, 
+<font size=2.5>Brendon Watson</font>, 
+<font size=2.5>Kenichi Iwasaki</font>, 
+<font size=2.5>Hope White</font>, 
+<font size=2.5>Yitao Xi</font>, 
+<font size=2.5>Jie Zhou</font>, 
+<a href="https://www.lsi.umich.edu/science/our-labs/bing-ye-lab"><font size=2.5>Bing Ye</font></a><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2022/05/14/2022.02.17.480911.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/umyelab/LabGym"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/DeNardoLab/BehaviorDEPOT"><img src="teasers/Gabriel2022.jpg"/></a></td>
 <td align="left" width=550><em>BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking</em><br>
 <font size=2.5>Christopher J Gabriel</font>, 
