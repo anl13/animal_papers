@@ -18,6 +18,41 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Kim2022-2.jpg"/></a></td>
+<td align="left" width=550><em>Evaluation of mouse behavioral responses to nutritive versus nonnutritive sugar using a deep learning-based 3D real-time pose estimation system</em><br>
+<font size=2.5>Jineun Kim</font>, 
+<font size=2.5>Dae-gun Kim</font>, 
+<font size=2.5>Wongyo Jung</font>, 
+<a href="https://med.nyu.edu/faculty/seong-bae-greg-suh"><font size=2.5>Greg S. B. Suh</font></a><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.09.19.508605v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Yurimoto2022.jpg"/></a></td>
+<td align="left" width=550><em>Development of a new 3D tracking system for multiple marmosets under free-moving conditions</em><br>
+<font size=2.5>Terumi Yurimoto</font>, 
+<font size=2.5>Wakako Kumita</font>, 
+<font size=2.5>Kenya Sato</font>, 
+<font size=2.5>Rika Kikuchi</font>, 
+<font size=2.5>Yusuke Shibuki</font>, 
+<font size=2.5>Rino Hashimoto</font>, 
+<font size=2.5>Michiko Kamioka</font>, 
+<font size=2.5>Yumi Hayasegawa</font>, 
+<font size=2.5>Eiko Yamazaki</font>, 
+<font size=2.5>Yoko Kurotaki</font>, 
+<font size=2.5>Norio Goda</font>, 
+<font size=2.5>Junichi Kitakami</font>, 
+<font size=2.5>Tatsuya Fujita</font>, 
+<font size=2.5>Takashi Inoue</font>, 
+<font size=2.5>Erika Sasaki</font><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.29.486138v2"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/umyelab/LabGym"><img src="teasers/Hu2022.jpg"/></a></td>
 <td align="left" width=550><em>LabGym: quantification of user-defined animal behaviors using learning-based holistic assessment</em><br>
 <font size=2.5>Yujia Hu</font>, 
@@ -1674,7 +1709,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Aug 2022
+Last updated in Sep 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
