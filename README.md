@@ -18,6 +18,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://chhankyao.github.io/lassie/"><img src="teasers/Yao2022.jpg"/></a></td>
+<td align="left" width=550><em>LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery</em><br>
+<a href="https://www.chhankyao.com/"><font size=2.5>Chun-Han Yao</font></a>, 
+<font size=2.5>Wei-Chih Hung</font>, 
+<font size=2.5>Yuanzhen Li</font>, 
+<font size=2.5>Michael Rubinstein</font>, 
+<a href="http://faculty.ucmerced.edu/mhyang/"><font size=2.5>Ming-Hsuan Yang</font></a>, 
+<a href="https://varunjampani.github.io/"><font size=2.5>Varun Jampani</font></a><br>
+<font size=2.5>In NeurIPS 2022 </font><br>
+<a href="https://arxiv.org/pdf/2207.03434.pdf"><img src="data/paper.png"></a> 
+<a href="https://chhankyao.github.io/lassie/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Kim2022-2.jpg"/></a></td>
 <td align="left" width=550><em>Evaluation of mouse behavioral responses to nutritive versus nonnutritive sugar using a deep learning-based 3D real-time pose estimation system</em><br>
 <font size=2.5>Jineun Kim</font>, 
@@ -1709,7 +1724,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Sep 2022
+Last updated in Oct 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
