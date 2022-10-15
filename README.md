@@ -18,6 +18,18 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/shlizee/OpenLabCluster"><img src="teasers/Li2022-2.jpg"/></a></td>
+<td align="left" width=550><em>OpenLabCluster: Active Learning Based Clustering and Classification of Animal Behaviors in Videos Based on Automatically Extracted Kinematic Body Keypoints</em><br>
+<font size=2.5>Jingyuan Li</font>, 
+<font size=2.5>Moishe Keselman</font>, 
+<font size=2.5>Eli Shlizerman</font><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.10.10.511660v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/shlizee/OpenLabCluster"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://chhankyao.github.io/lassie/"><img src="teasers/Yao2022.jpg"/></a></td>
 <td align="left" width=550><em>LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery</em><br>
 <a href="https://www.chhankyao.com/"><font size=2.5>Chun-Han Yao</font></a>, 
