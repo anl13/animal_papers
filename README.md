@@ -891,7 +891,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Jan Zimmermann</font>, 
 <font size=2.5>Benjamin Y. Hayden</font>, 
 <font size=2.5>Hyun Soo Park</font><br>
-<font size=2.5>In biorxiv 2021 </font><br>
+<font size=2.5>In IJCV 2022 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2021.09.08.459549v1.full.pdf"><img src="data/paper.png"></a> 
 <a href="http://openmonkeychallenge.com/"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-dataset-orange" align="bottom"><img src="https://img.shields.io/badge/topic-dataset-orange"></a></td></tr></tbody>
