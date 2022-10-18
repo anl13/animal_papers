@@ -18,6 +18,23 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/bbo-lab/ACM"><img src="teasers/Monsees2022.jpg"/></a></td>
+<td align="left" width=550><em>Estimation of skeletal kinematics in freely moving rodents</em><br>
+<font size=2.5>Arne Monsees</font>, 
+<font size=2.5>Kay-Michael Voit</font>, 
+<font size=2.5>Damian J. Wallace</font>, 
+<font size=2.5>Juergen Sawinski</font>, 
+<font size=2.5>Edyta Charyasz</font>, 
+<font size=2.5>Klaus Scheffler</font>, 
+<font size=2.5>Jakob H. Macke</font>, 
+<font size=2.5>Jason N. D. Kerr</font><br>
+<font size=2.5>In Nature Methods 2022 </font><br>
+<a href="https://www.nature.com/articles/s41592-022-01634-9"><img src="data/paper.png"></a> 
+<a href="https://github.com/bbo-lab/ACM"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/shlizee/OpenLabCluster"><img src="teasers/Li2022-2.jpg"/></a></td>
 <td align="left" width=550><em>OpenLabCluster: Active Learning Based Clustering and Classification of Animal Behaviors in Videos Based on Automatically Extracted Kinematic Body Keypoints</em><br>
 <font size=2.5>Jingyuan Li</font>, 
