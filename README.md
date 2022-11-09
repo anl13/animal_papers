@@ -18,6 +18,44 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Schweihoff2022.jpg"/></a></td>
+<td align="left" width=550><em>A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior</em><br>
+<font size=2.5>Jens F. Schweihoff</font>, 
+<font size=2.5>Alexander I. Hsu</font>, 
+<font size=2.5>Martin K. Schwarz</font>, 
+<a href="https://www.cmu.edu/bio/people/faculty/yttri.html"><font size=2.5>Eric A. Yttri</font></a><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515138v2.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Sinha2022.jpg"/></a></td>
+<td align="left" width=550><em>Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories</em><br>
+<a href="https://www.samsinha.me/"><font size=2.5>Samarth Sinha</font></a>, 
+<font size=2.5>Roman Shapovalov</font>, 
+<font size=2.5>Jeremy Reizenstein</font>, 
+<font size=2.5>Ignacio Rocco</font>, 
+<a href="https://nneverova.github.io/"><font size=2.5>Natalia Neverova</font></a>, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/pub.html"><font size=2.5>Andrea Vedaldi</font></a>, 
+<a href="https://d-novotny.github.io/"><font size=2.5>David Novotny</font></a><br>
+<font size=2.5>In arxiv 2022 </font><br>
+<a href="https://arxiv.org/abs/2211.03889v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-cat-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-cat-yellowgreen"></a><a href="https://img.shields.io/badge/animal-dog-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-dog-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://bsoid.org/"><img src="teasers/Hsu2022.jpg"/></a></td>
+<td align="left" width=550><em>B-SOiD, an open-source unsupervised algorithm for identification and fast prediction of behaviors</em><br>
+<font size=2.5>Alexander I. Hsu</font>, 
+<a href="https://www.cmu.edu/bio/people/faculty/yttri.html"><font size=2.5>Eric A. Yttri</font></a><br>
+<font size=2.5>In Nature Communications 2022 </font><br>
+<a href="https://www.nature.com/articles/s41467-021-25420-x"><img src="data/paper.png"></a> 
+<a href="https://bsoid.org/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset"><img src="teasers/Sun2022.jpg"/></a></td>
 <td align="left" width=550><em>The MABe22 Benchmarks for Representation Learning of Multi-Agent Behavior</em><br>
 <font size=2.5>Jennifer J. Sun</font>, 
@@ -1779,7 +1817,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Oct 2022
+Last updated in Nov 2022
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
