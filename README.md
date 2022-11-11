@@ -18,6 +18,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Zhou2022-1.jpg"/></a></td>
+<td align="left" width=550><em>ConstrastivePose: A contrastive learning approach for self-supervised feature engineering for pose estimation and behavorial classification of interacting animals</em><br>
+<font size=2.5>Tianxun Zhou</font>, 
+<font size=2.5>Calvin Chee Hoe Cheah</font>, 
+<font size=2.5>Eunice Wei Mun Chin</font>, 
+<font size=2.5>Jie Chen</font>, 
+<font size=2.5>Hui Jia Farm</font>, 
+<font size=2.5>Eyleen Lay Keow Goh</font>, 
+<font size=2.5>Keng Hwee Chiam</font><br>
+<font size=2.5>In biorxiv 2022 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.11.09.515746v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Schweihoff2022.jpg"/></a></td>
 <td align="left" width=550><em>A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior</em><br>
 <font size=2.5>Jens F. Schweihoff</font>, 
