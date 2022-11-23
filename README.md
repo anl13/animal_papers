@@ -18,6 +18,20 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://3dmagicpony.github.io/"><img src="teasers/Wu2022.jpg"/></a></td>
+<td align="left" width=550><em>MagicPony: Learning Articulated 3D Animals in the Wild</em><br>
+<a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
+<a href="https://ruiningli.com/"><font size=2.5>Ruining Li</font></a>, 
+<a href="https://www.robots.ox.ac.uk/~tomj/"><font size=2.5>Tomas Jakab</font></a>, 
+<a href="https://chrirupp.github.io/"><font size=2.5>Christian Rupprecht</font></a>, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/"><font size=2.5>Andrea Vedaldi</font></a><br>
+<font size=2.5>In arxiv 2022 </font><br>
+<a href="https://arxiv.org/pdf/2211.12497.pdf"><img src="data/paper.png"></a> 
+<a href="https://3dmagicpony.github.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Zhou2022-1.jpg"/></a></td>
 <td align="left" width=550><em>ConstrastivePose: A contrastive learning approach for self-supervised feature engineering for pose estimation and behavorial classification of interacting animals</em><br>
 <font size=2.5>Tianxun Zhou</font>, 
