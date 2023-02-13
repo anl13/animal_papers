@@ -18,6 +18,92 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/KumarLabJax/JABS-data-pipeline/tree/main"><img src="teasers/Beane2023.jpg"/></a></td>
+<td align="left" width=550><em>JAX Animal Behavior System (JABS): A video-based phenotyping platform for the laboratory mouse</em><br>
+<font size=2.5>Glen Beane</font>, 
+<font size=2.5>Brian Q. Geuther</font>, 
+<font size=2.5>Thomas J. Sproule</font>, 
+<font size=2.5>Anshul Choudhary</font>, 
+<font size=2.5>Jarek Trapszo</font>, 
+<font size=2.5>Leinani Hession</font>, 
+<font size=2.5>Vivek Kohar</font>, 
+<a href="https://www.jax.org/research-and-faculty/faculty/vivek-kumar"><font size=2.5>Vivek Kumar</font></a><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.01.13.476229v2.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/KumarLabJax/JABS-data-pipeline/tree/main"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Hernandez2023.jpg"/></a></td>
+<td align="left" width=550><em>An 8-cage imaging system for automated analyses of mouse behavior</em><br>
+<font size=2.5>Thaís Del Rosario Hernández</font>, 
+<font size=2.5>Narendra R. Joshi</font>, 
+<font size=2.5>Sayali V. Gore</font>, 
+<font size=2.5>Jill A. Kreiling</font>, 
+<a href="https://vivo.brown.edu/display/rcretonp"><font size=2.5>Robbert Creton</font></a><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.02.04.527129v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="teasers/Koger2022.jpg"/></a></td>
+<td align="left" width=550><em>Quantifying the movement, behavior, and environmental context of group-living animals using drones and computer vision</em><br>
+<font size=2.5>Benjamin Koger</font>, 
+<font size=2.5>Adwait Deshpande</font>, 
+<font size=2.5>Jeffrey T. Kerby</font>, 
+<font size=2.5>Jacob M. Graving</font>, 
+<font size=2.5>Blair R. Costelloe</font>, 
+<a href="https://collectivebehaviour.com/people/couzin-iain/"><font size=2.5>Iain D. Couzin</font></a><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.06.30.498251v2.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Sheppard2020.jpg"/></a></td>
+<td align="left" width=550><em>Gait-level analysis of mouse open field behavior using deep learning-based pose estimation</em><br>
+<font size=2.5>Keith Sheppard</font>, 
+<font size=2.5>Justin Gardin</font>, 
+<font size=2.5>Gautam Sabnis</font>, 
+<font size=2.5>Asaf Peer</font>, 
+<font size=2.5>Megan Darrell</font>, 
+<font size=2.5>Sean Deats</font>, 
+<font size=2.5>Brian Geuther</font>, 
+<font size=2.5>Cathleen M. Lutz</font>, 
+<a href="https://www.kumarlab.org/"><font size=2.5>Vivek Kumar</font></a><br>
+<font size=2.5>In Cell Reports 2022 </font><br>
+<a href="https://www.cell.com/action/showPdf?pii=S2211-1247%2821%2901740-X"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Bozek2021.jpg"/></a></td>
+<td align="left" width=550><em>Markerless tracking of an entire honey bee colony</em><br>
+<font size=2.5>Katarzyna Bozek</font>, 
+<font size=2.5>Laetitia Hebert</font>, 
+<font size=2.5>Yoann Portugal</font>, 
+<font size=2.5>Alexander S. Mikheyev</font>, 
+<a href="https://research.vu.nl/en/persons/gj-stephens/publications/"><font size=2.5>Greg J. Stephens</font></a><br>
+<font size=2.5>In Nature Communications 2021 </font><br>
+<a href="https://www.nature.com/articles/s41467-021-21769-1"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ahamed2020.jpg"/></a></td>
+<td align="left" width=550><em>Capturing the continuous complexity of behaviour in Caenorhabditis elegans</em><br>
+<font size=2.5>Tosif Ahamed</font>, 
+<font size=2.5>Antonio C. Costa</font>, 
+<a href="https://research.vu.nl/en/persons/gj-stephens/publications/"><font size=2.5>Greg J. Stephens</font></a><br>
+<font size=2.5>In Nature Physics 2020 </font><br>
+<a href="https://www.nature.com/articles/s41567-020-01036-8"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://3dmagicpony.github.io/"><img src="teasers/Wu2022.jpg"/></a></td>
 <td align="left" width=550><em>MagicPony: Learning Articulated 3D Animals in the Wild</em><br>
 <a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
@@ -325,21 +411,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2022 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2022.06.24.497470v1"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="teasers/Koger2022.jpg"/></a></td>
-<td align="left" width=550><em>Multi-animal behavioral tracking and environmental reconstruction using drones and computer vision in the wild</em><br>
-<font size=2.5>Benjamin Koger</font>, 
-<font size=2.5>Adwait Deshpande</font>, 
-<font size=2.5>Jeffrey T. Kerby</font>, 
-<font size=2.5>Jacob M. Graving</font>, 
-<font size=2.5>Blair R. Costelloe</font>, 
-<a href="https://collectivebehaviour.com/people/couzin-iain/"><font size=2.5>Iain D. Couzin</font></a><br>
-<font size=2.5>In biorxiv 2022 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2022.06.30.498251v1"><img src="data/paper.png"></a> 
-<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1012,23 +1083,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In CVPR 2021 </font><br>
 <a href="https://openaccess.thecvf.com/content/CVPR2021/papers/Neverova_Discovering_Relationships_Between_Object_Categories_via_Universal_Canonical_Maps_CVPR_2021_paper.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-dense%20surface-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-dense%20surface-9cf"></a><a href="https://img.shields.io/badge/animal-quadruped-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-quadruped-yellowgreen"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Sheppard2020.jpg"/></a></td>
-<td align="left" width=550><em>Gait-level analysis of mouse open field behavior using deep learning-based pose estimation</em><br>
-<font size=2.5>Keith Sheppard</font>, 
-<font size=2.5>Justin Gardin</font>, 
-<font size=2.5>Gautam Sabnis</font>, 
-<font size=2.5>Asaf Peer</font>, 
-<font size=2.5>Megan Darrell</font>, 
-<font size=2.5>Sean Deats</font>, 
-<font size=2.5>Brian Geuther</font>, 
-<font size=2.5>Cathleen M. Lutz</font>, 
-<a href="https://www.kumarlab.org/"><font size=2.5>Vivek Kumar</font></a><br>
-<font size=2.5>In biorxiv 2020 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.12.29.424780v2.full.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1846,7 +1900,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Nov 2022
+Last updated in Feb 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
