@@ -18,6 +18,46 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ye2023.jpg"/></a></td>
+<td align="left" width=550><em>Panoptic animal pose estimators are zero-shot performers</em><br>
+<a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai</font></a>, 
+<font size=2.5>Alexander Mathis</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font><br>
+<font size=2.5>In arxiv 2023 </font><br>
+<a href="https://arxiv.org/pdf/2203.07436.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/Aghileh/UPPER"><img src="teasers/Ebrahimi2023.jpg"/></a></td>
+<td align="left" width=550><em>Three‑dimensional unsupervised probabilistic pose reconstruction (3D‑UPPER) for freely moving animals</em><br>
+<font size=2.5>Aghileh S. Ebrahimi</font>, 
+<font size=2.5>Patrycja Orlowska‑Feuer</font>, 
+<font size=2.5>Qian Huang</font>, 
+<font size=2.5>AntonioG. Zippo</font>, 
+<font size=2.5>Franck P. Martial</font>, 
+<font size=2.5>Rasmus S. Petersen</font>, 
+<a href="https://research.manchester.ac.uk/en/persons/riccardo.storchi"><font size=2.5>Riccardo Storchi</font></a><br>
+<font size=2.5>In Scientific Reports 2023 </font><br>
+<a href="https://www.nature.com/articles/s41598-022-25087-4"><img src="data/paper.png"></a> 
+<a href="https://github.com/Aghileh/UPPER"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Panadeiro2021.jpg"/></a></td>
+<td align="left" width=550><em>A review of 28 free animal-tracking software applications: current features and limitations</em><br>
+<font size=2.5>Veronica Panadeiro</font>, 
+<font size=2.5>Alvaro Rodriguez</font>, 
+<font size=2.5>Jason Henry</font>, 
+<font size=2.5>Donald Wlodkowic</font>, 
+<font size=2.5>Magnus Andersson</font><br>
+<font size=2.5>In Lab Animal 2021 </font><br>
+<a href="https://www.nature.com/articles/s41684-021-00811-1"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/KumarLabJax/JABS-data-pipeline/tree/main"><img src="teasers/Beane2023.jpg"/></a></td>
 <td align="left" width=550><em>JAX Animal Behavior System (JABS): A video-based phenotyping platform for the laboratory mouse</em><br>
 <font size=2.5>Glen Beane</font>, 
