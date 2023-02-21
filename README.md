@@ -18,6 +18,35 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Bohnslav2023.jpg"/></a></td>
+<td align="left" width=550><em>ArMo: An Articulated Mesh Approach for Mouse 3D Reconstruction</em><br>
+<font size=2.5>James P. Bohnslav</font>, 
+<font size=2.5>Mohammed Abdal Monium Osman</font>, 
+<font size=2.5>Akshay Jaggi</font>, 
+<font size=2.5>Sofia Soares</font>, 
+<font size=2.5>Caleb Weinreb</font>, 
+<a href="http://datta.hms.harvard.edu/"><font size=2.5>Sandeep Robert Datta</font></a>, 
+<a href="https://harveylab.hms.harvard.edu/"><font size=2.5>Christopher D. Harvey</font></a><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.02.17.526719v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Papaspyros2023.jpg"/></a></td>
+<td align="left" width=550><em>Predicting long-term collective animal behavior with deep learning</em><br>
+<font size=2.5>Vaios Papaspyros</font>, 
+<font size=2.5>Ram´on Escobedo</font>, 
+<font size=2.5>Alexandre Alahi</font>, 
+<font size=2.5>Guy Theraulaz</font>, 
+<font size=2.5>Cl´ement Sire</font>, 
+<a href="https://people.epfl.ch/francesco.mondada?lang=en"><font size=2.5>Francesco Mondada</font></a><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.02.15.528318v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ye2023.jpg"/></a></td>
 <td align="left" width=550><em>Panoptic animal pose estimators are zero-shot performers</em><br>
 <a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai</font></a>, 
