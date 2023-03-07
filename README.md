@@ -18,6 +18,51 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Han2023.jpg"/></a></td>
+<td align="left" width=550><em>Social Behavior Atlas: A computational framework for tracking and mapping 3D close interactions of free-moving animals</em><br>
+<font size=2.5>Yaning Han</font>, 
+<font size=2.5>Ke Chen</font>, 
+<font size=2.5>Yunke Wang</font>, 
+<font size=2.5>Wenhao Liu</font>, 
+<font size=2.5>Xiaojing Wang</font>, 
+<font size=2.5>Jiahui Liao</font>, 
+<font size=2.5>Yiting Huang</font>, 
+<font size=2.5>Chuanliang Han</font>, 
+<font size=2.5>Kang Huang</font>, 
+<font size=2.5>Jiajia Zhang</font>, 
+<font size=2.5>Shengyuan Cai</font>, 
+<font size=2.5>Zhouwei Wang</font>, 
+<font size=2.5>Yongji Wu</font>, 
+<font size=2.5>Gao Gao</font>, 
+<font size=2.5>Nan Wang</font>, 
+<font size=2.5>Jinxiu Li</font>, 
+<font size=2.5>Yangwangzi Song</font>, 
+<font size=2.5>Jing Li</font>, 
+<font size=2.5>Guodong Wang</font>, 
+<a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=publications"><font size=2.5>Liping Wang</font></a>, 
+<font size=2.5>Yaping Zhang</font>, 
+<font size=2.5>Pengfei Wei</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.03.05.531235v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Mimura2023.jpg"/></a></td>
+<td align="left" width=550><em>Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs</em><br>
+<font size=2.5>Koki Mimura</font>, 
+<font size=2.5>Jumpei Matsumoto</font>, 
+<font size=2.5>Daichi Mochihashi</font>, 
+<font size=2.5>Tomoaki Nakamura</font>, 
+<font size=2.5>Toshiyuki Hirabayashi</font>, 
+<font size=2.5>Makoto Higuchi</font>, 
+<a href="https://researchmap.jp/minamoto"><font size=2.5>Takafumi Minamimoto</font></a><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.03.04.531044v3.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Bohnslav2023.jpg"/></a></td>
 <td align="left" width=550><em>ArMo: An Articulated Mesh Approach for Mouse 3D Reconstruction</em><br>
 <font size=2.5>James P. Bohnslav</font>, 
@@ -1969,7 +2014,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Feb 2023
+Last updated in Mar 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
