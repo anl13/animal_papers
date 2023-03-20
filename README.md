@@ -18,6 +18,22 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/Asad127/3D-RECONSTRUCTION-USING-SINGLE-CAMERA-AND-MIRROR-SETUP"><img src="teasers/Hussain2023.jpg"/></a></td>
+<td align="left" width=550><em>Lights, Camera, Mirrors, Action! Toolbox for 3D Analysis of High-rate Maneuvers Using a Single Camera and Planar Mirrors</em><br>
+<font size=2.5>Wajahat Hussain</font>, 
+<font size=2.5>Mahum Naveed</font>, 
+<font size=2.5>Asad Khan</font>, 
+<font size=2.5>Taimoor Hasan Khan</font>, 
+<font size=2.5>Muhammad Latif Anjum</font>, 
+<font size=2.5>Shahzad Rasool</font>, 
+<font size=2.5>Adnan Maqsood</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.03.14.532636v1"><img src="data/paper.png"></a> 
+<a href="https://github.com/Asad127/3D-RECONSTRUCTION-USING-SINGLE-CAMERA-AND-MIRROR-SETUP"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Han2023.jpg"/></a></td>
 <td align="left" width=550><em>Social Behavior Atlas: A computational framework for tracking and mapping 3D close interactions of free-moving animals</em><br>
 <font size=2.5>Yaning Han</font>, 
