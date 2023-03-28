@@ -18,6 +18,34 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Zhu2023.jpg"/></a></td>
+<td align="left" width=550><em>Scalable Apparatus to Measure Posture and Locomotion (SAMPL): a high-throughput solution to study unconstrained vertical behavior in small animals</em><br>
+<font size=2.5>Yunlu Zhu</font>, 
+<font size=2.5>Franziska Auer</font>, 
+<font size=2.5>Hannah Gelnaw</font>, 
+<font size=2.5>Samantha N. Davis</font>, 
+<font size=2.5>Kyla R. Hamling</font>, 
+<font size=2.5>Christina E. May</font>, 
+<font size=2.5>Hassan Ahamed</font>, 
+<font size=2.5>Niels Ringstad</font>, 
+<font size=2.5>Katherine I. Nagel</font>, 
+<font size=2.5>David Schoppik</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.01.07.523102v2.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Li2023.jpg"/></a></td>
+<td align="left" width=550><em>ScarceNet: Animal Pose Estimation with Scarce Annotations</em><br>
+<font size=2.5>Chen Li</font>, 
+<a href="https://www.comp.nus.edu.sg/~leegh/"><font size=2.5>Gim Hee Lee</font></a><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="https://arxiv.org/pdf/2303.15023.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/Asad127/3D-RECONSTRUCTION-USING-SINGLE-CAMERA-AND-MIRROR-SETUP"><img src="teasers/Hussain2023.jpg"/></a></td>
 <td align="left" width=550><em>Lights, Camera, Mirrors, Action! Toolbox for 3D Analysis of High-rate Maneuvers Using a Single Camera and Planar Mirrors</em><br>
 <font size=2.5>Wajahat Hussain</font>, 
