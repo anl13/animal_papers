@@ -18,6 +18,35 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://gigazoom.rc.duke.edu/"><img src="teasers/Zhou2023.jpg"/></a></td>
+<td align="left" width=550><em>Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second</em><br>
+<font size=2.5>Kevin C. Zhou</font>, 
+<font size=2.5>Mark Harfouche</font>, 
+<font size=2.5>Colin L. Cooke</font>, 
+<font size=2.5>Jaehee Park</font>, 
+<font size=2.5>Pavan C. Konda</font>, 
+<font size=2.5>Lucas Kreiss</font>, 
+<font size=2.5>Kanghyun Kim</font>, 
+<font size=2.5>Joakim Jönsson</font>, 
+<font size=2.5>Thomas Doman</font>, 
+<font size=2.5>Paul Reamey</font>, 
+<font size=2.5>Veton Saliu</font>, 
+<font size=2.5>Clare B. Cook</font>, 
+<font size=2.5>Maxwell Zheng</font>, 
+<font size=2.5>John P. Bechtel</font>, 
+<font size=2.5>Aurélien Bègue</font>, 
+<font size=2.5>Matthew McCarroll</font>, 
+<font size=2.5>Jennifer Bagwell</font>, 
+<font size=2.5>Gregor Horstmeyer</font>, 
+<font size=2.5>Michel Bagnat</font>, 
+<font size=2.5>Roarke Horstmeyer</font><br>
+<font size=2.5>In Nature Photonics 2023 </font><br>
+<a href="https://www.nature.com/articles/s41566-023-01171-7"><img src="data/paper.png"></a> 
+<a href="https://gigazoom.rc.duke.edu/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Zhu2023.jpg"/></a></td>
 <td align="left" width=550><em>Scalable Apparatus to Measure Posture and Locomotion (SAMPL): a high-throughput solution to study unconstrained vertical behavior in small animals</em><br>
 <font size=2.5>Yunlu Zhu</font>, 
@@ -2058,7 +2087,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Mar 2023
+Last updated in Apr 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
