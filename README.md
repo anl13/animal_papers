@@ -18,6 +18,20 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://farm3d.github.io/"><img src="teasers/Jakab2023.jpg"/></a></td>
+<td align="left" width=550><em>Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion</em><br>
+<a href="https://www.robots.ox.ac.uk/~tomj/"><font size=2.5>Tomas Jakab</font></a>, 
+<a href="https://ruiningli.com/"><font size=2.5>Ruining Li</font></a>, 
+<a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
+<a href="https://chrirupp.github.io/"><font size=2.5>Christian Rupprecht</font></a>, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/"><font size=2.5>Andrea Vedaldi</font></a><br>
+<font size=2.5>In arxiv 2023 </font><br>
+<a href="https://arxiv.org/pdf/2304.10535.pdf"><img src="data/paper.png"></a> 
+<a href="https://farm3d.github.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://gigazoom.rc.duke.edu/"><img src="teasers/Zhou2023.jpg"/></a></td>
 <td align="left" width=550><em>Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second</em><br>
 <font size=2.5>Kevin C. Zhou</font>, 
@@ -93,7 +107,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Han2023.jpg"/></a></td>
 <td align="left" width=550><em>Social Behavior Atlas: A computational framework for tracking and mapping 3D close interactions of free-moving animals</em><br>
-<font size=2.5>Yaning Han</font>, 
+<a href="https://loop.frontiersin.org/people/2018185/overview"><font size=2.5>Yaning Han</font></a>, 
 <font size=2.5>Ke Chen</font>, 
 <font size=2.5>Yunke Wang</font>, 
 <font size=2.5>Wenhao Liu</font>, 
@@ -114,7 +128,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Guodong Wang</font>, 
 <a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=publications"><font size=2.5>Liping Wang</font></a>, 
 <font size=2.5>Yaping Zhang</font>, 
-<font size=2.5>Pengfei Wei</font><br>
+<a href="http://bcbdi.siat.ac.cn/index.php/member2/showMember/nid/92.shtml"><font size=2.5>Pengfei Wei</font></a><br>
 <font size=2.5>In biorxiv 2023 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2023.03.05.531235v1.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
