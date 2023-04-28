@@ -18,6 +18,43 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Dutta2023.jpg"/></a></td>
+<td align="left" width=550><em>A robust and flexible deep-learning workflow for animal tracking</em><br>
+<a href="https://www.robots.ox.ac.uk/~adutta/"><font size=2.5>Abhishek Dutta</font></a>, 
+<a href="https://www.biology.ox.ac.uk/people/natalia-perez-campanero-antolin"><font size=2.5>Natalia Pérez-Campanero</font></a>, 
+<a href="https://www.biology.ox.ac.uk/people/professor-graham-taylor"><font size=2.5>Graham K. Taylor</font></a>, 
+<a href="https://eng.ox.ac.uk/people/andrew-zisserman/"><font size=2.5>Andrew Zisserman</font></a>, 
+<a href="https://oxnav.web.ox.ac.uk/people/cait-newport"><font size=2.5>Cait Newport</font></a><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.04.20.537633v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Kohno2023.jpg"/></a></td>
+<td align="left" width=550><em>Analysis of antennal responses to motion stimuli in the honey bee by automated tracking using DeepLabCut</em><br>
+<font size=2.5>Hiroki Kohno</font>, 
+<font size=2.5>Shuichi Kamata</font>, 
+<font size=2.5>Takeo Kubo</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.04.24.538069v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://statho.github.io/projects/animals3d/index.html"><img src="teasers/Stathopoulos2023.jpg"/></a></td>
+<td align="left" width=550><em>Learning Articulated Shape with Keypoint Pseudo-labels from Web Images</em><br>
+<a href="https://statho.github.io/"><font size=2.5>Anastasis Stathopoulos</font></a>, 
+<a href="https://geopavlakos.github.io/"><font size=2.5>Georgios Pavlakos</font></a>, 
+<a href="https://phymhan.github.io/"><font size=2.5>Ligong Han</font></a>, 
+<a href="https://www.cs.rutgers.edu/~dnm/"><font size=2.5>Dimitris Metaxas</font></a><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="https://arxiv.org/pdf/2304.14396.pdf"><img src="data/paper.png"></a> 
+<a href="https://statho.github.io/projects/animals3d/index.html"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://farm3d.github.io/"><img src="teasers/Jakab2023.jpg"/></a></td>
 <td align="left" width=550><em>Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion</em><br>
 <a href="https://www.robots.ox.ac.uk/~tomj/"><font size=2.5>Tomas Jakab</font></a>, 
