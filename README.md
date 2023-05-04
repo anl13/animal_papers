@@ -18,6 +18,19 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ilett2023.jpg"/></a></td>
+<td align="left" width=550><em>3D shape reconstruction of semi-transparent worms</em><br>
+<font size=2.5>Thomas P. Ilett</font>, 
+<font size=2.5>Omer Yuval</font>, 
+<font size=2.5>Thomas Ranner</font>, 
+<a href="https://eps.leeds.ac.uk/computing/staff/301/professor-netta-cohen"><font size=2.5>Netta Cohen</font></a>, 
+<a href="https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg"><font size=2.5>David C. Hogg</font></a><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="https://arxiv.org/pdf/2304.14593.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Dutta2023.jpg"/></a></td>
 <td align="left" width=550><em>A robust and flexible deep-learning workflow for animal tracking</em><br>
 <a href="https://www.robots.ox.ac.uk/~adutta/"><font size=2.5>Abhishek Dutta</font></a>, 
@@ -2138,7 +2151,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Apr 2023
+Last updated in May 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
