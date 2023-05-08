@@ -26,7 +26,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://eps.leeds.ac.uk/computing/staff/301/professor-netta-cohen"><font size=2.5>Netta Cohen</font></a>, 
 <a href="https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg"><font size=2.5>David C. Hogg</font></a><br>
 <font size=2.5>In CVPR 2023 </font><br>
-<a href="https://arxiv.org/pdf/2304.14593.pdf"><img src="data/paper.png"></a> 
+<a href="https://arxiv.org/abs/2304.14841"><img src="data/paper.png"></a> 
 </td></tr></tbody>
 
 
