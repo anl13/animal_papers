@@ -18,6 +18,30 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/dattalab/keypoint-moseq"><img src="teasers/Weinreb2023.jpg"/></a></td>
+<td align="left" width=550><em>Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics</em><br>
+<font size=2.5>Caleb Weinreb</font>, 
+<font size=2.5>Mohammed Abdal Monium Osman</font>, 
+<font size=2.5>Libby Zhang</font>, 
+<font size=2.5>Sherry Lin</font>, 
+<font size=2.5>Jonah Pearl</font>, 
+<font size=2.5>Sidharth Annapragada</font>, 
+<font size=2.5>Eli Conlin</font>, 
+<font size=2.5>Winthrop F. Gillis</font>, 
+<font size=2.5>Maya Jay</font>, 
+<font size=2.5>Ye Shaokai</font>, 
+<font size=2.5>Alexander Mathis</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font>, 
+<font size=2.5>Talmo Pereira</font>, 
+<font size=2.5>Scott W. Linderman</font>, 
+<font size=2.5>Sandeep Robert Datta</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.03.16.532307v2.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/dattalab/keypoint-moseq"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://bite.is.tue.mpg.de/"><img src="teasers/Ruegg2023.jpg"/></a></td>
 <td align="left" width=550><em>BITE: Beyond Priors for Improved Three-D Dog Pose Estimation</em><br>
 <font size=2.5>Nadine Rüegg</font>, 
