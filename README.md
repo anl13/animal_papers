@@ -18,6 +18,48 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://bite.is.tue.mpg.de/"><img src="teasers/Ruegg2023.jpg"/></a></td>
+<td align="left" width=550><em>BITE: Beyond Priors for Improved Three-D Dog Pose Estimation</em><br>
+<font size=2.5>Nadine Rüegg</font>, 
+<font size=2.5>Shashank Tripathi</font>, 
+<font size=2.5>Konrad Schindler</font>, 
+<font size=2.5>Michael J. Black</font>, 
+<font size=2.5>Silvia Zuffi</font><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="none"><img src="data/paper.png"></a> 
+<a href="https://bite.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-dog-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-dog-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://3dmagicpony.github.io/"><img src="teasers/Wu2022.jpg"/></a></td>
+<td align="left" width=550><em>MagicPony: Learning Articulated 3D Animals in the Wild</em><br>
+<a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
+<a href="https://ruiningli.com/"><font size=2.5>Ruining Li</font></a>, 
+<a href="https://www.robots.ox.ac.uk/~tomj/"><font size=2.5>Tomas Jakab</font></a>, 
+<a href="https://chrirupp.github.io/"><font size=2.5>Christian Rupprecht</font></a>, 
+<a href="https://www.robots.ox.ac.uk/~vedaldi/"><font size=2.5>Andrea Vedaldi</font></a><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="https://arxiv.org/pdf/2211.12497.pdf"><img src="data/paper.png"></a> 
+<a href="https://3dmagicpony.github.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Zhang2023.jpg"/></a></td>
+<td align="left" width=550><em>CLAMP: Prompt-based Contrastive Learning for Connecting Language and Animal Pose</em><br>
+<font size=2.5>Xu Zhang</font>, 
+<font size=2.5>Wen Wang</font>, 
+<font size=2.5>Zhe Chen</font>, 
+<font size=2.5>Yufei Xu</font>, 
+<font size=2.5>Jing Zhang</font>, 
+<font size=2.5>Dacheng Tao</font><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="https://arxiv.org/pdf/2206.11752.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ilett2023.jpg"/></a></td>
 <td align="left" width=550><em>3D shape reconstruction of semi-transparent worms</em><br>
 <font size=2.5>Thomas P. Ilett</font>, 
@@ -352,20 +394,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In Nature Physics 2020 </font><br>
 <a href="https://www.nature.com/articles/s41567-020-01036-8"><img src="data/paper.png"></a> 
 </td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://3dmagicpony.github.io/"><img src="teasers/Wu2022.jpg"/></a></td>
-<td align="left" width=550><em>MagicPony: Learning Articulated 3D Animals in the Wild</em><br>
-<a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
-<a href="https://ruiningli.com/"><font size=2.5>Ruining Li</font></a>, 
-<a href="https://www.robots.ox.ac.uk/~tomj/"><font size=2.5>Tomas Jakab</font></a>, 
-<a href="https://chrirupp.github.io/"><font size=2.5>Christian Rupprecht</font></a>, 
-<a href="https://www.robots.ox.ac.uk/~vedaldi/"><font size=2.5>Andrea Vedaldi</font></a><br>
-<font size=2.5>In arxiv 2022 </font><br>
-<a href="https://arxiv.org/pdf/2211.12497.pdf"><img src="data/paper.png"></a> 
-<a href="https://3dmagicpony.github.io/"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
