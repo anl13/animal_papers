@@ -18,6 +18,23 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://mammal-net.github.io/#:~:text=We%20propose%20MammalNet%2C%20a%20large-scale%20video%20benchmark%20for,12%20common%20high-level%20mammal%20behaviors%20%28e.g.%2C%20hunt%2C%20groom%29."><img src="teasers/Chen2023.jpg"/></a></td>
+<td align="left" width=550><em>MammalNet: A Large-scale Video Benchmark for Mammal Recognition and Behavior Understanding</em><br>
+<a href="https://junchen14.github.io/"><font size=2.5>Jun Chen</font></a>, 
+<a href="https://minghu0830.github.io/"><font size=2.5>Ming Hu</font></a>, 
+<font size=2.5>Darren J. Coker</font>, 
+<font size=2.5>Michael L. Berumen</font>, 
+<font size=2.5>Blair Costelloe</font>, 
+<font size=2.5>Sara Beery</font>, 
+<a href="https://anna-rohrbach.net/"><font size=2.5>Anna Rohrbach</font></a>, 
+<a href="https://www.mohamed-elhoseiny.com/research-work-and-publications.html"><font size=2.5>Mohamed Elhoseiny</font></a><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="https://arxiv.org/abs/2306.00576"><img src="data/paper.png"></a> 
+<a href="https://mammal-net.github.io/#:~:text=We%20propose%20MammalNet%2C%20a%20large-scale%20video%20benchmark%20for,12%20common%20high-level%20mammal%20behaviors%20%28e.g.%2C%20hunt%2C%20groom%29."><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/dattalab/keypoint-moseq"><img src="teasers/Weinreb2023.jpg"/></a></td>
 <td align="left" width=550><em>Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics</em><br>
 <font size=2.5>Caleb Weinreb</font>, 
@@ -297,7 +314,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ye2023.jpg"/></a></td>
 <td align="left" width=550><em>Panoptic animal pose estimators are zero-shot performers</em><br>
-<a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai</font></a>, 
+<a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
 <font size=2.5>Alexander Mathis</font>, 
 <font size=2.5>Mackenzie Weygandt Mathis</font><br>
 <font size=2.5>In arxiv 2023 </font><br>
@@ -2203,7 +2220,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in May 2023
+Last updated in Jun 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
