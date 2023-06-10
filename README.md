@@ -1,7 +1,9 @@
 ## Animal Paper Collection (Ongoing)
+[2023.06.10] The program of [CV4Animals Workshop in CVPR 2023](https://www.cv4animals.com/2023-accepted-papers) is available!
+
 [2022.08.08] Here is the Ph.D thesis of SEMIH GÜNEL (https://infoscience.epfl.ch/record/293821), who is the author of well-known DeepFly3D and LiftPose3D.
 
-[2022.06.22] The 2nd CV4Animal workshop in CVPR 2022 (https://www.cv4animals.com/) presents many excellent works on rodent 3D reconstruction!
+[2022.06.22] The 2nd CV4Animals Workshop in CVPR 2022 (https://www.cv4animals.com/) presents many excellent works on rodent 3D reconstruction!
   
 [2022.01.02] To make it easy to track, I sort the papers using the timepoint I find them (not publication time), and add label badges to show paper features. 
 
@@ -18,12 +20,29 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Ye2023.jpg"/></a></td>
+<td align="left" width=550><em>SuperAnimal models pretrained for plug-and-play analysis of animal behavior</em><br>
+<a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
+<font size=2.5>Anastasiia Filippova</font>, 
+<font size=2.5>Jessy Lauer</font>, 
+<font size=2.5>Maxime Vidal</font>, 
+<font size=2.5>Steffen Schneider</font>, 
+<font size=2.5>Tian Qiu</font>, 
+<font size=2.5>Alexander Mathis</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font><br>
+<font size=2.5>In arxiv 2023 </font><br>
+<a href="https://arxiv-export3.library.cornell.edu/abs/2203.07436v2"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://www.tech4animals.org/catflw"><img src="teasers/Martvel2023.jpg"/></a></td>
 <td align="left" width=550><em>CatFLW: Cat Facial Landmarks in the Wild Dataset</em><br>
+<font size=2.5>George Martvel</font>, 
 <font size=2.5>Nareed Farhat</font>, 
 <font size=2.5>Ilan Shimshoni</font>, 
 <font size=2.5>Anna Zamansky</font><br>
-<font size=2.5>In arxiv 2023 </font><br>
+<font size=2.5>In CV4Animals Workshop in CVPR 2023 </font><br>
 <a href="https://arxiv.org/pdf/2305.04232.pdf"><img src="data/paper.png"></a> 
 <a href="https://www.tech4animals.org/catflw"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a><a href="https://img.shields.io/badge/animal-cat-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-cat-yellowgreen"></a></td></tr></tbody>
@@ -336,17 +355,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ye2023.jpg"/></a></td>
-<td align="left" width=550><em>Panoptic animal pose estimators are zero-shot performers</em><br>
-<a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
-<font size=2.5>Alexander Mathis</font>, 
-<font size=2.5>Mackenzie Weygandt Mathis</font><br>
-<font size=2.5>In arxiv 2023 </font><br>
-<a href="https://arxiv.org/pdf/2203.07436.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/Aghileh/UPPER"><img src="teasers/Ebrahimi2023.jpg"/></a></td>
 <td align="left" width=550><em>Three‑dimensional unsupervised probabilistic pose reconstruction (3D‑UPPER) for freely moving animals</em><br>
 <font size=2.5>Aghileh S. Ebrahimi</font>, 
@@ -414,7 +422,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Jacob M. Graving</font>, 
 <font size=2.5>Blair R. Costelloe</font>, 
 <a href="https://collectivebehaviour.com/people/couzin-iain/"><font size=2.5>Iain D. Couzin</font></a><br>
-<font size=2.5>In biorxiv 2023 </font><br>
+<font size=2.5>In Journal of Animal Ecology 2023 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2022.06.30.498251v2.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>

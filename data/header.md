@@ -1,7 +1,9 @@
 ## Animal Paper Collection (Ongoing)
+[2023.06.10] The program of [CV4Animals Workshop in CVPR 2023](https://www.cv4animals.com/2023-accepted-papers) is available!
+
 [2022.08.08] Here is the Ph.D thesis of SEMIH GÜNEL (https://infoscience.epfl.ch/record/293821), who is the author of well-known DeepFly3D and LiftPose3D.
 
-[2022.06.22] The 2nd CV4Animal workshop in CVPR 2022 (https://www.cv4animals.com/) presents many excellent works on rodent 3D reconstruction!
+[2022.06.22] The 2nd CV4Animals Workshop in CVPR 2022 (https://www.cv4animals.com/) presents many excellent works on rodent 3D reconstruction!
   
 [2022.01.02] To make it easy to track, I sort the papers using the timepoint I find them (not publication time), and add label badges to show paper features. 
 
