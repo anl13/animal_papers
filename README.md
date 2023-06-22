@@ -20,6 +20,22 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/alexhang212/dataset-3dpop"><img src="teasers/Naik2023.jpg"/></a></td>
+<td align="left" width=550><em>3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture</em><br>
+<font size=2.5>Hemal Naik</font>, 
+<font size=2.5>Alex Hoi Hang Chan</font>, 
+<font size=2.5>Junran Yang</font>, 
+<font size=2.5>Mathilde Delacoux</font>, 
+<font size=2.5>Iain D. Couzin</font>, 
+<font size=2.5>Fumihiro Kano</font>, 
+<font size=2.5>Mate Nagy</font><br>
+<font size=2.5>In CVPR 2023 </font><br>
+<a href="https://arxiv.org/pdf/2303.13174.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/alexhang212/dataset-3dpop"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Ye2023.jpg"/></a></td>
 <td align="left" width=550><em>SuperAnimal models pretrained for plug-and-play analysis of animal behavior</em><br>
 <a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
