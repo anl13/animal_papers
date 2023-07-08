@@ -20,6 +20,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/bartulem/KISN-PyLab"><img src="teasers/Mimica2023.jpg"/></a></td>
+<td align="left" width=550><em>Behavioral decomposition reveals rich encoding structure employed across neocortex in rats</em><br>
+<font size=2.5>Bartul Mimica</font>, 
+<font size=2.5>Tuçe Tombaz</font>, 
+<font size=2.5>Claudia Battistin</font>, 
+<font size=2.5>Jingyi Guo Fuglstad</font>, 
+<font size=2.5>Benjamin A. Dunn</font>, 
+<font size=2.5>Jonathan R. Whitlock</font><br>
+<font size=2.5>In Nature Communications 2023 </font><br>
+<a href="https://www.nature.com/articles/s41467-023-39520-3"><img src="data/paper.png"></a> 
+<a href="https://github.com/bartulem/KISN-PyLab"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/alexhang212/dataset-3dpop"><img src="teasers/Naik2023.jpg"/></a></td>
 <td align="left" width=550><em>3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture</em><br>
 <font size=2.5>Hemal Naik</font>, 
@@ -2268,7 +2283,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jun 2023
+Last updated in Jul 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
