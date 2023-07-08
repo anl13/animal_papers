@@ -35,6 +35,38 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset"><img src="teasers/Sun2022.jpg"/></a></td>
+<td align="left" width=550><em>MABe22: A Multi-Species Multi-Task Benchmark for Learned Representations of Behavior</em><br>
+<font size=2.5>Jennifer J. Sun</font>, 
+<font size=2.5>Markus Marks</font>, 
+<font size=2.5>Andrew W. Ulmer</font>, 
+<font size=2.5>Dipam Chakraborty</font>, 
+<font size=2.5>Brian Geuther</font>, 
+<font size=2.5>Edward Hayes</font>, 
+<font size=2.5>Heng Jia</font>, 
+<font size=2.5>Vivek Kumar</font>, 
+<font size=2.5>Sebastian Oleszko</font>, 
+<font size=2.5>Zachary Partridge</font>, 
+<font size=2.5>Milan Peelman</font>, 
+<font size=2.5>Alice Robie</font>, 
+<font size=2.5>Catherine E. Schretter</font>, 
+<font size=2.5>Keith Sheppard</font>, 
+<font size=2.5>Chao Sun</font>, 
+<font size=2.5>Param Uttarwar</font>, 
+<font size=2.5>Julian M. Wagner</font>, 
+<font size=2.5>Erik Werner</font>, 
+<font size=2.5>Joseph Parker</font>, 
+<font size=2.5>Pietro Perona</font>, 
+<font size=2.5>Yisong Yue</font>, 
+<font size=2.5>Kristin Branson</font>, 
+<font size=2.5>Ann Kennedy</font><br>
+<font size=2.5>In ICML 2023 </font><br>
+<a href="https://openreview.net/pdf?id=Asrg2we3dP"><img src="data/paper.png"></a> 
+<a href="https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/alexhang212/dataset-3dpop"><img src="teasers/Naik2023.jpg"/></a></td>
 <td align="left" width=550><em>3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture</em><br>
 <font size=2.5>Hemal Naik</font>, 
@@ -551,32 +583,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://www.nature.com/articles/s41467-021-25420-x"><img src="data/paper.png"></a> 
 <a href="https://bsoid.org/"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset"><img src="teasers/Sun2022.jpg"/></a></td>
-<td align="left" width=550><em>The MABe22 Benchmarks for Representation Learning of Multi-Agent Behavior</em><br>
-<font size=2.5>Jennifer J. Sun</font>, 
-<font size=2.5>Andrew Ulmer</font>, 
-<font size=2.5>Dipam Chakraborty</font>, 
-<font size=2.5>Brian Geuther</font>, 
-<font size=2.5>Edward Hayes</font>, 
-<font size=2.5>Heng Jia</font>, 
-<font size=2.5>Vivek Kumar</font>, 
-<font size=2.5>Zachary Partridge</font>, 
-<font size=2.5>Alice Robie</font>, 
-<font size=2.5>Catherine E. Schretter</font>, 
-<font size=2.5>Chao Sun</font>, 
-<font size=2.5>Keith Sheppard</font>, 
-<font size=2.5>Param Uttarwar</font>, 
-<font size=2.5>Pietro Perona</font>, 
-<font size=2.5>Yisong Yue</font>, 
-<font size=2.5>Kristin Branson</font>, 
-<font size=2.5>Ann Kennedy</font><br>
-<font size=2.5>In arxiv 2022 </font><br>
-<a href="https://arxiv-export1.library.cornell.edu/abs/2207.10553"><img src="data/paper.png"></a> 
-<a href="https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
