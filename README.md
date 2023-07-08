@@ -20,6 +20,22 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://chhankyao.github.io/artic3d/"><img src="teasers/Yao2023.jpg"/></a></td>
+<td align="left" width=550><em>ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections</em><br>
+<font size=2.5>Chun-Han Yao</font>, 
+<font size=2.5>Amit Raj</font>, 
+<font size=2.5>Wei-Chih Hung</font>, 
+<font size=2.5>Yuanzhen Li</font>, 
+<font size=2.5>Michael Rubinstein</font>, 
+<font size=2.5>Ming-Hsuan Yang</font>, 
+<a href="https://varunjampani.github.io/"><font size=2.5>Varun Jampani</font></a><br>
+<font size=2.5>In arxiv 2023 </font><br>
+<a href="https://arxiv.org/pdf/2306.04619.pdf"><img src="data/paper.png"></a> 
+<a href="https://chhankyao.github.io/artic3d/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/bartulem/KISN-PyLab"><img src="teasers/Mimica2023.jpg"/></a></td>
 <td align="left" width=550><em>Behavioral decomposition reveals rich encoding structure employed across neocortex in rats</em><br>
 <font size=2.5>Bartul Mimica</font>, 
