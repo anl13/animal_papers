@@ -20,6 +20,20 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/AdaptiveMotorControlLab/AmadeusGPT"><img src="teasers/Ye2023-2.jpg"/></a></td>
+<td align="left" width=550><em>AmadeusGPT: a natural language interface for interactive animal behavioral analysis</em><br>
+<a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
+<font size=2.5>Jessy Lauer</font>, 
+<font size=2.5>Mu Zhou</font>, 
+<font size=2.5>Alexander Mathis</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font><br>
+<font size=2.5>In arxiv 2023 </font><br>
+<a href="https://arxiv.org/pdf/2307.04858.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/AdaptiveMotorControlLab/AmadeusGPT"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://chhankyao.github.io/artic3d/"><img src="teasers/Yao2023.jpg"/></a></td>
 <td align="left" width=550><em>ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections</em><br>
 <font size=2.5>Chun-Han Yao</font>, 
