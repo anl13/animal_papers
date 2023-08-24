@@ -1,0 +1,28 @@
+3D mouse pose from single‑view video and a new dataset
+2023
+https://www.nature.com/articles/s41598-023-40738-w
+https://google.github.io/mouse-pose-analysis-dataset/
+Scientific Reports 
+Hu2023.jpg 
+none 
+keyword: mouse, 3d 
+adddate: 20230824
+Bo Hu
+Bryan Seybold
+Shan Yang
+Avneesh Sud
+Yi Liu
+Karla Barron
+Paulyn Cha
+Marcelo Cosino
+Ellie Karlsson
+Janessa Kite
+Ganesh Kolumam
+Joseph Preciado
+José Zavala‑Solorio
+Chunlian Zhang
+Xiaomeng Zhang
+Martin Voorbach
+Ann E.Tovcimak
+J.Graham Ruby
+David A. Ross
