@@ -1,0 +1,11 @@
+From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation
+2021
+https://arxiv.org/pdf/2103.14843.pdf
+https://github.com/chaneyddtt/UDA-Animal-Pose
+CVPR
+Li2021.jpg
+oral
+keyword: mesh, 3d, cv, quadruped
+adddate: 20210510 
+Chen Li+https://chaneyddtt.github.io/
+Gim Hee Lee+https://www.comp.nus.edu.sg/~leegh/

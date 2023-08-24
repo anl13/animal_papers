@@ -1,0 +1,13 @@
+3D Menagerie: Modeling the 3D shape and pose of animals
+2017
+https://people.eecs.berkeley.edu/~kanazawa/papers/cvpr17_menagerie_camready.pdf
+http://smal.is.tue.mpg.de/
+CVPR 
+Zuffi2017.jpg
+spotlight
+keyword: mesh, quadruped, cv, dataset 
+adddate: 20201209
+Silvia Zuffi+https://ps.is.tuebingen.mpg.de/person/szuffi
+Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
+David W. Jacobs+https://www.cs.umd.edu/~djacobs/
+Michael J. Black+https://ps.is.tuebingen.mpg.de/person/black

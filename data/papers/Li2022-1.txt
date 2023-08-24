@@ -1,0 +1,13 @@
+Improved Markerless 3D Animal Pose Estimation Using Temporal Semi-Supervision
+2022
+https://drive.google.com/file/d/1lZcrXlazErthSkPJtR6g1DLhFo1HmwXU/view?usp=sharing
+https://github.com/tqxli/dannce-pytorch
+CV4Animal workshop at CVPR
+Li2022-1.jpg 
+none 
+keyword: 3d, mouse 
+adddate: 20220628 
+Tianqing Li 
+Kyle S. Severson 
+Fan Wang 
+Timothy W. Dunn

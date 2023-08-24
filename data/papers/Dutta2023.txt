@@ -1,0 +1,14 @@
+A robust and flexible deep-learning workflow for animal tracking
+2023 
+https://www.biorxiv.org/content/10.1101/2023.04.20.537633v1.full.pdf
+none 
+biorxiv
+Dutta2023.jpg 
+none 
+keyword: 2d, fish
+adddate: 20230428 
+Abhishek Dutta+https://www.robots.ox.ac.uk/~adutta/
+Natalia Pérez-Campanero+https://www.biology.ox.ac.uk/people/natalia-perez-campanero-antolin
+Graham K. Taylor+https://www.biology.ox.ac.uk/people/professor-graham-taylor
+Andrew Zisserman+https://eng.ox.ac.uk/people/andrew-zisserman/
+Cait Newport+https://oxnav.web.ox.ac.uk/people/cait-newport

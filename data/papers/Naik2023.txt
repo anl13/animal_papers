@@ -1,0 +1,16 @@
+3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture
+2023
+https://arxiv.org/pdf/2303.13174.pdf
+https://github.com/alexhang212/dataset-3dpop
+CVPR 
+Naik2023.jpg 
+none 
+keyword: bird, 3d 
+adddate: 20230622 
+Hemal Naik
+Alex Hoi Hang Chan
+Junran Yang
+Mathilde Delacoux
+Iain D. Couzin
+Fumihiro Kano
+Mate Nagy

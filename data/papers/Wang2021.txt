@@ -1,0 +1,13 @@
+Birds of a Feather: Capturing Avian Shape Models from Images
+2021
+https://arxiv.org/pdf/2105.09396.pdf
+https://yufu-wang.github.io/aves/
+CVPR 
+Wang2021.jpg
+poster 
+keyword: bird, mesh, cv 
+adddate: 20210521
+Yufu Wang+https://yufu-wang.github.io/
+Nikos Kolotouros+https://www.seas.upenn.edu/~nkolot/
+Kostas Daniilidis+https://www.cis.upenn.edu/~kostas/
+Marc Badger+https://www.ocf.berkeley.edu/~badger/

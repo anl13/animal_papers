@@ -1,0 +1,17 @@
+Estimation of skeletal kinematics in freely moving rodents
+2022 
+https://www.nature.com/articles/s41592-022-01634-9
+https://github.com/bbo-lab/ACM
+Nature Methods 
+Monsees2022.jpg 
+none 
+keyword: 3d, mouse 
+adddate: 20221018 
+Arne Monsees
+Kay-Michael Voit
+Damian J. Wallace
+Juergen Sawinski
+Edyta Charyasz
+Klaus Scheffler
+Jakob H. Macke
+Jason N. D. Kerr

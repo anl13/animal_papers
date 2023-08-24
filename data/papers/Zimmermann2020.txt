@@ -1,0 +1,14 @@
+FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces
+2020
+https://www.biorxiv.org/content/10.1101/2020.02.27.967620v1
+https://lmb.informatik.uni-freiburg.de/projects/freipose/
+biorxiv
+Zimmermann2020.jpg
+none
+keyword: mouse, 3d, bio 
+adddate: 20201209
+Christian Zimmermann+https://lmb.informatik.uni-freiburg.de/people/zimmermc/
+Artur Schneider
+Mansour Alyahyay
+Thomas Brox+https://lmb.informatik.uni-freiburg.de/people/brox/
+Ilka Diester+https://www.optophysiology.uni-freiburg.de/labmembers/diester/

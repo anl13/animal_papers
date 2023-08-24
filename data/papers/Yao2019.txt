@@ -1,0 +1,12 @@
+MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence
+2019
+https://arxiv.org/abs/1806.00104
+none
+ICCV
+Yao2019.jpg
+poster
+keyword: monkey, multi-view, 3d, cv
+adddate: 20201209
+Yuan Yao
+Yasamin Jafarian
+Hyun Soo Park+https://www-users.cs.umn.edu/~hspark/

@@ -1,0 +1,18 @@
+A three-dimensional virtual mouse generates synthetic training data for behavioral analysis
+2021
+https://www.nature.com/articles/s41592-021-01103-9
+https://github.com/ubcbraincircuits/mCBF
+Nature Methods (Brief Communication)
+Bolanos2021.jpg
+cover
+keyword: mouse, dataset, mesh, bio
+adddate: 20210510
+Luis A. Bolaños
+Dongsheng Xiao
+Nancy L. Ford
+Jeff M. LeDue
+Pankaj K. Gupta
+Carlos Doebeli
+Hao Hu
+Helge Rhodin
+Timothy H. Murphy

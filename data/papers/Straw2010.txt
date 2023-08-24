@@ -1,0 +1,13 @@
+Multi-camera real-time threedimensional tracking of multiple flying animals
+2011
+https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2010.0230
+none 
+J. R. Soc. Interface
+Straw2010.jpg 
+none 
+keyword: multi-view, fly, 3d, bio 
+adddate: 20211215
+Andrew D. Straw+https://strawlab.org/
+Kristin Branson
+Titus R. Neumann
+Michael H. Dickinson+https://www.bbe.caltech.edu/people/michael-h-dickinson

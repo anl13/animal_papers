@@ -1,0 +1,14 @@
+idtracker.ai: tracking all individuals in small or large collectives of unmarked animals
+2019
+https://arxiv.org/abs/1803.04351
+https://idtrackerai.readthedocs.io/en/latest/
+Nature Methods (Brief Communication)
+Ferrero2019.jpg
+none 
+keyword: fly, bio, social, 2d
+adddate: 20211004
+Francisco Romero-Ferrero+https://www.researchgate.net/profile/Francisco_Romero-Ferrero
+Mattia G. Bergomi
+Robert C. Hinz
+Francisco J. H. Heras
+Gonzalo G. de Polavieja+http://www.neuro.fchampalimaud.org/en/person/276/

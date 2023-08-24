@@ -1,0 +1,24 @@
+Multi-animal pose estimation, identification and tracking with DeepLabCut
+2022
+https://www.nature.com/articles/s41592-022-01443-0
+https://deeplabcut.github.io/DeepLabCut/docs/intro.html?msclkid=94c16acabc5a11ec80efaafc9aaeb28c
+Nature Methods 
+Lauer2022.jpg 
+none 
+keyword: 2d, bio, social
+adddate: 20220415 
+Jessy Lauer
+Mu Zhou
+Shaokai Ye
+William Menegas
+Steffen Schneider
+Tanmay Nath
+Mohammed Mostafizur Rahman
+Valentina Di Santo
+Daniel Soberanes
+Guoping Feng
+Venkatesh N. Murthy
+George Lauder
+Catherine Dulac
+Mackenzie Weygandt Mathis
+Alexander Mathis+https://www.mathislab.org/people

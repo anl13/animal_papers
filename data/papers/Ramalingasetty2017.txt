@@ -1,0 +1,18 @@
+A whole-body musculoskeletal model of the mouse
+2021
+https://ieeexplore.ieee.org/document/9638502/
+none 
+IEEE Access 
+Ramalingasetty2017.jpg 
+none 
+keyword: mouse 
+adddate: 20220628 
+Shravan Tata Ramalingasetty
+Simon M. Danner
+Jonathan Arreguit
+Sergey N. Markin
+Dimitri Rodarie
+Claudia Kathe
+Grégoire Courtine
+Ilya A. Rybak
+Auke Ijspeert+https://www.epfl.ch/labs/biorob/

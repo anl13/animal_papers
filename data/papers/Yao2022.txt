@@ -1,0 +1,15 @@
+LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery
+2022
+https://arxiv.org/pdf/2207.03434.pdf
+https://chhankyao.github.io/lassie/
+NeurIPS
+Yao2022.jpg
+none 
+keyword: 3d 
+adddate: 20221012
+Chun-Han Yao+https://www.chhankyao.com/
+Wei-Chih Hung
+Yuanzhen Li
+Michael Rubinstein
+Ming-Hsuan Yang+http://faculty.ucmerced.edu/mhyang/
+Varun Jampani+https://varunjampani.github.io/

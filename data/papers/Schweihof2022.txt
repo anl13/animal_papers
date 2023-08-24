@@ -1,0 +1,13 @@
+A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior
+2022 
+https://www.biorxiv.org/content/10.1101/2022.11.04.515138v2.full.pdf
+none
+biorxiv
+Schweihoff2022.jpg 
+none 
+keyword: mouse, monkey, social 
+adddate: 20221109 
+Jens F. Schweihoff
+Alexander I. Hsu
+Martin K. Schwarz
+Eric A. Yttri+https://www.cmu.edu/bio/people/faculty/yttri.html

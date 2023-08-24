@@ -1,0 +1,15 @@
+Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding
+2022
+https://www.researchgate.net/publication/359816954_Animal_Kingdom_A_Large_and_Diverse_Dataset_for_Animal_Behavior_Understanding
+https://sutdcv.github.io/Animal-Kingdom/
+CVPR
+Ng2022.jpg 
+oral 
+keyword: 2d
+adddate: 20220423 
+Xun Long Ng
+Kian Eng Ong
+Qichen Zheng
+Yun Ni
+Si Yong Yeo
+Jun Liu+https://istd.sutd.edu.sg/people/faculty/liu-jun

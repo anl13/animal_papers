@@ -1,0 +1,14 @@
+An unsupervised method for quantifying the behavior of paired animals
+2017
+https://doi.org/10.1088/1478-3975/aa5c50
+none
+Physical Biology
+Klibaite2017.jpg
+none
+keyword: social, behavior, mouse, bio 
+adddate: 20201209
+Ugne Klibaite
+Gordon J Berman
+Jessica Cande
+David L Stern
+Joshua W Shaevitz+https://molbio.princeton.edu/people/joshua-w-shaevitz

@@ -1,0 +1,18 @@
+Gait-level analysis of mouse open field behavior using deep learning-based pose estimation
+2022
+https://www.cell.com/action/showPdf?pii=S2211-1247%2821%2901740-X
+none 
+Cell Reports
+Sheppard2020.jpg
+none 
+keyword: mouse, behavior, bio 
+adddate: 20230213
+Keith Sheppard
+Justin Gardin
+Gautam Sabnis
+Asaf Peer
+Megan Darrell
+Sean Deats
+Brian Geuther
+Cathleen M. Lutz
+Vivek Kumar+https://www.kumarlab.org/

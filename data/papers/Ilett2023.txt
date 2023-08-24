@@ -1,0 +1,14 @@
+3D shape reconstruction of semi-transparent worms
+2023
+https://arxiv.org/abs/2304.14841
+none 
+CVPR 
+Ilett2023.jpg 
+none 
+keyword: worm 
+adddate: 20230504 
+Thomas P. Ilett
+Omer Yuval
+Thomas Ranner
+Netta Cohen+https://eps.leeds.ac.uk/computing/staff/301/professor-netta-cohen
+David C. Hogg+https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg

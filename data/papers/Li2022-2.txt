@@ -1,0 +1,12 @@
+OpenLabCluster: Active Learning Based Clustering and Classification of Animal Behaviors in Videos Based on Automatically Extracted Kinematic Body Keypoints
+2022
+https://www.biorxiv.org/content/10.1101/2022.10.10.511660v1.full.pdf
+https://github.com/shlizee/OpenLabCluster
+biorxiv
+Li2022-2.jpg
+none 
+keyword: behavior  
+adddate: 20221015 
+Jingyuan Li
+Moishe Keselman
+Eli Shlizerman

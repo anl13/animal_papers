@@ -1,0 +1,17 @@
+LiftPose3D, a deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals
+2021
+https://www.nature.com/articles/s41592-021-01226-z.pdf
+https://github.com/NeLy-EPFL/LiftPose3D
+Nature Methods 
+Gosztolai2020.jpg
+none
+keyword: single-view, 3d, bio, fly, mouse, monkey
+adddate: 20210816
+Adam Gosztolai
+Semih Gunel
+Marco Pietro Abrate
+Daniel Morales
+Victor Lobato Rios
+Helge Rhodin+https://www.cs.ubc.ca/~rhodin/
+Pascal Fua
+Pavan Ramdya+https://www.epfl.ch/labs/ramdya-lab/

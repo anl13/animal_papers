@@ -1,0 +1,13 @@
+3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset
+2020
+https://openaccess.thecvf.com/content_CVPR_2020/papers/Pedersen_3D-ZeF_A_3D_Zebrafish_Tracking_Benchmark_Dataset_CVPR_2020_paper.pdf
+https://vap.aau.dk/3d-zef/
+CVPR 
+Pedersen2020.jpg
+poster
+keyword: zebrafish, 3d, cv 
+adddate: 20201209
+Malte Pedersen+https://vbn.aau.dk/en/persons/141158
+Joakim Bruslund Haurum
+Stefan Hein Bengtson+https://vbn.aau.dk/en/persons/138111
+Thomas B. Moeslund+https://vbn.aau.dk/en/persons/103282

@@ -1,0 +1,11 @@
+Multiview Supervision By Registration
+2020
+https://arxiv.org/abs/1811.11251
+none
+WACV
+Zhang2020.jpg
+poster
+keyword: monkey, multi-view, 3d, cv
+adddate: 20201209
+Yilun Zhang
+Hyun Soo Park+https://www-users.cs.umn.edu/~hspark/

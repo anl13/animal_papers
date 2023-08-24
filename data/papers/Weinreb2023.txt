@@ -1,0 +1,24 @@
+Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics
+2023
+https://www.biorxiv.org/content/10.1101/2023.03.16.532307v2.full.pdf
+https://github.com/dattalab/keypoint-moseq
+biorxiv 
+Weinreb2023.jpg 
+none 
+keyword: 3d 
+adddate: 20230517
+Caleb Weinreb
+Mohammed Abdal Monium Osman
+Libby Zhang
+Sherry Lin
+Jonah Pearl
+Sidharth Annapragada
+Eli Conlin
+Winthrop F. Gillis
+Maya Jay
+Ye Shaokai
+Alexander Mathis
+Mackenzie Weygandt Mathis
+Talmo Pereira
+Scott W. Linderman
+Sandeep Robert Datta

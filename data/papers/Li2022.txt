@@ -1,0 +1,16 @@
+TAVA: Template-free Animatable Volumetric Actors
+2022
+https://arxiv.org/pdf/2206.08929.pdf
+https://www.liruilong.cn/projects/tava/
+ECCV
+Li2022.jpg 
+none 
+keyword: mesh
+adddate: 20220622
+Ruilong Li+https://www.liruilong.cn/
+Julian Tanke
+Minh Vo+https://minhpvo.github.io/
+Michael Zollhoefer+https://zollhoefer.com/
+Jurgen Gall+https://pages.iai.uni-bonn.de/gall_juergen/
+Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/
+Christoph Lassner+https://christophlassner.de/

@@ -1,0 +1,13 @@
+Learning from Synthetic Animals
+2020
+https://arxiv.org/abs/1912.08265
+https://github.com/JitengMu/Learning-from-Synthetic-Animals
+CVPR
+Mu2020.JPG
+oral
+keyword: mesh, 2d, cv, quadruped 
+adddate: 20201209
+Jiteng Mu
+Weichao Qiu+https://weichaoqiu.com/
+Gregory Hager+https://www.cs.jhu.edu/hager/
+Alan Yuille+http://www.cs.jhu.edu/~ayuille/

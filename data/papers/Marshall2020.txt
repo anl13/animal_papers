@@ -1,0 +1,15 @@
+Continuous Whole-Body 3D Kinematic Recordings across the Rodent Behavioral Repertoire
+2020
+https://www.cell.com/neuron/fulltext/S0896-6273(20)30894-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627320308941%3Fshowall%3Dtrue
+none 
+Neuron 
+Marshall2020.jpg 
+none 
+keyword: dataset, marker, mouse, bio, multi-view, behavior
+adddate: 20210510 
+Jesse D. Marshall
+Diego E. Aldarondo
+Timothy W. Dunn
+William L. Wang
+Gordon J. Berman
+Bence P. O¨lveczky+https://oeb.harvard.edu/people/bence-p-olveczky

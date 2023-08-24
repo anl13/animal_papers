@@ -1,0 +1,15 @@
+EXPLORE: A novel deep learning-based analysis method for exploration behaviour in object recognition tests
+2022
+https://www.biorxiv.org/content/10.1101/2022.06.24.497470v1
+none 
+biorxiv 
+Ibanez2022.jpg 
+none 
+keyword: 2d, mouse
+adddate: 20220709 
+Victor Iba˜nez
+Laurens Bohlen
+Francesca Manuell
+Isabelle Mansuy
+Fritjof Helmchen
+Anna-Sophia Wahl+https://www.hifo.uzh.ch/en/research/helmchen/juniorgroup0/publication.html

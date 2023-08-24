@@ -1,0 +1,14 @@
+Overcoming the Domain Gap in Neural Action Representations
+2021
+https://arxiv.org/pdf/2112.01176.pdf
+none 
+arxiv
+Gunel2021.jpg 
+none 
+keyword: fly, behavior, 3d 
+adddate: 20220103 
+Semih Gunel 
+Florian Aymanns 
+Sina Honari 
+Pavan Ramdya 
+Pascal Fua 

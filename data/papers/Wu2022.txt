@@ -1,0 +1,14 @@
+MagicPony: Learning Articulated 3D Animals in the Wild
+2023
+https://arxiv.org/pdf/2211.12497.pdf
+https://3dmagicpony.github.io/
+CVPR
+Wu2022.jpg
+none
+keyword: 3d, horse
+adddate: 20230517
+Shangzhe Wu+https://elliottwu.com/
+Ruining Li+https://ruiningli.com/
+Tomas Jakab+https://www.robots.ox.ac.uk/~tomj/
+Christian Rupprecht+https://chrirupp.github.io/
+Andrea Vedaldi+https://www.robots.ox.ac.uk/~vedaldi/

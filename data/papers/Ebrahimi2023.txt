@@ -1,0 +1,16 @@
+Three‑dimensional unsupervised probabilistic pose reconstruction (3D‑UPPER) for freely moving animals
+2023
+https://www.nature.com/articles/s41598-022-25087-4
+https://github.com/Aghileh/UPPER
+Scientific Reports 
+Ebrahimi2023.jpg 
+none 
+keyword: 3d, mouse 
+adddate: 20230221
+Aghileh S. Ebrahimi
+Patrycja Orlowska‑Feuer
+Qian Huang
+AntonioG. Zippo
+Franck P. Martial
+Rasmus S. Petersen
+Riccardo Storchi+https://research.manchester.ac.uk/en/persons/riccardo.storchi

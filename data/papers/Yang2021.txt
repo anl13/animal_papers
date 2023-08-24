@@ -1,0 +1,18 @@
+LASR: Learning Articulated Shape Reconstruction from a Monocular Video
+2021
+https://arxiv.org/pdf/2105.02976.pdf
+https://lasr-google.github.io/
+CVPR
+Yang2021.jpg
+poster 
+keyword: dense surface, quadruped, single-view, cv 
+adddate: 20210510
+Gengshan Yang+https://gengshan-y.github.io/
+Deqing Sun+https://deqings.github.io/
+Varun Jampani+https://varunjampani.github.io/
+Daniel Vlasic+https://people.csail.mit.edu/drdaniel/
+Forrester Cole+https://people.csail.mit.edu/fcole/
+Huiwen Chang
+Deva Ramanan+http://www.cs.cmu.edu/~deva/
+William T. Freeman+https://billf.mit.edu/
+Ce Liu+https://people.csail.mit.edu/celiu/

@@ -1,0 +1,16 @@
+ArMo: An Articulated Mesh Approach for Mouse 3D Reconstruction
+2023 
+https://www.biorxiv.org/content/10.1101/2023.02.17.526719v1.full.pdf
+none 
+biorxiv 
+Bohnslav2023.jpg 
+none 
+keyword: 3d, mouse 
+adddate: 20230221 
+James P. Bohnslav
+Mohammed Abdal Monium Osman
+Akshay Jaggi
+Sofia Soares
+Caleb Weinreb
+Sandeep Robert Datta+http://datta.hms.harvard.edu/
+Christopher D. Harvey+https://harveylab.hms.harvard.edu/

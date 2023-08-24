@@ -1,0 +1,19 @@
+Cross-Skeleton Interaction Graph Aggregation Network for Representation Learning of Mouse Social Behaviour
+2022
+https://arxiv.org/pdf/2208.03819.pdf
+none 
+arxiv 
+Zhou2022.jpg 
+none 
+keyword: mouse, social, 2d 
+adddate: 20220809
+Feixiang Zhou
+Xinyu Yang
+Fang Chen
+Long Chen
+Zheheng Jiang
+Hui Zhu
+Reiko Heckel
+Haikuan Wang
+Minrui Fei
+Huiyu Zhou+https://bipl-uol.github.io/

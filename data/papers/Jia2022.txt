@@ -1,0 +1,16 @@
+Selfee, Self-supervised Features Extraction of animal behaviors
+2022
+https://elifesciences.org/articles/76218
+https://github.com/EBGU/Selfee/
+Elife 
+Jia2022.jpg 
+none 
+keyword: 2d, fly 
+adddate: 20220617
+Yinjun Jia 
+Shuaishuai Li 
+Xuan Guo 
+Bo Lei 
+Junqiang Hu 
+Xiao-Hong Xu 
+Wei Zhang 

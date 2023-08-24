@@ -1,0 +1,15 @@
+NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster
+2022
+https://www.biorxiv.org/content/10.1101/2021.04.17.440214v2
+https://nely-epfl.github.io/NeuroMechFly/
+Nature Methods
+Rios2021.jpg
+none 
+keyword: fly, mesh, bio 
+adddate: 20220514 
+Victor Lobato Rios
+Pembe Gizem Ozdil
+Shravan Tata Ramalingasetty
+Jonathan Arreguit
+Auke Jan Ijspeert+https://www.epfl.ch/labs/biorob/people/ijspeert/
+Pavan Ramdya+https://people.epfl.ch/pavan.ramdya

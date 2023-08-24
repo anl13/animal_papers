@@ -1,0 +1,13 @@
+CatFLW: Cat Facial Landmarks in the Wild Dataset
+2023 
+https://arxiv.org/pdf/2305.04232.pdf
+https://www.tech4animals.org/catflw
+CV4Animals Workshop in CVPR
+Martvel2023.jpg 
+none 
+keyword: 2d, face, cat 
+adddate: 20230610
+George Martvel
+Nareed Farhat
+Ilan Shimshoni
+Anna Zamansky

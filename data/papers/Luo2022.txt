@@ -1,0 +1,18 @@
+Artemis: Articulated Neural Pets with Appearance and Motion Synthesis
+2022
+https://arxiv.org/abs/2202.05628
+none 
+TOG (Siggraph) 
+Luo2022.jpg 
+none 
+keyword: 3d, motion
+adddate: 20220315
+Haimin Luo 
+Teng Xu
+Yuheng Jiang 
+Chenglin Zhou
+Qiwei Qiu 
+Yingliang Zhang 
+Wei Yang 
+Lan Xu+https://www.xu-lan.com/
+Jingyi Yu+https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/

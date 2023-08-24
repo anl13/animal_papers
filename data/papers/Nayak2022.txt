@@ -1,0 +1,12 @@
+Incremental Learning for Animal Pose Estimation using RBF k-DPP
+2021 
+https://arxiv.org/pdf/2110.13598.pdf
+none 
+BMVC
+Nayak2022.jpg 
+none 
+keyword: quadruped, 2d 
+adddate: 20220103
+Gaurav Kumar Nayak 
+Het Shah+https://het-shah.github.io/
+Anirban Chakraborty+http://visual-computing.in/wp-content/uploads/2017/08/anirban-chakraborty.html

@@ -1,0 +1,17 @@
+Muti-view Mouse Social Behaviour Recognition with Deep Graphic Model
+2021
+https://arxiv.org/pdf/2011.02451.pdf
+none
+TIP 
+Jiang2020.jpg
+none 
+keyword: multi-view, social, mouse, behavior, cv 
+adddate: 20220102
+Zheheng Jiang 
+Feixiang Zhou
+Aite Zhao
+Xin Li
+Ling Li
+Dacheng Tao+https://dl.acm.org/profile/81100159571
+Xuelong Li+http://www.dcs.bbk.ac.uk/~xuelong/
+Huiyu Zhou+https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou

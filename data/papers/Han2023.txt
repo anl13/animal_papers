@@ -1,0 +1,31 @@
+Social Behavior Atlas: A computational framework for tracking and mapping 3D close interactions of free-moving animals
+2023
+https://www.biorxiv.org/content/10.1101/2023.03.05.531235v1.full.pdf
+none 
+biorxiv
+Han2023.jpg
+none 
+keyword: 3d, social, mouse 
+adddate: 20230307 
+Yaning Han+https://loop.frontiersin.org/people/2018185/overview
+Ke Chen
+Yunke Wang
+Wenhao Liu
+Xiaojing Wang
+Jiahui Liao
+Yiting Huang
+Chuanliang Han
+Kang Huang
+Jiajia Zhang
+Shengyuan Cai
+Zhouwei Wang
+Yongji Wu
+Gao Gao
+Nan Wang
+Jinxiu Li
+Yangwangzi Song
+Jing Li
+Guodong Wang
+Liping Wang+http://wanglab.siat.ac.cn/wanglab_en/index.php?a=publications
+Yaping Zhang
+Pengfei Wei+http://bcbdi.siat.ac.cn/index.php/member2/showMember/nid/92.shtml

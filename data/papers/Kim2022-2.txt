@@ -1,0 +1,13 @@
+Evaluation of mouse behavioral responses to nutritive versus nonnutritive sugar using a deep learning-based 3D real-time pose estimation system
+2022
+https://www.biorxiv.org/content/10.1101/2022.09.19.508605v1
+none 
+biorxiv 
+Kim2022-2.jpg 
+none 
+keyword: 3d, mouse
+adddate: 20220922 
+Jineun Kim
+Dae-gun Kim
+Wongyo Jung
+Greg S. B. Suh+https://med.nyu.edu/faculty/seong-bae-greg-suh

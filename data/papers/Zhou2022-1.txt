@@ -1,0 +1,16 @@
+ConstrastivePose: A contrastive learning approach for self-supervised feature engineering for pose estimation and behavorial classification of interacting animals
+2022
+https://www.biorxiv.org/content/10.1101/2022.11.09.515746v1.full.pdf
+none
+biorxiv
+Zhou2022-1.jpg 
+none 
+keyword: mouse, 2d, behavior 
+adddate: 20221111
+Tianxun Zhou
+Calvin Chee Hoe Cheah
+Eunice Wei Mun Chin
+Jie Chen
+Hui Jia Farm
+Eyleen Lay Keow Goh
+Keng Hwee Chiam

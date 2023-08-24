@@ -1,0 +1,17 @@
+SuperAnimal models pretrained for plug-and-play analysis of animal behavior
+2023
+https://arxiv-export3.library.cornell.edu/abs/2203.07436v2
+none 
+arxiv 
+Ye2023.jpg 
+none
+keyword: 2d 
+adddate: 20230610
+Shaokai Ye+https://yeshaokai.github.io/
+Anastasiia Filippova
+Jessy Lauer
+Maxime Vidal
+Steffen Schneider
+Tian Qiu
+Alexander Mathis
+Mackenzie Weygandt Mathis

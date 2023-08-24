@@ -1,0 +1,13 @@
+Learning Articulated Shape with Keypoint Pseudo-labels from Web Images
+2023
+https://arxiv.org/pdf/2304.14396.pdf
+https://statho.github.io/projects/animals3d/index.html
+CVPR 
+Stathopoulos2023.jpg 
+none 
+keyword: 3d 
+adddate: 20230428 
+Anastasis Stathopoulos+https://statho.github.io/
+Georgios Pavlakos+https://geopavlakos.github.io/
+Ligong Han+https://phymhan.github.io/
+Dimitris Metaxas+https://www.cs.rutgers.edu/~dnm/

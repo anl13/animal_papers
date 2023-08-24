@@ -20,6 +20,49 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://xujiacong.github.io/Animal3D/"><img src="teasers/Xu2023.jpg"/></a></td>
+<td align="left" width=550><em>Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape</em><br>
+<a href="https://xujiacong.github.io/"><font size=2.5>Jiacong Xu</font></a>, 
+<font size=2.5>Yi Zhang</font>, 
+<font size=2.5>Jiawei Peng</font>, 
+<font size=2.5>Wufei Ma</font>, 
+<font size=2.5>Artur Jesslen</font>, 
+<font size=2.5>Pengliang Ji</font>, 
+<font size=2.5>Qixin Hu</font>, 
+<font size=2.5>Jiehua Zhang</font>, 
+<font size=2.5>Qihao Liu</font>, 
+<font size=2.5>Jiahao Wang</font>, 
+<font size=2.5>Wei Ji</font>, 
+<font size=2.5>Chen Wang</font>, 
+<font size=2.5>Xiaoding Yuan</font>, 
+<font size=2.5>Prakhar Kaushik</font>, 
+<font size=2.5>Guofeng Zhang</font>, 
+<font size=2.5>Jie Liu</font>, 
+<font size=2.5>Yushan Xie</font>, 
+<font size=2.5>Yawen Cui</font>, 
+<a href="https://www.cs.jhu.edu/~ayuille/"><font size=2.5>Alan Yuille</font></a>, 
+<font size=2.5>Adam Kortylewski</font><br>
+<font size=2.5>In ICCV 2023 </font><br>
+<a href="https://arxiv.org/pdf/2308.11737.pdf"><img src="data/paper.png"></a> 
+<a href="https://xujiacong.github.io/Animal3D/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://gengshan-y.github.io/ppr/"><img src="teasers/Yang2023.jpg"/></a></td>
+<td align="left" width=550><em>PPR: Physically Plausible Reconstruction from Monocular Videos</em><br>
+<font size=2.5>Gengshan Yang</font>, 
+<font size=2.5>Shuo Yang</font>, 
+<font size=2.5>John Z. Zhang</font>, 
+<font size=2.5>Zachary Manchester</font>, 
+<font size=2.5>Deva Ramanan</font><br>
+<font size=2.5>In ICCV 2023 </font><br>
+<a href="https://gengshan-y.github.io/ppr/PPR.pdf"><img src="data/paper.png"></a> 
+<a href="https://gengshan-y.github.io/ppr/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/AdaptiveMotorControlLab/AmadeusGPT"><img src="teasers/Ye2023-2.jpg"/></a></td>
 <td align="left" width=550><em>AmadeusGPT: a natural language interface for interactive animal behavioral analysis</em><br>
 <a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
@@ -2319,7 +2362,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jul 2023
+Last updated in Aug 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

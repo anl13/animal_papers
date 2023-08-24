@@ -1,0 +1,30 @@
+SLEAP: A deep learning system for multi-animal pose tracking 
+2022
+https://www.nature.com/articles/s41592-022-01426-1
+https://sleap.ai/
+Nature Methods 
+Pereira2022.jpg
+none
+keyword: 2d, social, mouse, fly, bio 
+adddate: 20220415
+Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira
+Nathaniel Tabris
+Arie Matsliah
+David M. Turner
+Junyu Li
+Shruthi Ravindranath
+Eleni S. Papadoyannis
+Edna Normand
+David S. Deutsch
+Z. Yan Wang
+Grace McKenzie-Smith
+Catalin C. Mitelut
+Marielisa Diez Castro
+John D'Uva
+Mikhail Kislin
+Dan H. Sanes+https://www.saneslab.com/
+Sarah D. Kocher+https://lsi.princeton.edu/sarah-d-kocher
+Samuel S.-H. Wang+https://scholar.princeton.edu/wanglab/about
+Annegret L. Falkner+https://www.falknerlab.com/
+Joshua W. Shaevitz+https://molbio.princeton.edu/people/joshua-w-shaevitz
+Mala Murthy+https://murthylab.princeton.edu/mala-murthy

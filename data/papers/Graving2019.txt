@@ -1,0 +1,16 @@
+DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning
+2019
+https://www.biorxiv.org/content/10.1101/620245v7
+https://github.com/jgraving/deepposekit
+eLife
+Graving2019.jpg
+none
+keyword: mouse, 2d, bio 
+adddate: 20201209
+Jacob M. Graving+https://jakegraving.com/files/cv/jacob_graving_cv.pdf
+Daniel Chae+https://www.danielchae.com/
+Hemal Naik
+Liang Li
+Benjamin Koger
+Blair R. Costelloe+http://www.blaircostelloe.com/
+Iain D. Couzin+http://collectivebehaviour.com/people/couzin-iain/#:~:text=Iain%20Couzin%20is%20Director%20of%20the%20Max%20Planck,Fellow%20in%20the%20Sciences%20at%20Balliol%20College%2C%20Oxford.

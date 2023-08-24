@@ -1,0 +1,17 @@
+JAX Animal Behavior System (JABS): A video-based phenotyping platform for the laboratory mouse
+2023
+https://www.biorxiv.org/content/10.1101/2022.01.13.476229v2.full.pdf
+https://github.com/KumarLabJax/JABS-data-pipeline/tree/main
+biorxiv
+Beane2023.jpg
+none 
+keyword: mouse, social, behavior 
+adddate: 20230213 
+Glen Beane
+Brian Q. Geuther
+Thomas J. Sproule
+Anshul Choudhary
+Jarek Trapszo
+Leinani Hession
+Vivek Kohar
+Vivek Kumar+https://www.jax.org/research-and-faculty/faculty/vivek-kumar

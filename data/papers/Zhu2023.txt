@@ -1,0 +1,19 @@
+Scalable Apparatus to Measure Posture and Locomotion (SAMPL): a high-throughput solution to study unconstrained vertical behavior in small animals
+2023 
+https://www.biorxiv.org/content/10.1101/2023.01.07.523102v2.full.pdf
+none 
+biorxiv
+Zhu2023.jpg 
+none 
+keyword: zebrafish 
+adddate: 20230328
+Yunlu Zhu
+Franziska Auer
+Hannah Gelnaw
+Samantha N. Davis
+Kyla R. Hamling
+Christina E. May
+Hassan Ahamed
+Niels Ringstad
+Katherine I. Nagel
+David Schoppik

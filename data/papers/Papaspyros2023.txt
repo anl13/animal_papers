@@ -1,0 +1,15 @@
+Predicting long-term collective animal behavior with deep learning
+2023 
+https://www.biorxiv.org/content/10.1101/2023.02.15.528318v1.full.pdf
+none 
+biorxiv
+Papaspyros2023.jpg 
+none 
+keyword: 2d, social
+adddate: 20230221 
+Vaios Papaspyros
+Ram´on Escobedo
+Alexandre Alahi
+Guy Theraulaz
+Cl´ement Sire
+Francesco Mondada+https://people.epfl.ch/francesco.mondada?lang=en
