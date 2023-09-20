@@ -20,6 +20,84 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Bogna2023.jpg"/></a></td>
+<td align="left" width=550><em>Stimulatory effect of monoacylglycerol lipase inhibitor MJN110 on locomotion and step kinematics demonstrated by high-precision 3D motion capture in mice</em><br>
+<font size=2.5>Bogna M. Ignatowska-Jankowska</font>, 
+<font size=2.5>Aysen Gurkan Ozer</font>, 
+<font size=2.5>Alexander Kuck</font>, 
+<font size=2.5>Micah J. Niphakis</font>, 
+<font size=2.5>Daisuke Ogasawara</font>, 
+<font size=2.5>Benjamin F. Cravatt</font>, 
+<font size=2.5>Marylka Y. Uusisaari</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.06.25.546437v2.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Chen2023-1.jpg"/></a></td>
+<td align="left" width=550><em>NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila</em><br>
+<font size=2.5>Sibo Wang-Chen</font>, 
+<font size=2.5>Victor Alfred Stimpfling</font>, 
+<font size=2.5>Pembe Gizem Ozdil</font>, 
+<font size=2.5>Louise Genoud</font>, 
+<font size=2.5>Femke Hurtak</font>, 
+<font size=2.5>Pavan Ramdya</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.09.18.556649v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/John2023.jpg"/></a></td>
+<td align="left" width=550><em>Simultaneous recording of ultrasonic vocalizations and sniffing from socially interacting individual rats using a miniature microphone</em><br>
+<font size=2.5>Shanah Rachel John</font>, 
+<font size=2.5>Rishika Tiwari</font>, 
+<font size=2.5>Yizhaq Goussha</font>, 
+<font size=2.5>Rotem Amar</font>, 
+<font size=2.5>Alex Bizer</font>, 
+<font size=2.5>Shai Netser</font>, 
+<font size=2.5>Shlomo Wagner</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.09.02.556068v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Lapp2023.jpg"/></a></td>
+<td align="left" width=550><em>Automated Maternal Behavior during Early life in Rodents (AMBER) pipeline</em><br>
+<font size=2.5>Hannah E. Lapp</font>, 
+<font size=2.5>Melissa G. Salazar</font>, 
+<font size=2.5>Frances A. Champagne</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.09.15.557946v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Matsumoto2023.jpg"/></a></td>
+<td align="left" width=550><em>Three-dimensional markerless motion capture of multiple freely behaving monkeys for automated characterization of social behavior</em><br>
+<font size=2.5>Jumpei Matsumoto</font>, 
+<font size=2.5>Takaaki Kaneko</font>, 
+<font size=2.5>Kei Kimura</font>, 
+<font size=2.5>Salvador Blanco Negrete</font>, 
+<font size=2.5>Jia Guo</font>, 
+<font size=2.5>Naoko Suda-Hashimoto</font>, 
+<font size=2.5>Akihisa Kaneko</font>, 
+<font size=2.5>Mayumi Morimoto</font>, 
+<font size=2.5>Hiroshi Nishimaru</font>, 
+<font size=2.5>Tsuyoshi Setogawa</font>, 
+<font size=2.5>Yasuhiro Go</font>, 
+<font size=2.5>Tomohiro Shibata</font>, 
+<font size=2.5>Hisao Nishijo</font>, 
+<font size=2.5>Masahiko Takada</font>, 
+<font size=2.5>Ken-ichi Inoue</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.09.13.556332v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://google.github.io/mouse-pose-analysis-dataset/"><img src="teasers/Hu2023.jpg"/></a></td>
 <td align="left" width=550><em>3D mouse pose from single‑view video and a new dataset</em><br>
 <font size=2.5>Bo Hu</font>, 
@@ -2390,7 +2468,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Aug 2023
+Last updated in Sep 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
