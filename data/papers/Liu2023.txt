@@ -1,0 +1,17 @@
+LoTE-Animal: A Long Time-span Dataset for Endangered Animal Behavior Understanding
+2023
+https://openaccess.thecvf.com/content/ICCV2023/html/Liu_LoTE-Animal_A_Long_Time-span_Dataset_for_Endangered_Animal_Behavior_Understanding_ICCV_2023_paper.html
+https://lote-animal.github.io/
+ICCV 
+Liu2023.jpg 
+none 
+keyword: animal 
+adddate: 20231008
+Dan Liu
+Jin Hou
+Shaoli Huang
+Jing Liu
+Yuxin He
+Bochuan Zheng
+Jifeng Ning+https://cie.nwsuaf.edu.cn/szdw/js/2008116162/index.htm
+Jindong Zhang

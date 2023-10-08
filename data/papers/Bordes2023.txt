@@ -1,0 +1,25 @@
+Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress
+2023
+https://www.nature.com/articles/s41467-023-40040-3
+https://zenodo.org/record/8013401
+Nature Communications
+Bordes2023.jpg 
+none 
+keyword: mouse, 3d, social 
+adddate: 20231008
+Joeri Bordes
+Lucas Miranda
+Maya Reinhardt
+Sowmya Narayan
+Jakob Hartmann
+Emily L. Newman
+Lea Maria Brix
+Lotte van Doeselaar
+Clara Engelhardt
+Larissa Dillmann
+Shiladitya Mitra
+Kerry J. Ressler
+Benno Pütz
+Felix Agakov
+Bertram Müller-Myhsok
+Mathias V. Schmidt

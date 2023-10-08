@@ -20,6 +20,48 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://zenodo.org/record/8013401"><img src="teasers/Bordes2023.jpg"/></a></td>
+<td align="left" width=550><em>Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress</em><br>
+<font size=2.5>Joeri Bordes</font>, 
+<font size=2.5>Lucas Miranda</font>, 
+<font size=2.5>Maya Reinhardt</font>, 
+<font size=2.5>Sowmya Narayan</font>, 
+<font size=2.5>Jakob Hartmann</font>, 
+<font size=2.5>Emily L. Newman</font>, 
+<font size=2.5>Lea Maria Brix</font>, 
+<font size=2.5>Lotte van Doeselaar</font>, 
+<font size=2.5>Clara Engelhardt</font>, 
+<font size=2.5>Larissa Dillmann</font>, 
+<font size=2.5>Shiladitya Mitra</font>, 
+<font size=2.5>Kerry J. Ressler</font>, 
+<font size=2.5>Benno Pütz</font>, 
+<font size=2.5>Felix Agakov</font>, 
+<font size=2.5>Bertram Müller-Myhsok</font>, 
+<font size=2.5>Mathias V. Schmidt</font><br>
+<font size=2.5>In Nature Communications 2023 </font><br>
+<a href="https://www.nature.com/articles/s41467-023-40040-3"><img src="data/paper.png"></a> 
+<a href="https://zenodo.org/record/8013401"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://lote-animal.github.io/"><img src="teasers/Liu2023.jpg"/></a></td>
+<td align="left" width=550><em>LoTE-Animal: A Long Time-span Dataset for Endangered Animal Behavior Understanding</em><br>
+<font size=2.5>Dan Liu</font>, 
+<font size=2.5>Jin Hou</font>, 
+<font size=2.5>Shaoli Huang</font>, 
+<font size=2.5>Jing Liu</font>, 
+<font size=2.5>Yuxin He</font>, 
+<font size=2.5>Bochuan Zheng</font>, 
+<a href="https://cie.nwsuaf.edu.cn/szdw/js/2008116162/index.htm"><font size=2.5>Jifeng Ning</font></a>, 
+<font size=2.5>Jindong Zhang</font><br>
+<font size=2.5>In ICCV 2023 </font><br>
+<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Liu_LoTE-Animal_A_Long_Time-span_Dataset_for_Endangered_Animal_Behavior_Understanding_ICCV_2023_paper.html"><img src="data/paper.png"></a> 
+<a href="https://lote-animal.github.io/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Bogna2023.jpg"/></a></td>
 <td align="left" width=550><em>Stimulatory effect of monoacylglycerol lipase inhibitor MJN110 on locomotion and step kinematics demonstrated by high-precision 3D motion capture in mice</em><br>
 <font size=2.5>Bogna M. Ignatowska-Jankowska</font>, 
@@ -2468,7 +2510,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Sep 2023
+Last updated in Oct 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
