@@ -20,6 +20,44 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Kaneko2023.jpg"/></a></td>
+<td align="left" width=550><em>Establishing an AI-based evaluation system that quantifies social/pathophysiological behaviors of common marmosets</em><br>
+<font size=2.5>Takaaki Kaneko</font>, 
+<font size=2.5>Jumpei Matsumoto</font>, 
+<font size=2.5>Wanyi Lu</font>, 
+<font size=2.5>Xincheng Zhao</font>, 
+<font size=2.5>Louie Richard UenoNigh</font>, 
+<font size=2.5>Takao Oishi</font>, 
+<font size=2.5>Kei Kimura</font>, 
+<font size=2.5>Yukiko Otsuka</font>, 
+<font size=2.5>Andi Zheng</font>, 
+<font size=2.5>Kensuke Ikenaka</font>, 
+<font size=2.5>Kousuke Baba</font>, 
+<font size=2.5>Hideki Mochizuki</font>, 
+<font size=2.5>Hisao Nishijo</font>, 
+<font size=2.5>Ken-ichi Inoue</font>, 
+<font size=2.5>Masahiko Takada</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.10.16.561623v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Nagy2023.jpg"/></a></td>
+<td align="left" width=550><em>Long-term tracking of social structure in groups of rats</em><br>
+<font size=2.5>M´at´e Nagy</font>, 
+<font size=2.5>Jacob D. Davidson</font>, 
+<font size=2.5>G´abor V´as´arhelyi</font>, 
+<font size=2.5>D´aniel Abel</font>, 
+<font size=2.5>Enik˝o Kubinyi</font>, 
+<font size=2.5>Ahmed El Hady</font>, 
+<font size=2.5>Tam´as Vicsek</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.03.18.533183v3.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://zenodo.org/record/8013401"><img src="teasers/Bordes2023.jpg"/></a></td>
 <td align="left" width=550><em>Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress</em><br>
 <font size=2.5>Joeri Bordes</font>, 

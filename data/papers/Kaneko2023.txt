@@ -1,0 +1,24 @@
+Establishing an AI-based evaluation system that quantifies social/pathophysiological behaviors of common marmosets
+2023
+https://www.biorxiv.org/content/10.1101/2023.10.16.561623v1.full.pdf
+none 
+biorxiv
+Kaneko2023.jpg 
+none 
+keyword: monkey, social 
+adddate: 20231019 
+Takaaki Kaneko
+Jumpei Matsumoto
+Wanyi Lu
+Xincheng Zhao
+Louie Richard UenoNigh
+Takao Oishi
+Kei Kimura
+Yukiko Otsuka
+Andi Zheng
+Kensuke Ikenaka
+Kousuke Baba
+Hideki Mochizuki
+Hisao Nishijo
+Ken-ichi Inoue
+Masahiko Takada
