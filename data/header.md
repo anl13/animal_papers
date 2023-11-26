@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2023.11.26] My own paper "MAMMAL" is published online in Nature Communications now! 
+
 [2023.06.10] The program of [CV4Animals Workshop in CVPR 2023](https://www.cv4animals.com/2023-accepted-papers) is available!
 
 [2022.08.08] Here is the Ph.D thesis of SEMIH GÜNEL (https://infoscience.epfl.ch/record/293821), who is the author of well-known DeepFly3D and LiftPose3D.

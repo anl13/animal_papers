@@ -1,0 +1,15 @@
+CATER: Combined Animal Tracking & Environment Reconstruction
+2023
+https://www.science.org/doi/10.1126/sciadv.adg2094
+none 
+Science Advances 
+Haalck2023.jpg 
+none
+keyword: ecology 
+adddate: 20231125
+Lars Haalck
+Michael Mangan
+Antoine Wystrach
+Leo Clement
+Barbara Webb
+Benjamin Risse+https://www.uni-muenster.de/Geoinformatics.cvmls/people/risse.shtml

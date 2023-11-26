@@ -5,20 +5,21 @@ import datetime
 import pickle 
 
 def create_badges(): 
-    animal_types = ["dog", "cat", "quadruped", "bird", "fly", "mouse", "monkey", "mouse lemur", "primate"]
+    animal_types = ["dog", "cat", "quadruped", "bird", "fly", "mouse", "monkey", "mouse lemur", "primate", "pig",
+        "gerbil", "rodent"]
     badges = {} 
     for animal in animal_types: 
         animal_label = animal.replace(" ", "%20")
         badge_string = "https://img.shields.io/badge/animal-{}-yellowgreen".format(animal_label)
         badge_string2 = '<a href="{}" align="bottom"><img src="{}"></a>'.format(badge_string, badge_string)
         badges.update({animal:badge_string2})
-    data_types = ["dense surface", "mesh", "3d", "2d"]
+    data_types = ["surface", "mesh", "3d", "2d"]
     for data in data_types: 
         data_label = data.replace(" ", "%20")
         badge_string = "https://img.shields.io/badge/datatype-{}-9cf".format(data_label)
         badge_string2 = '<a href="{}" align="bottom"><img src="{}"></a>'.format(badge_string, badge_string)
         badges.update({data:badge_string2})
-    topic_types = ["face", "behavior", "brain", "dataset"]
+    topic_types = ["face", "behavior", "brain", "dataset", "social", "ecology", "review"]
     for topic in topic_types: 
         topic_label = topic.replace(" ", "%20")
         badge_string = "https://img.shields.io/badge/topic-{}-orange".format(topic_label)

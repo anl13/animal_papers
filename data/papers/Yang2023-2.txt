@@ -1,0 +1,17 @@
+BARN: Behavior-Aware Relation Network for multi-label behavior detection in socially housed macaques
+2023
+https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.485
+none 
+Zoological Research 
+Yang2023-2.jpg 
+none 
+keyword: monkey 
+adddate: 20231125 
+Sen Yang
+Zhi-Yuan Chen
+Ke-Wei Liang
+Cai-Jie Qin
+Yang Yang
+Wen-Xuan Fan
+Chen-Lu Jie
+Xi-Bo Ma

@@ -1,0 +1,16 @@
+SMART-BARN: Scalable multimodal arena for real-time tracking behavior of animals in large numbers
+2023
+https://www.science.org/doi/10.1126/sciadv.adf8068
+none 
+Science Advances 
+Nagy2023-2.jpg 
+none
+keyword: social 
+adddate: 20231125
+Máté Nagy
+Hemal Naik
+Fumihiro Kano
+Nora V. Carlson
+Jens C. Koblitz
+Martin Wikelski
+Iain D. Couzin+https://www.ab.mpg.de/couzin

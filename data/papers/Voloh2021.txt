@@ -1,12 +1,12 @@
 Hierarchical organization of rhesus macaque behavior
-2021
-https://doi.org/10.1101/2021.11.15.468721
+2023
+https://doi.org/10.1093/oons/kvad006
 none 
-biorxiv
+Oxford Open Neuroscience
 Voloh2021.jpg 
 none 
 keyword: monkey, behavior, bio 
-adddate: 20211115
+adddate: 20231125
 Benjamin Voloh
 Benjamin R. Eisenreich
 David J-N. Maisson
