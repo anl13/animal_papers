@@ -22,6 +22,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/MouseLand/rastermap"><img src="teasers/Syeda2023.jpg"/></a></td>
+<td align="left" width=550><em>Facemap: a framework for modeling neural activity based on orofacial tracking</em><br>
+<font size=2.5>Atika Syeda</font>, 
+<font size=2.5>Lin Zhong</font>, 
+<font size=2.5>Renee Tung</font>, 
+<font size=2.5>Will Long</font>, 
+<font size=2.5>Marius Pachitariu</font>, 
+<a href="https://mouseland.github.io/"><font size=2.5>Carsen Stringer</font></a><br>
+<font size=2.5>In Nature Neuroscience 2023 </font><br>
+<a href="https://www.nature.com/articles/s41593-023-01490-6"><img src="data/paper.png"></a> 
+<a href="https://github.com/MouseLand/rastermap"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/An2023.jpg"/></a></td>
 <td align="left" width=550><em>Three-dimensional surface motion capture of multiple freely moving pigs using MAMMAL</em><br>
 <a href="http://anl13.github.io/"><font size=2.5>Liang An</font></a>, 
