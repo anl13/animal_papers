@@ -1052,7 +1052,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Takashi Inoue</font>, 
 <font size=2.5>Erika Sasaki</font><br>
 <font size=2.5>In biorxiv 2022 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2022.03.29.486138v2"><img src="data/paper.png"></a> 
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.29.486138v3.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
 
 
@@ -1070,8 +1070,8 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Yitao Xi</font>, 
 <font size=2.5>Jie Zhou</font>, 
 <a href="https://www.lsi.umich.edu/science/our-labs/bing-ye-lab"><font size=2.5>Bing Ye</font></a><br>
-<font size=2.5>In biorxiv 2022 </font><br>
-<a href="https://www.biorxiv.org/content/biorxiv/early/2022/05/14/2022.02.17.480911.full.pdf"><img src="data/paper.png"></a> 
+<font size=2.5>In Cell Reports Methods 2022 </font><br>
+<a href="https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00026-7"><img src="data/paper.png"></a> 
 <a href="https://github.com/umyelab/LabGym"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
@@ -2681,7 +2681,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Nov 2023
+Last updated in Dec 2023
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

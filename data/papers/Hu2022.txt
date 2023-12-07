@@ -1,8 +1,8 @@
 LabGym: quantification of user-defined animal behaviors using learning-based holistic assessment
 2022
-https://www.biorxiv.org/content/biorxiv/early/2022/05/14/2022.02.17.480911.full.pdf
+https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00026-7
 https://github.com/umyelab/LabGym
-biorxiv 
+Cell Reports Methods 
 Hu2022.jpg 
 none 
 keyword: mouse
