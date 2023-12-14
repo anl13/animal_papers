@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2023.12.14] Here is a workshop involving animals and infants [CV4Smalls Workshop](https://cv4smalls.sites.northeastern.edu/accepted-submissions/)! Feel free to check it out!
+
 [2023.11.26] My own paper "MAMMAL" is published online in Nature Communications now! 
 
 [2023.06.10] The program of [CV4Animals Workshop in CVPR 2023](https://www.cv4animals.com/2023-accepted-papers) is available!
