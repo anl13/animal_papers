@@ -2,7 +2,7 @@ AmadeusGPT: a natural language interface for interactive animal behavioral analy
 2023
 https://arxiv.org/pdf/2307.04858.pdf
 https://github.com/AdaptiveMotorControlLab/AmadeusGPT
-arxiv 
+NeurIPS 
 Ye2023-2.jpg 
 none 
 keyword: behavior

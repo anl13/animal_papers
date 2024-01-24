@@ -418,7 +418,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Mu Zhou</font>, 
 <font size=2.5>Alexander Mathis</font>, 
 <font size=2.5>Mackenzie Weygandt Mathis</font><br>
-<font size=2.5>In arxiv 2023 </font><br>
+<font size=2.5>In NeurIPS 2023 </font><br>
 <a href="https://arxiv.org/pdf/2307.04858.pdf"><img src="data/paper.png"></a> 
 <a href="https://github.com/AdaptiveMotorControlLab/AmadeusGPT"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
