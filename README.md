@@ -45,7 +45,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="http://wanglab.siat.ac.cn/wanglab_en/index.php?a=publications"><font size=2.5>Liping Wang</font></a>, 
 <font size=2.5>Yaping Zhang</font>, 
 <a href="http://bcbdi.siat.ac.cn/index.php/member2/showMember/nid/92.shtml"><font size=2.5>Pengfei Wei</font></a><br>
-<font size=2.5>In Nature Machine Intelligence 2023 </font><br>
+<font size=2.5>In Nature Machine Intelligence 2024 </font><br>
 <a href="https://www.nature.com/articles/s42256-023-00776-5"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 

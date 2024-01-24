@@ -1,5 +1,5 @@
 Multi-animal 3D social pose estimation, identification and behaviour embedding with a few-shot learning framework
-2023
+2024
 https://www.nature.com/articles/s42256-023-00776-5
 none 
 Nature Machine Intelligence
