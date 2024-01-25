@@ -1,0 +1,10 @@
+PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition
+2023
+https://arxiv.org/pdf/2401.13554.pdf
+https://obrookes.github.io/panaf.github.io/
+IJCV 
+Brookes2024.jpg 
+none 
+keyword: ape 
+adddate: 20240125
+Otto Brookes et.al.

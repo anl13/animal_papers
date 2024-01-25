@@ -24,6 +24,16 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/Brookes2024.jpg"/></a></td>
+<td align="left" width=550><em>PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition</em><br>
+<font size=2.5>Otto Brookes et.al.</font><br>
+<font size=2.5>In IJCV 2023 </font><br>
+<a href="https://arxiv.org/pdf/2401.13554.pdf"><img src="data/paper.png"></a> 
+<a href="https://obrookes.github.io/panaf.github.io/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Han2023.jpg"/></a></td>
 <td align="left" width=550><em>Multi-animal 3D social pose estimation, identification and behaviour embedding with a few-shot learning framework</em><br>
 <a href="https://loop.frontiersin.org/people/2018185/overview"><font size=2.5>Yaning Han</font></a>, 
