@@ -24,6 +24,31 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Vogg2024.jpg"/></a></td>
+<td align="left" width=550><em>Computer Vision for Primate Behavior Analysis in the Wild</em><br>
+<font size=2.5>Richard Vogg</font>, 
+<font size=2.5>Timo Luddecke</font>, 
+<font size=2.5>Jonathan Henrich</font>, 
+<font size=2.5>Sharmita Dey</font>, 
+<font size=2.5>Matthias Nuske</font>, 
+<font size=2.5>Valentin Hassler</font>, 
+<font size=2.5>Derek Murphy</font>, 
+<font size=2.5>Julia Fischer</font>, 
+<font size=2.5>Julia Ostner</font>, 
+<font size=2.5>Oliver Schulke</font>, 
+<font size=2.5>Peter M. Kappeler</font>, 
+<font size=2.5>Claudia Fichte</font>, 
+<font size=2.5>Alexander Gail</font>, 
+<font size=2.5>Stefan Treue</font>, 
+<font size=2.5>Hansjorg Scherberger</font>, 
+<font size=2.5>Florentin Worg otter</font>, 
+<a href="https://eckerlab.org/"><font size=2.5>Alexander S. Ecker</font></a><br>
+<font size=2.5>In arxiv 2024 </font><br>
+<a href="https://arxiv.org/pdf/2401.16424.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-primate-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-primate-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/Brookes2024.jpg"/></a></td>
 <td align="left" width=550><em>PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition</em><br>
 <font size=2.5>Otto Brookes et.al.</font><br>
