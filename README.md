@@ -48,7 +48,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/Brookes2024.jpg"/></a></td>
+<a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/brookes2024.jpg"/></a></td>
 <td align="left" width=550><em>PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition</em><br>
 <font size=2.5>Otto Brookes et.al.</font><br>
 <font size=2.5>In IJCV 2024 </font><br>
