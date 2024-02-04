@@ -24,6 +24,30 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Martini2024.jpg"/></a></td>
+<td align="left" width=550><em>MacAction: Realistic 3D macaque body animation based on multi-camera markerless motion capture</em><br>
+<font size=2.5>Lucas M. Martini</font>, 
+<font size=2.5>Anna Bogn´ar</font>, 
+<font size=2.5>Rufin Vogels</font>, 
+<font size=2.5>Martin A. Giese</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.01.29.577734v1.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Kaul2024.jpg"/></a></td>
+<td align="left" width=550><em>DAMM for the detection and tracking of multiple animals within complex social and environmental settings</em><br>
+<font size=2.5>Gaurav Kaul</font>, 
+<font size=2.5>Jonathan McDevitt</font>, 
+<font size=2.5>Justin Johnson</font>, 
+<font size=2.5>Ada Eban-Rothschild</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.01.18.576153v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/Brookes2024.jpg"/></a></td>
 <td align="left" width=550><em>PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition</em><br>
 <font size=2.5>Otto Brookes et.al.</font><br>
@@ -2690,7 +2714,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jan 2024
+Last updated in Feb 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
