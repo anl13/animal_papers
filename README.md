@@ -24,6 +24,89 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Azechi2024.jpg"/></a></td>
+<td align="left" width=550><em>vmTracking: Virtual Markers Overcome Occlusion and Crowding in Multi-Animal Pose Tracking</em><br>
+<font size=2.5>Hirotsugu Azechi</font>, 
+<font size=2.5>Susumu Takahashi</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.07.579241v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Chen2024.jpg"/></a></td>
+<td align="left" width=550><em>ARBUR, a machine learning-based analysis system for relating behaviors and ultrasonic vocalizations of rats</em><br>
+<font size=2.5>Zhe Chen</font>, 
+<font size=2.5>Guanglu Jia</font>, 
+<font size=2.5>Qijie Zhou</font>, 
+<font size=2.5>Yulai Zhang</font>, 
+<font size=2.5>Zhenzhen Quan</font>, 
+<font size=2.5>Xuechao Chen</font>, 
+<font size=2.5>Toshio Fukuda</font>, 
+<font size=2.5>Qiang Huang</font>, 
+<a href="https://www.researchgate.net/profile/Qing-Shi-16"><font size=2.5>Qing Shi</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.12.19.572288v2.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Muramatsu2024.jpg"/></a></td>
+<td align="left" width=550><em>WILDPOSE: A LONG-RANGE 3D WILDLIFE MOTION CAPTURE SYSTEM</em><br>
+<font size=2.5>Naoya Muramatsu</font>, 
+<font size=2.5>Sangyun Shin</font>, 
+<font size=2.5>Qianyi Deng</font>, 
+<font size=2.5>Andrew Markham</font>, 
+<a href="https://www.africanroboticsunit.com/"><font size=2.5>Amir Patel</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.05.578861v2.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://anonymous.4open.science/r/2489/README.md"><img src="teasers/Ogawa2024.jpg"/></a></td>
+<td align="left" width=550><em>Combining Unity with machine vision to create low latency, flexible, and simple virtual realities</em><br>
+<font size=2.5>Yuri Ogawa</font>, 
+<font size=2.5>Raymond Aoukar</font>, 
+<font size=2.5>Richard Leibbrandt</font>, 
+<font size=2.5>Jake S Manger</font>, 
+<font size=2.5>Zahra M Bagheri</font>, 
+<font size=2.5>Luke Turnbull</font>, 
+<font size=2.5>Chris Johnston</font>, 
+<font size=2.5>Pavan K Kaushik</font>, 
+<font size=2.5>Jan M Hemmi</font>, 
+<a href="https://hoverflyvision.weebly.com/"><font size=2.5>Karin Nordström</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.05.579029v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://anonymous.4open.science/r/2489/README.md"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Martini2024.jpg"/></a></td>
+<td align="left" width=550><em>MacAction: Realistic 3D macaque body animation based on multi-camera markerless motion capture</em><br>
+<font size=2.5>Lucas M. Martini</font>, 
+<font size=2.5>Anna Bogn´ar</font>, 
+<font size=2.5>Rufin Vogels</font>, 
+<font size=2.5>Martin A. Giese</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.01.29.577734v1.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Kaul2024.jpg"/></a></td>
+<td align="left" width=550><em>DAMM for the detection and tracking of multiple animals within complex social and environmental settings</em><br>
+<font size=2.5>Gaurav Kaul</font>, 
+<font size=2.5>Jonathan McDevitt</font>, 
+<font size=2.5>Justin Johnson</font>, 
+<font size=2.5>Ada Eban-Rothschild</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.01.18.576153v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Vogg2024.jpg"/></a></td>
 <td align="left" width=550><em>Computer Vision for Primate Behavior Analysis in the Wild</em><br>
 <font size=2.5>Richard Vogg</font>, 
@@ -49,10 +132,10 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/Brookes2024.jpg"/></a></td>
+<a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/brookes2024.jpg"/></a></td>
 <td align="left" width=550><em>PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition</em><br>
 <font size=2.5>Otto Brookes et.al.</font><br>
-<font size=2.5>In IJCV 2023 </font><br>
+<font size=2.5>In IJCV 2024 </font><br>
 <a href="https://arxiv.org/pdf/2401.13554.pdf"><img src="data/paper.png"></a> 
 <a href="https://obrookes.github.io/panaf.github.io/"><img src="data/project.png"></a>
 </td></tr></tbody>
@@ -2715,7 +2798,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jan 2024
+Last updated in Feb 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

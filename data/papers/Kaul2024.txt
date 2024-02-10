@@ -1,0 +1,13 @@
+DAMM for the detection and tracking of multiple animals within complex social and environmental settings
+2024
+https://www.biorxiv.org/content/10.1101/2024.01.18.576153v1.full.pdf
+none 
+biorxiv 
+Kaul2024.jpg 
+none 
+keyword: social 
+adddate: 20240203 
+Gaurav Kaul
+Jonathan McDevitt
+Justin Johnson
+Ada Eban-Rothschild

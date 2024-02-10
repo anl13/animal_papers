@@ -1,0 +1,13 @@
+MacAction: Realistic 3D macaque body animation based on multi-camera markerless motion capture
+2024 
+https://www.biorxiv.org/content/10.1101/2024.01.29.577734v1.full.pdf
+none 
+biorxiv 
+Martini2024.jpg 
+none 
+keyword: macaque 
+adddate: 20240204 
+Lucas M. Martini
+Anna Bogn´ar
+Rufin Vogels
+Martin A. Giese
