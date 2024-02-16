@@ -1,0 +1,14 @@
+WILDPOSE: A LONG-RANGE 3D WILDLIFE MOTION CAPTURE SYSTEM
+2024 
+https://www.biorxiv.org/content/10.1101/2024.02.05.578861v2.full.pdf
+none 
+biorxiv
+Muramatsu2024.jpg 
+none 
+keyword: wild 
+adddate: 20240210 
+Naoya Muramatsu
+Sangyun Shin
+Qianyi Deng 
+Andrew Markham
+Amir Patel+https://www.africanroboticsunit.com/

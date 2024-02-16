@@ -1,0 +1,26 @@
+Computer Vision for Primate Behavior Analysis in the Wild
+2024
+https://arxiv.org/pdf/2401.16424.pdf
+none 
+arxiv 
+Vogg2024.jpg 
+none 
+keyword: primate 
+adddate: 20240131
+Richard Vogg
+Timo Luddecke
+Jonathan Henrich
+Sharmita Dey
+Matthias Nuske
+Valentin Hassler
+Derek Murphy
+Julia Fischer
+Julia Ostner
+Oliver Schulke
+Peter M. Kappeler
+Claudia Fichte
+Alexander Gail
+Stefan Treue
+Hansjorg Scherberger
+Florentin Worg otter
+Alexander S. Ecker+https://eckerlab.org/

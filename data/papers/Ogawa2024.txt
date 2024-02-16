@@ -1,0 +1,19 @@
+Combining Unity with machine vision to create low latency, flexible, and simple virtual realities
+2024 
+https://www.biorxiv.org/content/10.1101/2024.02.05.579029v1.full.pdf
+https://anonymous.4open.science/r/2489/README.md
+biorxiv
+Ogawa2024.jpg 
+none 
+keyword: VR 
+adddate: 20240210 
+Yuri Ogawa
+Raymond Aoukar
+Richard Leibbrandt
+Jake S Manger
+Zahra M Bagheri
+Luke Turnbull
+Chris Johnston
+Pavan K Kaushik
+Jan M Hemmi
+Karin Nordström+https://hoverflyvision.weebly.com/

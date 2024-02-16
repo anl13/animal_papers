@@ -1,0 +1,11 @@
+vmTracking: Virtual Markers Overcome Occlusion and Crowding in Multi-Animal Pose Tracking 
+2024 
+https://www.biorxiv.org/content/10.1101/2024.02.07.579241v1.full.pdf
+none 
+biorxiv
+Azechi2024.jpg 
+none 
+keyword: social 
+adddate: 20240210 
+Hirotsugu Azechi
+Susumu Takahashi
