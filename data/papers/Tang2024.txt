@@ -1,0 +1,13 @@
+Anti-drift pose tracker (ADPT): A transformer-based network for robust animal pose estimation cross-species
+2024 
+https://www.biorxiv.org/content/10.1101/2024.02.06.579164v1.full.pdf
+none 
+biorxiv 
+Tang2024.jpg 
+none 
+keyword: mouse
+adddate: 20240216 
+Guoling Tang 
+Yaning Han 
+Quanying Liu 
+Pengfei Wei 

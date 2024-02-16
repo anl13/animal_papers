@@ -24,6 +24,18 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Tang2024.jpg"/></a></td>
+<td align="left" width=550><em>Anti-drift pose tracker (ADPT): A transformer-based network for robust animal pose estimation cross-species</em><br>
+<font size=2.5>Guoling Tang</font>, 
+<font size=2.5>Yaning Han</font>, 
+<font size=2.5>Quanying Liu</font>, 
+<font size=2.5>Pengfei Wei</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.06.579164v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Martini2024.jpg"/></a></td>
 <td align="left" width=550><em>MacAction: Realistic 3D macaque body animation based on multi-camera markerless motion capture</em><br>
 <font size=2.5>Lucas M. Martini</font>, 
