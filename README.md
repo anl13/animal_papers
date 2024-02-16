@@ -33,6 +33,9 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2024 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2024.02.06.579164v1.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Azechi2024.jpg"/></a></td>
 <td align="left" width=550><em>vmTracking: Virtual Markers Overcome Occlusion and Crowding in Multi-Animal Pose Tracking</em><br>
 <font size=2.5>Hirotsugu Azechi</font>, 
