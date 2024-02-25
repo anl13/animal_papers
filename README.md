@@ -24,6 +24,19 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/YttriLab/A-SOID"><img src="teasers/Schweihoff2022.jpg"/></a></td>
+<td align="left" width=550><em>A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior</em><br>
+<font size=2.5>Jens F. Tillmann</font>, 
+<font size=2.5>Alexander I. Hsu</font>, 
+<font size=2.5>Martin K. Schwarz</font>, 
+<a href="https://www.cmu.edu/bio/people/faculty/yttri.html"><font size=2.5>Eric A. Yttri</font></a><br>
+<font size=2.5>In Nature Methods 2024 </font><br>
+<a href="https://www.nature.com/articles/s41592-024-02200-1"><img src="data/paper.png"></a> 
+<a href="https://github.com/YttriLab/A-SOID"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Tang2024.jpg"/></a></td>
 <td align="left" width=550><em>Anti-drift pose tracker (ADPT): A transformer-based network for robust animal pose estimation cross-species</em><br>
 <font size=2.5>Guoling Tang</font>, 
@@ -220,6 +233,22 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2023 </font><br>
 <a href="https://doi.org/10.1101/2023.11.14.567118"><img src="data/paper.png"></a> 
 </td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Mitelut2023.jpg"/></a></td>
+<td align="left" width=550><em>Distinct developmental trajectories of autonomous behaviors and agency in rodents</em><br>
+<font size=2.5>C Mitelut</font>, 
+<font size=2.5>M Diez Castro</font>, 
+<font size=2.5>RE Peterson</font>, 
+<font size=2.5>M Gonçalves</font>, 
+<font size=2.5>MM Gamer</font>, 
+<font size=2.5>SRO Nilsson</font>, 
+<font size=2.5>TD Pereira</font>, 
+<font size=2.5>DH Sanes</font><br>
+<font size=2.5>In biorxiv 2023 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566632v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-gerbil-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-gerbil-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -1066,19 +1095,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2022 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2022.11.09.515746v1.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/YttriLab/A-SOID"><img src="teasers/Schweihoff2022.jpg"/></a></td>
-<td align="left" width=550><em>A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior</em><br>
-<font size=2.5>Jens F. Tillmann</font>, 
-<font size=2.5>Alexander I. Hsu</font>, 
-<font size=2.5>Martin K. Schwarz</font>, 
-<a href="https://www.cmu.edu/bio/people/faculty/yttri.html"><font size=2.5>Eric A. Yttri</font></a><br>
-<font size=2.5>In Nature Methods 2024 </font><br>
-<a href="https://www.nature.com/articles/s41592-024-02200-1"><img src="data/paper.png"></a> 
-<a href="https://github.com/YttriLab/A-SOID"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -2791,21 +2807,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://www.nature.com/articles/nmeth.2994"><img src="data/paper.png"></a> 
 <a href="http://www.idtracker.es/"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Mitelut2023.jpg"/></a></td>
-<td align="left" width=550><em>Distinct developmental trajectories of autonomous behaviors and agency in rodents</em><br>
-<font size=2.5>M Diez Castro</font>, 
-<font size=2.5>RE Peterson</font>, 
-<font size=2.5>M Gonçalves</font>, 
-<font size=2.5>MM Gamer</font>, 
-<font size=2.5>SRO Nilsson</font>, 
-<font size=2.5>TD Pereira</font>, 
-<font size=2.5>DH Sanes</font><br>
-<font size=2.5>In biorxiv 2023 </font>(<b><font size=2.5>keyword: gerbil</font></b>)<br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.11.10.566632v1"><img src="data/paper.png"></a> 
-</td></tr></tbody>
 
 
 </table>
