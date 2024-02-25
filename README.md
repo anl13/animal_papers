@@ -1069,14 +1069,15 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Schweihoff2022.jpg"/></a></td>
+<a href="https://github.com/YttriLab/A-SOID"><img src="teasers/Schweihoff2022.jpg"/></a></td>
 <td align="left" width=550><em>A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior</em><br>
-<font size=2.5>Jens F. Schweihoff</font>, 
+<font size=2.5>Jens F. Tillmann</font>, 
 <font size=2.5>Alexander I. Hsu</font>, 
 <font size=2.5>Martin K. Schwarz</font>, 
 <a href="https://www.cmu.edu/bio/people/faculty/yttri.html"><font size=2.5>Eric A. Yttri</font></a><br>
-<font size=2.5>In biorxiv 2022 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2022.11.04.515138v2.full.pdf"><img src="data/paper.png"></a> 
+<font size=2.5>In Nature Methods 2024 </font><br>
+<a href="https://www.nature.com/articles/s41592-024-02200-1"><img src="data/paper.png"></a> 
+<a href="https://github.com/YttriLab/A-SOID"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
 
 
