@@ -24,6 +24,32 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Tsang2024.jpg"/></a></td>
+<td align="left" width=550><em>Investigating the use of odour and colour foraging cues by rosy-faced lovebirds (Agapornis roseicollis) using deep-learning based behavioural analysis</em><br>
+<font size=2.5>Winson King Wai Tsang</font>, 
+<font size=2.5>Emily Shui Kei Poon</font>, 
+<font size=2.5>Chris Newman</font>, 
+<font size=2.5>Christina D. Buesching</font>, 
+<font size=2.5>Simon Yung Wa Sin</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.18.580921v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Xing2024.jpg"/></a></td>
+<td align="left" width=550><em>Automated 3D analysis of social head-gaze behaviors in freely moving marmosets</em><br>
+<font size=2.5>Feng Xing</font>, 
+<font size=2.5>Alec G. Sheffield</font>, 
+<font size=2.5>Monika P. Jadi</font>, 
+<font size=2.5>Steve W.C Chang</font>, 
+<a href="https://medicine.yale.edu/profile/anirvan-nandy/"><font size=2.5>Anirvan S. Nandy</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.16.580693v1.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/YttriLab/A-SOID"><img src="teasers/Schweihoff2022.jpg"/></a></td>
 <td align="left" width=550><em>A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior</em><br>
 <font size=2.5>Jens F. Tillmann</font>, 
