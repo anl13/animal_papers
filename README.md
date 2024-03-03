@@ -24,6 +24,20 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/evo-biomech/replicAnt"><img src="teasers/Plum2023.jpg"/></a></td>
+<td align="left" width=550><em>replicAnt: a pipeline for generating annotated images of animals in complex environments using Unreal Engine</em><br>
+<font size=2.5>Fabian Plum</font>, 
+<font size=2.5>René Bulla</font>, 
+<font size=2.5>Hendrik K. Beck</font>, 
+<font size=2.5>Natalie Imirzian</font>, 
+<a href="https://evo-biomech.ic.ac.uk/people/#team"><font size=2.5>David Labonte</font></a><br>
+<font size=2.5>In Nature Communications 2023 </font><br>
+<a href="https://www.nature.com/articles/s41467-023-42898-9#Ack1"><img src="data/paper.png"></a> 
+<a href="https://github.com/evo-biomech/replicAnt"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Tsang2024.jpg"/></a></td>
 <td align="left" width=550><em>Investigating the use of odour and colour foraging cues by rosy-faced lovebirds (Agapornis roseicollis) using deep-learning based behavioural analysis</em><br>
 <font size=2.5>Winson King Wai Tsang</font>, 
@@ -2838,7 +2852,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Feb 2024
+Last updated in Mar 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

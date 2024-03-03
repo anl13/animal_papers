@@ -1,0 +1,14 @@
+replicAnt: a pipeline for generating annotated images of animals in complex environments using Unreal Engine
+2023 
+https://www.nature.com/articles/s41467-023-42898-9#Ack1
+https://github.com/evo-biomech/replicAnt
+Nature Communications
+Plum2023.jpg 
+none 
+keyword: ant 
+adddate: 20240303 
+Fabian Plum
+René Bulla
+Hendrik K. Beck
+Natalie Imirzian
+David Labonte+https://evo-biomech.ic.ac.uk/people/#team
