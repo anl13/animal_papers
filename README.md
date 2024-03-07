@@ -24,6 +24,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/marmopose.jpg"/></a></td>
+<td align="left" width=550><em>MarmoPose: A Deep Learning-Based System for Real-time Multi-Marmoset 3D Pose Tracking</em><br>
+<font size=2.5>Chaoqun Cheng</font>, 
+<font size=2.5>Zijian Huang</font>, 
+<font size=2.5>Ruiming Zhang</font>, 
+<font size=2.5>Guozheng Huang</font>, 
+<font size=2.5>Han Wang</font>, 
+<font size=2.5>Likai Tang</font>, 
+<a href="https://wanglab.johnshopkins.edu/lab/WangLabWebsite/"><font size=2.5>Xiaoqin Wang</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.27.582429v1.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/evo-biomech/replicAnt"><img src="teasers/Plum2023.jpg"/></a></td>
 <td align="left" width=550><em>replicAnt: a pipeline for generating annotated images of animals in complex environments using Unreal Engine</em><br>
 <font size=2.5>Fabian Plum</font>, 

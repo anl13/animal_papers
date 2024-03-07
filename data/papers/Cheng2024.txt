@@ -1,0 +1,16 @@
+MarmoPose: A Deep Learning-Based System for Real-time Multi-Marmoset 3D Pose Tracking
+2024 
+https://www.biorxiv.org/content/10.1101/2024.02.27.582429v1.full.pdf
+none 
+biorxiv
+marmopose.jpg 
+none 
+keyword: marmoset 
+adddate: 20240307 
+Chaoqun Cheng
+Zijian Huang
+Ruiming Zhang
+Guozheng Huang
+Han Wang
+Likai Tang
+Xiaoqin Wang+https://wanglab.johnshopkins.edu/lab/WangLabWebsite/
