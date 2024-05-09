@@ -1,0 +1,16 @@
+TrAQ: a novel, versatile, semi-automated two-dimensional motor behavioural tracking software
+2024
+https://www.biorxiv.org/content/10.1101/2024.05.05.592556v1
+none 
+biorxiv
+Censo2024.jpg 
+none 
+keyword: 2d 
+adddate: 20240509 
+Davide Di Censo
+Ilaria Rosa
+Brigida Ranieri
+Tiziana DiLorenzo
+Marcello Alecci
+Tiziana Marilena Florio
+Angelo Galante

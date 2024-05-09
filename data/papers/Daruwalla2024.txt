@@ -1,0 +1,15 @@
+A 3Dwhole-face movement analysis system to uncover underlying physiology in mice
+2024 
+https://www.biorxiv.org/content/10.1101/2024.05.07.593051v1
+none 
+biorxiv
+Daruwalla2024.jpg 
+none 
+keyword: mouse 
+adddate: 20240509 
+Kyle Daruwalla
+Irene Nozal Martin
+Andrew Frankel
+Diana Naglič
+Zainab Ahmad
+Xun Helen Hou+https://helenxhou.github.io/

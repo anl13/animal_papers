@@ -24,6 +24,83 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Censo2024.jpg"/></a></td>
+<td align="left" width=550><em>TrAQ: a novel, versatile, semi-automated two-dimensional motor behavioural tracking software</em><br>
+<font size=2.5>Davide Di Censo</font>, 
+<font size=2.5>Ilaria Rosa</font>, 
+<font size=2.5>Brigida Ranieri</font>, 
+<font size=2.5>Tiziana DiLorenzo</font>, 
+<font size=2.5>Marcello Alecci</font>, 
+<font size=2.5>Tiziana Marilena Florio</font>, 
+<font size=2.5>Angelo Galante</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.05.592556v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Daruwalla2024.jpg"/></a></td>
+<td align="left" width=550><em>A 3Dwhole-face movement analysis system to uncover underlying physiology in mice</em><br>
+<font size=2.5>Kyle Daruwalla</font>, 
+<font size=2.5>Irene Nozal Martin</font>, 
+<font size=2.5>Andrew Frankel</font>, 
+<font size=2.5>Diana Naglič</font>, 
+<font size=2.5>Zainab Ahmad</font>, 
+<a href="https://helenxhou.github.io/"><font size=2.5>Xun Helen Hou</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.07.593051v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/Rose2024.jpg"/></a></td>
+<td align="left" width=550><em>Deep Imputation for Skeleton Data (DISK) for  Behavioral Science</em><br>
+<font size=2.5>France Rose</font>, 
+<font size=2.5>Monika Michaluk</font>, 
+<font size=2.5>Timon Blindauer</font>, 
+<font size=2.5>Bogna M. Ignatowska-Jankowska</font>, 
+<font size=2.5>Liam O’Shaughnessy</font>, 
+<font size=2.5>Greg J. Stephens</font>, 
+<a href="https://talmopereira.com/"><font size=2.5>Talmo D. Pereira</font></a>, 
+<font size=2.5>Marylka Y. Uusisaari</font>, 
+<a href="https://www.bozek-lab.cmmc-uni-koeln.de/team/research-group-leaders-cv"><font size=2.5>Katarzyna Bozek</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.03.592173v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/franch2024.jpg"/></a></td>
+<td align="left" width=550><em>Visuo-frontal interactions during social learning in freely moving macaques</em><br>
+<font size=2.5>M. Franch</font>, 
+<font size=2.5>S. Yellapantula</font>, 
+<font size=2.5>A. Parajuli</font>, 
+<font size=2.5>N. Kharas</font>, 
+<font size=2.5>A. Wright</font>, 
+<font size=2.5>B. Aazhang</font>, 
+<font size=2.5>V. Dragoi</font><br>
+<font size=2.5>In Nature 2024 </font><br>
+<a href="https://www.nature.com/articles/s41586-024-07084-x"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers/testard2024.jpg"/></a></td>
+<td align="left" width=550><em>Neural signatures of natural behaviour in socializing macaques</em><br>
+<font size=2.5>Camille Testard</font>, 
+<font size=2.5>Sébastien Tremblay</font>, 
+<font size=2.5>Felipe Parodi</font>, 
+<font size=2.5>Ron W. DiTullio</font>, 
+<font size=2.5>Arianna Acevedo-Ithier</font>, 
+<font size=2.5>Kristin L. Gardiner</font>, 
+<font size=2.5>Konrad Kording</font>, 
+<a href="https://psychology.sas.upenn.edu/people/michael-l-platt"><font size=2.5>Michael L. Platt</font></a><br>
+<font size=2.5>In Nature 2024 </font><br>
+<a href="https://www.nature.com/articles/s41586-024-07178-6"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/marmopose.jpg"/></a></td>
 <td align="left" width=550><em>MarmoPose: A Deep Learning-Based System for Real-time Multi-Marmoset 3D Pose Tracking</em><br>
 <font size=2.5>Chaoqun Cheng</font>, 
@@ -2867,7 +2944,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Mar 2024
+Last updated in May 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
