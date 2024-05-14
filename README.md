@@ -24,6 +24,23 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://varen.is.tue.mpg.de/"><img src="teasers/zuffi2024.jpg"/></a></td>
+<td align="left" width=550><em>VAREN: Very Accurate and Realistic Equine Network</em><br>
+<font size=2.5>Silvia Zuffi</font>, 
+<font size=2.5>Ylva Mellbin</font>, 
+<font size=2.5>Ci Li</font>, 
+<font size=2.5>Markus Hoeschle</font>, 
+<font size=2.5>Hedvig Kjellström</font>, 
+<font size=2.5>Senya Polikovsky</font>, 
+<font size=2.5>Elin Hernlund</font>, 
+<font size=2.5>Michael J. Black</font><br>
+<font size=2.5>In CVPR 2024 </font><br>
+<a href="https://ps.is.mpg.de/uploads_file/attachment/attachment/764/zuffi_varen_CVPR2024.pdf"><img src="data/paper.png"></a> 
+<a href="https://varen.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers/Censo2024.jpg"/></a></td>
 <td align="left" width=550><em>TrAQ: a novel, versatile, semi-automated two-dimensional motor behavioural tracking software</em><br>
 <font size=2.5>Davide Di Censo</font>, 
