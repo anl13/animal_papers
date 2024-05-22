@@ -1,0 +1,19 @@
+The Poses for Equine Research Dataset (PFERD)
+2024 
+https://www.nature.com/articles/s41597-024-03312-1
+https://github.com/Celiali/PFERD
+Scientific Data 
+Li2024.jpg 
+none 
+keyword: horse, 3d 
+adddate: 20240522 
+Ci Li
+Ylva Mellbin
+Johanna Krogager
+Senya Polikovsky
+Martin Holmberg
+Nima Ghorbani
+Michael J. Black
+Hedvig Kjellström
+Silvia Zuffi
+Elin Hernlund

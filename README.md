@@ -24,6 +24,25 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/Celiali/PFERD"><img src="teasers/Li2024.jpg"/></a></td>
+<td align="left" width=550><em>The Poses for Equine Research Dataset (PFERD)</em><br>
+<font size=2.5>Ci Li</font>, 
+<font size=2.5>Ylva Mellbin</font>, 
+<font size=2.5>Johanna Krogager</font>, 
+<font size=2.5>Senya Polikovsky</font>, 
+<font size=2.5>Martin Holmberg</font>, 
+<font size=2.5>Nima Ghorbani</font>, 
+<font size=2.5>Michael J. Black</font>, 
+<font size=2.5>Hedvig Kjellström</font>, 
+<font size=2.5>Silvia Zuffi</font>, 
+<font size=2.5>Elin Hernlund</font><br>
+<font size=2.5>In Scientific Data 2024 </font><br>
+<a href="https://www.nature.com/articles/s41597-024-03312-1"><img src="data/paper.png"></a> 
+<a href="https://github.com/Celiali/PFERD"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://varen.is.tue.mpg.de/"><img src="teasers/zuffi2024.jpg"/></a></td>
 <td align="left" width=550><em>VAREN: Very Accurate and Realistic Equine Network</em><br>
 <font size=2.5>Silvia Zuffi</font>, 
