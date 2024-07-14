@@ -1,0 +1,30 @@
+Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools
+2024 
+https://www.nature.com/articles/s41592-024-02319-1
+https://github.com/danbider/lightning-pose/
+Nature Methods 
+Biderman2024.jpg 
+none 
+keyword: 2d 
+adddate: 20240714 
+Dan Biderman
+Matthew R. Whiteway
+Cole Hurwitz
+Nicholas Greenspan
+Robert S. Lee
+Ankit Vishnubhotla
+Richard Warren
+Federico Pedraja
+Dillon Noone
+Michael M. Schartner
+Julia M. Huntenburg
+Anup Khanal
+Guido T. Meijer
+Jean-Paul Noel
+Alejandro Pan-Vazquez
+Karolina Z. Socha
+Anne E. Urai
+The International Brain Laboratory
+John P. Cunningham
+Nathaniel B. Sawtell
+Liam Paninski+https://ctn.zuckermaninstitute.columbia.edu/people/liam-paninski

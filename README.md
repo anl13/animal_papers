@@ -24,6 +24,36 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/danbider/lightning-pose/"><img src="teasers/Biderman2024.jpg"/></a></td>
+<td align="left" width=550><em>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools</em><br>
+<font size=2.5>Dan Biderman</font>, 
+<font size=2.5>Matthew R. Whiteway</font>, 
+<font size=2.5>Cole Hurwitz</font>, 
+<font size=2.5>Nicholas Greenspan</font>, 
+<font size=2.5>Robert S. Lee</font>, 
+<font size=2.5>Ankit Vishnubhotla</font>, 
+<font size=2.5>Richard Warren</font>, 
+<font size=2.5>Federico Pedraja</font>, 
+<font size=2.5>Dillon Noone</font>, 
+<font size=2.5>Michael M. Schartner</font>, 
+<font size=2.5>Julia M. Huntenburg</font>, 
+<font size=2.5>Anup Khanal</font>, 
+<font size=2.5>Guido T. Meijer</font>, 
+<font size=2.5>Jean-Paul Noel</font>, 
+<font size=2.5>Alejandro Pan-Vazquez</font>, 
+<font size=2.5>Karolina Z. Socha</font>, 
+<font size=2.5>Anne E. Urai</font>, 
+<font size=2.5>The International Brain Laboratory</font>, 
+<font size=2.5>John P. Cunningham</font>, 
+<font size=2.5>Nathaniel B. Sawtell</font>, 
+<a href="https://ctn.zuckermaninstitute.columbia.edu/people/liam-paninski"><font size=2.5>Liam Paninski</font></a><br>
+<font size=2.5>In Nature Methods 2024 </font><br>
+<a href="https://www.nature.com/articles/s41592-024-02319-1"><img src="data/paper.png"></a> 
+<a href="https://github.com/danbider/lightning-pose/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/dattalab/keypoint-moseq"><img src="teasers/Weinreb2023.jpg"/></a></td>
 <td align="left" width=550><em>Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics</em><br>
 <font size=2.5>Caleb Weinreb</font>, 
