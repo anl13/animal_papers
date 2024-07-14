@@ -24,6 +24,32 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/dattalab/keypoint-moseq"><img src="teasers/Weinreb2023.jpg"/></a></td>
+<td align="left" width=550><em>Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics</em><br>
+<font size=2.5>Caleb Weinreb</font>, 
+<font size=2.5>Jonah E. Pearl</font>, 
+<font size=2.5>Sherry Lin</font>, 
+<font size=2.5>Mohammed Abdal Monium Osman</font>, 
+<font size=2.5>Libby Zhang</font>, 
+<font size=2.5>Sidharth Annapragada</font>, 
+<font size=2.5>Eli Conlin</font>, 
+<font size=2.5>Red Hoffmann</font>, 
+<font size=2.5>Sofia Makowska</font>, 
+<font size=2.5>Winthrop F. Gillis</font>, 
+<font size=2.5>Maya Jay</font>, 
+<font size=2.5>Ye Shaokai</font>, 
+<font size=2.5>Alexander Mathis</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font>, 
+<font size=2.5>Talmo Pereira</font>, 
+<font size=2.5>Scott W. Linderman</font>, 
+<font size=2.5>Sandeep Robert Datta</font><br>
+<font size=2.5>In Nature Methods 2024 </font><br>
+<a href="https://www.nature.com/articles/s41592-024-02318-2"><img src="data/paper.png"></a> 
+<a href="https://github.com/dattalab/keypoint-moseq"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/Celiali/PFERD"><img src="teasers/Li2024.jpg"/></a></td>
 <td align="left" width=550><em>The Poses for Equine Research Dataset (PFERD)</em><br>
 <font size=2.5>Ci Li</font>, 
@@ -886,30 +912,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://arxiv.org/abs/2306.00576"><img src="data/paper.png"></a> 
 <a href="https://mammal-net.github.io/#:~:text=We%20propose%20MammalNet%2C%20a%20large-scale%20video%20benchmark%20for,12%20common%20high-level%20mammal%20behaviors%20%28e.g.%2C%20hunt%2C%20groom%29."><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/dattalab/keypoint-moseq"><img src="teasers/Weinreb2023.jpg"/></a></td>
-<td align="left" width=550><em>Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics</em><br>
-<font size=2.5>Caleb Weinreb</font>, 
-<font size=2.5>Mohammed Abdal Monium Osman</font>, 
-<font size=2.5>Libby Zhang</font>, 
-<font size=2.5>Sherry Lin</font>, 
-<font size=2.5>Jonah Pearl</font>, 
-<font size=2.5>Sidharth Annapragada</font>, 
-<font size=2.5>Eli Conlin</font>, 
-<font size=2.5>Winthrop F. Gillis</font>, 
-<font size=2.5>Maya Jay</font>, 
-<font size=2.5>Ye Shaokai</font>, 
-<font size=2.5>Alexander Mathis</font>, 
-<font size=2.5>Mackenzie Weygandt Mathis</font>, 
-<font size=2.5>Talmo Pereira</font>, 
-<font size=2.5>Scott W. Linderman</font>, 
-<font size=2.5>Sandeep Robert Datta</font><br>
-<font size=2.5>In biorxiv 2023 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.03.16.532307v2.full.pdf"><img src="data/paper.png"></a> 
-<a href="https://github.com/dattalab/keypoint-moseq"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -2980,7 +2982,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in May 2024
+Last updated in Jul 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
