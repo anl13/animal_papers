@@ -18,13 +18,13 @@
 Recently, markerless animal **motion capture** and **3D reconstruction** attracts more and more attention in computer vision community. Inspired by remarkable techniques for markerless human motion capture, a few excellent literatures appear for animal modeling and reconstruction such as [SMAL](http://smal.is.tue.mpg.de/
 ) and [DeepLabCut](http://www.mousemotorlab.org/deeplabcut). However, there is still a long way before computer vision methods could capture natural motion of arbitary animals in industrial-grade. 
 
-Therefore, I contribute this repository to track every step towards the ultimate goal of high quality animal capture. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(al17 at mails dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.
+Therefore, I contribute this repository to track every step towards the ultimate goal of high quality animal capture. If you want to add/remove an article, please send an email to [Liang An](https://anl13.github.io/)(anliang at mail dot tsinghua dot edu dot cn). Thank all the authors for their contribution and support.
 
 
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/danbider/lightning-pose/"><img src="teasers/Biderman2024.jpg"/></a></td>
+<a href="https://github.com/danbider/lightning-pose/"><img src="teasers_small/Biderman2024.jpg"/></a></td>
 <td align="left" width=550><em>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools</em><br>
 <font size=2.5>Dan Biderman</font>, 
 <font size=2.5>Matthew R. Whiteway</font>, 
@@ -54,7 +54,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/dattalab/keypoint-moseq"><img src="teasers/Weinreb2023.jpg"/></a></td>
+<a href="https://github.com/dattalab/keypoint-moseq"><img src="teasers_small/Weinreb2023.jpg"/></a></td>
 <td align="left" width=550><em>Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics</em><br>
 <font size=2.5>Caleb Weinreb</font>, 
 <font size=2.5>Jonah E. Pearl</font>, 
@@ -80,7 +80,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/Celiali/PFERD"><img src="teasers/Li2024.jpg"/></a></td>
+<a href="https://github.com/Celiali/PFERD"><img src="teasers_small/Li2024.jpg"/></a></td>
 <td align="left" width=550><em>The Poses for Equine Research Dataset (PFERD)</em><br>
 <font size=2.5>Ci Li</font>, 
 <font size=2.5>Ylva Mellbin</font>, 
@@ -99,7 +99,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://varen.is.tue.mpg.de/"><img src="teasers/zuffi2024.jpg"/></a></td>
+<a href="https://varen.is.tue.mpg.de/"><img src="teasers_small/zuffi2024.jpg"/></a></td>
 <td align="left" width=550><em>VAREN: Very Accurate and Realistic Equine Network</em><br>
 <font size=2.5>Silvia Zuffi</font>, 
 <font size=2.5>Ylva Mellbin</font>, 
@@ -116,7 +116,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Censo2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Censo2024.jpg"/></a></td>
 <td align="left" width=550><em>TrAQ: a novel, versatile, semi-automated two-dimensional motor behavioural tracking software</em><br>
 <font size=2.5>Davide Di Censo</font>, 
 <font size=2.5>Ilaria Rosa</font>, 
@@ -131,7 +131,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Daruwalla2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Daruwalla2024.jpg"/></a></td>
 <td align="left" width=550><em>A 3Dwhole-face movement analysis system to uncover underlying physiology in mice</em><br>
 <font size=2.5>Kyle Daruwalla</font>, 
 <font size=2.5>Irene Nozal Martin</font>, 
@@ -145,7 +145,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Rose2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Rose2024.jpg"/></a></td>
 <td align="left" width=550><em>Deep Imputation for Skeleton Data (DISK) for  Behavioral Science</em><br>
 <font size=2.5>France Rose</font>, 
 <font size=2.5>Monika Michaluk</font>, 
@@ -162,7 +162,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/franch2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/franch2024.jpg"/></a></td>
 <td align="left" width=550><em>Visuo-frontal interactions during social learning in freely moving macaques</em><br>
 <font size=2.5>M. Franch</font>, 
 <font size=2.5>S. Yellapantula</font>, 
@@ -177,7 +177,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/testard2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/testard2024.jpg"/></a></td>
 <td align="left" width=550><em>Neural signatures of natural behaviour in socializing macaques</em><br>
 <font size=2.5>Camille Testard</font>, 
 <font size=2.5>Sébastien Tremblay</font>, 
@@ -193,7 +193,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/marmopose.jpg"/></a></td>
+<a href="none"><img src="teasers_small/marmopose.jpg"/></a></td>
 <td align="left" width=550><em>MarmoPose: A Deep Learning-Based System for Real-time Multi-Marmoset 3D Pose Tracking</em><br>
 <font size=2.5>Chaoqun Cheng</font>, 
 <font size=2.5>Zijian Huang</font>, 
@@ -208,7 +208,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/evo-biomech/replicAnt"><img src="teasers/Plum2023.jpg"/></a></td>
+<a href="https://github.com/evo-biomech/replicAnt"><img src="teasers_small/Plum2023.jpg"/></a></td>
 <td align="left" width=550><em>replicAnt: a pipeline for generating annotated images of animals in complex environments using Unreal Engine</em><br>
 <font size=2.5>Fabian Plum</font>, 
 <font size=2.5>René Bulla</font>, 
@@ -222,7 +222,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Tsang2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Tsang2024.jpg"/></a></td>
 <td align="left" width=550><em>Investigating the use of odour and colour foraging cues by rosy-faced lovebirds (Agapornis roseicollis) using deep-learning based behavioural analysis</em><br>
 <font size=2.5>Winson King Wai Tsang</font>, 
 <font size=2.5>Emily Shui Kei Poon</font>, 
@@ -235,7 +235,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Xing2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Xing2024.jpg"/></a></td>
 <td align="left" width=550><em>Automated 3D analysis of social head-gaze behaviors in freely moving marmosets</em><br>
 <font size=2.5>Feng Xing</font>, 
 <font size=2.5>Alec G. Sheffield</font>, 
@@ -248,7 +248,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/YttriLab/A-SOID"><img src="teasers/Schweihoff2022.jpg"/></a></td>
+<a href="https://github.com/YttriLab/A-SOID"><img src="teasers_small/Schweihoff2022.jpg"/></a></td>
 <td align="left" width=550><em>A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior</em><br>
 <font size=2.5>Jens F. Tillmann</font>, 
 <font size=2.5>Alexander I. Hsu</font>, 
@@ -261,7 +261,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Tang2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Tang2024.jpg"/></a></td>
 <td align="left" width=550><em>Anti-drift pose tracker (ADPT): A transformer-based network for robust animal pose estimation cross-species</em><br>
 <font size=2.5>Guoling Tang</font>, 
 <font size=2.5>Yaning Han</font>, 
@@ -273,7 +273,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Azechi2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Azechi2024.jpg"/></a></td>
 <td align="left" width=550><em>vmTracking: Virtual Markers Overcome Occlusion and Crowding in Multi-Animal Pose Tracking</em><br>
 <font size=2.5>Hirotsugu Azechi</font>, 
 <font size=2.5>Susumu Takahashi</font><br>
@@ -283,7 +283,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Chen2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Chen2024.jpg"/></a></td>
 <td align="left" width=550><em>ARBUR, a machine learning-based analysis system for relating behaviors and ultrasonic vocalizations of rats</em><br>
 <font size=2.5>Zhe Chen</font>, 
 <font size=2.5>Guanglu Jia</font>, 
@@ -300,7 +300,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Muramatsu2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Muramatsu2024.jpg"/></a></td>
 <td align="left" width=550><em>WILDPOSE: A LONG-RANGE 3D WILDLIFE MOTION CAPTURE SYSTEM</em><br>
 <font size=2.5>Naoya Muramatsu</font>, 
 <font size=2.5>Sangyun Shin</font>, 
@@ -313,7 +313,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://anonymous.4open.science/r/2489/README.md"><img src="teasers/Ogawa2024.jpg"/></a></td>
+<a href="https://anonymous.4open.science/r/2489/README.md"><img src="teasers_small/Ogawa2024.jpg"/></a></td>
 <td align="left" width=550><em>Combining Unity with machine vision to create low latency, flexible, and simple virtual realities</em><br>
 <font size=2.5>Yuri Ogawa</font>, 
 <font size=2.5>Raymond Aoukar</font>, 
@@ -332,7 +332,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Martini2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Martini2024.jpg"/></a></td>
 <td align="left" width=550><em>MacAction: Realistic 3D macaque body animation based on multi-camera markerless motion capture</em><br>
 <font size=2.5>Lucas M. Martini</font>, 
 <font size=2.5>Anna Bogn´ar</font>, 
@@ -344,7 +344,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Kaul2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Kaul2024.jpg"/></a></td>
 <td align="left" width=550><em>DAMM for the detection and tracking of multiple animals within complex social and environmental settings</em><br>
 <font size=2.5>Gaurav Kaul</font>, 
 <font size=2.5>Jonathan McDevitt</font>, 
@@ -356,7 +356,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Vogg2024.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Vogg2024.jpg"/></a></td>
 <td align="left" width=550><em>Computer Vision for Primate Behavior Analysis in the Wild</em><br>
 <font size=2.5>Richard Vogg</font>, 
 <font size=2.5>Timo Luddecke</font>, 
@@ -381,7 +381,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers/brookes2024.jpg"/></a></td>
+<a href="https://obrookes.github.io/panaf.github.io/"><img src="teasers_small/brookes2024.jpg"/></a></td>
 <td align="left" width=550><em>PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition</em><br>
 <font size=2.5>Otto Brookes et.al.</font><br>
 <font size=2.5>In IJCV 2024 </font><br>
@@ -391,7 +391,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Han2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Han2023.jpg"/></a></td>
 <td align="left" width=550><em>Multi-animal 3D social pose estimation, identification and behaviour embedding with a few-shot learning framework</em><br>
 <a href="https://loop.frontiersin.org/people/2018185/overview"><font size=2.5>Yaning Han</font></a>, 
 <font size=2.5>Ke Chen</font>, 
@@ -418,7 +418,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/MouseLand/rastermap"><img src="teasers/Syeda2023.jpg"/></a></td>
+<a href="https://github.com/MouseLand/rastermap"><img src="teasers_small/Syeda2023.jpg"/></a></td>
 <td align="left" width=550><em>Facemap: a framework for modeling neural activity based on orofacial tracking</em><br>
 <font size=2.5>Atika Syeda</font>, 
 <font size=2.5>Lin Zhong</font>, 
@@ -433,7 +433,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/An2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/An2023.jpg"/></a></td>
 <td align="left" width=550><em>Three-dimensional surface motion capture of multiple freely moving pigs using MAMMAL</em><br>
 <a href="http://anl13.github.io/"><font size=2.5>Liang An</font></a>, 
 <font size=2.5>Jilong Ren</font>, 
@@ -447,7 +447,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Hayakawa2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Hayakawa2023.jpg"/></a></td>
 <td align="left" width=550><em>DeepLabCut-based Behavioural and Posture Analysis in a Cricket</em><br>
 <font size=2.5>Shota Hayakawa</font>, 
 <font size=2.5>Kosuke Kataoka</font>, 
@@ -460,7 +460,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Mitelut2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Mitelut2023.jpg"/></a></td>
 <td align="left" width=550><em>Distinct developmental trajectories of autonomous behaviors and agency in rodents</em><br>
 <font size=2.5>C Mitelut</font>, 
 <font size=2.5>M Diez Castro</font>, 
@@ -476,7 +476,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Yang2023-2.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Yang2023-2.jpg"/></a></td>
 <td align="left" width=550><em>BARN: Behavior-Aware Relation Network for multi-label behavior detection in socially housed macaques</em><br>
 <font size=2.5>Sen Yang</font>, 
 <font size=2.5>Zhi-Yuan Chen</font>, 
@@ -492,7 +492,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Haalck2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Haalck2023.jpg"/></a></td>
 <td align="left" width=550><em>CATER: Combined Animal Tracking & Environment Reconstruction</em><br>
 <font size=2.5>Lars Haalck</font>, 
 <font size=2.5>Michael Mangan</font>, 
@@ -506,7 +506,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Nagy2023-2.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Nagy2023-2.jpg"/></a></td>
 <td align="left" width=550><em>SMART-BARN: Scalable multimodal arena for real-time tracking behavior of animals in large numbers</em><br>
 <font size=2.5>Máté Nagy</font>, 
 <font size=2.5>Hemal Naik</font>, 
@@ -521,7 +521,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Voloh2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Voloh2021.jpg"/></a></td>
 <td align="left" width=550><em>Hierarchical organization of rhesus macaque behavior</em><br>
 <font size=2.5>Benjamin Voloh</font>, 
 <font size=2.5>Benjamin R. Eisenreich</font>, 
@@ -536,7 +536,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Luxem2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Luxem2023.jpg"/></a></td>
 <td align="left" width=550><em>Open-source tools for behavioral video analysis: Setup, methods, and best practices</em><br>
 <font size=2.5>Kevin Luxem</font>, 
 <font size=2.5>Jennifer J Sun</font>, 
@@ -552,7 +552,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Luo2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Luo2023.jpg"/></a></td>
 <td align="left" width=550><em>Automated measurement of livestock body based on pose normalisation using statistical shape model</em><br>
 <font size=2.5>Xinying Luo</font>, 
 <font size=2.5>Yihu Hu</font>, 
@@ -565,7 +565,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Kaneko2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Kaneko2023.jpg"/></a></td>
 <td align="left" width=550><em>Establishing an AI-based evaluation system that quantifies social/pathophysiological behaviors of common marmosets</em><br>
 <font size=2.5>Takaaki Kaneko</font>, 
 <font size=2.5>Jumpei Matsumoto</font>, 
@@ -588,7 +588,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Nagy2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Nagy2023.jpg"/></a></td>
 <td align="left" width=550><em>Long-term tracking of social structure in groups of rats</em><br>
 <font size=2.5>M´at´e Nagy</font>, 
 <font size=2.5>Jacob D. Davidson</font>, 
@@ -603,7 +603,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://zenodo.org/record/8013401"><img src="teasers/Bordes2023.jpg"/></a></td>
+<a href="https://zenodo.org/record/8013401"><img src="teasers_small/Bordes2023.jpg"/></a></td>
 <td align="left" width=550><em>Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress</em><br>
 <font size=2.5>Joeri Bordes</font>, 
 <font size=2.5>Lucas Miranda</font>, 
@@ -628,7 +628,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://lote-animal.github.io/"><img src="teasers/Liu2023.jpg"/></a></td>
+<a href="https://lote-animal.github.io/"><img src="teasers_small/Liu2023.jpg"/></a></td>
 <td align="left" width=550><em>LoTE-Animal: A Long Time-span Dataset for Endangered Animal Behavior Understanding</em><br>
 <font size=2.5>Dan Liu</font>, 
 <font size=2.5>Jin Hou</font>, 
@@ -645,7 +645,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Bogna2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Bogna2023.jpg"/></a></td>
 <td align="left" width=550><em>Stimulatory effect of monoacylglycerol lipase inhibitor MJN110 on locomotion and step kinematics demonstrated by high-precision 3D motion capture in mice</em><br>
 <font size=2.5>Bogna M. Ignatowska-Jankowska</font>, 
 <font size=2.5>Aysen Gurkan Ozer</font>, 
@@ -660,7 +660,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Chen2023-1.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Chen2023-1.jpg"/></a></td>
 <td align="left" width=550><em>NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila</em><br>
 <font size=2.5>Sibo Wang-Chen</font>, 
 <font size=2.5>Victor Alfred Stimpfling</font>, 
@@ -674,7 +674,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/John2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/John2023.jpg"/></a></td>
 <td align="left" width=550><em>Simultaneous recording of ultrasonic vocalizations and sniffing from socially interacting individual rats using a miniature microphone</em><br>
 <font size=2.5>Shanah Rachel John</font>, 
 <font size=2.5>Rishika Tiwari</font>, 
@@ -689,7 +689,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Lapp2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Lapp2023.jpg"/></a></td>
 <td align="left" width=550><em>Automated Maternal Behavior during Early life in Rodents (AMBER) pipeline</em><br>
 <font size=2.5>Hannah E. Lapp</font>, 
 <font size=2.5>Melissa G. Salazar</font>, 
@@ -700,7 +700,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Matsumoto2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Matsumoto2023.jpg"/></a></td>
 <td align="left" width=550><em>Three-dimensional markerless motion capture of multiple freely behaving monkeys for automated characterization of social behavior</em><br>
 <font size=2.5>Jumpei Matsumoto</font>, 
 <font size=2.5>Takaaki Kaneko</font>, 
@@ -723,7 +723,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://google.github.io/mouse-pose-analysis-dataset/"><img src="teasers/Hu2023.jpg"/></a></td>
+<a href="https://google.github.io/mouse-pose-analysis-dataset/"><img src="teasers_small/Hu2023.jpg"/></a></td>
 <td align="left" width=550><em>3D mouse pose from single‑view video and a new dataset</em><br>
 <font size=2.5>Bo Hu</font>, 
 <font size=2.5>Bryan Seybold</font>, 
@@ -751,7 +751,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://xujiacong.github.io/Animal3D/"><img src="teasers/Xu2023.jpg"/></a></td>
+<a href="https://xujiacong.github.io/Animal3D/"><img src="teasers_small/Xu2023.jpg"/></a></td>
 <td align="left" width=550><em>Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape</em><br>
 <a href="https://xujiacong.github.io/"><font size=2.5>Jiacong Xu</font></a>, 
 <font size=2.5>Yi Zhang</font>, 
@@ -780,7 +780,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://gengshan-y.github.io/ppr/"><img src="teasers/Yang2023.jpg"/></a></td>
+<a href="https://gengshan-y.github.io/ppr/"><img src="teasers_small/Yang2023.jpg"/></a></td>
 <td align="left" width=550><em>PPR: Physically Plausible Reconstruction from Monocular Videos</em><br>
 <font size=2.5>Gengshan Yang</font>, 
 <font size=2.5>Shuo Yang</font>, 
@@ -794,7 +794,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/AdaptiveMotorControlLab/AmadeusGPT"><img src="teasers/Ye2023-2.jpg"/></a></td>
+<a href="https://github.com/AdaptiveMotorControlLab/AmadeusGPT"><img src="teasers_small/Ye2023-2.jpg"/></a></td>
 <td align="left" width=550><em>AmadeusGPT: a natural language interface for interactive animal behavioral analysis</em><br>
 <a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
 <font size=2.5>Jessy Lauer</font>, 
@@ -808,7 +808,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://chhankyao.github.io/artic3d/"><img src="teasers/Yao2023.jpg"/></a></td>
+<a href="https://chhankyao.github.io/artic3d/"><img src="teasers_small/Yao2023.jpg"/></a></td>
 <td align="left" width=550><em>ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections</em><br>
 <font size=2.5>Chun-Han Yao</font>, 
 <font size=2.5>Amit Raj</font>, 
@@ -824,7 +824,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/bartulem/KISN-PyLab"><img src="teasers/Mimica2023.jpg"/></a></td>
+<a href="https://github.com/bartulem/KISN-PyLab"><img src="teasers_small/Mimica2023.jpg"/></a></td>
 <td align="left" width=550><em>Behavioral decomposition reveals rich encoding structure employed across neocortex in rats</em><br>
 <font size=2.5>Bartul Mimica</font>, 
 <font size=2.5>Tuçe Tombaz</font>, 
@@ -839,7 +839,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset"><img src="teasers/Sun2022.jpg"/></a></td>
+<a href="https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset"><img src="teasers_small/Sun2022.jpg"/></a></td>
 <td align="left" width=550><em>MABe22: A Multi-Species Multi-Task Benchmark for Learned Representations of Behavior</em><br>
 <font size=2.5>Jennifer J. Sun</font>, 
 <font size=2.5>Markus Marks</font>, 
@@ -871,7 +871,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/alexhang212/dataset-3dpop"><img src="teasers/Naik2023.jpg"/></a></td>
+<a href="https://github.com/alexhang212/dataset-3dpop"><img src="teasers_small/Naik2023.jpg"/></a></td>
 <td align="left" width=550><em>3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture</em><br>
 <font size=2.5>Hemal Naik</font>, 
 <font size=2.5>Alex Hoi Hang Chan</font>, 
@@ -887,7 +887,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ye2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Ye2023.jpg"/></a></td>
 <td align="left" width=550><em>SuperAnimal models pretrained for plug-and-play analysis of animal behavior</em><br>
 <a href="https://yeshaokai.github.io/"><font size=2.5>Shaokai Ye</font></a>, 
 <font size=2.5>Anastasiia Filippova</font>, 
@@ -903,7 +903,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://www.tech4animals.org/catflw"><img src="teasers/Martvel2023.jpg"/></a></td>
+<a href="https://www.tech4animals.org/catflw"><img src="teasers_small/Martvel2023.jpg"/></a></td>
 <td align="left" width=550><em>CatFLW: Cat Facial Landmarks in the Wild Dataset</em><br>
 <font size=2.5>George Martvel</font>, 
 <font size=2.5>Nareed Farhat</font>, 
@@ -916,7 +916,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Li2023-2.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Li2023-2.jpg"/></a></td>
 <td align="left" width=550><em>Decompose to Generalize: Species-Generalized Animal Pose Estimation</em><br>
 <font size=2.5>Guangrui Li</font>, 
 <font size=2.5>Yifan Sun</font>, 
@@ -928,7 +928,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://mammal-net.github.io/#:~:text=We%20propose%20MammalNet%2C%20a%20large-scale%20video%20benchmark%20for,12%20common%20high-level%20mammal%20behaviors%20%28e.g.%2C%20hunt%2C%20groom%29."><img src="teasers/Chen2023.jpg"/></a></td>
+<a href="https://mammal-net.github.io/#:~:text=We%20propose%20MammalNet%2C%20a%20large-scale%20video%20benchmark%20for,12%20common%20high-level%20mammal%20behaviors%20%28e.g.%2C%20hunt%2C%20groom%29."><img src="teasers_small/Chen2023.jpg"/></a></td>
 <td align="left" width=550><em>MammalNet: A Large-scale Video Benchmark for Mammal Recognition and Behavior Understanding</em><br>
 <a href="https://junchen14.github.io/"><font size=2.5>Jun Chen</font></a>, 
 <a href="https://minghu0830.github.io/"><font size=2.5>Ming Hu</font></a>, 
@@ -945,7 +945,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://bite.is.tue.mpg.de/"><img src="teasers/Ruegg2023.jpg"/></a></td>
+<a href="https://bite.is.tue.mpg.de/"><img src="teasers_small/Ruegg2023.jpg"/></a></td>
 <td align="left" width=550><em>BITE: Beyond Priors for Improved Three-D Dog Pose Estimation</em><br>
 <font size=2.5>Nadine Rüegg</font>, 
 <font size=2.5>Shashank Tripathi</font>, 
@@ -959,7 +959,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://3dmagicpony.github.io/"><img src="teasers/Wu2022.jpg"/></a></td>
+<a href="https://3dmagicpony.github.io/"><img src="teasers_small/Wu2022.jpg"/></a></td>
 <td align="left" width=550><em>MagicPony: Learning Articulated 3D Animals in the Wild</em><br>
 <a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
 <a href="https://ruiningli.com/"><font size=2.5>Ruining Li</font></a>, 
@@ -973,7 +973,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Zhang2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Zhang2023.jpg"/></a></td>
 <td align="left" width=550><em>CLAMP: Prompt-based Contrastive Learning for Connecting Language and Animal Pose</em><br>
 <font size=2.5>Xu Zhang</font>, 
 <font size=2.5>Wen Wang</font>, 
@@ -987,7 +987,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ilett2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Ilett2023.jpg"/></a></td>
 <td align="left" width=550><em>3D shape reconstruction of semi-transparent worms</em><br>
 <font size=2.5>Thomas P. Ilett</font>, 
 <font size=2.5>Omer Yuval</font>, 
@@ -1000,7 +1000,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Dutta2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Dutta2023.jpg"/></a></td>
 <td align="left" width=550><em>A robust and flexible deep-learning workflow for animal tracking</em><br>
 <a href="https://www.robots.ox.ac.uk/~adutta/"><font size=2.5>Abhishek Dutta</font></a>, 
 <a href="https://www.biology.ox.ac.uk/people/natalia-perez-campanero-antolin"><font size=2.5>Natalia Pérez-Campanero</font></a>, 
@@ -1013,7 +1013,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Kohno2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Kohno2023.jpg"/></a></td>
 <td align="left" width=550><em>Analysis of antennal responses to motion stimuli in the honey bee by automated tracking using DeepLabCut</em><br>
 <font size=2.5>Hiroki Kohno</font>, 
 <font size=2.5>Shuichi Kamata</font>, 
@@ -1024,7 +1024,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://statho.github.io/projects/animals3d/index.html"><img src="teasers/Stathopoulos2023.jpg"/></a></td>
+<a href="https://statho.github.io/projects/animals3d/index.html"><img src="teasers_small/Stathopoulos2023.jpg"/></a></td>
 <td align="left" width=550><em>Learning Articulated Shape with Keypoint Pseudo-labels from Web Images</em><br>
 <a href="https://statho.github.io/"><font size=2.5>Anastasis Stathopoulos</font></a>, 
 <a href="https://geopavlakos.github.io/"><font size=2.5>Georgios Pavlakos</font></a>, 
@@ -1037,7 +1037,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://farm3d.github.io/"><img src="teasers/Jakab2023.jpg"/></a></td>
+<a href="https://farm3d.github.io/"><img src="teasers_small/Jakab2023.jpg"/></a></td>
 <td align="left" width=550><em>Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion</em><br>
 <a href="https://www.robots.ox.ac.uk/~tomj/"><font size=2.5>Tomas Jakab</font></a>, 
 <a href="https://ruiningli.com/"><font size=2.5>Ruining Li</font></a>, 
@@ -1051,7 +1051,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://gigazoom.rc.duke.edu/"><img src="teasers/Zhou2023.jpg"/></a></td>
+<a href="https://gigazoom.rc.duke.edu/"><img src="teasers_small/Zhou2023.jpg"/></a></td>
 <td align="left" width=550><em>Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second</em><br>
 <font size=2.5>Kevin C. Zhou</font>, 
 <font size=2.5>Mark Harfouche</font>, 
@@ -1080,7 +1080,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Zhu2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Zhu2023.jpg"/></a></td>
 <td align="left" width=550><em>Scalable Apparatus to Measure Posture and Locomotion (SAMPL): a high-throughput solution to study unconstrained vertical behavior in small animals</em><br>
 <font size=2.5>Yunlu Zhu</font>, 
 <font size=2.5>Franziska Auer</font>, 
@@ -1098,7 +1098,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Li2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Li2023.jpg"/></a></td>
 <td align="left" width=550><em>ScarceNet: Animal Pose Estimation with Scarce Annotations</em><br>
 <font size=2.5>Chen Li</font>, 
 <a href="https://www.comp.nus.edu.sg/~leegh/"><font size=2.5>Gim Hee Lee</font></a><br>
@@ -1108,7 +1108,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/Asad127/3D-RECONSTRUCTION-USING-SINGLE-CAMERA-AND-MIRROR-SETUP"><img src="teasers/Hussain2023.jpg"/></a></td>
+<a href="https://github.com/Asad127/3D-RECONSTRUCTION-USING-SINGLE-CAMERA-AND-MIRROR-SETUP"><img src="teasers_small/Hussain2023.jpg"/></a></td>
 <td align="left" width=550><em>Lights, Camera, Mirrors, Action! Toolbox for 3D Analysis of High-rate Maneuvers Using a Single Camera and Planar Mirrors</em><br>
 <font size=2.5>Wajahat Hussain</font>, 
 <font size=2.5>Mahum Naveed</font>, 
@@ -1124,7 +1124,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Mimura2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Mimura2023.jpg"/></a></td>
 <td align="left" width=550><em>Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs</em><br>
 <font size=2.5>Koki Mimura</font>, 
 <font size=2.5>Jumpei Matsumoto</font>, 
@@ -1139,7 +1139,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Bohnslav2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Bohnslav2023.jpg"/></a></td>
 <td align="left" width=550><em>ArMo: An Articulated Mesh Approach for Mouse 3D Reconstruction</em><br>
 <font size=2.5>James P. Bohnslav</font>, 
 <font size=2.5>Mohammed Abdal Monium Osman</font>, 
@@ -1154,7 +1154,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Papaspyros2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Papaspyros2023.jpg"/></a></td>
 <td align="left" width=550><em>Predicting long-term collective animal behavior with deep learning</em><br>
 <font size=2.5>Vaios Papaspyros</font>, 
 <font size=2.5>Ram´on Escobedo</font>, 
@@ -1168,7 +1168,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/Aghileh/UPPER"><img src="teasers/Ebrahimi2023.jpg"/></a></td>
+<a href="https://github.com/Aghileh/UPPER"><img src="teasers_small/Ebrahimi2023.jpg"/></a></td>
 <td align="left" width=550><em>Three‑dimensional unsupervised probabilistic pose reconstruction (3D‑UPPER) for freely moving animals</em><br>
 <font size=2.5>Aghileh S. Ebrahimi</font>, 
 <font size=2.5>Patrycja Orlowska‑Feuer</font>, 
@@ -1184,7 +1184,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Panadeiro2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Panadeiro2021.jpg"/></a></td>
 <td align="left" width=550><em>A review of 28 free animal-tracking software applications: current features and limitations</em><br>
 <font size=2.5>Veronica Panadeiro</font>, 
 <font size=2.5>Alvaro Rodriguez</font>, 
@@ -1197,7 +1197,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/KumarLabJax/JABS-data-pipeline/tree/main"><img src="teasers/Beane2023.jpg"/></a></td>
+<a href="https://github.com/KumarLabJax/JABS-data-pipeline/tree/main"><img src="teasers_small/Beane2023.jpg"/></a></td>
 <td align="left" width=550><em>JAX Animal Behavior System (JABS): A video-based phenotyping platform for the laboratory mouse</em><br>
 <font size=2.5>Glen Beane</font>, 
 <font size=2.5>Brian Q. Geuther</font>, 
@@ -1214,7 +1214,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Hernandez2023.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Hernandez2023.jpg"/></a></td>
 <td align="left" width=550><em>An 8-cage imaging system for automated analyses of mouse behavior</em><br>
 <font size=2.5>Thaís Del Rosario Hernández</font>, 
 <font size=2.5>Narendra R. Joshi</font>, 
@@ -1227,7 +1227,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="teasers/Koger2022.jpg"/></a></td>
+<a href="https://github.com/benkoger/overhead-video-worked-examples"><img src="teasers_small/Koger2022.jpg"/></a></td>
 <td align="left" width=550><em>Quantifying the movement, behavior, and environmental context of group-living animals using drones and computer vision</em><br>
 <font size=2.5>Benjamin Koger</font>, 
 <font size=2.5>Adwait Deshpande</font>, 
@@ -1242,7 +1242,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Sheppard2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Sheppard2020.jpg"/></a></td>
 <td align="left" width=550><em>Gait-level analysis of mouse open field behavior using deep learning-based pose estimation</em><br>
 <font size=2.5>Keith Sheppard</font>, 
 <font size=2.5>Justin Gardin</font>, 
@@ -1259,7 +1259,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Bozek2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Bozek2021.jpg"/></a></td>
 <td align="left" width=550><em>Markerless tracking of an entire honey bee colony</em><br>
 <font size=2.5>Katarzyna Bozek</font>, 
 <font size=2.5>Laetitia Hebert</font>, 
@@ -1272,7 +1272,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ahamed2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Ahamed2020.jpg"/></a></td>
 <td align="left" width=550><em>Capturing the continuous complexity of behaviour in Caenorhabditis elegans</em><br>
 <font size=2.5>Tosif Ahamed</font>, 
 <font size=2.5>Antonio C. Costa</font>, 
@@ -1283,7 +1283,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Zhou2022-1.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Zhou2022-1.jpg"/></a></td>
 <td align="left" width=550><em>ConstrastivePose: A contrastive learning approach for self-supervised feature engineering for pose estimation and behavorial classification of interacting animals</em><br>
 <font size=2.5>Tianxun Zhou</font>, 
 <font size=2.5>Calvin Chee Hoe Cheah</font>, 
@@ -1298,7 +1298,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Sinha2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Sinha2022.jpg"/></a></td>
 <td align="left" width=550><em>Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories</em><br>
 <a href="https://www.samsinha.me/"><font size=2.5>Samarth Sinha</font></a>, 
 <font size=2.5>Roman Shapovalov</font>, 
@@ -1313,7 +1313,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://bsoid.org/"><img src="teasers/Hsu2022.jpg"/></a></td>
+<a href="https://bsoid.org/"><img src="teasers_small/Hsu2022.jpg"/></a></td>
 <td align="left" width=550><em>B-SOiD, an open-source unsupervised algorithm for identification and fast prediction of behaviors</em><br>
 <font size=2.5>Alexander I. Hsu</font>, 
 <a href="https://www.cmu.edu/bio/people/faculty/yttri.html"><font size=2.5>Eric A. Yttri</font></a><br>
@@ -1324,7 +1324,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/bbo-lab/ACM"><img src="teasers/Monsees2022.jpg"/></a></td>
+<a href="https://github.com/bbo-lab/ACM"><img src="teasers_small/Monsees2022.jpg"/></a></td>
 <td align="left" width=550><em>Estimation of skeletal kinematics in freely moving rodents</em><br>
 <font size=2.5>Arne Monsees</font>, 
 <font size=2.5>Kay-Michael Voit</font>, 
@@ -1341,7 +1341,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/shlizee/OpenLabCluster"><img src="teasers/Li2022-2.jpg"/></a></td>
+<a href="https://github.com/shlizee/OpenLabCluster"><img src="teasers_small/Li2022-2.jpg"/></a></td>
 <td align="left" width=550><em>OpenLabCluster: Active Learning Based Clustering and Classification of Animal Behaviors in Videos Based on Automatically Extracted Kinematic Body Keypoints</em><br>
 <font size=2.5>Jingyuan Li</font>, 
 <font size=2.5>Moishe Keselman</font>, 
@@ -1353,7 +1353,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://chhankyao.github.io/lassie/"><img src="teasers/Yao2022.jpg"/></a></td>
+<a href="https://chhankyao.github.io/lassie/"><img src="teasers_small/Yao2022.jpg"/></a></td>
 <td align="left" width=550><em>LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery</em><br>
 <a href="https://www.chhankyao.com/"><font size=2.5>Chun-Han Yao</font></a>, 
 <font size=2.5>Wei-Chih Hung</font>, 
@@ -1368,7 +1368,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Kim2022-2.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Kim2022-2.jpg"/></a></td>
 <td align="left" width=550><em>Evaluation of mouse behavioral responses to nutritive versus nonnutritive sugar using a deep learning-based 3D real-time pose estimation system</em><br>
 <font size=2.5>Jineun Kim</font>, 
 <font size=2.5>Dae-gun Kim</font>, 
@@ -1380,7 +1380,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Yurimoto2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Yurimoto2022.jpg"/></a></td>
 <td align="left" width=550><em>Development of a new 3D tracking system for multiple marmosets under free-moving conditions</em><br>
 <font size=2.5>Terumi Yurimoto</font>, 
 <font size=2.5>Wakako Kumita</font>, 
@@ -1403,7 +1403,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/umyelab/LabGym"><img src="teasers/Hu2022.jpg"/></a></td>
+<a href="https://github.com/umyelab/LabGym"><img src="teasers_small/Hu2022.jpg"/></a></td>
 <td align="left" width=550><em>LabGym: quantification of user-defined animal behaviors using learning-based holistic assessment</em><br>
 <font size=2.5>Yujia Hu</font>, 
 <font size=2.5>Carrie R. Ferrario</font>, 
@@ -1423,7 +1423,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/DeNardoLab/BehaviorDEPOT"><img src="teasers/Gabriel2022.jpg"/></a></td>
+<a href="https://github.com/DeNardoLab/BehaviorDEPOT"><img src="teasers_small/Gabriel2022.jpg"/></a></td>
 <td align="left" width=550><em>BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking</em><br>
 <font size=2.5>Christopher J Gabriel</font>, 
 <font size=2.5>Zachary Zeidler</font>, 
@@ -1446,7 +1446,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Zhou2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Zhou2022.jpg"/></a></td>
 <td align="left" width=550><em>Cross-Skeleton Interaction Graph Aggregation Network for Representation Learning of Mouse Social Behaviour</em><br>
 <font size=2.5>Feixiang Zhou</font>, 
 <font size=2.5>Xinyu Yang</font>, 
@@ -1464,7 +1464,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Jiang2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Jiang2022.jpg"/></a></td>
 <td align="left" width=550><em>Animal pose estimation: A closer look at the state-of-the-art, existing gaps and opportunities</em><br>
 <font size=2.5>Le Jiang</font>, 
 <font size=2.5>Caleb Lee</font>, 
@@ -1476,7 +1476,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/lmb-freiburg/FreiPose-docker"><img src="teasers/Schneider2022.jpg"/></a></td>
+<a href="https://github.com/lmb-freiburg/FreiPose-docker"><img src="teasers_small/Schneider2022.jpg"/></a></td>
 <td align="left" width=550><em>3D pose estimation enables virtual head fixation in freely moving rats</em><br>
 <font size=2.5>Artur Schneider</font>, 
 <font size=2.5>Christian Zimmermann</font>, 
@@ -1491,7 +1491,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Miller2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Miller2022.jpg"/></a></td>
 <td align="left" width=550><em>Natural behavior is the language of the brain</em><br>
 <font size=2.5>Cory T. Miller</font>, 
 <font size=2.5>David Gire</font>, 
@@ -1509,7 +1509,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://edspace.american.edu/openbehavior/project/sipec/"><img src="teasers/Marks2022.jpg"/></a></td>
+<a href="https://edspace.american.edu/openbehavior/project/sipec/"><img src="teasers_small/Marks2022.jpg"/></a></td>
 <td align="left" width=550><em>Deep-learning based identification, tracking, pose estimation, and behavior classification of interacting primates and mice in complex environments</em><br>
 <font size=2.5>Markus Marks</font>, 
 <font size=2.5>Jin Qiuhan</font>, 
@@ -1527,7 +1527,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ibanez2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Ibanez2022.jpg"/></a></td>
 <td align="left" width=550><em>EXPLORE: A novel deep learning-based analysis method for exploration behaviour in object recognition tests</em><br>
 <font size=2.5>Victor Iba˜nez</font>, 
 <font size=2.5>Laurens Bohlen</font>, 
@@ -1541,7 +1541,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Walter2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Walter2020.jpg"/></a></td>
 <td align="left" width=550><em>TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction</em><br>
 <a href="https://www.orn.mpg.de/person/45292/409958"><font size=2.5>Tristan Walter</font></a>, 
 <a href="http://collectivebehaviour.com/"><font size=2.5>Iain D Couzin</font></a><br>
@@ -1551,7 +1551,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Brattoli2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Brattoli2021.jpg"/></a></td>
 <td align="left" width=550><em>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</em><br>
 <font size=2.5>Biagio Brattoli</font>, 
 <font size=2.5>Uta Büchler</font>, 
@@ -1567,7 +1567,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Marshall2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Marshall2021.jpg"/></a></td>
 <td align="left" width=550><em>Leaving Flatland: Advances in 3D behavioral measurement</em><br>
 <a href="https://neurotree.org/neurotree/peopleinfo.php?pid=663448"><font size=2.5>Jesse D. Marshall</font></a>, 
 <font size=2.5>Tianqing Li</font>, 
@@ -1579,7 +1579,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/tqxli/dannce-pytorch"><img src="teasers/Li2022-1.jpg"/></a></td>
+<a href="https://github.com/tqxli/dannce-pytorch"><img src="teasers_small/Li2022-1.jpg"/></a></td>
 <td align="left" width=550><em>Improved Markerless 3D Animal Pose Estimation Using Temporal Semi-Supervision</em><br>
 <font size=2.5>Tianqing Li</font>, 
 <font size=2.5>Kyle S. Severson</font>, 
@@ -1592,7 +1592,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ramalingasetty2017.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Ramalingasetty2017.jpg"/></a></td>
 <td align="left" width=550><em>A whole-body musculoskeletal model of the mouse</em><br>
 <font size=2.5>Shravan Tata Ramalingasetty</font>, 
 <font size=2.5>Simon M. Danner</font>, 
@@ -1609,7 +1609,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://demoavataranalysis.ap.ngrok.io/"><img src="teasers/Kim2022.jpg"/></a></td>
+<a href="https://demoavataranalysis.ap.ngrok.io/"><img src="teasers_small/Kim2022.jpg"/></a></td>
 <td align="left" width=550><em>AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time</em><br>
 <font size=2.5>Dae-Gun Kim</font>, 
 <font size=2.5>Anna Shin</font>, 
@@ -1623,7 +1623,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://www.liruilong.cn/projects/tava/"><img src="teasers/Li2022.jpg"/></a></td>
+<a href="https://www.liruilong.cn/projects/tava/"><img src="teasers_small/Li2022.jpg"/></a></td>
 <td align="left" width=550><em>TAVA: Template-free Animatable Volumetric Actors</em><br>
 <a href="https://www.liruilong.cn/"><font size=2.5>Ruilong Li</font></a>, 
 <font size=2.5>Julian Tanke</font>, 
@@ -1639,7 +1639,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/EBGU/Selfee/"><img src="teasers/Jia2022.jpg"/></a></td>
+<a href="https://github.com/EBGU/Selfee/"><img src="teasers_small/Jia2022.jpg"/></a></td>
 <td align="left" width=550><em>Selfee, Self-supervised Features Extraction of animal behaviors</em><br>
 <font size=2.5>Yinjun Jia</font>, 
 <font size=2.5>Shuaishuai Li</font>, 
@@ -1655,7 +1655,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers/Rios2021.jpg"/></a></td>
+<a href="https://nely-epfl.github.io/NeuroMechFly/"><img src="teasers_small/Rios2021.jpg"/></a></td>
 <td align="left" width=550><em>NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster</em><br>
 <font size=2.5>Victor Lobato Rios</font>, 
 <font size=2.5>Pembe Gizem Ozdil</font>, 
@@ -1670,7 +1670,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Blau2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Blau2022.jpg"/></a></td>
 <td align="left" width=550><em>SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework</em><br>
 <font size=2.5>Ari Blau</font>, 
 <font size=2.5>Christoph Gebhardt</font>, 
@@ -1683,7 +1683,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://sutdcv.github.io/Animal-Kingdom/"><img src="teasers/Ng2022.jpg"/></a></td>
+<a href="https://sutdcv.github.io/Animal-Kingdom/"><img src="teasers_small/Ng2022.jpg"/></a></td>
 <td align="left" width=550><em>Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding</em><br>
 <font size=2.5>Xun Long Ng</font>, 
 <font size=2.5>Kian Eng Ong</font>, 
@@ -1698,7 +1698,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://deeplabcut.github.io/DeepLabCut/docs/intro.html?msclkid=94c16acabc5a11ec80efaafc9aaeb28c"><img src="teasers/Lauer2022.jpg"/></a></td>
+<a href="https://deeplabcut.github.io/DeepLabCut/docs/intro.html?msclkid=94c16acabc5a11ec80efaafc9aaeb28c"><img src="teasers_small/Lauer2022.jpg"/></a></td>
 <td align="left" width=550><em>Multi-animal pose estimation, identification and tracking with DeepLabCut</em><br>
 <font size=2.5>Jessy Lauer</font>, 
 <font size=2.5>Mu Zhou</font>, 
@@ -1722,7 +1722,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://sleap.ai/"><img src="teasers/Pereira2022.jpg"/></a></td>
+<a href="https://sleap.ai/"><img src="teasers_small/Pereira2022.jpg"/></a></td>
 <td align="left" width=550><em>SLEAP: A deep learning system for multi-animal pose tracking</em><br>
 <a href="https://biophysics.princeton.edu/people/talmo-pereira"><font size=2.5>Talmo D. Pereira</font></a>, 
 <font size=2.5>Nathaniel Tabris</font>, 
@@ -1752,7 +1752,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://barc.is.tue.mpg.de/"><img src="teasers/Ruegg2022.jpg"/></a></td>
+<a href="https://barc.is.tue.mpg.de/"><img src="teasers_small/Ruegg2022.jpg"/></a></td>
 <td align="left" width=550><em>BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information</em><br>
 <a href="https://ps.is.mpg.de/person/nrueegg"><font size=2.5>Nadine Ruegg</font></a>, 
 <a href="https://ps.is.mpg.de/person/szuffi"><font size=2.5>Silvia Zuffi</font></a>, 
@@ -1765,7 +1765,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Luo2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Luo2022.jpg"/></a></td>
 <td align="left" width=550><em>Artemis: Articulated Neural Pets with Appearance and Motion Synthesis</em><br>
 <font size=2.5>Haimin Luo</font>, 
 <font size=2.5>Teng Xu</font>, 
@@ -1782,7 +1782,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/chrelli/3DDD_social_mouse_tracker/"><img src="teasers/Ebbesen2020.jpg"/></a></td>
+<a href="https://github.com/chrelli/3DDD_social_mouse_tracker/"><img src="teasers_small/Ebbesen2020.jpg"/></a></td>
 <td align="left" width=550><em>Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography</em><br>
 <font size=2.5>Christian L. Ebbesen</font>, 
 <a href="http://froemkelab.med.nyu.edu/people"><font size=2.5>Robert C. Froemke</font></a><br>
@@ -1793,7 +1793,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://banmo-www.github.io/"><img src="teasers/Yang2022.jpg"/></a></td>
+<a href="https://banmo-www.github.io/"><img src="teasers_small/Yang2022.jpg"/></a></td>
 <td align="left" width=550><em>BANMo: Building Animatable 3D Neural Models from Many Casual Videos</em><br>
 <a href="https://gengshan-y.github.io/"><font size=2.5>Gengshan Yang</font></a>, 
 <a href="https://minhpvo.github.io/"><font size=2.5>Minh Vo</font></a>, 
@@ -1808,7 +1808,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Gunel2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Gunel2021.jpg"/></a></td>
 <td align="left" width=550><em>Overcoming the Domain Gap in Neural Action Representations</em><br>
 <font size=2.5>Semih Gunel</font>, 
 <font size=2.5>Florian Aymanns</font>, 
@@ -1821,7 +1821,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Nayak2022.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Nayak2022.jpg"/></a></td>
 <td align="left" width=550><em>Incremental Learning for Animal Pose Estimation using RBF k-DPP</em><br>
 <font size=2.5>Gaurav Kumar Nayak</font>, 
 <a href="https://het-shah.github.io/"><font size=2.5>Het Shah</font></a>, 
@@ -1832,7 +1832,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Jiang2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Jiang2020.jpg"/></a></td>
 <td align="left" width=550><em>Muti-view Mouse Social Behaviour Recognition with Deep Graphic Model</em><br>
 <font size=2.5>Zheheng Jiang</font>, 
 <font size=2.5>Feixiang Zhou</font>, 
@@ -1848,7 +1848,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Han2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Han2021.jpg"/></a></td>
 <td align="left" width=550><em>MouseVenue3D: A Markerless Three-Dimension Behavioral Tracking System for Matching Two-Photon Brain Imaging in Free-Moving Mice</em><br>
 <font size=2.5>Yaning Han</font>, 
 <font size=2.5>Kang Huang</font>, 
@@ -1867,7 +1867,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Straw2010.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Straw2010.jpg"/></a></td>
 <td align="left" width=550><em>Multi-camera real-time threedimensional tracking of multiple flying animals</em><br>
 <a href="https://strawlab.org/"><font size=2.5>Andrew D. Straw</font></a>, 
 <font size=2.5>Kristin Branson</font>, 
@@ -1879,7 +1879,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://neuroethology.github.io/MARS/"><img src="teasers/Segalin2021.jpg"/></a></td>
+<a href="https://neuroethology.github.io/MARS/"><img src="teasers_small/Segalin2021.jpg"/></a></td>
 <td align="left" width=550><em>The Mouse Action Recognition System (MARS) software pipeline for automated analysis of social behaviors in mice</em><br>
 <font size=2.5>Cristina Segalin</font>, 
 <font size=2.5>Jalani Williams</font>, 
@@ -1897,7 +1897,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Sun2021-2.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Sun2021-2.jpg"/></a></td>
 <td align="left" width=550><em>Self-Supervised Keypoint Discovery in Behavioral Videos</em><br>
 <font size=2.5>Jennifer J. Sun</font>, 
 <font size=2.5>Serim Ryou</font>, 
@@ -1914,7 +1914,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="teasers/Sun2021.jpg"/></a></td>
+<a href="https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"><img src="teasers_small/Sun2021.jpg"/></a></td>
 <td align="left" width=550><em>The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions</em><br>
 <font size=2.5>Jennifer J. Sun</font>, 
 <font size=2.5>Tomomi Karigo</font>, 
@@ -1931,7 +1931,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="http://sites.google.com/view/task-programming"><img src="teasers/Sun2021-1.jpg"/></a></td>
+<a href="http://sites.google.com/view/task-programming"><img src="teasers_small/Sun2021-1.jpg"/></a></td>
 <td align="left" width=550><em>Task Programming: Learning Data Efficient Behavior Representations</em><br>
 <font size=2.5>Jennifer J. Sun</font>, 
 <font size=2.5>Ann Kennedy</font>, 
@@ -1946,7 +1946,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Li2021-3.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Li2021-3.jpg"/></a></td>
 <td align="left" width=550><em>Coarse-to-fine Animal Pose and Shape Estimation</em><br>
 <a href="https://chaneyddtt.github.io/"><font size=2.5>Chen Li</font></a>, 
 <a href="https://www.comp.nus.edu.sg/~leegh/"><font size=2.5>Gim Hee Lee</font></a><br>
@@ -1956,7 +1956,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Kim2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Kim2021.jpg"/></a></td>
 <td align="left" width=550><em>Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise</em><br>
 <font size=2.5>Kim Youwang</font>, 
 <font size=2.5>Kim Ji-Yeon</font>, 
@@ -1968,7 +1968,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://anipose.readthedocs.io/en/latest/index.html"><img src="teasers/Karashchuk2021.jpg"/></a></td>
+<a href="https://anipose.readthedocs.io/en/latest/index.html"><img src="teasers_small/Karashchuk2021.jpg"/></a></td>
 <td align="left" width=550><em>Anipose: a toolkit for robust markerless 3D pose estimation</em><br>
 <a href="https://github.com/lambdaloop"><font size=2.5>Pierre Karashchuk</font></a>, 
 <font size=2.5>Katie L. Rupp</font>, 
@@ -1985,7 +1985,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Le2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Le2021.jpg"/></a></td>
 <td align="left" width=550><em>Multimodal-based Scene-Aware Framework for Aquatic Animal Segmentation</em><br>
 <font size=2.5>Minh-Quan Le</font>, 
 <font size=2.5>Trung-Nghia Le</font>, 
@@ -1998,7 +1998,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Fujii2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Fujii2021.jpg"/></a></td>
 <td align="left" width=550><em>Learning interaction rules from multi-animal trajectories via augmented behavioral models</em><br>
 <font size=2.5>Keisuke Fujii</font>, 
 <font size=2.5>Naoya Takeishi</font>, 
@@ -2019,7 +2019,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587"><img src="teasers/Marshall2021-2.jpg"/></a></td>
+<a href="https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587"><img src="teasers_small/Marshall2021-2.jpg"/></a></td>
 <td align="left" width=550><em>The PAIR-R24M Dataset for Multi-animal 3D Pose Estimation</em><br>
 <font size=2.5>Jesse Marshall</font>, 
 <font size=2.5>Ugne Klibaite</font>, 
@@ -2034,7 +2034,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Vidal2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Vidal2021.jpg"/></a></td>
 <td align="left" width=550><em>Across-animal odor decoding by probabilistic manifold alignment</em><br>
 <font size=2.5>Pedro Herrero-Vidal</font>, 
 <font size=2.5>Dmitry Rinberg</font>, 
@@ -2045,7 +2045,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers/Li2021-2.jpg"/></a></td>
+<a href="https://github.com/rabbityl/DeformingThings4D"><img src="teasers_small/Li2021-2.jpg"/></a></td>
 <td align="left" width=550><em>4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface</em><br>
 <font size=2.5>Yang Li</font>, 
 <font size=2.5>Hikari Takehara</font>, 
@@ -2059,7 +2059,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Shapovalov2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Shapovalov2021.jpg"/></a></td>
 <td align="left" width=550><em>DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension</em><br>
 <font size=2.5>Roman Shapovalov</font>, 
 <font size=2.5>David Novotny</font>, 
@@ -2072,7 +2072,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ebbesen2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Ebbesen2021.jpg"/></a></td>
 <td align="left" width=550><em>Body language signals for rodent social communication</em><br>
 <font size=2.5>Christian L. Ebbesen</font>, 
 <a href="https://med.nyu.edu/faculty/robert-c-froemke"><font size=2.5>Robert C. Froemke</font></a><br>
@@ -2082,7 +2082,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Langford2010.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Langford2010.jpg"/></a></td>
 <td align="left" width=550><em>coding of facial expressions of pain in the laboratory mouse</em><br>
 <font size=2.5>Dale J Langford</font>, 
 <font size=2.5>Andrea L Bailey</font>, 
@@ -2109,7 +2109,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/AlexTheBad/AP-10K"><img src="teasers/Yu2021.jpg"/></a></td>
+<a href="https://github.com/AlexTheBad/AP-10K"><img src="teasers_small/Yu2021.jpg"/></a></td>
 <td align="left" width=550><em>AP-10K: A Benchmark for Animal Pose Estimation in the Wild</em><br>
 <font size=2.5>Hang Yu</font>, 
 <font size=2.5>Yufei Xu</font>, 
@@ -2124,7 +2124,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://deepimagej.github.io/deepimagej/"><img src="teasers/Mariscal2021.jpg"/></a></td>
+<a href="https://deepimagej.github.io/deepimagej/"><img src="teasers_small/Mariscal2021.jpg"/></a></td>
 <td align="left" width=550><em>DeepImageJ: A user-friendly environment to run deep learning models in ImageJ</em><br>
 <font size=2.5>Estibaliz Gómez-de-Mariscal</font>, 
 <font size=2.5>Carlos García-López-de-Haro</font>, 
@@ -2141,7 +2141,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://idtrackerai.readthedocs.io/en/latest/"><img src="teasers/Ferrero2019.jpg"/></a></td>
+<a href="https://idtrackerai.readthedocs.io/en/latest/"><img src="teasers_small/Ferrero2019.jpg"/></a></td>
 <td align="left" width=550><em>idtracker.ai: tracking all individuals in small or large collectives of unmarked animals</em><br>
 <a href="https://www.researchgate.net/profile/Francisco_Romero-Ferrero"><font size=2.5>Francisco Romero-Ferrero</font></a>, 
 <font size=2.5>Mattia G. Bergomi</font>, 
@@ -2155,7 +2155,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="http://openmonkeychallenge.com/"><img src="teasers/Yao2021.jpg"/></a></td>
+<a href="http://openmonkeychallenge.com/"><img src="teasers_small/Yao2021.jpg"/></a></td>
 <td align="left" width=550><em>OpenMonkeyChallenge: Dataset and Benchmark Challenges for Pose Tracking of Non-human Primates</em><br>
 <font size=2.5>Yuan Yao</font>, 
 <font size=2.5>Abhiraj Mohan</font>, 
@@ -2174,7 +2174,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Banik2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Banik2021.jpg"/></a></td>
 <td align="left" width=550><em>A Novel Dataset for Keypoint Detection of Quadruped Animals from Images</em><br>
 <font size=2.5>Prianka Banik</font>, 
 <font size=2.5>Lin Li</font>, 
@@ -2185,7 +2185,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Neverova2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Neverova2021.jpg"/></a></td>
 <td align="left" width=550><em>Discovering Relationships between Object Categories via Universal Canonical Maps</em><br>
 <font size=2.5>Natalia Neverova</font>, 
 <font size=2.5>Artsiom Sanakoyeu</font>, 
@@ -2198,7 +2198,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers/Gosztolai2020.jpg"/></a></td>
+<a href="https://github.com/NeLy-EPFL/LiftPose3D"><img src="teasers_small/Gosztolai2020.jpg"/></a></td>
 <td align="left" width=550><em>LiftPose3D, a deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals</em><br>
 <font size=2.5>Adam Gosztolai</font>, 
 <font size=2.5>Semih Gunel</font>, 
@@ -2215,7 +2215,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/spoonsso/DANNCE"><img src="teasers/Dunn2021.jpg"/></a></td>
+<a href="https://github.com/spoonsso/DANNCE"><img src="teasers_small/Dunn2021.jpg"/></a></td>
 <td align="left" width=550><em>Geometric deep learning enables 3D kinematic profiling across species and environments</em><br>
 <font size=2.5>Timothy W. Dunn</font>, 
 <font size=2.5>Jesse D. Marshall</font>, 
@@ -2237,7 +2237,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://yufu-wang.github.io/aves/"><img src="teasers/Wang2021.jpg"/></a></td>
+<a href="https://yufu-wang.github.io/aves/"><img src="teasers_small/Wang2021.jpg"/></a></td>
 <td align="left" width=550><em>Birds of a Feather: Capturing Avian Shape Models from Images</em><br>
 <a href="https://yufu-wang.github.io/"><font size=2.5>Yufu Wang</font></a>, 
 <a href="https://www.seas.upenn.edu/~nkolot/"><font size=2.5>Nikos Kolotouros</font></a>, 
@@ -2250,7 +2250,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Corcoran2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Corcoran2021.jpg"/></a></td>
 <td align="left" width=550><em>ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking</em><br>
 <font size=2.5>Aaron J. Corcoran</font>, 
 <font size=2.5>Michael R. Schirmacher</font>, 
@@ -2262,7 +2262,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://behavioratlas.tech/"><img src="teasers/Huang2020.jpg"/></a></td>
+<a href="https://behavioratlas.tech/"><img src="teasers_small/Huang2020.jpg"/></a></td>
 <td align="left" width=550><em>A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping</em><br>
 <font size=2.5>Kang Huang</font>, 
 <font size=2.5>Yaning Han</font>, 
@@ -2280,7 +2280,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Ziegler2021.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Ziegler2021.jpg"/></a></td>
 <td align="left" width=550><em>Big behavior: challenges and opportunities in a new era of deep behavior profiling</em><br>
 <font size=2.5>Lukas von Ziegler</font>, 
 <font size=2.5>Oliver Sturman</font>, 
@@ -2291,7 +2291,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/ubcbraincircuits/mCBF"><img src="teasers/Bolanos2021.jpg"/></a></td>
+<a href="https://github.com/ubcbraincircuits/mCBF"><img src="teasers_small/Bolanos2021.jpg"/></a></td>
 <td align="left" width=550><em>A three-dimensional virtual mouse generates synthetic training data for behavioral analysis</em><br>
 <font size=2.5>Luis A. Bolaños</font>, 
 <font size=2.5>Dongsheng Xiao</font>, 
@@ -2309,7 +2309,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/SchwarzNeuroconLab/DeepLabStream"><img src="teasers/Schweihoff2021.jpg"/></a></td>
+<a href="https://github.com/SchwarzNeuroconLab/DeepLabStream"><img src="teasers_small/Schweihoff2021.jpg"/></a></td>
 <td align="left" width=550><em>DeepLabStream enables closed-loop behavioral experiments using deep learning-based markerless, real-time posture detection</em><br>
 <font size=2.5>Jens F. Schweihoff</font>, 
 <font size=2.5>Matvey Loshakov</font>, 
@@ -2324,7 +2324,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/chaneyddtt/UDA-Animal-Pose"><img src="teasers/Li2021.jpg"/></a></td>
+<a href="https://github.com/chaneyddtt/UDA-Animal-Pose"><img src="teasers_small/Li2021.jpg"/></a></td>
 <td align="left" width=550><em>From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation</em><br>
 <a href="https://chaneyddtt.github.io/"><font size=2.5>Chen Li</font></a>, 
 <a href="https://www.comp.nus.edu.sg/~leegh/"><font size=2.5>Gim Hee Lee</font></a><br>
@@ -2335,7 +2335,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://lasr-google.github.io/"><img src="teasers/Yang2021.jpg"/></a></td>
+<a href="https://lasr-google.github.io/"><img src="teasers_small/Yang2021.jpg"/></a></td>
 <td align="left" width=550><em>LASR: Learning Articulated Shape Reconstruction from a Monocular Video</em><br>
 <a href="https://gengshan-y.github.io/"><font size=2.5>Gengshan Yang</font></a>, 
 <a href="https://deqings.github.io/"><font size=2.5>Deqing Sun</font></a>, 
@@ -2353,7 +2353,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/DeepLabCut/DeepLabCut-live"><img src="teasers/Kane2020.jpg"/></a></td>
+<a href="https://github.com/DeepLabCut/DeepLabCut-live"><img src="teasers_small/Kane2020.jpg"/></a></td>
 <td align="left" width=550><em>Real-time, low-latency closed-loop feedback using markerless posture tracking</em><br>
 <font size=2.5>Gary Kane</font>, 
 <font size=2.5>Gonçalo Lopes</font>, 
@@ -2367,7 +2367,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Michaiel2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Michaiel2020.jpg"/></a></td>
 <td align="left" width=550><em>Dynamics of gaze control during prey capture in freely moving mice</em><br>
 <font size=2.5>Angie M Michaiel</font>, 
 <font size=2.5>Elliott TT Abe</font>, 
@@ -2378,7 +2378,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Marshall2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Marshall2020.jpg"/></a></td>
 <td align="left" width=550><em>Continuous Whole-Body 3D Kinematic Recordings across the Rodent Behavioral Repertoire</em><br>
 <font size=2.5>Jesse D. Marshall</font>, 
 <font size=2.5>Diego E. Aldarondo</font>, 
@@ -2392,7 +2392,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Geuther2019.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Geuther2019.jpg"/></a></td>
 <td align="left" width=550><em>Robust mouse tracking in complex environments using neural networks</em><br>
 <font size=2.5>Brian Q. Geuther</font>, 
 <font size=2.5>Sean P. Deats</font>, 
@@ -2409,7 +2409,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/ZexinChen/AlphaTracker"><img src="teasers/Chen2020.jpg"/></a></td>
+<a href="https://github.com/ZexinChen/AlphaTracker"><img src="teasers_small/Chen2020.jpg"/></a></td>
 <td align="left" width=550><em>AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool</em><br>
 <font size=2.5>Zexin Chen</font>, 
 <font size=2.5>Ruihan Zhang</font>, 
@@ -2429,7 +2429,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing"><img src="teasers/Wu2020-1.jpg"/></a></td>
+<a href="https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing"><img src="teasers_small/Wu2020-1.jpg"/></a></td>
 <td align="left" width=550><em>Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking</em><br>
 <font size=2.5>Anqi Wu</font>, 
 <font size=2.5>E. Kelly Buchanan</font>, 
@@ -2455,7 +2455,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Nilsson2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Nilsson2020.jpg"/></a></td>
 <td align="left" width=550><em>Simple Behavioral Analysis (SimBA)-an open source toolkit for computer classification of complex social behaviors in experimental animals</em><br>
 <font size=2.5>Simon RO Nilsson</font>, 
 <font size=2.5>Nastacia L. Goodwin</font>, 
@@ -2475,7 +2475,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://sleap.ai/"><img src="teasers/Pereira2020.jpg"/></a></td>
+<a href="https://sleap.ai/"><img src="teasers_small/Pereira2020.jpg"/></a></td>
 <td align="left" width=550><em>SLEAP: Multi-animal pose tracking</em><br>
 <a href="https://biophysics.princeton.edu/people/talmo-pereira"><font size=2.5>Talmo D. Pereira</font></a>, 
 <font size=2.5>Nathaniel Tabris</font>, 
@@ -2496,7 +2496,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/"><img src="teasers/Zimmermann2020.jpg"/></a></td>
+<a href="https://lmb.informatik.uni-freiburg.de/projects/freipose/"><img src="teasers_small/Zimmermann2020.jpg"/></a></td>
 <td align="left" width=550><em>FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces</em><br>
 <a href="https://lmb.informatik.uni-freiburg.de/people/zimmermc/"><font size=2.5>Christian Zimmermann</font></a>, 
 <font size=2.5>Artur Schneider</font>, 
@@ -2510,7 +2510,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Zhang2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Zhang2020.jpg"/></a></td>
 <td align="left" width=550><em>Multiview Supervision By Registration</em><br>
 <font size=2.5>Yilun Zhang</font>, 
 <a href="https://www-users.cs.umn.edu/~hspark/"><font size=2.5>Hyun Soo Park</font></a><br>
@@ -2520,7 +2520,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Dolensek2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Dolensek2020.jpg"/></a></td>
 <td align="left" width=550><em>Facial expressions of emotion states and their neuronal correlates in mice</em><br>
 <font size=2.5>Nejc Dolensek</font>, 
 <font size=2.5>Daniel A. Gehrlach</font>, 
@@ -2532,7 +2532,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Fangbemi2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Fangbemi2020.jpg"/></a></td>
 <td align="left" width=550><em>ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data</em><br>
 <font size=2.5>Abassin Sourou Fangbemi</font>, 
 <font size=2.5>Yi Fei Lu</font>, 
@@ -2546,7 +2546,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Mathis2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Mathis2020.jpg"/></a></td>
 <td align="left" width=550><em>A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives</em><br>
 <a href="http://www.people.fas.harvard.edu/~amathis/"><font size=2.5>Alexander Mathis</font></a>, 
 <font size=2.5>Steffen Schneider</font>, 
@@ -2558,7 +2558,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Pereira2020-1.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Pereira2020-1.jpg"/></a></td>
 <td align="left" width=550><em>Quantifying behavior to understand the brain</em><br>
 <a href="https://biophysics.princeton.edu/people/talmo-pereira"><font size=2.5>Talmo D. Pereira</font></a>, 
 <a href="https://molbiod.princeton.edu/people/joshua-w-shaevitz"><font size=2.5>Joshua W. Shaevitz</font></a>, 
@@ -2569,7 +2569,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Nourizonoz2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Nourizonoz2020.jpg"/></a></td>
 <td align="left" width=550><em>EthoLoop: automated closed-loop neuroethology in naturalistic environments</em><br>
 <font size=2.5>Ali Nourizonoz</font>, 
 <font size=2.5>Robert Zimmermann</font>, 
@@ -2588,7 +2588,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="openmonkeystudio.org"><img src="teasers/Bala2020.jpg"/></a></td>
+<a href="openmonkeystudio.org"><img src="teasers_small/Bala2020.jpg"/></a></td>
 <td align="left" width=550><em>Automated Markerless Pose Estimation in Freely Moving Macaques using OpenMonkeyStudio</em><br>
 <font size=2.5>Praneet C. Bala</font>, 
 <font size=2.5>Benjamin R. Eisenreich</font>, 
@@ -2603,7 +2603,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://marcbadger.github.io/avian-mesh/"><img src="teasers/Badger2020.jpg"/></a></td>
+<a href="https://marcbadger.github.io/avian-mesh/"><img src="teasers_small/Badger2020.jpg"/></a></td>
 <td align="left" width=550><em>3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View</em><br>
 <a href="https://www.ocf.berkeley.edu/~badger/"><font size=2.5>Marc Badger</font></a>, 
 <a href="https://yufu-wang.github.io/"><font size=2.5>Yufu Wang</font></a>, 
@@ -2620,7 +2620,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Biggs2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Biggs2020.jpg"/></a></td>
 <td align="left" width=550><em>Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop</em><br>
 <a href="http://mi.eng.cam.ac.uk/~bjb56/"><font size=2.5>Benjamin Biggs</font></a>, 
 <a href="https://uk.linkedin.com/in/ollie-boyne"><font size=2.5>Oliver Boyne</font></a>, 
@@ -2633,7 +2633,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://shubham-goel.github.io/ucmr/"><img src="teasers/Goel2020.jpg"/></a></td>
+<a href="https://shubham-goel.github.io/ucmr/"><img src="teasers_small/Goel2020.jpg"/></a></td>
 <td align="left" width=550><em>Shape and Viewpoint without Keypoints</em><br>
 <a href="https://people.eecs.berkeley.edu/~shubham-goel/"><font size=2.5>Shubham Goel</font></a>, 
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
@@ -2645,7 +2645,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Shi2020.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Shi2020.jpg"/></a></td>
 <td align="left" width=550><em>Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network</em><br>
 <font size=2.5>Xiao Shi</font>, 
 <font size=2.5>Chenxue Yang</font>, 
@@ -2657,7 +2657,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20"><img src="teasers/Kearney2020.jpg"/></a></td>
+<a href="https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20"><img src="teasers_small/Kearney2020.jpg"/></a></td>
 <td align="left" width=550><em>RGBD-Dog: Predicting Canine Pose from RGBD Sensors</em><br>
 <a href="https://researchportal.bath.ac.uk/en/persons/sinead-kearney"><font size=2.5>Sinead Kearney</font></a>, 
 <a href="https://wbli.me/"><font size=2.5>Wenbin Li</font></a>, 
@@ -2671,7 +2671,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://fdmaproject.wordpress.com/"><img src="teasers/Khan2020.jpg"/></a></td>
+<a href="https://fdmaproject.wordpress.com/"><img src="teasers_small/Khan2020.jpg"/></a></td>
 <td align="left" width=550><em>AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces</em><br>
 <font size=2.5>Muhammad Haris Khan</font>, 
 <font size=2.5>John McDonagh</font>, 
@@ -2688,7 +2688,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://nileshkulkarni.github.io/acsm/"><img src="teasers/Kulkarni2020.png"/></a></td>
+<a href="https://nileshkulkarni.github.io/acsm/"><img src="teasers_small/Kulkarni2020.png"/></a></td>
 <td align="left" width=550><em>Articulation Aware Canonical Surface Mapping</em><br>
 <a href="https://nileshkulkarni.github.io/"><font size=2.5>Nilesh Kulkarni</font></a>, 
 <a href="http://www.cs.cmu.edu/~abhinavg/"><font size=2.5>Abhinav Gupta</font></a>, 
@@ -2701,7 +2701,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/siyliepfl/deformation-aware-unpaired-image-translation"><img src="teasers/Li2020.JPG"/></a></td>
+<a href="https://github.com/siyliepfl/deformation-aware-unpaired-image-translation"><img src="teasers_small/Li2020.JPG"/></a></td>
 <td align="left" width=550><em>Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals</em><br>
 <a href="https://siyliepfl.github.io/"><font size=2.5>Siyuan Li</font></a>, 
 <a href="https://semihgunel.com/"><font size=2.5>Semih Gunel</font></a>, 
@@ -2716,7 +2716,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/JitengMu/Learning-from-Synthetic-Animals"><img src="teasers/Mu2020.JPG"/></a></td>
+<a href="https://github.com/JitengMu/Learning-from-Synthetic-Animals"><img src="teasers_small/Mu2020.JPG"/></a></td>
 <td align="left" width=550><em>Learning from Synthetic Animals</em><br>
 <font size=2.5>Jiteng Mu</font>, 
 <a href="https://weichaoqiu.com/"><font size=2.5>Weichao Qiu</font></a>, 
@@ -2729,7 +2729,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://vap.aau.dk/3d-zef/"><img src="teasers/Pedersen2020.jpg"/></a></td>
+<a href="https://vap.aau.dk/3d-zef/"><img src="teasers_small/Pedersen2020.jpg"/></a></td>
 <td align="left" width=550><em>3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset</em><br>
 <a href="https://vbn.aau.dk/en/persons/141158"><font size=2.5>Malte Pedersen</font></a>, 
 <font size=2.5>Joakim Bruslund Haurum</font>, 
@@ -2742,7 +2742,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://gdude.de/densepose-evolution/"><img src="teasers/Sanakoyeu2020.jpg"/></a></td>
+<a href="https://gdude.de/densepose-evolution/"><img src="teasers_small/Sanakoyeu2020.jpg"/></a></td>
 <td align="left" width=550><em>Transferring Dense Pose to Proximal Animal Classes</em><br>
 <a href="https://gdude.de/"><font size=2.5>Artsiom Sanakoyeu</font></a>, 
 <a href="https://research.fb.com/people/khalidov-vasil/"><font size=2.5>Vasil Khalidov</font></a>, 
@@ -2756,7 +2756,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://elliottwu.com/projects/unsup3d/"><img src="teasers/Wu2020.jpg"/></a></td>
+<a href="https://elliottwu.com/projects/unsup3d/"><img src="teasers_small/Wu2020.jpg"/></a></td>
 <td align="left" width=550><em>Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild</em><br>
 <a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
 <a href="https://chrirupp.github.io/"><font size=2.5>Christian Rupprecht</font></a>, 
@@ -2768,7 +2768,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/jgraving/deepposekit"><img src="teasers/Graving2019.jpg"/></a></td>
+<a href="https://github.com/jgraving/deepposekit"><img src="teasers_small/Graving2019.jpg"/></a></td>
 <td align="left" width=550><em>DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning</em><br>
 <a href="https://jakegraving.com/files/cv/jacob_graving_cv.pdf"><font size=2.5>Jacob M. Graving</font></a>, 
 <a href="https://www.danielchae.com/"><font size=2.5>Daniel Chae</font></a>, 
@@ -2784,7 +2784,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md"><img src="teasers/Nath2019.jpg"/></a></td>
+<a href="https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md"><img src="teasers_small/Nath2019.jpg"/></a></td>
 <td align="left" width=550><em>Using DeepLabCut for 3D markerless pose estimation across species and behaviors</em><br>
 <font size=2.5>Tanmay Nath</font>, 
 <a href="http://www.people.fas.harvard.edu/~amathis/"><font size=2.5>Alexander Mathis</font></a>, 
@@ -2799,7 +2799,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/talmo/leap"><img src="teasers/Pereira2019.jpg"/></a></td>
+<a href="https://github.com/talmo/leap"><img src="teasers_small/Pereira2019.jpg"/></a></td>
 <td align="left" width=550><em>Fast animal pose estimation using deep neural networks</em><br>
 <a href="https://biophysics.princeton.edu/people/talmo-pereira"><font size=2.5>Talmo D. Pereira</font></a>, 
 <a href="https://olveczkylab.oeb.harvard.edu/people/diego-etiony-aldarondo"><font size=2.5>Diego E. Aldarondo</font></a>, 
@@ -2815,7 +2815,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/"><img src="teasers/Chaumont2019.jpg"/></a></td>
+<a href="https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/"><img src="teasers_small/Chaumont2019.jpg"/></a></td>
 <td align="left" width=550><em>Real-time analysis of the behaviour of groups of mice via a depth-sensing camera and machine learning</em><br>
 <a href="https://research.pasteur.fr/en/member/fabrice-de-chaumont/"><font size=2.5>Fabrice de Chaumont</font></a>, 
 <font size=2.5>Elodie Ey</font>, 
@@ -2835,7 +2835,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="http://www.jinkuncao.com/animalpose"><img src="teasers/Cao2019.jpg"/></a></td>
+<a href="http://www.jinkuncao.com/animalpose"><img src="teasers_small/Cao2019.jpg"/></a></td>
 <td align="left" width=550><em>Cross-Domain Adaptation for Animal Pose Estimation</em><br>
 <a href="http://www.jinkuncao.com/"><font size=2.5>Jinkun Cao</font></a>, 
 <font size=2.5>Hongyang Tang</font>, 
@@ -2850,7 +2850,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://nileshkulkarni.github.io/csm/"><img src="teasers/Kulkarni2019.jpg"/></a></td>
+<a href="https://nileshkulkarni.github.io/csm/"><img src="teasers_small/Kulkarni2019.jpg"/></a></td>
 <td align="left" width=550><em>Canonical Surface Mapping via Geometric Cycle Consistency</em><br>
 <a href="https://nileshkulkarni.github.io/"><font size=2.5>Nilesh Kulkarni</font></a>, 
 <a href="http://www.cs.cmu.edu/~abhinavg/"><font size=2.5>Abhinav Gupta</font></a>, 
@@ -2862,7 +2862,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Yao2019.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Yao2019.jpg"/></a></td>
 <td align="left" width=550><em>MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence</em><br>
 <font size=2.5>Yuan Yao</font>, 
 <font size=2.5>Yasamin Jafarian</font>, 
@@ -2873,7 +2873,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/silviazuffi/smalst"><img src="teasers/Zuffi2019.jpg"/></a></td>
+<a href="https://github.com/silviazuffi/smalst"><img src="teasers_small/Zuffi2019.jpg"/></a></td>
 <td align="left" width=550><em>Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture from Images "In the Wild"</em><br>
 <a href="https://ps.is.tuebingen.mpg.de/person/szuffi"><font size=2.5>Silvia Zuffi</font></a>, 
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
@@ -2886,7 +2886,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="http://www.mousemotorlab.org/deeplabcut"><img src="teasers/Mathis2018.jpg"/></a></td>
+<a href="http://www.mousemotorlab.org/deeplabcut"><img src="teasers_small/Mathis2018.jpg"/></a></td>
 <td align="left" width=550><em>DeepLabCut: markerless pose estimation of user-defined body parts with deep learning</em><br>
 <a href="http://www.people.fas.harvard.edu/~amathis/"><font size=2.5>Alexander Mathis</font></a>, 
 <font size=2.5>Pranav Mamidanna</font>, 
@@ -2902,7 +2902,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://akanazawa.github.io/cmr/"><img src="teasers/Kanazawa2018.jpg"/></a></td>
+<a href="https://akanazawa.github.io/cmr/"><img src="teasers_small/Kanazawa2018.jpg"/></a></td>
 <td align="left" width=550><em>Learning Category-Specific Mesh Reconstruction from Image Collections</em><br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
 <a href="https://shubhtuls.github.io/"><font size=2.5>Shubham Tulsiani</font></a>, 
@@ -2915,7 +2915,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="http://smalr.is.tue.mpg.de/"><img src="teasers/Zuffi2018.jpg"/></a></td>
+<a href="http://smalr.is.tue.mpg.de/"><img src="teasers_small/Zuffi2018.jpg"/></a></td>
 <td align="left" width=550><em>Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape from Images</em><br>
 <a href="https://ps.is.tuebingen.mpg.de/person/szuffi"><font size=2.5>Silvia Zuffi</font></a>, 
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
@@ -2927,7 +2927,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Biggs2018.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Biggs2018.jpg"/></a></td>
 <td align="left" width=550><em>Creatures great and SMAL: Recovering the shape and motion of animals from video</em><br>
 <a href="http://mi.eng.cam.ac.uk/~bjb56/"><font size=2.5>Benjamin Biggs</font></a>, 
 <a href="http://mi.eng.cam.ac.uk/~tr346/"><font size=2.5>Thomas Roddick</font></a>, 
@@ -2939,7 +2939,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Klibaite2017.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Klibaite2017.jpg"/></a></td>
 <td align="left" width=550><em>An unsupervised method for quantifying the behavior of paired animals</em><br>
 <font size=2.5>Ugne Klibaite</font>, 
 <font size=2.5>Gordon J Berman</font>, 
@@ -2952,7 +2952,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Kanazawa2017.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Kanazawa2017.jpg"/></a></td>
 <td align="left" width=550><em>Single-View 3D Reconstruction of Animals</em><br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a><br>
 <font size=2.5>In Ph.D Thesis 2017 </font><br>
@@ -2961,7 +2961,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="http://smal.is.tue.mpg.de/"><img src="teasers/Zuffi2017.jpg"/></a></td>
+<a href="http://smal.is.tue.mpg.de/"><img src="teasers_small/Zuffi2017.jpg"/></a></td>
 <td align="left" width=550><em>3D Menagerie: Modeling the 3D shape and pose of animals</em><br>
 <a href="https://ps.is.tuebingen.mpg.de/person/szuffi"><font size=2.5>Silvia Zuffi</font></a>, 
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
@@ -2974,7 +2974,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers/Breslav2016.jpg"/></a></td>
+<a href="none"><img src="teasers_small/Breslav2016.jpg"/></a></td>
 <td align="left" width=550><em>3D Pose Estimation of Flying Animals in Multi-view Video Datasets</em><br>
 <a href="http://people.bu.edu/breslav/"><font size=2.5>Mikhail Breslav</font></a><br>
 <font size=2.5>In Ph.D Thesis 2016 </font><br>
@@ -2983,7 +2983,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/akanazawa/catdeform"><img src="teasers/Kanazawa2016.jpg"/></a></td>
+<a href="https://github.com/akanazawa/catdeform"><img src="teasers_small/Kanazawa2016.jpg"/></a></td>
 <td align="left" width=550><em>Learning 3D Deformation of Animals from 2D Images</em><br>
 <a href="https://people.eecs.berkeley.edu/~kanazawa/"><font size=2.5>Angjoo Kanazawa</font></a>, 
 <a href="https://shaharkov.github.io/"><font size=2.5>Shahar Kovalsky</font></a>, 
@@ -2996,7 +2996,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="http://www.idtracker.es/"><img src="teasers/Escudero2014.jpg"/></a></td>
+<a href="http://www.idtracker.es/"><img src="teasers_small/Escudero2014.jpg"/></a></td>
 <td align="left" width=550><em>idTracker: Tracking individuals in a group by automatic identification of unmarked animals</em><br>
 <font size=2.5>Alfonso Pérez-Escudero</font>, 
 <font size=2.5>Julián Vicente-Page</font>, 
