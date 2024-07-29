@@ -24,6 +24,66 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Chimento2024.jpg"/></a></td>
+<td align="left" width=550><em>Peering into the world of wild passerines with 3D-SOCS: synchronized video capture and posture estimation</em><br>
+<font size=2.5>Michael Chimento</font>, 
+<font size=2.5>Alex Hoi Hang Chan</font>, 
+<font size=2.5>Lucy M. Aplin</font>, 
+<font size=2.5>Fumihiro Kano</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.06.30.601375v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/umyelab/LabGym"><img src="teasers_small/Goss2024.jpg"/></a></td>
+<td align="left" width=550><em>Quantifying social roles in multi-animal videos using subject-aware deep-learning</em><br>
+<font size=2.5>Kelly Goss</font>, 
+<font size=2.5>Lezio S. Bueno-Junior</font>, 
+<font size=2.5>Katherine Stangis</font>, 
+<font size=2.5>Théo Ardoin</font>, 
+<font size=2.5>Hanna Carmon</font>, 
+<font size=2.5>Jie Zhou</font>, 
+<font size=2.5>Rohan Satapathy</font>, 
+<font size=2.5>Isabelle Baker</font>, 
+<font size=2.5>Carolyn E. Jones-Tinsley</font>, 
+<font size=2.5>Miranda M. Lim</font>, 
+<font size=2.5>Brendon O. Watson</font>, 
+<font size=2.5>Cédric Sueur</font>, 
+<font size=2.5>Carrie R. Ferrario</font>, 
+<font size=2.5>Geoffrey G. Murphy</font>, 
+<font size=2.5>Bing Ye</font>, 
+<a href="https://medicine.umich.edu/dept/cdb/yujia-hu"><font size=2.5>Yujia Hu</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.07.602350v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/umyelab/LabGym"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://remysabathier.github.io/animalavatar.github.io/"><img src="teasers_small/Sabathier2024.jpg"/></a></td>
+<td align="left" width=550><em>Animal Avatars: Reconstructing Animatable 3D Animals from Casual Videos</em><br>
+<font size=2.5>Remy Sabathier</font>, 
+<font size=2.5>Niloy J. Mitra</font>, 
+<font size=2.5>David Novotny</font><br>
+<font size=2.5>In ECCV 2024 </font><br>
+<a href="https://arxiv.org/abs/2403.17103"><img src="data/paper.png"></a> 
+<a href="https://remysabathier.github.io/animalavatar.github.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-dog-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-dog-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Galante2024.jpg"/></a></td>
+<td align="left" width=550><em>Three-dimensional body reconstruction enables quantification of liquid consumption in small invertebrates</em><br>
+<font size=2.5>Henrique Galante</font>, 
+<font size=2.5>Tomer J. Czaczkes</font>, 
+<font size=2.5>Massimo De Agrò</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.06.14.599002v1.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/danbider/lightning-pose/"><img src="teasers_small/Biderman2024.jpg"/></a></td>
 <td align="left" width=550><em>Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools</em><br>
 <font size=2.5>Dan Biderman</font>, 
