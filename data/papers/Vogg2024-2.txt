@@ -1,0 +1,25 @@
+PriMAT: A robust multi-animal tracking model for primates in the wild
+2024
+https://www.biorxiv.org/content/10.1101/2024.08.21.607881v1.full.pdf
+https://github.com/ecker-lab/PriMAT-tracking
+biorxiv
+Vogg2024-2.jpg 
+none 
+keyword: primate
+adddate: 20240822 
+Richard Vogg
+Matthias Nuske
+Marissa A. Weis
+Timo L¨uddecke
+Elif Karako¸c
+Zurna Ahmed
+Sofia M. Pereira
+Suchinda Malaivijitnond
+Suthirote Meesawat
+Florentin W¨org¨otter
+Peter M. Kappeler
+Alexander Gail
+Julia Ostner
+Oliver Sch¨ulke
+Claudia Fichtel
+Alexander S. Ecker+https://eckerlab.org/

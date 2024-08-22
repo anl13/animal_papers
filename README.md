@@ -24,6 +24,46 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/marmopose.jpg"/></a></td>
+<td align="left" width=550><em>A Real-time Multi-Subject Three Dimensional Pose Tracking System for Analyzing Social Behaviors of Non-human Primates</em><br>
+<font size=2.5>Chaoqun Cheng</font>, 
+<font size=2.5>Zijian Huang</font>, 
+<font size=2.5>Ruiming Zhang</font>, 
+<font size=2.5>Guozheng Huang</font>, 
+<font size=2.5>Han Wang</font>, 
+<font size=2.5>Likai Tang</font>, 
+<a href="https://wanglab.johnshopkins.edu/lab/WangLabWebsite/"><font size=2.5>Xiaoqin Wang</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.27.582429v3.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/ecker-lab/PriMAT-tracking"><img src="teasers_small/Vogg2024-2.jpg"/></a></td>
+<td align="left" width=550><em>PriMAT: A robust multi-animal tracking model for primates in the wild</em><br>
+<font size=2.5>Richard Vogg</font>, 
+<font size=2.5>Matthias Nuske</font>, 
+<font size=2.5>Marissa A. Weis</font>, 
+<font size=2.5>Timo L¨uddecke</font>, 
+<font size=2.5>Elif Karako¸c</font>, 
+<font size=2.5>Zurna Ahmed</font>, 
+<font size=2.5>Sofia M. Pereira</font>, 
+<font size=2.5>Suchinda Malaivijitnond</font>, 
+<font size=2.5>Suthirote Meesawat</font>, 
+<font size=2.5>Florentin W¨org¨otter</font>, 
+<font size=2.5>Peter M. Kappeler</font>, 
+<font size=2.5>Alexander Gail</font>, 
+<font size=2.5>Julia Ostner</font>, 
+<font size=2.5>Oliver Sch¨ulke</font>, 
+<font size=2.5>Claudia Fichtel</font>, 
+<a href="https://eckerlab.org/"><font size=2.5>Alexander S. Ecker</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.08.21.607881v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/ecker-lab/PriMAT-tracking"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-primate-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-primate-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers_small/Chimento2024.jpg"/></a></td>
 <td align="left" width=550><em>Peering into the world of wild passerines with 3D-SOCS: synchronized video capture and posture estimation</em><br>
 <font size=2.5>Michael Chimento</font>, 
@@ -250,21 +290,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In Nature 2024 </font><br>
 <a href="https://www.nature.com/articles/s41586-024-07178-6"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers_small/marmopose.jpg"/></a></td>
-<td align="left" width=550><em>MarmoPose: A Deep Learning-Based System for Real-time Multi-Marmoset 3D Pose Tracking</em><br>
-<font size=2.5>Chaoqun Cheng</font>, 
-<font size=2.5>Zijian Huang</font>, 
-<font size=2.5>Ruiming Zhang</font>, 
-<font size=2.5>Guozheng Huang</font>, 
-<font size=2.5>Han Wang</font>, 
-<font size=2.5>Likai Tang</font>, 
-<a href="https://wanglab.johnshopkins.edu/lab/WangLabWebsite/"><font size=2.5>Xiaoqin Wang</font></a><br>
-<font size=2.5>In biorxiv 2024 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.27.582429v1.full.pdf"><img src="data/paper.png"></a> 
-</td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -3072,7 +3097,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jul 2024
+Last updated in Aug 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

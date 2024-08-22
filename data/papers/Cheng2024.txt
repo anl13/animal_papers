@@ -1,12 +1,12 @@
-MarmoPose: A Deep Learning-Based System for Real-time Multi-Marmoset 3D Pose Tracking
+A Real-time Multi-Subject Three Dimensional Pose Tracking System for Analyzing Social Behaviors of Non-human Primates
 2024 
-https://www.biorxiv.org/content/10.1101/2024.02.27.582429v1.full.pdf
+https://www.biorxiv.org/content/10.1101/2024.02.27.582429v3.full.pdf
 none 
 biorxiv
 marmopose.jpg 
-none 
+none
 keyword: marmoset 
-adddate: 20240307 
+adddate: 20240822
 Chaoqun Cheng
 Zijian Huang
 Ruiming Zhang
