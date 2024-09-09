@@ -1,0 +1,23 @@
+YOLO-Behaviour: A simple, flexible framework to automatically quantify animal behaviours from videos
+2024 
+https://www.biorxiv.org/content/10.1101/2024.08.26.609387v1.full.pdf
+none 
+biorxiv
+Chen2024-2.jpg 
+none 
+keyword: 2d 
+adddate: 20240909 
+Alex Hoi Hang Chan
+Prasetia Putra
+Harald Schupp
+Johanna Köchling
+Jana Straßheim
+Britta Renner
+Julia Schroeder
+William D. Pearse 
+Shinichi Nakagawa
+Terry Burke
+Michael Griesser
+Andrea Meltzer
+Saverio Lubrano
+Fumihiro Kano

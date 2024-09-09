@@ -24,6 +24,74 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Chen2024-2.jpg"/></a></td>
+<td align="left" width=550><em>YOLO-Behaviour: A simple, flexible framework to automatically quantify animal behaviours from videos</em><br>
+<font size=2.5>Alex Hoi Hang Chan</font>, 
+<font size=2.5>Prasetia Putra</font>, 
+<font size=2.5>Harald Schupp</font>, 
+<font size=2.5>Johanna Köchling</font>, 
+<font size=2.5>Jana Straßheim</font>, 
+<font size=2.5>Britta Renner</font>, 
+<font size=2.5>Julia Schroeder</font>, 
+<font size=2.5>William D. Pearse</font>, 
+<font size=2.5>Shinichi Nakagawa</font>, 
+<font size=2.5>Terry Burke</font>, 
+<font size=2.5>Michael Griesser</font>, 
+<font size=2.5>Andrea Meltzer</font>, 
+<font size=2.5>Saverio Lubrano</font>, 
+<font size=2.5>Fumihiro Kano</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.08.26.609387v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Menegas2024.jpg"/></a></td>
+<td align="left" width=550><em>High-throughput unsupervised quantification of patterns in the natural behavior of marmosets</em><br>
+<font size=2.5>William Menegas</font>, 
+<font size=2.5>Erin Corbett</font>, 
+<font size=2.5>Kimberly Beliard</font>, 
+<font size=2.5>Haoran Xu</font>, 
+<font size=2.5>Shivangi Parmar</font>, 
+<font size=2.5>Robert Desimone</font>, 
+<font size=2.5>Guoping Feng</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610159v1.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Nagy2023.jpg"/></a></td>
+<td align="left" width=550><em>Long-term tracking of social structure in groups of rats</em><br>
+<font size=2.5>M´at´e Nagy</font>, 
+<font size=2.5>Jacob D. Davidson</font>, 
+<font size=2.5>G´abor V´as´arhelyi</font>, 
+<font size=2.5>D´aniel Abel</font>, 
+<font size=2.5>Enik˝o Kubinyi</font>, 
+<font size=2.5>Ahmed El Hady</font>, 
+<font size=2.5>Tam´as Vicsek</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.03.18.533183v4.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://downeslab.github.io/marigold/"><img src="teasers_small/Teicher2024.jpg"/></a></td>
+<td align="left" width=550><em>Marigold: A machine learning-based web app for zebrafish pose tracking</em><br>
+<font size=2.5>Gregory Teicher</font>, 
+<font size=2.5>R. Madison Riffe</font>, 
+<font size=2.5>Wayne Barnaby</font>, 
+<font size=2.5>Gabrielle Martin</font>, 
+<font size=2.5>Benjamin E. Clayton</font>, 
+<font size=2.5>Josef G. Trapani</font>, 
+<a href="https://www.downeslab.org/"><font size=2.5>Gerald B. Downes</font></a><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.05.31.596910v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://downeslab.github.io/marigold/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers_small/marmopose.jpg"/></a></td>
 <td align="left" width=550><em>A Real-time Multi-Subject Three Dimensional Pose Tracking System for Analyzing Social Behaviors of Non-human Primates</em><br>
 <font size=2.5>Chaoqun Cheng</font>, 
@@ -670,21 +738,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2023 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2023.10.16.561623v1.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers_small/Nagy2023.jpg"/></a></td>
-<td align="left" width=550><em>Long-term tracking of social structure in groups of rats</em><br>
-<font size=2.5>M´at´e Nagy</font>, 
-<font size=2.5>Jacob D. Davidson</font>, 
-<font size=2.5>G´abor V´as´arhelyi</font>, 
-<font size=2.5>D´aniel Abel</font>, 
-<font size=2.5>Enik˝o Kubinyi</font>, 
-<font size=2.5>Ahmed El Hady</font>, 
-<font size=2.5>Tam´as Vicsek</font><br>
-<font size=2.5>In biorxiv 2023 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.03.18.533183v3.full.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -3097,7 +3150,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Aug 2024
+Last updated in Sep 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
