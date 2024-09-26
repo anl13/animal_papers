@@ -24,6 +24,75 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="http://www.MoSeq4all.org"><img src="teasers_small/Lin2024.jpg"/></a></td>
+<td align="left" width=550><em>Characterizing the structure of mouse behavior using Motion Sequencing</em><br>
+<font size=2.5>Sherry Lin</font>, 
+<font size=2.5>Winthrop F. Gillis</font>, 
+<font size=2.5>Caleb Weinreb</font>, 
+<font size=2.5>Ayman Zeine</font>, 
+<font size=2.5>Samuel C. Jones</font>, 
+<font size=2.5>Emma M. Robinson</font>, 
+<font size=2.5>Jeffrey Markowitz</font>, 
+<font size=2.5>Sandeep Robert Datta</font><br>
+<font size=2.5>In Nature Protocols 2024 </font><br>
+<a href="https://doi.org/10.1038/s41596-024-01015-w"><img src="data/paper.png"></a> 
+<a href="http://www.MoSeq4all.org"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Kwon2024.jpg"/></a></td>
+<td align="left" width=550><em>SUBTLE: An Unsupervised Platform with Temporal Link Embedding that Maps Animal Behavior</em><br>
+<font size=2.5>Jea Kwon</font>, 
+<font size=2.5>Sunpil Kim</font>, 
+<font size=2.5>Dong-Kyum Kim</font>, 
+<font size=2.5>Jinhyeong Joo</font>, 
+<font size=2.5>SoHyung Kim</font>, 
+<font size=2.5>Meeyoung Cha</font>, 
+<font size=2.5>C. Justin Lee</font><br>
+<font size=2.5>In IJCV 2024 </font><br>
+<a href="https://doi.org/10.1007/s11263-024-02072-0"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://awol.is.tue.mpg.de/"><img src="teasers_small/Zuffi2024-2.jpg"/></a></td>
+<td align="left" width=550><em>AWOL: Analysis WithOut synthesis using Language</em><br>
+<font size=2.5>Silvia Zuffi</font>, 
+<font size=2.5>Michael J. Black</font><br>
+<font size=2.5>In ECCV 2024 </font><br>
+<a href="https://ps.is.mpg.de/uploads_file/attachment/attachment/774/AWOL_camera_ready.pdf"><img src="data/paper.png"></a> 
+<a href="https://awol.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/datatype-mesh-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-mesh-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Xiao2023.jpg"/></a></td>
+<td align="left" width=550><em>Multi-view Tracking, Re-ID, and Social Network Analysis of a Flock of Visually Similar Birds in an Outdoor Aviary</em><br>
+<font size=2.5>Shiting Xiao</font>, 
+<font size=2.5>Yufu Wang</font>, 
+<font size=2.5>Ammon Perkes</font>, 
+<font size=2.5>Bernd Pfrommer</font>, 
+<font size=2.5>Marc Schmidt</font>, 
+<font size=2.5>Kostas Daniilidis</font>, 
+<font size=2.5>Marc Badger</font><br>
+<font size=2.5>In IJCV 2023 </font><br>
+<a href="file:///D:/nutstore/paper/animal/[ijcv]%20bird.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Wu2022-2.jpg"/></a></td>
+<td align="left" width=550><em>DeepShapeKit: accurate 4D shape reconstruction of swimming fish</em><br>
+<font size=2.5>Ruiheng Wu</font>, 
+<font size=2.5>Oliver Deussen</font>, 
+<font size=2.5>Liang Li</font><br>
+<font size=2.5>In IROS 2022 </font><br>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982097"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers_small/Chen2024-2.jpg"/></a></td>
 <td align="left" width=550><em>YOLO-Behaviour: A simple, flexible framework to automatically quantify animal behaviours from videos</em><br>
 <font size=2.5>Alex Hoi Hang Chan</font>, 

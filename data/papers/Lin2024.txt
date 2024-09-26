@@ -1,0 +1,17 @@
+Characterizing the structure of mouse behavior using Motion Sequencing
+2024 
+https://doi.org/10.1038/s41596-024-01015-w 
+http://www.MoSeq4all.org
+Nature Protocols 
+Lin2024.jpg 
+none 
+keyword: mouse 
+adddate: 20240926 
+Sherry Lin
+Winthrop F. Gillis
+Caleb Weinreb
+Ayman Zeine
+Samuel C. Jones
+Emma M. Robinson
+Jeffrey Markowitz
+Sandeep Robert Datta

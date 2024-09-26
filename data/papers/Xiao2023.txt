@@ -1,0 +1,16 @@
+Multi-view Tracking, Re-ID, and Social Network Analysis of a Flock of Visually Similar Birds in an Outdoor Aviary
+2023 
+file:///D:/nutstore/paper/animal/[ijcv]%20bird.pdf
+none 
+IJCV 
+Xiao2023.jpg 
+none 
+keyword: bird 
+adddate: 20240926 
+Shiting Xiao
+Yufu Wang
+Ammon Perkes
+Bernd Pfrommer
+Marc Schmidt
+Kostas Daniilidis
+Marc Badger
