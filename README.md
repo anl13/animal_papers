@@ -24,6 +24,60 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/dahlian00/OpenAnimalTracks/tree/main"><img src="teasers_small/Shinoda2024-2.jpg"/></a></td>
+<td align="left" width=550><em>OpenAnimalTracks: A Dataset for Animal Track Recognition</em><br>
+<a href="https://sites.google.com/view/risashinoda/home"><font size=2.5>Risa Shinoda</font></a>, 
+<a href="https://mapooon.github.io/"><font size=2.5>Kaede Shiohara</font></a><br>
+<font size=2.5>In ICIP 2024 </font><br>
+<a href="https://arxiv.org/pdf/2406.09647"><img src="data/paper.png"></a> 
+<a href="https://github.com/dahlian00/OpenAnimalTracks/tree/main"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/DannyTran123/egopet"><img src="teasers_small/Bar2024.jpg"/></a></td>
+<td align="left" width=550><em>EgoPet: Egomotion and Interaction Data from an Animal’s Perspective</em><br>
+<font size=2.5>Amir Bar</font>, 
+<font size=2.5>Arya Bakhtiar</font>, 
+<font size=2.5>Danny Tran</font>, 
+<font size=2.5>Antonio Loquercio</font>, 
+<font size=2.5>Jathushan Rajasegaran</font>, 
+<font size=2.5>Yann LeCun</font>, 
+<font size=2.5>Amir Globerson</font>, 
+<font size=2.5>Trevor Darrell</font><br>
+<font size=2.5>In ECCV 2024 </font><br>
+<a href="https://arxiv.org/pdf/2404.09991"><img src="data/paper.png"></a> 
+<a href="https://github.com/DannyTran123/egopet"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://dahlian00.github.io/PetFacePage/"><img src="teasers_small/Shinoda2024.jpg"/></a></td>
+<td align="left" width=550><em>PetFace: A Large-Scale Dataset and Benchmark for Animal Identification</em><br>
+<a href="https://sites.google.com/view/risashinoda/home"><font size=2.5>Risa Shinoda</font></a>, 
+<a href="https://mapooon.github.io/"><font size=2.5>Kaede Shiohara</font></a><br>
+<font size=2.5>In ECCV 2024 </font>(<b><font size=2.5>oral</font></b>)<br>
+<a href="https://arxiv.org/pdf/2407.13555"><img src="data/paper.png"></a> 
+<a href="https://dahlian00.github.io/PetFacePage/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://keqiangsun.github.io/projects/ponymation"><img src="teasers_small/Sun2024.jpg"/></a></td>
+<td align="left" width=550><em>Ponymation: Learning Articulated 3D Animal Motions from Unlabeled Online Videos</em><br>
+<a href="https://keqiangsun.github.io/"><font size=2.5>Keqiang Sun</font></a>, 
+<a href="https://dorlitvak.github.io/"><font size=2.5>Dor Litvak</font></a>, 
+<font size=2.5>Yunzhi Zhang</font>, 
+<a href="https://www.ee.cuhk.edu.hk/~hsli/"><font size=2.5>Hongsheng Li</font></a>, 
+<a href="https://jiajunwu.com/"><font size=2.5>Jiajun Wu</font></a>, 
+<a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a><br>
+<font size=2.5>In ECCV 2024 </font><br>
+<a href="https://arxiv.org/pdf/2312.13604"><img src="data/paper.png"></a> 
+<a href="https://keqiangsun.github.io/projects/ponymation"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="http://www.MoSeq4all.org"><img src="teasers_small/Lin2024.jpg"/></a></td>
 <td align="left" width=550><em>Characterizing the structure of mouse behavior using Motion Sequencing</em><br>
 <font size=2.5>Sherry Lin</font>, 
@@ -3219,7 +3273,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Sep 2024
+Last updated in Oct 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
