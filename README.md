@@ -24,6 +24,111 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Dewolf2024.jpg"/></a></td>
+<td align="left" width=550><em>Neuro-musculoskeletal modeling reveals muscle-level neural dynamics of adaptive learning in sensorimotor cortex</em><br>
+<font size=2.5>Travis DeWolf</font>, 
+<font size=2.5>Steffen Schneider</font>, 
+<font size=2.5>Paul Soubiran</font>, 
+<font size=2.5>Adrian Roggenbach</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://doi.org/10.1101/2024.09.11.612513"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-rodent-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-rodent-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://yccyenchicheng.github.io/VirtualPets/"><img src="teasers_small/Cheng2024-1.jpg"/></a></td>
+<td align="left" width=550><em>Virtual Pets: Animatable Animal Generation in 3D Scenes</em><br>
+<font size=2.5>Yen-Chi Cheng</font>, 
+<font size=2.5>Chieh Hubert Lin</font>, 
+<font size=2.5>Chaoyang Wang</font>, 
+<font size=2.5>Yash Kant</font>, 
+<font size=2.5>Sergey Tulyakov</font>, 
+<font size=2.5>Alexander Schwing</font>, 
+<font size=2.5>Liangyan Gui</font>, 
+<a href="http://hsinyinglee.com/"><font size=2.5>Hsin-Ying Lee</font></a><br>
+<font size=2.5>In arxiv 2024 </font><br>
+<a href="https://arxiv.org/abs/2312.14154"><img src="data/paper.png"></a> 
+<a href="https://yccyenchicheng.github.io/VirtualPets/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Chen2023-1.jpg"/></a></td>
+<td align="left" width=550><em>NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila</em><br>
+<font size=2.5>Sibo Wang-Chen</font>, 
+<font size=2.5>Victor Alfred Stimpfling</font>, 
+<font size=2.5>Thomas Ka Chung Lam</font>, 
+<font size=2.5>Pembe Gizem Ozdil</font>, 
+<font size=2.5>Louise Genoud</font>, 
+<font size=2.5>Femke Hurtak</font>, 
+<font size=2.5>Pavan Ramdya</font><br>
+<font size=2.5>In Nature Methods 2024 </font><br>
+<a href="https://www.nature.com/articles/s41592-024-02497-y"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Aldarondo2024.jpg"/></a></td>
+<td align="left" width=550><em>A virtual rodent predicts the structure of neural activity across behaviours</em><br>
+<font size=2.5>Diego Aldarondo</font>, 
+<font size=2.5>Josh Merel</font>, 
+<font size=2.5>Jesse D. Marshall</font>, 
+<font size=2.5>Leonard Hasenclever</font>, 
+<font size=2.5>Ugne Klibaite</font>, 
+<font size=2.5>Amanda Gellis</font>, 
+<font size=2.5>Yuval Tassa</font>, 
+<font size=2.5>Greg Wayne</font>, 
+<font size=2.5>Matthew Botvinick</font>, 
+<font size=2.5>Bence P. Ölveczky</font><br>
+<font size=2.5>In Nature 2024 </font><br>
+<a href="https://www.nature.com/articles/s41586-024-07633-4"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Martvel2024.jpg"/></a></td>
+<td align="left" width=550><em>Automated Detection of Cat Facial Landmarks</em><br>
+<font size=2.5>George Martvel</font>, 
+<font size=2.5>Ilan Shimshoni</font>, 
+<font size=2.5>Anna Zamansky</font><br>
+<font size=2.5>In IJCV 2024 </font><br>
+<a href="https://link.springer.com/article/10.1007/s11263-024-02006-w"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-cat-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-cat-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/IDEA-Research/X-Pose"><img src="teasers_small/Yang2024-2.jpg"/></a></td>
+<td align="left" width=550><em>X-Pose: Detecting Any Keypoints</em><br>
+<a href="https://yangjie-cv.github.io/"><font size=2.5>Jie Yang</font></a>, 
+<a href="https://ailingzeng.site/"><font size=2.5>Ailing Zeng</font></a>, 
+<a href="https://www.leizhang.org/"><font size=2.5>Ruimao Zhang</font></a>, 
+<a href="https://yangjie-cv.github.io/"><font size=2.5>Lei Zhang</font></a><br>
+<font size=2.5>In ECCV 2024 </font><br>
+<a href="https://arxiv.org/pdf/2310.08530"><img src="data/paper.png"></a> 
+<a href="https://github.com/IDEA-Research/X-Pose"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://zshyang.github.io/omgpt-website/"><img src="teasers_small/Yang2024.jpg"/></a></td>
+<td align="left" width=550><em>OmniMotionGPT: Animal Motion Generation with Limited Data</em><br>
+<a href="https://zshyang.github.io/"><font size=2.5>Zhangsihao Yang</font></a>, 
+<font size=2.5>Mingyuan Zhou</font>, 
+<font size=2.5>Mengyi Shan</font>, 
+<font size=2.5>Bingbing Wen</font>, 
+<font size=2.5>Ziwei Xuan</font>, 
+<font size=2.5>Mitch Hill</font>, 
+<font size=2.5>Junjie Bai</font>, 
+<font size=2.5>Guo-Jun Qi</font>, 
+<a href="https://gsl.lab.asu.edu/yalin-wang/"><font size=2.5>Yalin Wang</font></a><br>
+<font size=2.5>In CVPR 2024 </font><br>
+<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_OmniMotionGPT_Animal_Motion_Generation_with_Limited_Data_CVPR_2024_paper.pdf"><img src="data/paper.png"></a> 
+<a href="https://zshyang.github.io/omgpt-website/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/dahlian00/OpenAnimalTracks/tree/main"><img src="teasers_small/Shinoda2024-2.jpg"/></a></td>
 <td align="left" width=550><em>OpenAnimalTracks: A Dataset for Animal Track Recognition</em><br>
 <a href="https://sites.google.com/view/risashinoda/home"><font size=2.5>Risa Shinoda</font></a>, 
@@ -918,20 +1023,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2023 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2023.06.25.546437v2.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers_small/Chen2023-1.jpg"/></a></td>
-<td align="left" width=550><em>NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila</em><br>
-<font size=2.5>Sibo Wang-Chen</font>, 
-<font size=2.5>Victor Alfred Stimpfling</font>, 
-<font size=2.5>Pembe Gizem Ozdil</font>, 
-<font size=2.5>Louise Genoud</font>, 
-<font size=2.5>Femke Hurtak</font>, 
-<font size=2.5>Pavan Ramdya</font><br>
-<font size=2.5>In biorxiv 2023 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.09.18.556649v1.full.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/animal-fly-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-fly-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -3273,7 +3364,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Oct 2024
+Last updated in Nov 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

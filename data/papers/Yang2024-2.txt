@@ -1,0 +1,13 @@
+X-Pose: Detecting Any Keypoints
+2024
+https://arxiv.org/pdf/2310.08530
+https://github.com/IDEA-Research/X-Pose
+ECCV 
+Yang2024-2.jpg 
+none 
+keyword: 2d
+adddate: 20241119
+Jie Yang+https://yangjie-cv.github.io/
+Ailing Zeng+https://ailingzeng.site/
+Ruimao Zhang+https://www.leizhang.org/
+Lei Zhang+https://yangjie-cv.github.io/

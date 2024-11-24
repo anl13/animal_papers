@@ -1,0 +1,17 @@
+Virtual Pets: Animatable Animal Generation in 3D Scenes
+2024
+https://arxiv.org/abs/2312.14154
+https://yccyenchicheng.github.io/VirtualPets/
+arxiv 
+Cheng2024-1.jpg 
+none 
+keyword: Pets
+adddate: 20241124
+Yen-Chi Cheng
+Chieh Hubert Lin
+Chaoyang Wang
+Yash Kant
+Sergey Tulyakov
+Alexander Schwing
+Liangyan Gui
+Hsin-Ying Lee+http://hsinyinglee.com/

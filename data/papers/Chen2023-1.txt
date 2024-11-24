@@ -1,14 +1,15 @@
 NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila
-2023 
-https://www.biorxiv.org/content/10.1101/2023.09.18.556649v1.full.pdf
+2024
+https://www.nature.com/articles/s41592-024-02497-y
 none 
-biorxiv
+Nature Methods
 Chen2023-1.jpg 
 none 
 keyword: fly 
-adddate: 20230920 
+adddate: 20241124
 Sibo Wang-Chen
-Victor Alfred Stimpfling
+Victor Alfred Stimpfling 
+Thomas Ka Chung Lam 
 Pembe Gizem Ozdil
 Louise Genoud
 Femke Hurtak
