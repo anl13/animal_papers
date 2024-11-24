@@ -37,6 +37,20 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Klibaite2024.jpg"/></a></td>
+<td align="left" width=550><em>Mapping the landscape of social behavior</em><br>
+<font size=2.5>Ugne Klibaite</font>, 
+<font size=2.5>Tianqing Li</font>, 
+<font size=2.5>Diego Aldarondo</font>, 
+<font size=2.5>Jumana F. Akoad</font>, 
+<font size=2.5>Bence P. Ölveczky</font>, 
+<font size=2.5>Timothy W. Dunn</font><br>
+<font size=2.5>In biorxiv 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.27.615451v1"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://yccyenchicheng.github.io/VirtualPets/"><img src="teasers_small/Cheng2024-1.jpg"/></a></td>
 <td align="left" width=550><em>Virtual Pets: Animatable Animal Generation in 3D Scenes</em><br>
 <font size=2.5>Yen-Chi Cheng</font>, 
