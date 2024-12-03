@@ -24,6 +24,35 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://raw.is.tue.mpg.de/"><img src="teasers_small/Kulits2024.jpg"/></a></td>
+<td align="left" width=550><em>Reconstructing Animals and the Wild</em><br>
+<font size=2.5>Peter Kulits</font>, 
+<font size=2.5>Michael J. Black</font>, 
+<font size=2.5>Silvia Zuffi</font><br>
+<font size=2.5>In arxiv 2024 </font><br>
+<a href="https://arxiv.org/abs/2411.18807"><img src="data/paper.png"></a> 
+<a href="https://raw.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://luoxue-star.github.io/AniMer_project_page/"><img src="teasers_small/Lyu2024.jpg"/></a></td>
+<td align="left" width=550><em>AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer</em><br>
+<font size=2.5>Jin Lyu</font>, 
+<font size=2.5>Tianyi Zhu</font>, 
+<font size=2.5>Yi Gu</font>, 
+<font size=2.5>Li Lin</font>, 
+<font size=2.5>Pujin Cheng</font>, 
+<font size=2.5>Yebin Liu</font>, 
+<font size=2.5>Xiaoying Tang</font>, 
+<font size=2.5>Liang An</font><br>
+<font size=2.5>In arxiv 2024 </font><br>
+<a href="https://arxiv.org/abs/2412.00837"><img src="data/paper.png"></a> 
+<a href="https://luoxue-star.github.io/AniMer_project_page/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers_small/Dewolf2024.jpg"/></a></td>
 <td align="left" width=550><em>Neuro-musculoskeletal modeling reveals muscle-level neural dynamics of adaptive learning in sensorimotor cortex</em><br>
 <font size=2.5>Travis DeWolf</font>, 
@@ -3378,7 +3407,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Nov 2024
+Last updated in Dec 2024
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

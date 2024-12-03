@@ -1,0 +1,17 @@
+AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer
+2024 
+https://arxiv.org/abs/2412.00837
+https://luoxue-star.github.io/AniMer_project_page/
+arxiv 
+Lyu2024.jpg 
+none 
+keyword: 3d 
+adddate: 20241203
+Jin Lyu
+Tianyi Zhu
+Yi Gu
+Li Lin
+Pujin Cheng
+Yebin Liu
+Xiaoying Tang
+Liang An
