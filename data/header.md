@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2024.12.11] Here is ECCV 2024 workshop for ecology. https://cv4e.netlify.app/papers/
+
 [2023.12.14] Here is a workshop involving animals and infants [CV4Smalls Workshop](https://cv4smalls.sites.northeastern.edu/accepted-submissions/)! Feel free to check it out!
 
 [2023.11.26] My own paper "MAMMAL" is published online in Nature Communications now! 

@@ -1,4 +1,6 @@
 ## Animal Paper Collection (Ongoing)
+[2024.12.11] Here is ECCV 2024 workshop for ecology. https://cv4e.netlify.app/papers/
+
 [2023.12.14] Here is a workshop involving animals and infants [CV4Smalls Workshop](https://cv4smalls.sites.northeastern.edu/accepted-submissions/)! Feel free to check it out!
 
 [2023.11.26] My own paper "MAMMAL" is published online in Nature Communications now! 
@@ -24,6 +26,20 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://dualpm.github.io/"><img src="teasers_small/Kaye2024.jpg"/></a></td>
+<td align="left" width=550><em>DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction</em><br>
+<font size=2.5>Ben Kaye</font>, 
+<a href="https://www.robots.ox.ac.uk/~tomj/"><font size=2.5>Tomas Jakab</font></a>, 
+<a href="https://elliottwu.com/"><font size=2.5>Shangzhe Wu</font></a>, 
+<font size=2.5>Christian Rupprecht</font>, 
+<font size=2.5>Andrea Vedald</font><br>
+<font size=2.5>In arxiv 2024 </font><br>
+<a href="https://arxiv.org/abs/2412.04464"><img src="data/paper.png"></a> 
+<a href="https://dualpm.github.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://raw.is.tue.mpg.de/"><img src="teasers_small/Kulits2024.jpg"/></a></td>
 <td align="left" width=550><em>Reconstructing Animals and the Wild</em><br>
 <font size=2.5>Peter Kulits</font>, 

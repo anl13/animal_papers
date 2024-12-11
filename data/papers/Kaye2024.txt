@@ -1,0 +1,14 @@
+DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction
+2024
+https://arxiv.org/abs/2412.04464
+https://dualpm.github.io/
+arxiv 
+Kaye2024.jpg 
+none 
+keyword: 3d 
+adddate: 20241211 
+Ben Kaye
+Tomas Jakab+https://www.robots.ox.ac.uk/~tomj/
+Shangzhe Wu+https://elliottwu.com/
+Christian Rupprecht
+Andrea Vedald
