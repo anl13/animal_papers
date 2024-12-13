@@ -26,6 +26,36 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Higami2024.jpg"/></a></td>
+<td align="left" width=550><em>RatBodyFormer: Rodent Body Surface from Keypoints</em><br>
+<font size=2.5>Ayaka Higami</font>, 
+<font size=2.5>Karin Oshima</font>, 
+<font size=2.5>Tomoyo Isoguchi Shiramatsu</font>, 
+<font size=2.5>Hirokazu Takahashi</font>, 
+<font size=2.5>Shohei Nobuhara</font>, 
+<a href="https://vision.ist.i.kyoto-u.ac.jp/people/"><font size=2.5>Ko Nishino</font></a><br>
+<font size=2.5>In arxiv 2024 </font><br>
+<a href="https://arxiv.org/pdf/2412.09599"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://genzoo.is.tue.mpg.de/"><img src="teasers_small/Niewiadomski2024.jpg"/></a></td>
+<td align="left" width=550><em>Generative Zoo</em><br>
+<font size=2.5>Tomasz Niewiadomski</font>, 
+<font size=2.5>Anastasios Yiannakidis</font>, 
+<font size=2.5>Hanz Cuevas-Velasquez</font>, 
+<font size=2.5>Soubhik Sanyal</font>, 
+<font size=2.5>Michael J. Black1</font>, 
+<font size=2.5>Silvia Zuffi</font>, 
+<font size=2.5>Peter Kulits</font><br>
+<font size=2.5>In arxiv 2024 </font><br>
+<a href="https://arxiv.org/pdf/2412.08101"><img src="data/paper.png"></a> 
+<a href="https://genzoo.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://dualpm.github.io/"><img src="teasers_small/Kaye2024.jpg"/></a></td>
 <td align="left" width=550><em>DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction</em><br>
 <font size=2.5>Ben Kaye</font>, 
