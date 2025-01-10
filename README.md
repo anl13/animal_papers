@@ -26,6 +26,22 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Ng2025.jpg"/></a></td>
+<td align="left" width=550><em>Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation</em><br>
+<font size=2.5>Kam Woh Ng</font>, 
+<font size=2.5>Jing Yang</font>, 
+<font size=2.5>Jia Wei Sii</font>, 
+<font size=2.5>Jiankang Deng</font>, 
+<font size=2.5>Chee Seng Chan</font>, 
+<font size=2.5>Yi-Zhe Song</font>, 
+<font size=2.5>Tao Xiang</font>, 
+<a href="https://surrey-uplab.github.io/"><font size=2.5>Xiatian Zhu</font></a><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/pdf/2501.04144"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-bird-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-bird-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers_small/Higami2024.jpg"/></a></td>
 <td align="left" width=550><em>RatBodyFormer: Rodent Body Surface from Keypoints</em><br>
 <font size=2.5>Ayaka Higami</font>, 
@@ -3453,7 +3469,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Dec 2024
+Last updated in Jan 2025
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

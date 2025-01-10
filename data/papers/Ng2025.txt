@@ -1,0 +1,17 @@
+Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation
+2025
+https://arxiv.org/pdf/2501.04144
+none 
+arxiv 
+Ng2025.jpg 
+none 
+keyword: bird 
+adddate: 20250110
+Kam Woh Ng
+Jing Yang
+Jia Wei Sii
+Jiankang Deng
+Chee Seng Chan
+Yi-Zhe Song
+Tao Xiang
+Xiatian Zhu+https://surrey-uplab.github.io/
