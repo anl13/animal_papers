@@ -62,6 +62,24 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://sites.google.com/view/alphachimp/home"><img src="teasers_small/Ma2025.jpg"/></a></td>
+<td align="left" width=550><em>AlphaChimp: Tracking and Behavior Recognition of Chimpanzees</em><br>
+<a href="https://shirleymaxx.github.io/"><font size=2.5>Xiaoxuan Ma</font></a>, 
+<a href="https://tongclass.ac.cn/author/yutang-lin/"><font size=2.5>Yutang Lin</font></a>, 
+<a href="https://xy02-05.github.io/"><font size=2.5>Yuan Xu</font></a>, 
+<a href="https://carta.anthropogeny.org/users/stephan-kaufhold"><font size=2.5>Stephan P. Kaufhold</font></a>, 
+<a href="http://jackterwilliger.com/"><font size=2.5>Jack Terwilliger</font></a>, 
+<font size=2.5>Andres Meza</font>, 
+<a href="https://yzhu.io/"><font size=2.5>Yixin Zhu</font></a>, 
+<a href="https://cogsci.ucsd.edu/people/faculty/federico-rossano.html"><font size=2.5>Federico Rossano</font></a>, 
+<a href="https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm"><font size=2.5>Yizhou Wang</font></a><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/pdf/2410.17136"><img src="data/paper.png"></a> 
+<a href="https://sites.google.com/view/alphachimp/home"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/maicao2018/GeoSelfPose"><img src="teasers_small/Dai2025.jpg"/></a></td>
 <td align="left" width=550><em>Geometric self-supervision for monocular 3D animal pose estimation</em><br>
 <font size=2.5>Xiaowei Dai</font>, 
@@ -151,6 +169,24 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://www.biorxiv.org/content/10.1101/2024.02.06.579164v1.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://github.com/tangguoling/ADPT"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://shirleymaxx.github.io/ChimpACT/"><img src="teasers_small/Ma2023.jpg"/></a></td>
+<td align="left" width=550><em>ChimpACT: A Longitudinal Dataset for Understanding Chimpanzee Behaviors</em><br>
+<a href="https://shirleymaxx.github.io/"><font size=2.5>Xiaoxuan Ma</font></a>, 
+<font size=2.5>Stephan P. Kaufhold</font>, 
+<font size=2.5>Jiajun Su</font>, 
+<font size=2.5>Wentao Zhu</font>, 
+<font size=2.5>Jack Terwilliger</font>, 
+<font size=2.5>Andres Meza</font>, 
+<font size=2.5>Yixin Zhu</font>, 
+<font size=2.5>Federico Rossano</font>, 
+<font size=2.5>Yizhou Wang</font><br>
+<font size=2.5>In NeurIPS (Track on Datasets and Benchmarks) 2023 </font><br>
+<a href="https://arxiv.org/pdf/2310.16447"><img src="data/paper.png"></a> 
+<a href="https://shirleymaxx.github.io/ChimpACT/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -2963,8 +2999,8 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Laurel Keyes</font>, 
 <font size=2.5>Kay M. Tye</font>, 
 <a href="https://www.mvig.org/"><font size=2.5>Cewu Lu</font></a><br>
-<font size=2.5>In biorxiv 2020 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2020.12.04.405159v1.full.pdf"><img src="data/paper.png"></a> 
+<font size=2.5>In Frontiers in Behavioral Neuroscience 2023 </font><br>
+<a href="https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2023.1111908/full"><img src="data/paper.png"></a> 
 <a href="https://github.com/ZexinChen/AlphaTracker"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
 

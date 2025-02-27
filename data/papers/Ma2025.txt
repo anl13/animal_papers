@@ -1,0 +1,18 @@
+AlphaChimp: Tracking and Behavior Recognition of Chimpanzees
+2025 
+https://arxiv.org/pdf/2410.17136
+https://sites.google.com/view/alphachimp/home
+arxiv 
+Ma2025.jpg 
+none 
+keyword: 2d, Primates
+adddate: 20250227 
+Xiaoxuan Ma+https://shirleymaxx.github.io/
+Yutang Lin+https://tongclass.ac.cn/author/yutang-lin/
+Yuan Xu+https://xy02-05.github.io/
+Stephan P. Kaufhold+https://carta.anthropogeny.org/users/stephan-kaufhold
+Jack Terwilliger+http://jackterwilliger.com/
+Andres Meza
+Yixin Zhu+https://yzhu.io/
+Federico Rossano+https://cogsci.ucsd.edu/people/faculty/federico-rossano.html
+Yizhou Wang+https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm
