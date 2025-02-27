@@ -1,0 +1,19 @@
+Inferring internal states across mice and monkeys using facial features
+2025
+https://doi.org/10.1101/2024.01.24.577055
+https://github.com/atlaie/thoughtful-1260faces/
+biorxiv 
+Tlaie2025.jpg
+none 
+keyword: 2d, face 
+adddate: 20250227 
+Alejandro Tlaie+https://orcid.org/0000-0002-6844-5765
+Muad Y. Abd El Hay
+Berkutay Mert
+Robert Taylor
+Pierre-Antoine Ferracci
+Katharine Shapcott
+Mina Glukhova
+Jonathan W Pillow
+Martha N Havenith
+Marieke L Schölvinck

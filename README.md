@@ -26,6 +26,134 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Li2025.jpg"/></a></td>
+<td align="left" width=550><em>Unsupervised multi-animal tracking for quantitative ethology</em><br>
+<font size=2.5>Yixin Li</font>, 
+<font size=2.5>Xinyang Li</font>, 
+<font size=2.5>Qi Zhang</font>, 
+<font size=2.5>Yuanlong Zhang</font>, 
+<font size=2.5>Jiaqi Fan</font>, 
+<font size=2.5>Zhi Lu</font>, 
+<font size=2.5>Ziwei Li</font>, 
+<font size=2.5>Jiamin Wu</font>, 
+<font size=2.5>Qionghai Dai</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://doi.org/10.1101/2025.01.23.634625"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/atlaie/thoughtful-1260faces/"><img src="teasers_small/Tlaie2025.jpg"/></a></td>
+<td align="left" width=550><em>Inferring internal states across mice and monkeys using facial features</em><br>
+<a href="https://orcid.org/0000-0002-6844-5765"><font size=2.5>Alejandro Tlaie</font></a>, 
+<font size=2.5>Muad Y. Abd El Hay</font>, 
+<font size=2.5>Berkutay Mert</font>, 
+<font size=2.5>Robert Taylor</font>, 
+<font size=2.5>Pierre-Antoine Ferracci</font>, 
+<font size=2.5>Katharine Shapcott</font>, 
+<font size=2.5>Mina Glukhova</font>, 
+<font size=2.5>Jonathan W Pillow</font>, 
+<font size=2.5>Martha N Havenith</font>, 
+<font size=2.5>Marieke L Schölvinck</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://doi.org/10.1101/2024.01.24.577055"><img src="data/paper.png"></a> 
+<a href="https://github.com/atlaie/thoughtful-1260faces/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a><a href="https://img.shields.io/badge/topic-face-orange" align="bottom"><img src="https://img.shields.io/badge/topic-face-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/maicao2018/GeoSelfPose"><img src="teasers_small/Dai2025.jpg"/></a></td>
+<td align="left" width=550><em>Geometric self-supervision for monocular 3D animal pose estimation</em><br>
+<font size=2.5>Xiaowei Dai</font>, 
+<font size=2.5>Shuiwang Li</font>, 
+<font size=2.5>Qijun Zhao</font>, 
+<font size=2.5>Hongyu Yang</font><br>
+<font size=2.5>In Pattern Recognition 2025 </font><br>
+<a href="https://doi.org/10.1016/j.patcog.2025.111407"><img src="data/paper.png"></a> 
+<a href="https://github.com/maicao2018/GeoSelfPose"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/luhexiao/BM-GCN"><img src="teasers_small/Lu2025.jpg"/></a></td>
+<td align="left" width=550><em>Automatic coarse-to-fine method for cattle body measurement based on improved GCN and 3D parametric model</em><br>
+<font size=2.5>Hexiao Lu</font>, 
+<font size=2.5>Jialong Zhang</font>, 
+<font size=2.5>Xufeng Yuan</font>, 
+<font size=2.5>Jihong Lv</font>, 
+<font size=2.5>Zhiwei Zeng</font>, 
+<font size=2.5>Hao Guo</font>, 
+<font size=2.5>Alexey Ruchay</font><br>
+<font size=2.5>In Computers and Electronics in Agriculture 2025 </font><br>
+<a href="https://linkinghub.elsevier.com/retrieve/pii/S0168169925001231"><img src="data/paper.png"></a> 
+<a href="https://github.com/luhexiao/BM-GCN"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/Leoswordy/MarmoPose"><img src="teasers_small/marmopose.jpg"/></a></td>
+<td align="left" width=550><em>A Real-time Multi-Subject Three Dimensional Pose Tracking System for Analyzing Social Behaviors of Non-human Primates</em><br>
+<font size=2.5>Chaoqun Cheng</font>, 
+<font size=2.5>Zijian Huang</font>, 
+<font size=2.5>Ruiming Zhang</font>, 
+<font size=2.5>Guozheng Huang</font>, 
+<font size=2.5>Han Wang</font>, 
+<font size=2.5>Likai Tang</font>, 
+<a href="https://wanglab.johnshopkins.edu/lab/WangLabWebsite/"><font size=2.5>Xiaoqin Wang</font></a><br>
+<font size=2.5>In Cell Reports Methods 2025 </font><br>
+<a href="https://www.sciencedirect.com/science/article/pii/S2667237525000220"><img src="data/paper.png"></a> 
+<a href="https://github.com/Leoswordy/MarmoPose"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://luoxue-star.github.io/AniMer_project_page/"><img src="teasers_small/Lyu2024.jpg"/></a></td>
+<td align="left" width=550><em>AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer</em><br>
+<font size=2.5>Jin Lyu</font>, 
+<font size=2.5>Tianyi Zhu</font>, 
+<font size=2.5>Yi Gu</font>, 
+<font size=2.5>Li Lin</font>, 
+<font size=2.5>Pujin Cheng</font>, 
+<font size=2.5>Yebin Liu</font>, 
+<font size=2.5>Xiaoying Tang</font>, 
+<font size=2.5>Liang An</font><br>
+<font size=2.5>In CVPR 2025 </font><br>
+<a href="https://arxiv.org/abs/2412.00837"><img src="data/paper.png"></a> 
+<a href="https://luoxue-star.github.io/AniMer_project_page/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/zhanghao5201/KDSM"><img src="teasers_small/Zhang2024.jpg"/></a></td>
+<td align="left" width=550><em>Open-Vocabulary Animal Keypoint Detection with Semantic-Feature Matching</em><br>
+<font size=2.5>Hao Zhang</font>, 
+<font size=2.5>Lumin Xu</font>, 
+<font size=2.5>Shenqi Lai</font>, 
+<font size=2.5>Wenqi Shao</font>, 
+<font size=2.5>Nanning Zheng</font>, 
+<a href="http://luoping.me"><font size=2.5>Ping Luo</font></a>, 
+<a href="https://mmlab.siat.ac.cn/yuqiao"><font size=2.5>Yu Qiao</font></a>, 
+<a href="https://kpzhang93.github.io/"><font size=2.5>Kaipeng Zhang</font></a><br>
+<font size=2.5>In IJCV 2024 </font><br>
+<a href="https://doi.org/10.1007/s11263-024-02126-3"><img src="data/paper.png"></a> 
+<a href="https://github.com/zhanghao5201/KDSM"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/tangguoling/ADPT"><img src="teasers_small/Tang2024.jpg"/></a></td>
+<td align="left" width=550><em>Anti-drift pose tracker (ADPT): A transformer-based network for robust animal pose estimation cross-species</em><br>
+<font size=2.5>Guoling Tang</font>, 
+<font size=2.5>Yaning Han</font>, 
+<font size=2.5>Quanying Liu</font>, 
+<font size=2.5>Pengfei Wei</font><br>
+<font size=2.5>In ELife 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.02.06.579164v1.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/tangguoling/ADPT"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers_small/Ng2025.jpg"/></a></td>
 <td align="left" width=550><em>Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation</em><br>
 <font size=2.5>Kam Woh Ng</font>, 
@@ -94,23 +222,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In arxiv 2024 </font><br>
 <a href="https://arxiv.org/abs/2411.18807"><img src="data/paper.png"></a> 
 <a href="https://raw.is.tue.mpg.de/"><img src="data/project.png"></a>
-<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://luoxue-star.github.io/AniMer_project_page/"><img src="teasers_small/Lyu2024.jpg"/></a></td>
-<td align="left" width=550><em>AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer</em><br>
-<font size=2.5>Jin Lyu</font>, 
-<font size=2.5>Tianyi Zhu</font>, 
-<font size=2.5>Yi Gu</font>, 
-<font size=2.5>Li Lin</font>, 
-<font size=2.5>Pujin Cheng</font>, 
-<font size=2.5>Yebin Liu</font>, 
-<font size=2.5>Xiaoying Tang</font>, 
-<font size=2.5>Liang An</font><br>
-<font size=2.5>In arxiv 2024 </font><br>
-<a href="https://arxiv.org/abs/2412.00837"><img src="data/paper.png"></a> 
-<a href="https://luoxue-star.github.io/AniMer_project_page/"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
 
 
@@ -425,21 +536,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers_small/marmopose.jpg"/></a></td>
-<td align="left" width=550><em>A Real-time Multi-Subject Three Dimensional Pose Tracking System for Analyzing Social Behaviors of Non-human Primates</em><br>
-<font size=2.5>Chaoqun Cheng</font>, 
-<font size=2.5>Zijian Huang</font>, 
-<font size=2.5>Ruiming Zhang</font>, 
-<font size=2.5>Guozheng Huang</font>, 
-<font size=2.5>Han Wang</font>, 
-<font size=2.5>Likai Tang</font>, 
-<a href="https://wanglab.johnshopkins.edu/lab/WangLabWebsite/"><font size=2.5>Xiaoqin Wang</font></a><br>
-<font size=2.5>In biorxiv 2024 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.27.582429v3.full.pdf"><img src="data/paper.png"></a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/ecker-lab/PriMAT-tracking"><img src="teasers_small/Vogg2024-2.jpg"/></a></td>
 <td align="left" width=550><em>PriMAT: A robust multi-animal tracking model for primates in the wild</em><br>
 <font size=2.5>Richard Vogg</font>, 
@@ -744,18 +840,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://www.nature.com/articles/s41592-024-02200-1"><img src="data/paper.png"></a> 
 <a href="https://github.com/YttriLab/A-SOID"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="none"><img src="teasers_small/Tang2024.jpg"/></a></td>
-<td align="left" width=550><em>Anti-drift pose tracker (ADPT): A transformer-based network for robust animal pose estimation cross-species</em><br>
-<font size=2.5>Guoling Tang</font>, 
-<font size=2.5>Yaning Han</font>, 
-<font size=2.5>Quanying Liu</font>, 
-<font size=2.5>Pengfei Wei</font><br>
-<font size=2.5>In biorxiv 2024 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.06.579164v1.full.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -3469,7 +3553,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Jan 2025
+Last updated in Feb 2025
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

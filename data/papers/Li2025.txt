@@ -1,0 +1,18 @@
+Unsupervised multi-animal tracking for quantitative ethology
+2025
+https://doi.org/10.1101/2025.01.23.634625
+none 
+biorxiv 
+Li2025.jpg 
+none 
+keyword: 2d
+adddate: 20250227 
+Yixin Li
+Xinyang Li
+Qi Zhang
+Yuanlong Zhang
+Jiaqi Fan
+Zhi Lu
+Ziwei Li
+Jiamin Wu
+Qionghai Dai

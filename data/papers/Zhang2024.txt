@@ -1,0 +1,17 @@
+Open-Vocabulary Animal Keypoint Detection with Semantic-Feature Matching
+2024
+https://doi.org/10.1007/s11263-024-02126-3
+https://github.com/zhanghao5201/KDSM
+IJCV
+Zhang2024.jpg 
+none 
+keyword: 3d 
+adddate: 20250227 
+Hao Zhang
+Lumin Xu
+Shenqi Lai
+Wenqi Shao
+Nanning Zheng
+Ping Luo+http://luoping.me
+Yu Qiao+https://mmlab.siat.ac.cn/yuqiao
+Kaipeng Zhang+https://kpzhang93.github.io/

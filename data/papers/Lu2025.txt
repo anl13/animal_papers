@@ -1,0 +1,16 @@
+Automatic coarse-to-fine method for cattle body measurement based on improved GCN and 3D parametric model
+2025 
+https://linkinghub.elsevier.com/retrieve/pii/S0168169925001231
+https://github.com/luhexiao/BM-GCN
+Computers and Electronics in Agriculture
+Lu2025.jpg 
+none 
+keyword: 3d, cattle 
+adddate: 20250227
+Hexiao Lu
+Jialong Zhang
+Xufeng Yuan
+Jihong Lv
+Zhiwei Zeng
+Hao Guo
+Alexey Ruchay
