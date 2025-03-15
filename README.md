@@ -26,6 +26,106 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://t2m4lvo.github.io/"><img src="teasers_small/Lee2025.jpg"/></a></td>
+<td align="left" width=550><em>How to Move Your Dragon: Text-to-Motion Synthesis For Large-Vocabulary Objects</em><br>
+<font size=2.5>Wonkwang Lee</font>, 
+<font size=2.5>Jongwon Jeong</font>, 
+<font size=2.5>Taehong Moon</font>, 
+<font size=2.5>Hyeon-Jong Kim</font>, 
+<font size=2.5>Jaehyeon Kim</font>, 
+<font size=2.5>Gunhee Kim</font>, 
+<a href="https://sites.google.com/view/bulee"><font size=2.5>Byeong-Uk Lee</font></a><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/pdf/2503.04257v1"><img src="data/paper.png"></a> 
+<a href="https://t2m4lvo.github.io/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Ye2025.jpg"/></a></td>
+<td align="left" width=550><em>Hierarchical behavioral analysis framework as a platform for standardized quantitative identification of behaviors</em><br>
+<font size=2.5>Jialin Ye</font>, 
+<font size=2.5>Yang Xu</font>, 
+<font size=2.5>Kang Huang</font>, 
+<font size=2.5>Xinyu Wang</font>, 
+<font size=2.5>Liping Wang</font>, 
+<font size=2.5>Feng Wang</font><br>
+<font size=2.5>In Cell Reports 2025 </font><br>
+<a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00010-5"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/topic-behavior-orange" align="bottom"><img src="https://img.shields.io/badge/topic-behavior-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/lvrgb777/STPoseNet"><img src="teasers_small/Lv2024.jpg"/></a></td>
+<td align="left" width=550><em>STPoseNet: A real-time spatiotemporal network model for robust mouse pose estimation</em><br>
+<font size=2.5>Songyan Lv</font>, 
+<font size=2.5>Jincheng Wang</font>, 
+<font size=2.5>Xiaowei Chen</font>, 
+<font size=2.5>Xiang Liao</font><br>
+<font size=2.5>In iScience 2024 </font><br>
+<a href="https://doi.org/10.1016/j.isci.2024.109772"><img src="data/paper.png"></a> 
+<a href="https://github.com/lvrgb777/STPoseNet"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/tctco/STCS"><img src="teasers_small/Tang2024-1.jpg"/></a></td>
+<td align="left" width=550><em>Segmentation tracking and clustering system enables accurate multi-animal tracking of social behaviors</em><br>
+<font size=2.5>Cheng Tang</font>, 
+<font size=2.5>Yang Zhou</font>, 
+<font size=2.5>Shuaizhu Zhao</font>, 
+<font size=2.5>Mingshu Xie</font>, 
+<font size=2.5>Ruizhe Zhang</font>, 
+<font size=2.5>Xiaoyan Long</font>, 
+<font size=2.5>Lingqiang Zhu</font>, 
+<font size=2.5>Youming Lu</font>, 
+<font size=2.5>Guangzhi Ma</font>, 
+<font size=2.5>Hao Li</font><br>
+<font size=2.5>In Patterns 2024 </font><br>
+<a href="https://doi.org/10.1016/j.patter.2024.101057"><img src="data/paper.png"></a> 
+<a href="https://github.com/tctco/STCS"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Hu2024.jpg"/></a></td>
+<td align="left" width=550><em>Animal Pose Estimation Based on Contrastive Learning with  Dynamic Conditional Prompts</em><br>
+<font size=2.5>Xiaoling Hu</font>, 
+<font size=2.5>Chang Liu</font><br>
+<font size=2.5>In Animals 2024 </font><br>
+<a href="https://www.mdpi.com/2076-2615/14/12/1712"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/yzrs/FreeNet"><img src="teasers_small/Zeng2024.jpg"/></a></td>
+<td align="left" width=550><em>Towards Labeling-free Fine-grained Animal Pose Estimation</em><br>
+<font size=2.5>Dan Zeng</font>, 
+<font size=2.5>Yu Zhu</font>, 
+<font size=2.5>Shuiwang Li</font>, 
+<font size=2.5>Qijun Zhao</font>, 
+<font size=2.5>Qiaomu Shen</font>, 
+<font size=2.5>Bo Tang</font><br>
+<font size=2.5>In ACM MM 2024 </font><br>
+<a href="https://dl.acm.org/doi/10.1145/3664647.3681073"><img src="data/paper.png"></a> 
+<a href="https://github.com/yzrs/FreeNet"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-2d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-2d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Patel2023.jpg"/></a></td>
+<td align="left" width=550><em>Animal Pose Tracking: 3D Multimodal Dataset and Token-based Pose Optimization</em><br>
+<font size=2.5>Mahir Patel</font>, 
+<font size=2.5>Yiwen Gu</font>, 
+<font size=2.5>Lucas C. Carstensen</font>, 
+<font size=2.5>Michael E. Hasselmo</font>, 
+<font size=2.5>Margrit Betke</font><br>
+<font size=2.5>In IJCV 2023 </font><br>
+<a href="https://doi.org/10.1007/s11263-022-01714-5"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="none"><img src="teasers_small/Li2025.jpg"/></a></td>
 <td align="left" width=550><em>Unsupervised multi-animal tracking for quantitative ethology</em><br>
 <font size=2.5>Yixin Li</font>, 
@@ -3589,7 +3689,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Feb 2025
+Last updated in Mar 2025
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

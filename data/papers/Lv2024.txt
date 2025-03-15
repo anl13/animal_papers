@@ -1,0 +1,13 @@
+STPoseNet: A real-time spatiotemporal network model for robust mouse pose estimation
+2024
+https://doi.org/10.1016/j.isci.2024.109772
+https://github.com/lvrgb777/STPoseNet
+iScience
+Lv2024.jpg 
+none 
+keyword: 2d 
+adddate: 20250314 
+Songyan Lv
+Jincheng Wang
+Xiaowei Chen
+Xiang Liao
