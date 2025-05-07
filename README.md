@@ -26,6 +26,19 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="none"><img src="teasers_small/Zhong2025.jpg"/></a></td>
+<td align="left" width=550><em>AnimalMotionCLIP: Embedding motion in CLIP for Animal Behavior Analysis</em><br>
+<font size=2.5>Enmin Zhong</font>, 
+<font size=2.5>Carlos R. del-Blanco</font>, 
+<font size=2.5>Daniel Berj´on</font>, 
+<font size=2.5>Fernando Jaureguizar</font>, 
+<font size=2.5>Narciso Garc´ıa</font><br>
+<font size=2.5>In CV4Animal Workshop in CVPR 2025 2025 </font><br>
+<a href="https://arxiv.org/pdf/2505.00569"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://t2m4lvo.github.io/"><img src="teasers_small/Lee2025.jpg"/></a></td>
 <td align="left" width=550><em>How to Move Your Dragon: Text-to-Motion Synthesis For Large-Vocabulary Objects</em><br>
 <font size=2.5>Wonkwang Lee</font>, 
@@ -3689,7 +3702,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Mar 2025
+Last updated in May 2025
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

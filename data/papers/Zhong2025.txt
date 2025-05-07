@@ -1,0 +1,14 @@
+AnimalMotionCLIP: Embedding motion in CLIP for Animal Behavior Analysis
+2025
+https://arxiv.org/pdf/2505.00569
+none 
+CV4Animal Workshop in CVPR 2025
+Zhong2025.jpg 
+none 
+keyword: semantic
+adddate: 20250505
+Enmin Zhong 
+Carlos R. del-Blanco 
+Daniel Berj´on 
+Fernando Jaureguizar 
+Narciso Garc´ıa
