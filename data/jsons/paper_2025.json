@@ -1,0 +1,251 @@
+[
+	{
+		"title": "AnimalMotionCLIP: Embedding motion in CLIP for Animal Behavior Analysis",
+		"year": 2025,
+		"paper_link": "https://arxiv.org/pdf/2505.00569",
+		"project_page": "none",
+		"teaser": "Zhong2025.jpg",
+		"journal": "CV4Animal Workshop in CVPR",
+		"authors": [
+			"Enmin Zhong",
+			"Carlos R. del-Blanco",
+			"Daniel Berj\u9e93on",
+			"Fernando Jaureguizar",
+			"Narciso Garc\u9e93\u8c0ba"
+		],
+		"adddate": "20250505",
+		"keyword": [
+			"semantic"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "How to Move Your Dragon: Text-to-Motion Synthesis For Large-Vocabulary Objects",
+		"year": 2025,
+		"paper_link": "https://arxiv.org/pdf/2503.04257v1",
+		"project_page": "https://t2m4lvo.github.io/",
+		"teaser": "Lee2025.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Wonkwang Lee",
+			"Jongwon Jeong",
+			"Taehong Moon",
+			"Hyeon-Jong Kim",
+			"Jaehyeon Kim",
+			"Gunhee Kim",
+			"Byeong-Uk Lee+https://sites.google.com/view/bulee"
+		],
+		"adddate": "20250315",
+		"keyword": [
+			"Motion"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Hierarchical behavioral analysis framework as a platform for standardized quantitative identification of behaviors",
+		"year": 2025,
+		"paper_link": "https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00010-5",
+		"project_page": "none",
+		"teaser": "Ye2025.jpg",
+		"journal": "Cell Reports",
+		"authors": [
+			"Jialin Ye",
+			"Yang Xu",
+			"Kang Huang",
+			"Xinyu Wang",
+			"Liping Wang",
+			"Feng Wang"
+		],
+		"adddate": "20250314",
+		"keyword": [
+			"3d",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Unsupervised multi-animal tracking for quantitative ethology",
+		"year": 2025,
+		"paper_link": "https://doi.org/10.1101/2025.01.23.634625",
+		"project_page": "none",
+		"teaser": "Li2025.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Yixin Li",
+			"Xinyang Li",
+			"Qi Zhang",
+			"Yuanlong Zhang",
+			"Jiaqi Fan",
+			"Zhi Lu",
+			"Ziwei Li",
+			"Jiamin Wu",
+			"Qionghai Dai"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Inferring internal states across mice and monkeys using facial features",
+		"year": 2025,
+		"paper_link": "https://doi.org/10.1101/2024.01.24.577055",
+		"project_page": "https://github.com/atlaie/thoughtful-1260faces/",
+		"teaser": "Tlaie2025.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Alejandro Tlaie+https://orcid.org/0000-0002-6844-5765",
+			"Muad Y. Abd El Hay",
+			"Berkutay Mert",
+			"Robert Taylor",
+			"Pierre-Antoine Ferracci",
+			"Katharine Shapcott",
+			"Mina Glukhova",
+			"Jonathan W Pillow",
+			"Martha N Havenith",
+			"Marieke L Sch\u679alvinck"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"2d",
+			"face"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "AlphaChimp: Tracking and Behavior Recognition of Chimpanzees",
+		"year": 2025,
+		"paper_link": "https://arxiv.org/pdf/2410.17136",
+		"project_page": "https://sites.google.com/view/alphachimp/home",
+		"teaser": "Ma2025.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Xiaoxuan Ma+https://shirleymaxx.github.io/",
+			"Yutang Lin+https://tongclass.ac.cn/author/yutang-lin/",
+			"Yuan Xu+https://xy02-05.github.io/",
+			"Stephan P. Kaufhold+https://carta.anthropogeny.org/users/stephan-kaufhold",
+			"Jack Terwilliger+http://jackterwilliger.com/",
+			"Andres Meza",
+			"Yixin Zhu+https://yzhu.io/",
+			"Federico Rossano+https://cogsci.ucsd.edu/people/faculty/federico-rossano.html",
+			"Yizhou Wang+https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"2d",
+			"Primates"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Geometric self-supervision for monocular 3D animal pose estimation",
+		"year": 2025,
+		"paper_link": "https://doi.org/10.1016/j.patcog.2025.111407",
+		"project_page": "https://github.com/maicao2018/GeoSelfPose",
+		"teaser": "Dai2025.jpg",
+		"journal": "Pattern Recognition",
+		"authors": [
+			"Xiaowei Dai",
+			"Shuiwang Li",
+			"Qijun Zhao",
+			"Hongyu Yang"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Automatic coarse-to-fine method for cattle body measurement based on improved GCN and 3D parametric model",
+		"year": 2025,
+		"paper_link": "https://linkinghub.elsevier.com/retrieve/pii/S0168169925001231",
+		"project_page": "https://github.com/luhexiao/BM-GCN",
+		"teaser": "Lu2025.jpg",
+		"journal": "Computers and Electronics in Agriculture",
+		"authors": [
+			"Hexiao Lu",
+			"Jialong Zhang",
+			"Xufeng Yuan",
+			"Jihong Lv",
+			"Zhiwei Zeng",
+			"Hao Guo",
+			"Alexey Ruchay"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"3d",
+			"cattle"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A Real-time Multi-Subject Three Dimensional Pose Tracking System for Analyzing Social Behaviors of Non-human Primates",
+		"year": 2025,
+		"paper_link": "https://www.sciencedirect.com/science/article/pii/S2667237525000220",
+		"project_page": "https://github.com/Leoswordy/MarmoPose",
+		"teaser": "marmopose.jpg",
+		"journal": "Cell Reports Methods",
+		"authors": [
+			"Chaoqun Cheng",
+			"Zijian Huang",
+			"Ruiming Zhang",
+			"Guozheng Huang",
+			"Han Wang",
+			"Likai Tang",
+			"Xiaoqin Wang+https://wanglab.johnshopkins.edu/lab/WangLabWebsite/"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"marmoset"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer",
+		"year": 2025,
+		"paper_link": "https://arxiv.org/abs/2412.00837",
+		"project_page": "https://luoxue-star.github.io/AniMer_project_page/",
+		"teaser": "Lyu2024.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Jin Lyu",
+			"Tianyi Zhu",
+			"Yi Gu",
+			"Li Lin",
+			"Pujin Cheng",
+			"Yebin Liu",
+			"Xiaoying Tang",
+			"Liang An"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Chirpy3D: Continuous Part Latents for Creative 3D Bird Generation",
+		"year": 2025,
+		"paper_link": "https://arxiv.org/pdf/2501.04144",
+		"project_page": "none",
+		"teaser": "Ng2025.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Kam Woh Ng",
+			"Jing Yang",
+			"Jia Wei Sii",
+			"Jiankang Deng",
+			"Chee Seng Chan",
+			"Yi-Zhe Song",
+			"Tao Xiang",
+			"Xiatian Zhu+https://surrey-uplab.github.io/"
+		],
+		"adddate": "20250110",
+		"keyword": [
+			"bird"
+		],
+		"grade": "none"
+	}
+]

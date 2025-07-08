@@ -1,0 +1,5291 @@
+[
+	{
+		"title": "Simple Behavioral Analysis (SimBA) as a platform for explainable machine learning in behavioral neuroscience",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41593-024-01649-9",
+		"project_page": "none",
+		"teaser": "Nilsson2020.jpg",
+		"journal": "Nature Neuroscience",
+		"authors": [
+			"Nastacia L. Goodwin",
+			"Jia J. Choong",
+			"Sophia Hwang",
+			"Kayla Pitts",
+			"Liana Bloom",
+			"Aasiya Islam",
+			"Yizhe Y. Zhang",
+			"Eric R. Szelenyi",
+			"Xiaoyu Tong",
+			"Emily L. Newman",
+			"Klaus Miczek",
+			"Hayden R. Wright",
+			"Ryan J. McLaughlin",
+			"Zane C. Norville",
+			"Neir Eshel",
+			"Mitra Heshmati",
+			"Simon R. O. Nilsson",
+			"Sam A. Golden+https://goldenneurolab.com/people"
+		],
+		"adddate": "20250515",
+		"keyword": [
+			"social",
+			"2d",
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "STPoseNet: A real-time spatiotemporal network model for robust mouse pose estimation",
+		"year": 2024,
+		"paper_link": "https://doi.org/10.1016/j.isci.2024.109772",
+		"project_page": "https://github.com/lvrgb777/STPoseNet",
+		"teaser": "Lv2024.jpg",
+		"journal": "iScience",
+		"authors": [
+			"Songyan Lv",
+			"Jincheng Wang",
+			"Xiaowei Chen",
+			"Xiang Liao"
+		],
+		"adddate": "20250314",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Segmentation tracking and clustering system enables accurate multi-animal tracking of social behaviors",
+		"year": 2024,
+		"paper_link": "https://doi.org/10.1016/j.patter.2024.101057",
+		"project_page": "https://github.com/tctco/STCS",
+		"teaser": "Tang2024-1.jpg",
+		"journal": "Patterns",
+		"authors": [
+			"Cheng Tang",
+			"Yang Zhou",
+			"Shuaizhu Zhao",
+			"Mingshu Xie",
+			"Ruizhe Zhang",
+			"Xiaoyan Long",
+			"Lingqiang Zhu",
+			"Youming Lu",
+			"Guangzhi Ma",
+			"Hao Li"
+		],
+		"adddate": "20250314",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Animal Pose Estimation Based on Contrastive Learning with  Dynamic Conditional Prompts",
+		"year": 2024,
+		"paper_link": "https://www.mdpi.com/2076-2615/14/12/1712",
+		"project_page": "none",
+		"teaser": "Hu2024.jpg",
+		"journal": "Animals",
+		"authors": [
+			"Xiaoling Hu",
+			"Chang Liu"
+		],
+		"adddate": "20250314",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Towards Labeling-free Fine-grained Animal Pose Estimation",
+		"year": 2024,
+		"paper_link": "https://dl.acm.org/doi/10.1145/3664647.3681073",
+		"project_page": "https://github.com/yzrs/FreeNet",
+		"teaser": "Zeng2024.jpg",
+		"journal": "ACM MM",
+		"authors": [
+			"Dan Zeng",
+			"Yu Zhu",
+			"Shuiwang Li",
+			"Qijun Zhao",
+			"Qiaomu Shen",
+			"Bo Tang"
+		],
+		"adddate": "20250314",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Animal Pose Tracking: 3D Multimodal Dataset and Token-based Pose Optimization",
+		"year": 2023,
+		"paper_link": "https://doi.org/10.1007/s11263-022-01714-5",
+		"project_page": "none",
+		"teaser": "Patel2023.jpg",
+		"journal": "IJCV",
+		"authors": [
+			"Mahir Patel",
+			"Yiwen Gu",
+			"Lucas C. Carstensen",
+			"Michael E. Hasselmo",
+			"Margrit Betke"
+		],
+		"adddate": "20250314",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Open-Vocabulary Animal Keypoint Detection with Semantic-Feature Matching",
+		"year": 2024,
+		"paper_link": "https://doi.org/10.1007/s11263-024-02126-3",
+		"project_page": "https://github.com/zhanghao5201/KDSM",
+		"teaser": "Zhang2024.jpg",
+		"journal": "IJCV",
+		"authors": [
+			"Hao Zhang",
+			"Lumin Xu",
+			"Shenqi Lai",
+			"Wenqi Shao",
+			"Nanning Zheng",
+			"Ping Luo+http://luoping.me",
+			"Yu Qiao+https://mmlab.siat.ac.cn/yuqiao",
+			"Kaipeng Zhang+https://kpzhang93.github.io/"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Anti-drift pose tracker (ADPT): A transformer-based network for robust animal pose estimation cross-species",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.02.06.579164v1.full.pdf",
+		"project_page": "https://github.com/tangguoling/ADPT",
+		"teaser": "Tang2024.jpg",
+		"journal": "ELife",
+		"authors": [
+			"Guoling Tang",
+			"Yaning Han",
+			"Quanying Liu",
+			"Pengfei Wei"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "ChimpACT: A Longitudinal Dataset for Understanding Chimpanzee Behaviors",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2310.16447",
+		"project_page": "https://shirleymaxx.github.io/ChimpACT/",
+		"teaser": "Ma2023.jpg",
+		"journal": "NeurIPS (Track on Datasets and Benchmarks)",
+		"authors": [
+			"Xiaoxuan Ma+https://shirleymaxx.github.io/",
+			"Stephan P. Kaufhold",
+			"Jiajun Su",
+			"Wentao Zhu",
+			"Jack Terwilliger",
+			"Andres Meza",
+			"Yixin Zhu",
+			"Federico Rossano",
+			"Yizhou Wang"
+		],
+		"adddate": "20250227",
+		"keyword": [
+			"2d",
+			"Primates"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "RatBodyFormer: Rodent Body Surface from Keypoints",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2412.09599",
+		"project_page": "none",
+		"teaser": "Higami2024.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Ayaka Higami",
+			"Karin Oshima",
+			"Tomoyo Isoguchi Shiramatsu",
+			"Hirokazu Takahashi",
+			"Shohei Nobuhara",
+			"Ko Nishino+https://vision.ist.i.kyoto-u.ac.jp/people/"
+		],
+		"adddate": "20241213",
+		"keyword": [
+			"3d",
+			"rat"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Generative Zoo",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2412.08101",
+		"project_page": "https://genzoo.is.tue.mpg.de/",
+		"teaser": "Niewiadomski2024.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Tomasz Niewiadomski",
+			"Anastasios Yiannakidis",
+			"Hanz Cuevas-Velasquez",
+			"Soubhik Sanyal",
+			"Michael J. Black1",
+			"Silvia Zuffi",
+			"Peter Kulits"
+		],
+		"adddate": "20241213",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/abs/2412.04464",
+		"project_page": "https://dualpm.github.io/",
+		"teaser": "Kaye2024.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Ben Kaye",
+			"Tomas Jakab+https://www.robots.ox.ac.uk/~tomj/",
+			"Shangzhe Wu+https://elliottwu.com/",
+			"Christian Rupprecht",
+			"Andrea Vedald"
+		],
+		"adddate": "20241211",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Reconstructing Animals and the Wild",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/abs/2411.18807",
+		"project_page": "https://raw.is.tue.mpg.de/",
+		"teaser": "Kulits2024.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Peter Kulits",
+			"Michael J. Black",
+			"Silvia Zuffi"
+		],
+		"adddate": "20241203",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Neuro-musculoskeletal modeling reveals muscle-level neural dynamics of adaptive learning in sensorimotor cortex",
+		"year": 2024,
+		"paper_link": "https://doi.org/10.1101/2024.09.11.612513",
+		"project_page": "none",
+		"teaser": "Dewolf2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Travis DeWolf",
+			"Steffen Schneider",
+			"Paul Soubiran",
+			"Adrian Roggenbach",
+			"Mackenzie Weygandt Mathis"
+		],
+		"adddate": "20241124",
+		"keyword": [
+			"rodent"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Mapping the landscape of social behavior",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.09.27.615451v1",
+		"project_page": "none",
+		"teaser": "Klibaite2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Ugne Klibaite",
+			"Tianqing Li",
+			"Diego Aldarondo",
+			"Jumana F. Akoad",
+			"Bence P. \u8130lveczky",
+			"Timothy W. Dunn"
+		],
+		"adddate": "20241124",
+		"keyword": [
+			"rat",
+			"3d",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Virtual Pets: Animatable Animal Generation in 3D Scenes",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/abs/2312.14154",
+		"project_page": "https://yccyenchicheng.github.io/VirtualPets/",
+		"teaser": "Cheng2024-1.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Yen-Chi Cheng",
+			"Chieh Hubert Lin",
+			"Chaoyang Wang",
+			"Yash Kant",
+			"Sergey Tulyakov",
+			"Alexander Schwing",
+			"Liangyan Gui",
+			"Hsin-Ying Lee+http://hsinyinglee.com/"
+		],
+		"adddate": "20241124",
+		"keyword": [
+			"Pets"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "NeuroMechFly 2.0, a framework for simulating embodied sensorimotor control in adult Drosophila",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41592-024-02497-y",
+		"project_page": "none",
+		"teaser": "Chen2023-1.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Sibo Wang-Chen",
+			"Victor Alfred Stimpfling",
+			"Thomas Ka Chung Lam",
+			"Pembe Gizem Ozdil",
+			"Louise Genoud",
+			"Femke Hurtak",
+			"Pavan Ramdya"
+		],
+		"adddate": "20241124",
+		"keyword": [
+			"fly"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A virtual rodent predicts the structure of neural activity across behaviours",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41586-024-07633-4",
+		"project_page": "none",
+		"teaser": "Aldarondo2024.jpg",
+		"journal": "Nature",
+		"authors": [
+			"Diego Aldarondo",
+			"Josh Merel",
+			"Jesse D. Marshall",
+			"Leonard Hasenclever",
+			"Ugne Klibaite",
+			"Amanda Gellis",
+			"Yuval Tassa",
+			"Greg Wayne",
+			"Matthew Botvinick",
+			"Bence P. \u8130lveczky"
+		],
+		"adddate": "20241124",
+		"keyword": [
+			"rat"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Automated Detection of Cat Facial Landmarks",
+		"year": 2024,
+		"paper_link": "https://link.springer.com/article/10.1007/s11263-024-02006-w",
+		"project_page": "none",
+		"teaser": "Martvel2024.jpg",
+		"journal": "IJCV",
+		"authors": [
+			"George Martvel",
+			"Ilan Shimshoni",
+			"Anna Zamansky"
+		],
+		"adddate": "20241124",
+		"keyword": [
+			"cat"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "X-Pose: Detecting Any Keypoints",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2310.08530",
+		"project_page": "https://github.com/IDEA-Research/X-Pose",
+		"teaser": "Yang2024-2.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Jie Yang+https://yangjie-cv.github.io/",
+			"Ailing Zeng+https://ailingzeng.site/",
+			"Ruimao Zhang+https://www.leizhang.org/",
+			"Lei Zhang+https://yangjie-cv.github.io/"
+		],
+		"adddate": "20241119",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "OmniMotionGPT: Animal Motion Generation with Limited Data",
+		"year": 2024,
+		"paper_link": "https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_OmniMotionGPT_Animal_Motion_Generation_with_Limited_Data_CVPR_2024_paper.pdf",
+		"project_page": "https://zshyang.github.io/omgpt-website/",
+		"teaser": "Yang2024.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Zhangsihao Yang+https://zshyang.github.io/",
+			"Mingyuan Zhou",
+			"Mengyi Shan",
+			"Bingbing Wen",
+			"Ziwei Xuan",
+			"Mitch Hill",
+			"Junjie Bai",
+			"Guo-Jun Qi",
+			"Yalin Wang+https://gsl.lab.asu.edu/yalin-wang/"
+		],
+		"adddate": "20241119",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "OpenAnimalTracks: A Dataset for Animal Track Recognition",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2406.09647",
+		"project_page": "https://github.com/dahlian00/OpenAnimalTracks/tree/main",
+		"teaser": "Shinoda2024-2.jpg",
+		"journal": "ICIP",
+		"authors": [
+			"Risa Shinoda+https://sites.google.com/view/risashinoda/home",
+			"Kaede Shiohara+https://mapooon.github.io/"
+		],
+		"adddate": "20241004",
+		"keyword": [
+			"tracking",
+			"2D"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "EgoPet: Egomotion and Interaction Data from an Animal\u9225\u6a9a Perspective",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2404.09991",
+		"project_page": "https://github.com/DannyTran123/egopet",
+		"teaser": "Bar2024.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Amir Bar",
+			"Arya Bakhtiar",
+			"Danny Tran",
+			"Antonio Loquercio",
+			"Jathushan Rajasegaran",
+			"Yann LeCun",
+			"Amir Globerson",
+			"Trevor Darrell"
+		],
+		"adddate": "20241004",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "PetFace: A Large-Scale Dataset and Benchmark for Animal Identification",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2407.13555",
+		"project_page": "https://dahlian00.github.io/PetFacePage/",
+		"teaser": "Shinoda2024.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Risa Shinoda+https://sites.google.com/view/risashinoda/home",
+			"Kaede Shiohara+https://mapooon.github.io/"
+		],
+		"adddate": "20241004",
+		"keyword": [
+			"face"
+		],
+		"grade": "oral"
+	},
+	{
+		"title": "Ponymation: Learning Articulated 3D Animal Motions from Unlabeled Online Videos",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2312.13604",
+		"project_page": "https://keqiangsun.github.io/projects/ponymation",
+		"teaser": "Sun2024.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Keqiang Sun+https://keqiangsun.github.io/",
+			"Dor Litvak+https://dorlitvak.github.io/",
+			"Yunzhi Zhang",
+			"Hongsheng Li+https://www.ee.cuhk.edu.hk/~hsli/",
+			"Jiajun Wu+https://jiajunwu.com/",
+			"Shangzhe Wu+https://elliottwu.com/"
+		],
+		"adddate": "20241004",
+		"keyword": [
+			"horse",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Characterizing the structure of mouse behavior using Motion Sequencing",
+		"year": 2024,
+		"paper_link": "https://doi.org/10.1038/s41596-024-01015-w",
+		"project_page": "http://www.MoSeq4all.org",
+		"teaser": "Lin2024.jpg",
+		"journal": "Nature Protocols",
+		"authors": [
+			"Sherry Lin",
+			"Winthrop F. Gillis",
+			"Caleb Weinreb",
+			"Ayman Zeine",
+			"Samuel C. Jones",
+			"Emma M. Robinson",
+			"Jeffrey Markowitz",
+			"Sandeep Robert Datta"
+		],
+		"adddate": "20240926",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "SUBTLE: An Unsupervised Platform with Temporal Link Embedding that Maps Animal Behavior",
+		"year": 2024,
+		"paper_link": "https://doi.org/10.1007/s11263-024-02072-0",
+		"project_page": "none",
+		"teaser": "Kwon2024.jpg",
+		"journal": "IJCV",
+		"authors": [
+			"Jea Kwon",
+			"Sunpil Kim",
+			"Dong-Kyum Kim",
+			"Jinhyeong Joo",
+			"SoHyung Kim",
+			"Meeyoung Cha",
+			"C. Justin Lee"
+		],
+		"adddate": "20240926",
+		"keyword": [
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "AWOL: Analysis WithOut synthesis using Language",
+		"year": 2024,
+		"paper_link": "https://ps.is.mpg.de/uploads_file/attachment/attachment/774/AWOL_camera_ready.pdf",
+		"project_page": "https://awol.is.tue.mpg.de/",
+		"teaser": "Zuffi2024-2.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Silvia Zuffi",
+			"Michael J. Black"
+		],
+		"adddate": "20240926",
+		"keyword": [
+			"3d",
+			"mesh"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Multi-view Tracking, Re-ID, and Social Network Analysis of a Flock of Visually Similar Birds in an Outdoor Aviary",
+		"year": 2023,
+		"paper_link": "file:///D:/nutstore/paper/animal/[ijcv]%20bird.pdf",
+		"project_page": "none",
+		"teaser": "Xiao2023.jpg",
+		"journal": "IJCV",
+		"authors": [
+			"Shiting Xiao",
+			"Yufu Wang",
+			"Ammon Perkes",
+			"Bernd Pfrommer",
+			"Marc Schmidt",
+			"Kostas Daniilidis",
+			"Marc Badger"
+		],
+		"adddate": "20240926",
+		"keyword": [
+			"bird"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "DeepShapeKit: accurate 4D shape reconstruction of swimming fish",
+		"year": 2022,
+		"paper_link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9982097",
+		"project_page": "none",
+		"teaser": "Wu2022-2.jpg",
+		"journal": "IROS",
+		"authors": [
+			"Ruiheng Wu",
+			"Oliver Deussen",
+			"Liang Li"
+		],
+		"adddate": "20240926",
+		"keyword": [
+			"fish"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "YOLO-Behaviour: A simple, flexible framework to automatically quantify animal behaviours from videos",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.08.26.609387v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Chen2024-2.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Alex Hoi Hang Chan",
+			"Prasetia Putra",
+			"Harald Schupp",
+			"Johanna K\u679achling",
+			"Jana Stra\u813dheim",
+			"Britta Renner",
+			"Julia Schroeder",
+			"William D. Pearse",
+			"Shinichi Nakagawa",
+			"Terry Burke",
+			"Michael Griesser",
+			"Andrea Meltzer",
+			"Saverio Lubrano",
+			"Fumihiro Kano"
+		],
+		"adddate": "20240909",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "High-throughput unsupervised quantification of patterns in the natural behavior of marmosets",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.08.30.610159v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Menegas2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"William Menegas",
+			"Erin Corbett",
+			"Kimberly Beliard",
+			"Haoran Xu",
+			"Shivangi Parmar",
+			"Robert Desimone",
+			"Guoping Feng"
+		],
+		"adddate": "20240909",
+		"keyword": [
+			"marmosets"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Long-term tracking of social structure in groups of rats",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.03.18.533183v4.full.pdf",
+		"project_page": "none",
+		"teaser": "Nagy2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"M\u9e93at\u9e93e Nagy",
+			"Jacob D. Davidson",
+			"G\u9e93abor V\u9e93as\u9e93arhelyi",
+			"D\u9e93aniel Abel",
+			"Enik\u85f5o Kubinyi",
+			"Ahmed El Hady",
+			"Tam\u9e93as Vicsek"
+		],
+		"adddate": "20240909",
+		"keyword": [
+			"rat",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Marigold: A machine learning-based web app for zebrafish pose tracking",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.05.31.596910v1.full.pdf",
+		"project_page": "https://downeslab.github.io/marigold/",
+		"teaser": "Teicher2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Gregory Teicher",
+			"R. Madison Riffe",
+			"Wayne Barnaby",
+			"Gabrielle Martin",
+			"Benjamin E. Clayton",
+			"Josef G. Trapani",
+			"Gerald B. Downes+https://www.downeslab.org/"
+		],
+		"adddate": "20240909",
+		"keyword": [
+			"zebrafish"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "PriMAT: A robust multi-animal tracking model for primates in the wild",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.08.21.607881v1.full.pdf",
+		"project_page": "https://github.com/ecker-lab/PriMAT-tracking",
+		"teaser": "Vogg2024-2.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Richard Vogg",
+			"Matthias Nuske",
+			"Marissa A. Weis",
+			"Timo L\u7bd3uddecke",
+			"Elif Karako\u8d42c",
+			"Zurna Ahmed",
+			"Sofia M. Pereira",
+			"Suchinda Malaivijitnond",
+			"Suthirote Meesawat",
+			"Florentin W\u7bd3org\u7bd3otter",
+			"Peter M. Kappeler",
+			"Alexander Gail",
+			"Julia Ostner",
+			"Oliver Sch\u7bd3ulke",
+			"Claudia Fichtel",
+			"Alexander S. Ecker+https://eckerlab.org/"
+		],
+		"adddate": "20240822",
+		"keyword": [
+			"primate"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Peering into the world of wild passerines with 3D-SOCS: synchronized video capture and posture estimation",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.06.30.601375v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Chimento2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Michael Chimento",
+			"Alex Hoi Hang Chan",
+			"Lucy M. Aplin",
+			"Fumihiro Kano"
+		],
+		"adddate": "20240729",
+		"keyword": [
+			"bird"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Quantifying social roles in multi-animal videos using subject-aware deep-learning",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.07.07.602350v1.full.pdf",
+		"project_page": "https://github.com/umyelab/LabGym",
+		"teaser": "Goss2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Kelly Goss",
+			"Lezio S. Bueno-Junior",
+			"Katherine Stangis",
+			"Th\u8305o Ardoin",
+			"Hanna Carmon",
+			"Jie Zhou",
+			"Rohan Satapathy",
+			"Isabelle Baker",
+			"Carolyn E. Jones-Tinsley",
+			"Miranda M. Lim",
+			"Brendon O. Watson",
+			"C\u8305dric Sueur",
+			"Carrie R. Ferrario",
+			"Geoffrey G. Murphy",
+			"Bing Ye",
+			"Yujia Hu+https://medicine.umich.edu/dept/cdb/yujia-hu"
+		],
+		"adddate": "20240729",
+		"keyword": [
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Animal Avatars: Reconstructing Animatable 3D Animals from Casual Videos",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/abs/2403.17103",
+		"project_page": "https://remysabathier.github.io/animalavatar.github.io/",
+		"teaser": "Sabathier2024.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Remy Sabathier",
+			"Niloy J. Mitra",
+			"David Novotny"
+		],
+		"adddate": "20240729",
+		"keyword": [
+			"dog",
+			"3d",
+			"avatar"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Three-dimensional body reconstruction enables quantification of liquid consumption in small invertebrates",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.06.14.599002v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Galante2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Henrique Galante",
+			"Tomer J. Czaczkes",
+			"Massimo De Agr\u8c8c"
+		],
+		"adddate": "20240728",
+		"keyword": [
+			"liquid"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Lightning Pose: improved animal pose estimation via semi-supervised learning, Bayesian ensembling and cloud-native open-source tools",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41592-024-02319-1",
+		"project_page": "https://github.com/danbider/lightning-pose/",
+		"teaser": "Biderman2024.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Dan Biderman",
+			"Matthew R. Whiteway",
+			"Cole Hurwitz",
+			"Nicholas Greenspan",
+			"Robert S. Lee",
+			"Ankit Vishnubhotla",
+			"Richard Warren",
+			"Federico Pedraja",
+			"Dillon Noone",
+			"Michael M. Schartner",
+			"Julia M. Huntenburg",
+			"Anup Khanal",
+			"Guido T. Meijer",
+			"Jean-Paul Noel",
+			"Alejandro Pan-Vazquez",
+			"Karolina Z. Socha",
+			"Anne E. Urai",
+			"The International Brain Laboratory",
+			"John P. Cunningham",
+			"Nathaniel B. Sawtell",
+			"Liam Paninski+https://ctn.zuckermaninstitute.columbia.edu/people/liam-paninski"
+		],
+		"adddate": "20240714",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Keypoint-MoSeq: parsing behavior by linking point tracking to pose dynamics",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41592-024-02318-2",
+		"project_page": "https://github.com/dattalab/keypoint-moseq",
+		"teaser": "Weinreb2023.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Caleb Weinreb",
+			"Jonah E. Pearl",
+			"Sherry Lin",
+			"Mohammed Abdal Monium Osman",
+			"Libby Zhang",
+			"Sidharth Annapragada",
+			"Eli Conlin",
+			"Red Hoffmann",
+			"Sofia Makowska",
+			"Winthrop F. Gillis",
+			"Maya Jay",
+			"Ye Shaokai",
+			"Alexander Mathis",
+			"Mackenzie Weygandt Mathis",
+			"Talmo Pereira",
+			"Scott W. Linderman",
+			"Sandeep Robert Datta"
+		],
+		"adddate": "20240714",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "The Poses for Equine Research Dataset (PFERD)",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41597-024-03312-1",
+		"project_page": "https://github.com/Celiali/PFERD",
+		"teaser": "Li2024.jpg",
+		"journal": "Scientific Data",
+		"authors": [
+			"Ci Li",
+			"Ylva Mellbin",
+			"Johanna Krogager",
+			"Senya Polikovsky",
+			"Martin Holmberg",
+			"Nima Ghorbani",
+			"Michael J. Black",
+			"Hedvig Kjellstr\u679am",
+			"Silvia Zuffi",
+			"Elin Hernlund"
+		],
+		"adddate": "20240522",
+		"keyword": [
+			"horse",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "VAREN: Very Accurate and Realistic Equine Network",
+		"year": 2024,
+		"paper_link": "https://ps.is.mpg.de/uploads_file/attachment/attachment/764/zuffi_varen_CVPR2024.pdf",
+		"project_page": "https://varen.is.tue.mpg.de/",
+		"teaser": "zuffi2024.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Silvia Zuffi",
+			"Ylva Mellbin",
+			"Ci Li",
+			"Markus Hoeschle",
+			"Hedvig Kjellstr\u679am",
+			"Senya Polikovsky",
+			"Elin Hernlund",
+			"Michael J. Black"
+		],
+		"adddate": "20240514",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "TrAQ: a novel, versatile, semi-automated two-dimensional motor behavioural tracking software",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.05.05.592556v1",
+		"project_page": "none",
+		"teaser": "Censo2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Davide Di Censo",
+			"Ilaria Rosa",
+			"Brigida Ranieri",
+			"Tiziana DiLorenzo",
+			"Marcello Alecci",
+			"Tiziana Marilena Florio",
+			"Angelo Galante"
+		],
+		"adddate": "20240509",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A 3Dwhole-face movement analysis system to uncover underlying physiology in mice",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.05.07.593051v1",
+		"project_page": "none",
+		"teaser": "Daruwalla2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Kyle Daruwalla",
+			"Irene Nozal Martin",
+			"Andrew Frankel",
+			"Diana Nagli\u81b7",
+			"Zainab Ahmad",
+			"Xun Helen Hou+https://helenxhou.github.io/"
+		],
+		"adddate": "20240509",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Deep Imputation for Skeleton Data (DISK) for  Behavioral Science",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.05.03.592173v1",
+		"project_page": "none",
+		"teaser": "Rose2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"France Rose",
+			"Monika Michaluk",
+			"Timon Blindauer",
+			"Bogna M. Ignatowska-Jankowska",
+			"Liam O\u9225\u6a72haughnessy",
+			"Greg J. Stephens",
+			"Talmo D. Pereira+https://talmopereira.com/",
+			"Marylka Y. Uusisaari",
+			"Katarzyna Bozek+https://www.bozek-lab.cmmc-uni-koeln.de/team/research-group-leaders-cv"
+		],
+		"adddate": "20240509",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Visuo-frontal interactions during social learning in freely moving macaques",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41586-024-07084-x",
+		"project_page": "none",
+		"teaser": "franch2024.jpg",
+		"journal": "Nature",
+		"authors": [
+			"M. Franch",
+			"S. Yellapantula",
+			"A. Parajuli",
+			"N. Kharas",
+			"A. Wright",
+			"B. Aazhang",
+			"V. Dragoi"
+		],
+		"adddate": "20240509",
+		"keyword": [
+			"monkey"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Neural signatures of natural behaviour in socializing macaques",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41586-024-07178-6",
+		"project_page": "none",
+		"teaser": "testard2024.jpg",
+		"journal": "Nature",
+		"authors": [
+			"Camille Testard",
+			"S\u8305bastien Tremblay",
+			"Felipe Parodi",
+			"Ron W. DiTullio",
+			"Arianna Acevedo-Ithier",
+			"Kristin L. Gardiner",
+			"Konrad Kording",
+			"Michael L. Platt+https://psychology.sas.upenn.edu/people/michael-l-platt"
+		],
+		"adddate": "20240509",
+		"keyword": [
+			"3d",
+			"monkey",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "replicAnt: a pipeline for generating annotated images of animals in complex environments using Unreal Engine",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41467-023-42898-9#Ack1",
+		"project_page": "https://github.com/evo-biomech/replicAnt",
+		"teaser": "Plum2023.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Fabian Plum",
+			"Ren\u8305 Bulla",
+			"Hendrik K. Beck",
+			"Natalie Imirzian",
+			"David Labonte+https://evo-biomech.ic.ac.uk/people/#team"
+		],
+		"adddate": "20240303",
+		"keyword": [
+			"ant"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Investigating the use of odour and colour foraging cues by rosy-faced lovebirds (Agapornis roseicollis) using deep-learning based behavioural analysis",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.02.18.580921v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Tsang2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Winson King Wai Tsang",
+			"Emily Shui Kei Poon",
+			"Chris Newman",
+			"Christina D. Buesching",
+			"Simon Yung Wa Sin"
+		],
+		"adddate": "20240226",
+		"keyword": [
+			"bird"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Automated 3D analysis of social head-gaze behaviors in freely moving marmosets",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.02.16.580693v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Xing2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Feng Xing",
+			"Alec G. Sheffield",
+			"Monika P. Jadi",
+			"Steve W.C Chang",
+			"Anirvan S. Nandy+https://medicine.yale.edu/profile/anirvan-nandy/"
+		],
+		"adddate": "20240226",
+		"keyword": [
+			"marmosets"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A-SOiD, an active learning platform for expert-guided, data efficient discovery of behavior",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s41592-024-02200-1",
+		"project_page": "https://github.com/YttriLab/A-SOID",
+		"teaser": "Schweihoff2022.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Jens F. Tillmann",
+			"Alexander I. Hsu",
+			"Martin K. Schwarz",
+			"Eric A. Yttri+https://www.cmu.edu/bio/people/faculty/yttri.html"
+		],
+		"adddate": "20240225",
+		"keyword": [
+			"mouse",
+			"monkey",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "vmTracking: Virtual Markers Overcome Occlusion and Crowding in Multi-Animal Pose Tracking",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.02.07.579241v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Azechi2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Hirotsugu Azechi",
+			"Susumu Takahashi"
+		],
+		"adddate": "20240210",
+		"keyword": [
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "ARBUR, a machine learning-based analysis system for relating behaviors and ultrasonic vocalizations of rats",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.12.19.572288v2.full.pdf",
+		"project_page": "none",
+		"teaser": "Chen2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Zhe Chen",
+			"Guanglu Jia",
+			"Qijie Zhou",
+			"Yulai Zhang",
+			"Zhenzhen Quan",
+			"Xuechao Chen",
+			"Toshio Fukuda",
+			"Qiang Huang",
+			"Qing Shi+https://www.researchgate.net/profile/Qing-Shi-16"
+		],
+		"adddate": "20240210",
+		"keyword": [
+			"rat"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "WILDPOSE: A LONG-RANGE 3D WILDLIFE MOTION CAPTURE SYSTEM",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.02.05.578861v2.full.pdf",
+		"project_page": "none",
+		"teaser": "Muramatsu2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Naoya Muramatsu",
+			"Sangyun Shin",
+			"Qianyi Deng",
+			"Andrew Markham",
+			"Amir Patel+https://www.africanroboticsunit.com/"
+		],
+		"adddate": "20240210",
+		"keyword": [
+			"wild"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Combining Unity with machine vision to create low latency, flexible, and simple virtual realities",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.02.05.579029v1.full.pdf",
+		"project_page": "https://anonymous.4open.science/r/2489/README.md",
+		"teaser": "Ogawa2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Yuri Ogawa",
+			"Raymond Aoukar",
+			"Richard Leibbrandt",
+			"Jake S Manger",
+			"Zahra M Bagheri",
+			"Luke Turnbull",
+			"Chris Johnston",
+			"Pavan K Kaushik",
+			"Jan M Hemmi",
+			"Karin Nordstr\u679am+https://hoverflyvision.weebly.com/"
+		],
+		"adddate": "20240210",
+		"keyword": [
+			"VR"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "MacAction: Realistic 3D macaque body animation based on multi-camera markerless motion capture",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.01.29.577734v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Martini2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Lucas M. Martini",
+			"Anna Bogn\u9e93ar",
+			"Rufin Vogels",
+			"Martin A. Giese"
+		],
+		"adddate": "20240204",
+		"keyword": [
+			"macaque"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "DAMM for the detection and tracking of multiple animals within complex social and environmental settings",
+		"year": 2024,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.01.18.576153v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Kaul2024.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Gaurav Kaul",
+			"Jonathan McDevitt",
+			"Justin Johnson",
+			"Ada Eban-Rothschild"
+		],
+		"adddate": "20240203",
+		"keyword": [
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Computer Vision for Primate Behavior Analysis in the Wild",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2401.16424.pdf",
+		"project_page": "none",
+		"teaser": "Vogg2024.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Richard Vogg",
+			"Timo Luddecke",
+			"Jonathan Henrich",
+			"Sharmita Dey",
+			"Matthias Nuske",
+			"Valentin Hassler",
+			"Derek Murphy",
+			"Julia Fischer",
+			"Julia Ostner",
+			"Oliver Schulke",
+			"Peter M. Kappeler",
+			"Claudia Fichte",
+			"Alexander Gail",
+			"Stefan Treue",
+			"Hansjorg Scherberger",
+			"Florentin Worg otter",
+			"Alexander S. Ecker+https://eckerlab.org/"
+		],
+		"adddate": "20240131",
+		"keyword": [
+			"primate"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "PanAf20K: A Large Video Dataset for Wild Ape Detection and Behaviour Recognition",
+		"year": 2024,
+		"paper_link": "https://arxiv.org/pdf/2401.13554.pdf",
+		"project_page": "https://obrookes.github.io/panaf.github.io/",
+		"teaser": "brookes2024.jpg",
+		"journal": "IJCV",
+		"authors": [
+			"Otto Brookes et.al."
+		],
+		"adddate": "20240125",
+		"keyword": [
+			"ape"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Multi-animal 3D social pose estimation, identification and behaviour embedding with a few-shot learning framework",
+		"year": 2024,
+		"paper_link": "https://www.nature.com/articles/s42256-023-00776-5",
+		"project_page": "none",
+		"teaser": "Han2023.jpg",
+		"journal": "Nature Machine Intelligence",
+		"authors": [
+			"Yaning Han+https://loop.frontiersin.org/people/2018185/overview",
+			"Ke Chen",
+			"Yunke Wang",
+			"Wenhao Liu",
+			"Zhouwei Wang",
+			"Xiaojing Wang",
+			"Chuanliang Han",
+			"Jiahui Liao",
+			"Kang Huang",
+			"Shengyuan Cai",
+			"Yiting Huang",
+			"Nan Wang",
+			"Jinxiu Li",
+			"Yangwangzi Song",
+			"Jing Li",
+			"Guodong Wang",
+			"Liping Wang+http://wanglab.siat.ac.cn/wanglab_en/index.php?a=publications",
+			"Yaping Zhang",
+			"Pengfei Wei+http://bcbdi.siat.ac.cn/index.php/member2/showMember/nid/92.shtml"
+		],
+		"adddate": "20240115",
+		"keyword": [
+			"3d",
+			"social",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Facemap: a framework for modeling neural activity based on orofacial tracking",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41593-023-01490-6",
+		"project_page": "https://github.com/MouseLand/rastermap",
+		"teaser": "Syeda2023.jpg",
+		"journal": "Nature Neuroscience",
+		"authors": [
+			"Atika Syeda",
+			"Lin Zhong",
+			"Renee Tung",
+			"Will Long",
+			"Marius Pachitariu",
+			"Carsen Stringer+https://mouseland.github.io/"
+		],
+		"adddate": "20231128",
+		"keyword": [
+			"mouse",
+			"face"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Three-dimensional surface motion capture of multiple freely moving pigs using MAMMAL",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41467-023-43483-w",
+		"project_page": "none",
+		"teaser": "An2023.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Liang An+http://anl13.github.io/",
+			"Jilong Ren",
+			"Tao Yu+http://ytrock.com/",
+			"Tang Hai",
+			"Yichang Jia+https://www.jialabtsinghua.com/",
+			"Yebin Liu+https://www.liuyebin.com/"
+		],
+		"adddate": "20231126",
+		"keyword": [
+			"3d",
+			"pig",
+			"social",
+			"mesh"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "DeepLabCut-based Behavioural and Posture Analysis in a Cricket",
+		"year": 2023,
+		"paper_link": "https://doi.org/10.1101/2023.11.14.567118",
+		"project_page": "none",
+		"teaser": "Hayakawa2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Shota Hayakawa",
+			"Kosuke Kataoka",
+			"Masanobu Yamamoto",
+			"Toru Asahi",
+			"Takeshi Suzuki+https://web.tuat.ac.jp/~tszk/publications.html"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"Cricket"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Distinct developmental trajectories of autonomous behaviors and agency in rodents",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.11.10.566632v1",
+		"project_page": "none",
+		"teaser": "Mitelut2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"C Mitelut",
+			"M Diez Castro",
+			"RE Peterson",
+			"M Gon\u83bdalves",
+			"MM Gamer",
+			"SRO Nilsson",
+			"TD Pereira",
+			"DH Sanes"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"gerbil"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "BARN: Behavior-Aware Relation Network for multi-label behavior detection in socially housed macaques",
+		"year": 2023,
+		"paper_link": "https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2022.485",
+		"project_page": "none",
+		"teaser": "Yang2023-2.jpg",
+		"journal": "Zoological Research",
+		"authors": [
+			"Sen Yang",
+			"Zhi-Yuan Chen",
+			"Ke-Wei Liang",
+			"Cai-Jie Qin",
+			"Yang Yang",
+			"Wen-Xuan Fan",
+			"Chen-Lu Jie",
+			"Xi-Bo Ma"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"monkey"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "CATER: Combined Animal Tracking & Environment Reconstruction",
+		"year": 2023,
+		"paper_link": "https://www.science.org/doi/10.1126/sciadv.adg2094",
+		"project_page": "none",
+		"teaser": "Haalck2023.jpg",
+		"journal": "Science Advances",
+		"authors": [
+			"Lars Haalck",
+			"Michael Mangan",
+			"Antoine Wystrach",
+			"Leo Clement",
+			"Barbara Webb",
+			"Benjamin Risse+https://www.uni-muenster.de/Geoinformatics.cvmls/people/risse.shtml"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"ecology"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "SMART-BARN: Scalable multimodal arena for real-time tracking behavior of animals in large numbers",
+		"year": 2023,
+		"paper_link": "https://www.science.org/doi/10.1126/sciadv.adf8068",
+		"project_page": "none",
+		"teaser": "Nagy2023-2.jpg",
+		"journal": "Science Advances",
+		"authors": [
+			"M\u8c29t\u8305 Nagy",
+			"Hemal Naik",
+			"Fumihiro Kano",
+			"Nora V. Carlson",
+			"Jens C. Koblitz",
+			"Martin Wikelski",
+			"Iain D. Couzin+https://www.ab.mpg.de/couzin"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Hierarchical organization of rhesus macaque behavior",
+		"year": 2023,
+		"paper_link": "https://doi.org/10.1093/oons/kvad006",
+		"project_page": "none",
+		"teaser": "Voloh2021.jpg",
+		"journal": "Oxford Open Neuroscience",
+		"authors": [
+			"Benjamin Voloh",
+			"Benjamin R. Eisenreich",
+			"David J-N. Maisson",
+			"R. Becket Ebitz",
+			"Hyun Soo Park",
+			"Benjamin Y. Hayden",
+			"Jan Zimmermann"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"monkey",
+			"behavior",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Open-source tools for behavioral video analysis: Setup, methods, and best practices",
+		"year": 2023,
+		"paper_link": "https://elifesciences.org/articles/79305",
+		"project_page": "none",
+		"teaser": "Luxem2023.jpg",
+		"journal": "Elife",
+		"authors": [
+			"Kevin Luxem",
+			"Jennifer J Sun",
+			"Sean P Bradley",
+			"Keerthi Krishnan",
+			"Eric Yttri",
+			"Jan Zimmermann",
+			"Talmo D Pereira+https://talmopereira.com/",
+			"Mark Laubach+https://www.american.edu/cas/faculty/laubach.cfm"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"review"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Automated measurement of livestock body based on pose normalisation using statistical shape model",
+		"year": 2023,
+		"paper_link": "https://www.sciencedirect.com/science/article/pii/S1537511023000211",
+		"project_page": "none",
+		"teaser": "Luo2023.jpg",
+		"journal": "Biosystems Engineering",
+		"authors": [
+			"Xinying Luo",
+			"Yihu Hu",
+			"Zicheng Gao",
+			"Hao Guo",
+			"Yang Su"
+		],
+		"adddate": "20231125",
+		"keyword": [
+			"pig",
+			"3d",
+			"mesh"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Establishing an AI-based evaluation system that quantifies social/pathophysiological behaviors of common marmosets",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.10.16.561623v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Kaneko2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Takaaki Kaneko",
+			"Jumpei Matsumoto",
+			"Wanyi Lu",
+			"Xincheng Zhao",
+			"Louie Richard UenoNigh",
+			"Takao Oishi",
+			"Kei Kimura",
+			"Yukiko Otsuka",
+			"Andi Zheng",
+			"Kensuke Ikenaka",
+			"Kousuke Baba",
+			"Hideki Mochizuki",
+			"Hisao Nishijo",
+			"Ken-ichi Inoue",
+			"Masahiko Takada"
+		],
+		"adddate": "20231019",
+		"keyword": [
+			"monkey",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41467-023-40040-3",
+		"project_page": "https://zenodo.org/record/8013401",
+		"teaser": "Bordes2023.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Joeri Bordes",
+			"Lucas Miranda",
+			"Maya Reinhardt",
+			"Sowmya Narayan",
+			"Jakob Hartmann",
+			"Emily L. Newman",
+			"Lea Maria Brix",
+			"Lotte van Doeselaar",
+			"Clara Engelhardt",
+			"Larissa Dillmann",
+			"Shiladitya Mitra",
+			"Kerry J. Ressler",
+			"Benno P\u7709tz",
+			"Felix Agakov",
+			"Bertram M\u7709ller-Myhsok",
+			"Mathias V. Schmidt"
+		],
+		"adddate": "20231008",
+		"keyword": [
+			"mouse",
+			"3d",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "LoTE-Animal: A Long Time-span Dataset for Endangered Animal Behavior Understanding",
+		"year": 2023,
+		"paper_link": "https://openaccess.thecvf.com/content/ICCV2023/html/Liu_LoTE-Animal_A_Long_Time-span_Dataset_for_Endangered_Animal_Behavior_Understanding_ICCV_2023_paper.html",
+		"project_page": "https://lote-animal.github.io/",
+		"teaser": "Liu2023.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Dan Liu",
+			"Jin Hou",
+			"Shaoli Huang",
+			"Jing Liu",
+			"Yuxin He",
+			"Bochuan Zheng",
+			"Jifeng Ning+https://cie.nwsuaf.edu.cn/szdw/js/2008116162/index.htm",
+			"Jindong Zhang"
+		],
+		"adddate": "20231008",
+		"keyword": [
+			"animal"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Stimulatory effect of monoacylglycerol lipase inhibitor MJN110 on locomotion and step kinematics demonstrated by high-precision 3D motion capture in mice",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.06.25.546437v2.full.pdf",
+		"project_page": "none",
+		"teaser": "Bogna2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Bogna M. Ignatowska-Jankowska",
+			"Aysen Gurkan Ozer",
+			"Alexander Kuck",
+			"Micah J. Niphakis",
+			"Daisuke Ogasawara",
+			"Benjamin F. Cravatt",
+			"Marylka Y. Uusisaari"
+		],
+		"adddate": "20230920",
+		"keyword": [
+			"mouse",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Simultaneous recording of ultrasonic vocalizations and sniffing from socially interacting individual rats using a miniature microphone",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.09.02.556068v1.full.pdf",
+		"project_page": "none",
+		"teaser": "John2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Shanah Rachel John",
+			"Rishika Tiwari",
+			"Yizhaq Goussha",
+			"Rotem Amar",
+			"Alex Bizer",
+			"Shai Netser",
+			"Shlomo Wagner"
+		],
+		"adddate": "20230920",
+		"keyword": [
+			"mouse",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Automated Maternal Behavior during Early life in Rodents (AMBER) pipeline",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.09.15.557946v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Lapp2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Hannah E. Lapp",
+			"Melissa G. Salazar",
+			"Frances A. Champagne"
+		],
+		"adddate": "20230920",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Three-dimensional markerless motion capture of multiple freely behaving monkeys for automated characterization of social behavior",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.09.13.556332v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Matsumoto2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Jumpei Matsumoto",
+			"Takaaki Kaneko",
+			"Kei Kimura",
+			"Salvador Blanco Negrete",
+			"Jia Guo",
+			"Naoko Suda-Hashimoto",
+			"Akihisa Kaneko",
+			"Mayumi Morimoto",
+			"Hiroshi Nishimaru",
+			"Tsuyoshi Setogawa",
+			"Yasuhiro Go",
+			"Tomohiro Shibata",
+			"Hisao Nishijo",
+			"Masahiko Takada",
+			"Ken-ichi Inoue"
+		],
+		"adddate": "20230920",
+		"keyword": [
+			"monkey",
+			"3d",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "3D mouse pose from single\u9225\u618aiew video and a new dataset",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41598-023-40738-w",
+		"project_page": "https://google.github.io/mouse-pose-analysis-dataset/",
+		"teaser": "Hu2023.jpg",
+		"journal": "Scientific Reports",
+		"authors": [
+			"Bo Hu",
+			"Bryan Seybold",
+			"Shan Yang",
+			"Avneesh Sud",
+			"Yi Liu",
+			"Karla Barron",
+			"Paulyn Cha",
+			"Marcelo Cosino",
+			"Ellie Karlsson",
+			"Janessa Kite",
+			"Ganesh Kolumam",
+			"Joseph Preciado",
+			"Jos\u8305 Zavala\u9225\u6161olorio",
+			"Chunlian Zhang",
+			"Xiaomeng Zhang",
+			"Martin Voorbach",
+			"Ann E.Tovcimak",
+			"J.Graham Ruby",
+			"David A. Ross"
+		],
+		"adddate": "20230824",
+		"keyword": [
+			"mouse",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Animal3D: A Comprehensive Dataset of 3D Animal Pose and Shape",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2308.11737.pdf",
+		"project_page": "https://xujiacong.github.io/Animal3D/",
+		"teaser": "Xu2023.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Jiacong Xu+https://xujiacong.github.io/",
+			"Yi Zhang",
+			"Jiawei Peng",
+			"Wufei Ma",
+			"Artur Jesslen",
+			"Pengliang Ji",
+			"Qixin Hu",
+			"Jiehua Zhang",
+			"Qihao Liu",
+			"Jiahao Wang",
+			"Wei Ji",
+			"Chen Wang",
+			"Xiaoding Yuan",
+			"Prakhar Kaushik",
+			"Guofeng Zhang",
+			"Jie Liu",
+			"Yushan Xie",
+			"Yawen Cui",
+			"Alan Yuille+https://www.cs.jhu.edu/~ayuille/",
+			"Adam Kortylewski"
+		],
+		"adddate": "20230824",
+		"keyword": [
+			"3d",
+			"smal"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "PPR: Physically Plausible Reconstruction from Monocular Videos",
+		"year": 2023,
+		"paper_link": "https://gengshan-y.github.io/ppr/PPR.pdf",
+		"project_page": "https://gengshan-y.github.io/ppr/",
+		"teaser": "Yang2023.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Gengshan Yang",
+			"Shuo Yang",
+			"John Z. Zhang",
+			"Zachary Manchester",
+			"Deva Ramanan"
+		],
+		"adddate": "20230824",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "AmadeusGPT: a natural language interface for interactive animal behavioral analysis",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2307.04858.pdf",
+		"project_page": "https://github.com/AdaptiveMotorControlLab/AmadeusGPT",
+		"teaser": "Ye2023-2.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Shaokai Ye+https://yeshaokai.github.io/",
+			"Jessy Lauer",
+			"Mu Zhou",
+			"Alexander Mathis",
+			"Mackenzie Weygandt Mathis"
+		],
+		"adddate": "20230712",
+		"keyword": [
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "ARTIC3D: Learning Robust Articulated 3D Shapes from Noisy Web Image Collections",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2306.04619.pdf",
+		"project_page": "https://chhankyao.github.io/artic3d/",
+		"teaser": "Yao2023.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Chun-Han Yao",
+			"Amit Raj",
+			"Wei-Chih Hung",
+			"Yuanzhen Li",
+			"Michael Rubinstein",
+			"Ming-Hsuan Yang",
+			"Varun Jampani+https://varunjampani.github.io/"
+		],
+		"adddate": "20230708",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Behavioral decomposition reveals rich encoding structure employed across neocortex in rats",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41467-023-39520-3",
+		"project_page": "https://github.com/bartulem/KISN-PyLab",
+		"teaser": "Mimica2023.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Bartul Mimica",
+			"Tu\u83bde Tombaz",
+			"Claudia Battistin",
+			"Jingyi Guo Fuglstad",
+			"Benjamin A. Dunn",
+			"Jonathan R. Whitlock"
+		],
+		"adddate": "20230708",
+		"keyword": [
+			"behavior",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "MABe22: A Multi-Species Multi-Task Benchmark for Learned Representations of Behavior",
+		"year": 2023,
+		"paper_link": "https://openreview.net/pdf?id=Asrg2we3dP",
+		"project_page": "https://sites.google.com/view/computational-behavior/our-datasets/mabe2022-dataset",
+		"teaser": "Sun2022.jpg",
+		"journal": "ICML",
+		"authors": [
+			"Jennifer J. Sun",
+			"Markus Marks",
+			"Andrew W. Ulmer",
+			"Dipam Chakraborty",
+			"Brian Geuther",
+			"Edward Hayes",
+			"Heng Jia",
+			"Vivek Kumar",
+			"Sebastian Oleszko",
+			"Zachary Partridge",
+			"Milan Peelman",
+			"Alice Robie",
+			"Catherine E. Schretter",
+			"Keith Sheppard",
+			"Chao Sun",
+			"Param Uttarwar",
+			"Julian M. Wagner",
+			"Erik Werner",
+			"Joseph Parker",
+			"Pietro Perona",
+			"Yisong Yue",
+			"Kristin Branson",
+			"Ann Kennedy"
+		],
+		"adddate": "20230708",
+		"keyword": [
+			"mouse",
+			"2d",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "3D-POP - An automated annotation approach to facilitate markerless 2D-3D tracking of freely moving birds with marker-based motion capture",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2303.13174.pdf",
+		"project_page": "https://github.com/alexhang212/dataset-3dpop",
+		"teaser": "Naik2023.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Hemal Naik",
+			"Alex Hoi Hang Chan",
+			"Junran Yang",
+			"Mathilde Delacoux",
+			"Iain D. Couzin",
+			"Fumihiro Kano",
+			"Mate Nagy"
+		],
+		"adddate": "20230622",
+		"keyword": [
+			"bird",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "SuperAnimal models pretrained for plug-and-play analysis of animal behavior",
+		"year": 2023,
+		"paper_link": "https://arxiv-export3.library.cornell.edu/abs/2203.07436v2",
+		"project_page": "none",
+		"teaser": "Ye2023.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Shaokai Ye+https://yeshaokai.github.io/",
+			"Anastasiia Filippova",
+			"Jessy Lauer",
+			"Maxime Vidal",
+			"Steffen Schneider",
+			"Tian Qiu",
+			"Alexander Mathis",
+			"Mackenzie Weygandt Mathis"
+		],
+		"adddate": "20230610",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "CatFLW: Cat Facial Landmarks in the Wild Dataset",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2305.04232.pdf",
+		"project_page": "https://www.tech4animals.org/catflw",
+		"teaser": "Martvel2023.jpg",
+		"journal": "CV4Animals Workshop in CVPR",
+		"authors": [
+			"George Martvel",
+			"Nareed Farhat",
+			"Ilan Shimshoni",
+			"Anna Zamansky"
+		],
+		"adddate": "20230610",
+		"keyword": [
+			"2d",
+			"face",
+			"cat"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Decompose to Generalize: Species-Generalized Animal Pose Estimation",
+		"year": 2023,
+		"paper_link": "https://openreview.net/pdf?id=nQai_B1Zrt",
+		"project_page": "none",
+		"teaser": "Li2023-2.jpg",
+		"journal": "ICLR",
+		"authors": [
+			"Guangrui Li",
+			"Yifan Sun",
+			"Zongxin Yang",
+			"Yi Yang"
+		],
+		"adddate": "20230607",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "MammalNet: A Large-scale Video Benchmark for Mammal Recognition and Behavior Understanding",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/abs/2306.00576",
+		"project_page": "https://mammal-net.github.io/#:~:text=We%20propose%20MammalNet%2C%20a%20large-scale%20video%20benchmark%20for,12%20common%20high-level%20mammal%20behaviors%20%28e.g.%2C%20hunt%2C%20groom%29.",
+		"teaser": "Chen2023.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Jun Chen+https://junchen14.github.io/",
+			"Ming Hu+https://minghu0830.github.io/",
+			"Darren J. Coker",
+			"Michael L. Berumen",
+			"Blair Costelloe",
+			"Sara Beery",
+			"Anna Rohrbach+https://anna-rohrbach.net/",
+			"Mohamed Elhoseiny+https://www.mohamed-elhoseiny.com/research-work-and-publications.html"
+		],
+		"adddate": "20230603",
+		"keyword": [
+			"2d",
+			"video"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "BITE: Beyond Priors for Improved Three-D Dog Pose Estimation",
+		"year": 2023,
+		"paper_link": "none",
+		"project_page": "https://bite.is.tue.mpg.de/",
+		"teaser": "Ruegg2023.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Nadine R\u7709egg",
+			"Shashank Tripathi",
+			"Konrad Schindler",
+			"Michael J. Black",
+			"Silvia Zuffi"
+		],
+		"adddate": "20230517",
+		"keyword": [
+			"3d",
+			"dog"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "MagicPony: Learning Articulated 3D Animals in the Wild",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2211.12497.pdf",
+		"project_page": "https://3dmagicpony.github.io/",
+		"teaser": "Wu2022.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Shangzhe Wu+https://elliottwu.com/",
+			"Ruining Li+https://ruiningli.com/",
+			"Tomas Jakab+https://www.robots.ox.ac.uk/~tomj/",
+			"Christian Rupprecht+https://chrirupp.github.io/",
+			"Andrea Vedaldi+https://www.robots.ox.ac.uk/~vedaldi/"
+		],
+		"adddate": "20230517",
+		"keyword": [
+			"3d",
+			"horse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "CLAMP: Prompt-based Contrastive Learning for Connecting Language and Animal Pose",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2206.11752.pdf",
+		"project_page": "none",
+		"teaser": "Zhang2023.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Xu Zhang",
+			"Wen Wang",
+			"Zhe Chen",
+			"Yufei Xu",
+			"Jing Zhang",
+			"Dacheng Tao"
+		],
+		"adddate": "20230517",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "3D shape reconstruction of semi-transparent worms",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/abs/2304.14841",
+		"project_page": "none",
+		"teaser": "Ilett2023.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Thomas P. Ilett",
+			"Omer Yuval",
+			"Thomas Ranner",
+			"Netta Cohen+https://eps.leeds.ac.uk/computing/staff/301/professor-netta-cohen",
+			"David C. Hogg+https://eps.leeds.ac.uk/computing/staff/84/professor-david-hogg"
+		],
+		"adddate": "20230504",
+		"keyword": [
+			"worm"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A robust and flexible deep-learning workflow for animal tracking",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.04.20.537633v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Dutta2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Abhishek Dutta+https://www.robots.ox.ac.uk/~adutta/",
+			"Natalia P\u8305rez-Campanero+https://www.biology.ox.ac.uk/people/natalia-perez-campanero-antolin",
+			"Graham K. Taylor+https://www.biology.ox.ac.uk/people/professor-graham-taylor",
+			"Andrew Zisserman+https://eng.ox.ac.uk/people/andrew-zisserman/",
+			"Cait Newport+https://oxnav.web.ox.ac.uk/people/cait-newport"
+		],
+		"adddate": "20230428",
+		"keyword": [
+			"2d",
+			"fish"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Analysis of antennal responses to motion stimuli in the honey bee by automated tracking using DeepLabCut",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.04.24.538069v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Kohno2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Hiroki Kohno",
+			"Shuichi Kamata",
+			"Takeo Kubo"
+		],
+		"adddate": "20230428",
+		"keyword": [
+			"2d",
+			"bee"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Learning Articulated Shape with Keypoint Pseudo-labels from Web Images",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2304.14396.pdf",
+		"project_page": "https://statho.github.io/projects/animals3d/index.html",
+		"teaser": "Stathopoulos2023.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Anastasis Stathopoulos+https://statho.github.io/",
+			"Georgios Pavlakos+https://geopavlakos.github.io/",
+			"Ligong Han+https://phymhan.github.io/",
+			"Dimitris Metaxas+https://www.cs.rutgers.edu/~dnm/"
+		],
+		"adddate": "20230428",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2304.10535.pdf",
+		"project_page": "https://farm3d.github.io/",
+		"teaser": "Jakab2023.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Tomas Jakab+https://www.robots.ox.ac.uk/~tomj/",
+			"Ruining Li+https://ruiningli.com/",
+			"Shangzhe Wu+https://elliottwu.com/",
+			"Christian Rupprecht+https://chrirupp.github.io/",
+			"Andrea Vedaldi+https://www.robots.ox.ac.uk/~vedaldi/"
+		],
+		"adddate": "20230425",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41566-023-01171-7",
+		"project_page": "https://gigazoom.rc.duke.edu/",
+		"teaser": "Zhou2023.jpg",
+		"journal": "Nature Photonics",
+		"authors": [
+			"Kevin C. Zhou",
+			"Mark Harfouche",
+			"Colin L. Cooke",
+			"Jaehee Park",
+			"Pavan C. Konda",
+			"Lucas Kreiss",
+			"Kanghyun Kim",
+			"Joakim J\u679ansson",
+			"Thomas Doman",
+			"Paul Reamey",
+			"Veton Saliu",
+			"Clare B. Cook",
+			"Maxwell Zheng",
+			"John P. Bechtel",
+			"Aur\u8305lien B\u732bgue",
+			"Matthew McCarroll",
+			"Jennifer Bagwell",
+			"Gregor Horstmeyer",
+			"Michel Bagnat",
+			"Roarke Horstmeyer"
+		],
+		"adddate": "20230404",
+		"keyword": [
+			"3d",
+			"social",
+			"zebrafish"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Scalable Apparatus to Measure Posture and Locomotion (SAMPL): a high-throughput solution to study unconstrained vertical behavior in small animals",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.01.07.523102v2.full.pdf",
+		"project_page": "none",
+		"teaser": "Zhu2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Yunlu Zhu",
+			"Franziska Auer",
+			"Hannah Gelnaw",
+			"Samantha N. Davis",
+			"Kyla R. Hamling",
+			"Christina E. May",
+			"Hassan Ahamed",
+			"Niels Ringstad",
+			"Katherine I. Nagel",
+			"David Schoppik"
+		],
+		"adddate": "20230328",
+		"keyword": [
+			"zebrafish"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "ScarceNet: Animal Pose Estimation with Scarce Annotations",
+		"year": 2023,
+		"paper_link": "https://arxiv.org/pdf/2303.15023.pdf",
+		"project_page": "none",
+		"teaser": "Li2023.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Chen Li",
+			"Gim Hee Lee+https://www.comp.nus.edu.sg/~leegh/"
+		],
+		"adddate": "20230328",
+		"keyword": [
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Lights, Camera, Mirrors, Action! Toolbox for 3D Analysis of High-rate Maneuvers Using a Single Camera and Planar Mirrors",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.03.14.532636v1",
+		"project_page": "https://github.com/Asad127/3D-RECONSTRUCTION-USING-SINGLE-CAMERA-AND-MIRROR-SETUP",
+		"teaser": "Hussain2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Wajahat Hussain",
+			"Mahum Naveed",
+			"Asad Khan",
+			"Taimoor Hasan Khan",
+			"Muhammad Latif Anjum",
+			"Shahzad Rasool",
+			"Adnan Maqsood"
+		],
+		"adddate": "20230320",
+		"keyword": [
+			"mirror",
+			"fly",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Unsupervised decomposition of natural monkey behavior into a sequence of motion motifs",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.03.04.531044v3.full.pdf",
+		"project_page": "none",
+		"teaser": "Mimura2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Koki Mimura",
+			"Jumpei Matsumoto",
+			"Daichi Mochihashi",
+			"Tomoaki Nakamura",
+			"Toshiyuki Hirabayashi",
+			"Makoto Higuchi",
+			"Takafumi Minamimoto+https://researchmap.jp/minamoto"
+		],
+		"adddate": "20230307",
+		"keyword": [
+			"3d",
+			"monkey"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "ArMo: An Articulated Mesh Approach for Mouse 3D Reconstruction",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.02.17.526719v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Bohnslav2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"James P. Bohnslav",
+			"Mohammed Abdal Monium Osman",
+			"Akshay Jaggi",
+			"Sofia Soares",
+			"Caleb Weinreb",
+			"Sandeep Robert Datta+http://datta.hms.harvard.edu/",
+			"Christopher D. Harvey+https://harveylab.hms.harvard.edu/"
+		],
+		"adddate": "20230221",
+		"keyword": [
+			"3d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Predicting long-term collective animal behavior with deep learning",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.02.15.528318v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Papaspyros2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Vaios Papaspyros",
+			"Ram\u9e93on Escobedo",
+			"Alexandre Alahi",
+			"Guy Theraulaz",
+			"Cl\u9e93ement Sire",
+			"Francesco Mondada+https://people.epfl.ch/francesco.mondada?lang=en"
+		],
+		"adddate": "20230221",
+		"keyword": [
+			"2d",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Three\u9225\u6178imensional unsupervised probabilistic pose reconstruction (3D\u9225\u6164PPER) for freely moving animals",
+		"year": 2023,
+		"paper_link": "https://www.nature.com/articles/s41598-022-25087-4",
+		"project_page": "https://github.com/Aghileh/UPPER",
+		"teaser": "Ebrahimi2023.jpg",
+		"journal": "Scientific Reports",
+		"authors": [
+			"Aghileh S. Ebrahimi",
+			"Patrycja Orlowska\u9225\u6152euer",
+			"Qian Huang",
+			"AntonioG. Zippo",
+			"Franck P. Martial",
+			"Rasmus S. Petersen",
+			"Riccardo Storchi+https://research.manchester.ac.uk/en/persons/riccardo.storchi"
+		],
+		"adddate": "20230221",
+		"keyword": [
+			"3d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A review of 28 free animal-tracking software applications: current features and limitations",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s41684-021-00811-1",
+		"project_page": "none",
+		"teaser": "Panadeiro2021.jpg",
+		"journal": "Lab Animal",
+		"authors": [
+			"Veronica Panadeiro",
+			"Alvaro Rodriguez",
+			"Jason Henry",
+			"Donald Wlodkowic",
+			"Magnus Andersson"
+		],
+		"adddate": "20230221",
+		"keyword": [
+			"review"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "JAX Animal Behavior System (JABS): A video-based phenotyping platform for the laboratory mouse",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.01.13.476229v2.full.pdf",
+		"project_page": "https://github.com/KumarLabJax/JABS-data-pipeline/tree/main",
+		"teaser": "Beane2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Glen Beane",
+			"Brian Q. Geuther",
+			"Thomas J. Sproule",
+			"Anshul Choudhary",
+			"Jarek Trapszo",
+			"Leinani Hession",
+			"Vivek Kohar",
+			"Vivek Kumar+https://www.jax.org/research-and-faculty/faculty/vivek-kumar"
+		],
+		"adddate": "20230213",
+		"keyword": [
+			"mouse",
+			"social",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "An 8-cage imaging system for automated analyses of mouse behavior",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.02.04.527129v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Hernandez2023.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Tha\u94c6s Del Rosario Hern\u8c29ndez",
+			"Narendra R. Joshi",
+			"Sayali V. Gore",
+			"Jill A. Kreiling",
+			"Robbert Creton+https://vivo.brown.edu/display/rcretonp"
+		],
+		"adddate": "20230213",
+		"keyword": [
+			"mouse",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Quantifying the movement, behavior, and environmental context of group-living animals using drones and computer vision",
+		"year": 2023,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.06.30.498251v2.full.pdf",
+		"project_page": "https://github.com/benkoger/overhead-video-worked-examples",
+		"teaser": "Koger2022.jpg",
+		"journal": "Journal of Animal Ecology",
+		"authors": [
+			"Benjamin Koger",
+			"Adwait Deshpande",
+			"Jeffrey T. Kerby",
+			"Jacob M. Graving",
+			"Blair R. Costelloe",
+			"Iain D. Couzin+https://collectivebehaviour.com/people/couzin-iain/"
+		],
+		"adddate": "20230213",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Gait-level analysis of mouse open field behavior using deep learning-based pose estimation",
+		"year": 2022,
+		"paper_link": "https://www.cell.com/action/showPdf?pii=S2211-1247%2821%2901740-X",
+		"project_page": "none",
+		"teaser": "Sheppard2020.jpg",
+		"journal": "Cell Reports",
+		"authors": [
+			"Keith Sheppard",
+			"Justin Gardin",
+			"Gautam Sabnis",
+			"Asaf Peer",
+			"Megan Darrell",
+			"Sean Deats",
+			"Brian Geuther",
+			"Cathleen M. Lutz",
+			"Vivek Kumar+https://www.kumarlab.org/"
+		],
+		"adddate": "20230213",
+		"keyword": [
+			"mouse",
+			"behavior",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Markerless tracking of an entire honey bee colony",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s41467-021-21769-1",
+		"project_page": "none",
+		"teaser": "Bozek2021.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Katarzyna Bozek",
+			"Laetitia Hebert",
+			"Yoann Portugal",
+			"Alexander S. Mikheyev",
+			"Greg J. Stephens+https://research.vu.nl/en/persons/gj-stephens/publications/"
+		],
+		"adddate": "20230213",
+		"keyword": [
+			"bee",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Capturing the continuous complexity of behaviour in Caenorhabditis elegans",
+		"year": 2020,
+		"paper_link": "https://www.nature.com/articles/s41567-020-01036-8",
+		"project_page": "none",
+		"teaser": "Ahamed2020.jpg",
+		"journal": "Nature Physics",
+		"authors": [
+			"Tosif Ahamed",
+			"Antonio C. Costa",
+			"Greg J. Stephens+https://research.vu.nl/en/persons/gj-stephens/publications/"
+		],
+		"adddate": "20230213",
+		"keyword": [
+			"elegans",
+			"phsycis"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "ConstrastivePose: A contrastive learning approach for self-supervised feature engineering for pose estimation and behavorial classification of interacting animals",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.11.09.515746v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Zhou2022-1.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Tianxun Zhou",
+			"Calvin Chee Hoe Cheah",
+			"Eunice Wei Mun Chin",
+			"Jie Chen",
+			"Hui Jia Farm",
+			"Eyleen Lay Keow Goh",
+			"Keng Hwee Chiam"
+		],
+		"adddate": "20221111",
+		"keyword": [
+			"mouse",
+			"2d",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories",
+		"year": 2022,
+		"paper_link": "https://arxiv.org/abs/2211.03889v1",
+		"project_page": "none",
+		"teaser": "Sinha2022.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Samarth Sinha+https://www.samsinha.me/",
+			"Roman Shapovalov",
+			"Jeremy Reizenstein",
+			"Ignacio Rocco",
+			"Natalia Neverova+https://nneverova.github.io/",
+			"Andrea Vedaldi+https://www.robots.ox.ac.uk/~vedaldi/pub.html",
+			"David Novotny+https://d-novotny.github.io/"
+		],
+		"adddate": "20221109",
+		"keyword": [
+			"cat",
+			"dog",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "B-SOiD, an open-source unsupervised algorithm for identification and fast prediction of behaviors",
+		"year": 2022,
+		"paper_link": "https://www.nature.com/articles/s41467-021-25420-x",
+		"project_page": "https://bsoid.org/",
+		"teaser": "Hsu2022.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Alexander I. Hsu",
+			"Eric A. Yttri+https://www.cmu.edu/bio/people/faculty/yttri.html"
+		],
+		"adddate": "20221109",
+		"keyword": [
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Estimation of skeletal kinematics in freely moving rodents",
+		"year": 2022,
+		"paper_link": "https://www.nature.com/articles/s41592-022-01634-9",
+		"project_page": "https://github.com/bbo-lab/ACM",
+		"teaser": "Monsees2022.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Arne Monsees",
+			"Kay-Michael Voit",
+			"Damian J. Wallace",
+			"Juergen Sawinski",
+			"Edyta Charyasz",
+			"Klaus Scheffler",
+			"Jakob H. Macke",
+			"Jason N. D. Kerr"
+		],
+		"adddate": "20221018",
+		"keyword": [
+			"3d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "OpenLabCluster: Active Learning Based Clustering and Classification of Animal Behaviors in Videos Based on Automatically Extracted Kinematic Body Keypoints",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.10.10.511660v1.full.pdf",
+		"project_page": "https://github.com/shlizee/OpenLabCluster",
+		"teaser": "Li2022-2.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Jingyuan Li",
+			"Moishe Keselman",
+			"Eli Shlizerman"
+		],
+		"adddate": "20221015",
+		"keyword": [
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "LASSIE: Learning Articulated Shapes from Sparse Image Ensemble via 3D Part Discovery",
+		"year": 2022,
+		"paper_link": "https://arxiv.org/pdf/2207.03434.pdf",
+		"project_page": "https://chhankyao.github.io/lassie/",
+		"teaser": "Yao2022.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Chun-Han Yao+https://www.chhankyao.com/",
+			"Wei-Chih Hung",
+			"Yuanzhen Li",
+			"Michael Rubinstein",
+			"Ming-Hsuan Yang+http://faculty.ucmerced.edu/mhyang/",
+			"Varun Jampani+https://varunjampani.github.io/"
+		],
+		"adddate": "20221012",
+		"keyword": [
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Evaluation of mouse behavioral responses to nutritive versus nonnutritive sugar using a deep learning-based 3D real-time pose estimation system",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.09.19.508605v1",
+		"project_page": "none",
+		"teaser": "Kim2022-2.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Jineun Kim",
+			"Dae-gun Kim",
+			"Wongyo Jung",
+			"Greg S. B. Suh+https://med.nyu.edu/faculty/seong-bae-greg-suh"
+		],
+		"adddate": "20220922",
+		"keyword": [
+			"3d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Development of a new 3D tracking system for multiple marmosets under free-moving conditions",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.03.29.486138v3.full.pdf",
+		"project_page": "none",
+		"teaser": "Yurimoto2022.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Terumi Yurimoto",
+			"Wakako Kumita",
+			"Kenya Sato",
+			"Rika Kikuchi",
+			"Yusuke Shibuki",
+			"Rino Hashimoto",
+			"Michiko Kamioka",
+			"Yumi Hayasegawa",
+			"Eiko Yamazaki",
+			"Yoko Kurotaki",
+			"Norio Goda",
+			"Junichi Kitakami",
+			"Tatsuya Fujita",
+			"Takashi Inoue",
+			"Erika Sasaki"
+		],
+		"adddate": "20220922",
+		"keyword": [
+			"3d",
+			"monkey",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "LabGym: quantification of user-defined animal behaviors using learning-based holistic assessment",
+		"year": 2022,
+		"paper_link": "https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(23)00026-7",
+		"project_page": "https://github.com/umyelab/LabGym",
+		"teaser": "Hu2022.jpg",
+		"journal": "Cell Reports Methods",
+		"authors": [
+			"Yujia Hu",
+			"Carrie R. Ferrario",
+			"Alexander D. Maitland",
+			"Rita B. Ionides",
+			"Anjesh Ghimire",
+			"Brendon Watson",
+			"Kenichi Iwasaki",
+			"Hope White",
+			"Yitao Xi",
+			"Jie Zhou",
+			"Bing Ye+https://www.lsi.umich.edu/science/our-labs/bing-ye-lab"
+		],
+		"adddate": "20220826",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking",
+		"year": 2022,
+		"paper_link": "https://elifesciences.org/articles/74314",
+		"project_page": "https://github.com/DeNardoLab/BehaviorDEPOT",
+		"teaser": "Gabriel2022.jpg",
+		"journal": "eLife",
+		"authors": [
+			"Christopher J Gabriel",
+			"Zachary Zeidler",
+			"Benita Jin",
+			"Changliang Guo",
+			"Caitlin M Goodpaster",
+			"Adrienne Q Kashay",
+			"Anna Wu",
+			"Molly Delaney",
+			"Jovian Cheung",
+			"Lauren E DiFazio",
+			"Melissa J Sharpe",
+			"Daniel Aharoni",
+			"Scott A Wilke",
+			"Laura A DeNardo+https://wd2labs.org/denardo-lab"
+		],
+		"adddate": "20220825",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Cross-Skeleton Interaction Graph Aggregation Network for Representation Learning of Mouse Social Behaviour",
+		"year": 2022,
+		"paper_link": "https://arxiv.org/pdf/2208.03819.pdf",
+		"project_page": "none",
+		"teaser": "Zhou2022.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Feixiang Zhou",
+			"Xinyu Yang",
+			"Fang Chen",
+			"Long Chen",
+			"Zheheng Jiang",
+			"Hui Zhu",
+			"Reiko Heckel",
+			"Haikuan Wang",
+			"Minrui Fei",
+			"Huiyu Zhou+https://bipl-uol.github.io/"
+		],
+		"adddate": "20220809",
+		"keyword": [
+			"mouse",
+			"social",
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Animal pose estimation: A closer look at the state-of-the-art, existing gaps and opportunities",
+		"year": 2022,
+		"paper_link": "https://pdf.sciencedirectassets.com/271018/1-s2.0-S1077314222X00088/1-s2.0-S1077314222000893/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFQBZBGc%2FIJ6aPoZ3UeHo3HM3Dc8FiVDb2HvRztSbMArAiEAkT%2B0QjP9moH8oJRMGp2y10SQoytVcsd3xGYscSL4xcgq0gQIFRAFGgwwNTkwMDM1NDY4NjUiDFEDG8p47QDsIUlG%2ByqvBA5JI8kfEowgxt2IgXPGTC9E0poRYc%2F17MaMbzPlftJgLE8vG1BmYC00Kxani1fUvOZK%2F20F4GjixcF3uG3cxAKjINCPMmQcLIBZb1P%2BW8VFxX1nKi5PYwxu09t4Lvh41kGsKK4V2IV5%2FO3PWHNnP0je%2FZQZTMQJOztxbdOjs4yzaWOfeoq9r07%2BbHSUJnZXjUGc%2BFNQtjf7WQthAUHyWCeLA6wNC5SAPnwQBUf1YP%2Bp9Xcaql1cPZIx3BWJg5eFgvVwLAGZD8ozUSzb4tBkXgFBD2gyLL304xiGnrAMo1IC7RS9CGpcX7EoJh%2FOwFwQJhYlcfZiqhlHCv61C99HWsRpI0aVXGTpMM14LK5RIJjO%2BcrRiNPuiwZOwC9srBqKvzYlLyp19%2FkRb4yxSFXQc0mhv9JP4%2Fqp19TCN8FcheS4hQD9AfoS3VpgyN0LiN8xwN1Z00Q4E2%2FQXr5mV21UALyJEv2TY2gA%2BUwsFdfO4%2FCPLhf61liCvvxA%2BA2Gh60QT5qIvyxy8SXSRmCsl8nTx%2FYSsVyqhnWuOCgjUgma6nBv27J9pAb4FUVCvPHuI56CJqMrs3eTVwzvTaPNxkLMahif%2B%2Fe8NLQ00D89DTCyR0PVqhwXluDHcTdMkrPlj9h3B577RFyYuHtKfaLC8GF0KudmQzVUb2sDJ9wTs0%2FJf%2BvAW90hcuE7yYuhLAQ6wPqnzVnHynPUM2R02FkYbOkGXKy8pgRErzWM%2Fqv%2BijtcNBwwmu%2FDlwY6qQG%2Fg9SPZlh7cee4Gbjbf%2F6DQ%2BeomRX8uLKle0wketa9AqGuVIxRm4pnhdpXlbwFf1sOWaOA2uxPDLMjyBLkC0cFk9jLAtl5%2F4Ce5d24dp4CVhwL%2FlnLTAnZZ6QZ6ODJuiTdViFnhak5EXdfewd8d1VAXYlxXSuuAo36P3imWvdE6ZZRprP5tHdUsK3FWccb3n9y4DLALnmpvNJZK9l38klSYdB0i4QY6sZY&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220808T122023Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5ENN2VZW%2F20220808%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7e952d9ffae1fad55c2f335e51a4bf640b38945991840d406cc6b3d6632c6020&hash=bc8710f2757341861668832706bd93e498378167e21428b1330e5275d61add91&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1077314222000893&tid=spdf-8474dc97-a5ce-4761-90d5-dcf16f473e47&sid=3a219f905ca9224d262a48d78c6e495482c7gxrqa&type=client&ua=4d5753565d5303025601&rr=737834ac4c017d6b",
+		"project_page": "none",
+		"teaser": "Jiang2022.jpg",
+		"journal": "Computer Vision and Image Understanding (CVIU)",
+		"authors": [
+			"Le Jiang",
+			"Caleb Lee",
+			"Divyang Teotia",
+			"Sarah Ostadabbas+https://coe.northeastern.edu/people/ostadabbas-sarah/"
+		],
+		"adddate": "20220808",
+		"keyword": [
+			"review"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "3D pose estimation enables virtual head fixation in freely moving rats",
+		"year": 2022,
+		"paper_link": "https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627321X00141/1-s2.0-S0896627322003646/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDV6N%2F%2BBt%2BGqIlLDrkHchQZhdD2nBYt%2FFrG3S%2Fmba2VPAIhAPRNhI8h5MnDqdLO1WwhVHcocD2L71SpclrTT3pfyxDkKtIECCQQBRoMMDU5MDAzNTQ2ODY1IgxCNvxZZO%2FMJWMBhKcqrwRfTmBNeCQMrKgBl1IJa7ocCCqAUGeDpRXd5dHbZluslCw7zvTNs9CEmWI7R%2F5ccG7j7Q6%2Fhfm2HE3hWq2MT4GCCnO7lLBosKDaz%2FDPQXxxeX77Sm2RQEX5yICZfpIuZXI4W0Yho8rVqOQcomZMgqSAAQgYp313sR%2F2%2FxlABX4MCg9DU1D5F%2BFt8le7BJrxEZaPkfx6BohT8PbJqwSY%2F1hX9mDSRelp8di3J7igt%2BNpTGHLKA0M7M8t4H6CZGv6xSrMtyf6fTGS33C7tmsKTwHO%2Ba%2BoLTkGsQpSO%2FscjKLLolbHy3jBAsQipmggnJkx4IpcSMWL2d5iWjhI5XWTq7gUZLnq3SHXlHR%2BuMW03tI3ucaAMVrhCNx2HE2ZJfWo9MMxQGacCIoVp3lzIiCLig%2FMMeTl15EyGPifO1MNljJfH5cdlhZ5r0DOvOVrgBDd9JXEUn3zgLp45%2BwKDrh9CzgCsoLPxD%2B%2BLMZwDK%2F9dE7bAJKaCgo85T%2FhoNy7A%2FhQLIHjKcu81Zqt5D2D9wy8rDQHz13x%2FCbD76ajAifk%2F6bFonMEfN6ZXYSTWbJKgeQGBIPsZErkznK8R907eUpTOzr270tTXRym9XEBM1Lxg6Jbbj%2BsfwSxqkr0DhXcb%2B9IgWH74UYDUY1gjeQF6VtRbv3qCSM1kzwJwShfE%2FFeP375Fxlg9jSL58VNoWTuD3YHEZfEjOtlWFfOufgq4emnkdGlJj4bU7zdjo7%2FE1Z%2FCFcgMMPl3ZYGOqgBdAWyyK0nFa25asgZlTt6BK1N60AHIOmfG6X77ucOP%2FPluSR7QHFxjvz23mKgOLw4QMAY63GVRN9FUoh4zvie5xILoLiJDDPo6NyZtqvv3pR7hQnrBJTy08n0v7XeEdgDq6WktQ6ozyCDEhyGUh4IRyX73SEOGDts1tUrlUCaBFVsgegVx2pRUU5ZCHRmBOcOtc5b1n5R5zT9448EprxwmDuDOc8XPh5H&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220720T044040Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY627OCQ44%2F20220720%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=66ee8723bc2e76b3e1ab91f6ab91db634bbb3c222930353d94bf47dd8d5aa039&hash=e99217d7352542037a12a9e798ccca9cf6835587ae84c2a81811c736d4c10f22&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0896627322003646&tid=spdf-05a97aff-ea73-484b-9355-aa1ee366f3c7&sid=493fed999bf8674a09191fd1bf0dafd657aegxrqa&type=client&ua=4d5600575e5250500107&rr=72d90521cefa34b1",
+		"project_page": "https://github.com/lmb-freiburg/FreiPose-docker",
+		"teaser": "Schneider2022.jpg",
+		"journal": "Neuron",
+		"authors": [
+			"Artur Schneider",
+			"Christian Zimmermann",
+			"Mansour Alyahyay",
+			"Florian Steenbergen",
+			"Thomas Brox+https://lmb.informatik.uni-freiburg.de/people/brox/index.en.html",
+			"Ilka Diester+https://www.optophysiology.uni-freiburg.de/team/Ilka-Diester/"
+		],
+		"adddate": "20220720",
+		"keyword": [
+			"3d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Natural behavior is the language of the brain",
+		"year": 2022,
+		"paper_link": "https://www.sciencedirect.com/science/article/pii/S0960982222004262?via%3Dihub",
+		"project_page": "none",
+		"teaser": "Miller2022.jpg",
+		"journal": "Current Biology",
+		"authors": [
+			"Cory T. Miller",
+			"David Gire",
+			"Kim Hoke",
+			"Alexander C. Huk",
+			"Darcy Kelley",
+			"David A. Leopold",
+			"Matthew C. Smear",
+			"Frederic Theunissen",
+			"Michael Yartsev",
+			"Cristopher M. Niell+https://nielllab.uoregon.edu/people/"
+		],
+		"adddate": "20220720",
+		"keyword": [
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Deep-learning based identification, tracking, pose estimation, and behavior classification of interacting primates and mice in complex environments",
+		"year": 2022,
+		"paper_link": "https://www.nature.com/articles/s42256-022-00477-5",
+		"project_page": "https://edspace.american.edu/openbehavior/project/sipec/",
+		"teaser": "Marks2022.jpg",
+		"journal": "Nature Machine Intelligence",
+		"authors": [
+			"Markus Marks",
+			"Jin Qiuhan",
+			"Oliver Sturman",
+			"Lukas von Ziegler",
+			"Sepp Kollmorgen",
+			"Wolfger von der Behrens",
+			"Valerio Mante",
+			"Johannes Bohacek",
+			"Mehmet Fatih Yanik"
+		],
+		"adddate": "20220717",
+		"keyword": [
+			"mouse",
+			"monkey"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "EXPLORE: A novel deep learning-based analysis method for exploration behaviour in object recognition tests",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.06.24.497470v1",
+		"project_page": "none",
+		"teaser": "Ibanez2022.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Victor Iba\u85f4nez",
+			"Laurens Bohlen",
+			"Francesca Manuell",
+			"Isabelle Mansuy",
+			"Fritjof Helmchen",
+			"Anna-Sophia Wahl+https://www.hifo.uzh.ch/en/research/helmchen/juniorgroup0/publication.html"
+		],
+		"adddate": "20220709",
+		"keyword": [
+			"2d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "TRex, a fast multi-animal tracking system with markerless identification, 2D body posture estimation and visual field reconstruction",
+		"year": 2021,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2020.10.14.338996v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Walter2020.jpg",
+		"journal": "eLife",
+		"authors": [
+			"Tristan Walter+https://www.orn.mpg.de/person/45292/409958",
+			"Iain D Couzin+http://collectivebehaviour.com/"
+		],
+		"adddate": "20220709",
+		"keyword": [
+			"mouse",
+			"social",
+			"2d",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Unsupervised behaviour analysis and magnification (uBAM) using deep learning",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s42256-021-00326-x",
+		"project_page": "none",
+		"teaser": "Brattoli2021.jpg",
+		"journal": "Nature Machine Intelligence",
+		"authors": [
+			"Biagio Brattoli",
+			"Uta B\u7709chler",
+			"Michael Dorkenwald",
+			"Philipp Reiser",
+			"Linard Filli",
+			"Fritjof Helmchen",
+			"Anna-Sophia Wahl+https://www.hifo.uzh.ch/en/research/helmchen/juniorgroup0/publication.html",
+			"Bj\u679arn Ommer"
+		],
+		"adddate": "20220709",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Leaving Flatland: Advances in 3D behavioral measurement",
+		"year": 2022,
+		"paper_link": "https://www.sciencedirect.com/science/article/abs/pii/S0959438822000071?via%3Dihub",
+		"project_page": "none",
+		"teaser": "Marshall2021.jpg",
+		"journal": "Current Opinion in Neurobiology",
+		"authors": [
+			"Jesse D. Marshall+https://neurotree.org/neurotree/peopleinfo.php?pid=663448",
+			"Tianqing Li",
+			"Joshua H. Wu",
+			"Timothy W. Dunn"
+		],
+		"adddate": "20220628",
+		"keyword": [
+			"3d",
+			"review",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Improved Markerless 3D Animal Pose Estimation Using Temporal Semi-Supervision",
+		"year": 2022,
+		"paper_link": "https://drive.google.com/file/d/1lZcrXlazErthSkPJtR6g1DLhFo1HmwXU/view?usp=sharing",
+		"project_page": "https://github.com/tqxli/dannce-pytorch",
+		"teaser": "Li2022-1.jpg",
+		"journal": "CV4Animal workshop at CVPR",
+		"authors": [
+			"Tianqing Li",
+			"Kyle S. Severson",
+			"Fan Wang",
+			"Timothy W. Dunn"
+		],
+		"adddate": "20220628",
+		"keyword": [
+			"3d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A whole-body musculoskeletal model of the mouse",
+		"year": 2021,
+		"paper_link": "https://ieeexplore.ieee.org/document/9638502/",
+		"project_page": "none",
+		"teaser": "Ramalingasetty2017.jpg",
+		"journal": "IEEE Access",
+		"authors": [
+			"Shravan Tata Ramalingasetty",
+			"Simon M. Danner",
+			"Jonathan Arreguit",
+			"Sergey N. Markin",
+			"Dimitri Rodarie",
+			"Claudia Kathe",
+			"Gr\u8305goire Courtine",
+			"Ilya A. Rybak",
+			"Auke Ijspeert+https://www.epfl.ch/labs/biorob/"
+		],
+		"adddate": "20220628",
+		"keyword": [
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "AVATAR: AI Vision Analysis for Three-dimensional Action in Real-time",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2021.12.31.474634v1",
+		"project_page": "https://demoavataranalysis.ap.ngrok.io/",
+		"teaser": "Kim2022.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Dae-Gun Kim",
+			"Anna Shin",
+			"Yong-Cheol Jeong",
+			"Seahyung Park",
+			"Daesoo Kim+https://www.researchgate.net/profile/Daesoo-Kim-2"
+		],
+		"adddate": "20220622",
+		"keyword": [
+			"3d",
+			"mouse"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "TAVA: Template-free Animatable Volumetric Actors",
+		"year": 2022,
+		"paper_link": "https://arxiv.org/pdf/2206.08929.pdf",
+		"project_page": "https://www.liruilong.cn/projects/tava/",
+		"teaser": "Li2022.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Ruilong Li+https://www.liruilong.cn/",
+			"Julian Tanke",
+			"Minh Vo+https://minhpvo.github.io/",
+			"Michael Zollhoefer+https://zollhoefer.com/",
+			"Jurgen Gall+https://pages.iai.uni-bonn.de/gall_juergen/",
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/",
+			"Christoph Lassner+https://christophlassner.de/"
+		],
+		"adddate": "20220622",
+		"keyword": [
+			"mesh"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Selfee, Self-supervised Features Extraction of animal behaviors",
+		"year": 2022,
+		"paper_link": "https://elifesciences.org/articles/76218",
+		"project_page": "https://github.com/EBGU/Selfee/",
+		"teaser": "Jia2022.jpg",
+		"journal": "Elife",
+		"authors": [
+			"Yinjun Jia",
+			"Shuaishuai Li",
+			"Xuan Guo",
+			"Bo Lei",
+			"Junqiang Hu",
+			"Xiao-Hong Xu",
+			"Wei Zhang"
+		],
+		"adddate": "20220617",
+		"keyword": [
+			"2d",
+			"fly"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2021.04.17.440214v2",
+		"project_page": "https://nely-epfl.github.io/NeuroMechFly/",
+		"teaser": "Rios2021.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Victor Lobato Rios",
+			"Pembe Gizem Ozdil",
+			"Shravan Tata Ramalingasetty",
+			"Jonathan Arreguit",
+			"Auke Jan Ijspeert+https://www.epfl.ch/labs/biorob/people/ijspeert/",
+			"Pavan Ramdya+https://people.epfl.ch/pavan.ramdya"
+		],
+		"adddate": "20220514",
+		"keyword": [
+			"fly",
+			"mesh",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "SemiMultiPose: A Semi-supervised Multi-animal Pose Estimation Framework",
+		"year": 2022,
+		"paper_link": "https://arxiv-export1.library.cornell.edu/pdf/2204.07072",
+		"project_page": "none",
+		"teaser": "Blau2022.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Ari Blau",
+			"Christoph Gebhardt",
+			"Andres Bendesky",
+			"Liam Paninski",
+			"Anqi Wu+https://sites.google.com/site/anqiwuresearch/publica"
+		],
+		"adddate": "20220423",
+		"keyword": [
+			"2d",
+			"fly",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Animal Kingdom: A Large and Diverse Dataset for Animal Behavior Understanding",
+		"year": 2022,
+		"paper_link": "https://www.researchgate.net/publication/359816954_Animal_Kingdom_A_Large_and_Diverse_Dataset_for_Animal_Behavior_Understanding",
+		"project_page": "https://sutdcv.github.io/Animal-Kingdom/",
+		"teaser": "Ng2022.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Xun Long Ng",
+			"Kian Eng Ong",
+			"Qichen Zheng",
+			"Yun Ni",
+			"Si Yong Yeo",
+			"Jun Liu+https://istd.sutd.edu.sg/people/faculty/liu-jun"
+		],
+		"adddate": "20220423",
+		"keyword": [
+			"2d"
+		],
+		"grade": "oral"
+	},
+	{
+		"title": "Multi-animal pose estimation, identification and tracking with DeepLabCut",
+		"year": 2022,
+		"paper_link": "https://www.nature.com/articles/s41592-022-01443-0",
+		"project_page": "https://deeplabcut.github.io/DeepLabCut/docs/intro.html?msclkid=94c16acabc5a11ec80efaafc9aaeb28c",
+		"teaser": "Lauer2022.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Jessy Lauer",
+			"Mu Zhou",
+			"Shaokai Ye",
+			"William Menegas",
+			"Steffen Schneider",
+			"Tanmay Nath",
+			"Mohammed Mostafizur Rahman",
+			"Valentina Di Santo",
+			"Daniel Soberanes",
+			"Guoping Feng",
+			"Venkatesh N. Murthy",
+			"George Lauder",
+			"Catherine Dulac",
+			"Mackenzie Weygandt Mathis",
+			"Alexander Mathis+https://www.mathislab.org/people"
+		],
+		"adddate": "20220415",
+		"keyword": [
+			"2d",
+			"bio",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "SLEAP: A deep learning system for multi-animal pose tracking",
+		"year": 2022,
+		"paper_link": "https://www.nature.com/articles/s41592-022-01426-1",
+		"project_page": "https://sleap.ai/",
+		"teaser": "Pereira2022.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira",
+			"Nathaniel Tabris",
+			"Arie Matsliah",
+			"David M. Turner",
+			"Junyu Li",
+			"Shruthi Ravindranath",
+			"Eleni S. Papadoyannis",
+			"Edna Normand",
+			"David S. Deutsch",
+			"Z. Yan Wang",
+			"Grace McKenzie-Smith",
+			"Catalin C. Mitelut",
+			"Marielisa Diez Castro",
+			"John D'Uva",
+			"Mikhail Kislin",
+			"Dan H. Sanes+https://www.saneslab.com/",
+			"Sarah D. Kocher+https://lsi.princeton.edu/sarah-d-kocher",
+			"Samuel S.-H. Wang+https://scholar.princeton.edu/wanglab/about",
+			"Annegret L. Falkner+https://www.falknerlab.com/",
+			"Joshua W. Shaevitz+https://molbio.princeton.edu/people/joshua-w-shaevitz",
+			"Mala Murthy+https://murthylab.princeton.edu/mala-murthy"
+		],
+		"adddate": "20220415",
+		"keyword": [
+			"2d",
+			"social",
+			"mouse",
+			"fly",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information",
+		"year": 2022,
+		"paper_link": "https://arxiv.org/pdf/2203.15536.pdf",
+		"project_page": "https://barc.is.tue.mpg.de/",
+		"teaser": "Ruegg2022.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Nadine Ruegg+https://ps.is.mpg.de/person/nrueegg",
+			"Silvia Zuffi+https://ps.is.mpg.de/person/szuffi",
+			"Konrad Schindler",
+			"Michael J. Black+https://ps.is.mpg.de/person/black"
+		],
+		"adddate": "20220330",
+		"keyword": [
+			"dog",
+			"3d",
+			"mesh"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Artemis: Articulated Neural Pets with Appearance and Motion Synthesis",
+		"year": 2022,
+		"paper_link": "https://arxiv.org/abs/2202.05628",
+		"project_page": "none",
+		"teaser": "Luo2022.jpg",
+		"journal": "TOG (Siggraph)",
+		"authors": [
+			"Haimin Luo",
+			"Teng Xu",
+			"Yuheng Jiang",
+			"Chenglin Zhou",
+			"Qiwei Qiu",
+			"Yingliang Zhang",
+			"Wei Yang",
+			"Lan Xu+https://www.xu-lan.com/",
+			"Jingyi Yu+https://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/"
+		],
+		"adddate": "20220315",
+		"keyword": [
+			"3d",
+			"motion"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Automatic mapping of multiplexed social receptive fields by deep learning and GPU-accelerated 3D videography",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2020.05.21.109629v2",
+		"project_page": "https://github.com/chrelli/3DDD_social_mouse_tracker/",
+		"teaser": "Ebbesen2020.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Christian L. Ebbesen",
+			"Robert C. Froemke+http://froemkelab.med.nyu.edu/people"
+		],
+		"adddate": "20220315",
+		"keyword": [
+			"3d",
+			"social",
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "BANMo: Building Animatable 3D Neural Models from Many Casual Videos",
+		"year": 2022,
+		"paper_link": "https://arxiv.org/abs/2112.12761",
+		"project_page": "https://banmo-www.github.io/",
+		"teaser": "Yang2022.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Gengshan Yang+https://gengshan-y.github.io/",
+			"Minh Vo+https://minhpvo.github.io/",
+			"Natalia Neverova+https://nneverova.github.io/",
+			"Deva Ramanan+https://www.cs.cmu.edu/~deva/",
+			"Andrea Vedaldi+https://www.robots.ox.ac.uk/~vedaldi/",
+			"Hanbyul Joo+https://jhugestar.github.io/"
+		],
+		"adddate": "20220309",
+		"keyword": [
+			"quadruped",
+			"dense surface"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Overcoming the Domain Gap in Neural Action Representations",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2112.01176.pdf",
+		"project_page": "none",
+		"teaser": "Gunel2021.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Semih Gunel",
+			"Florian Aymanns",
+			"Sina Honari",
+			"Pavan Ramdya",
+			"Pascal Fua"
+		],
+		"adddate": "20220103",
+		"keyword": [
+			"fly",
+			"behavior",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Incremental Learning for Animal Pose Estimation using RBF k-DPP",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2110.13598.pdf",
+		"project_page": "none",
+		"teaser": "Nayak2022.jpg",
+		"journal": "BMVC",
+		"authors": [
+			"Gaurav Kumar Nayak",
+			"Het Shah+https://het-shah.github.io/",
+			"Anirban Chakraborty+http://visual-computing.in/wp-content/uploads/2017/08/anirban-chakraborty.html"
+		],
+		"adddate": "20220103",
+		"keyword": [
+			"quadruped",
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Muti-view Mouse Social Behaviour Recognition with Deep Graphic Model",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2011.02451.pdf",
+		"project_page": "none",
+		"teaser": "Jiang2020.jpg",
+		"journal": "TIP",
+		"authors": [
+			"Zheheng Jiang",
+			"Feixiang Zhou",
+			"Aite Zhao",
+			"Xin Li",
+			"Ling Li",
+			"Dacheng Tao+https://dl.acm.org/profile/81100159571",
+			"Xuelong Li+http://www.dcs.bbk.ac.uk/~xuelong/",
+			"Huiyu Zhou+https://www2.le.ac.uk/departments/informatics/people/huiyu-zhou"
+		],
+		"adddate": "20220102",
+		"keyword": [
+			"multi-view",
+			"social",
+			"mouse",
+			"behavior",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "MouseVenue3D: A Markerless Three-Dimension Behavioral Tracking System for Matching Two-Photon Brain Imaging in Free-Moving Mice",
+		"year": 2021,
+		"paper_link": "https://link.springer.com/article/10.1007%2Fs12264-021-00778-6",
+		"project_page": "none",
+		"teaser": "Han2021.jpg",
+		"journal": "Neuroscience Bulletin",
+		"authors": [
+			"Yaning Han",
+			"Kang Huang",
+			"Ke Chen",
+			"Hongli Pan",
+			"Furong Ju",
+			"Yueyue Long",
+			"Gao Gao",
+			"Runlong Wu",
+			"Aimin Wang",
+			"Liping Wang",
+			"Pengfei Wei"
+		],
+		"adddate": "20211230",
+		"keyword": [
+			"mouse",
+			"3d",
+			"brain",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Multi-camera real-time threedimensional tracking of multiple flying animals",
+		"year": 2011,
+		"paper_link": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsif.2010.0230",
+		"project_page": "none",
+		"teaser": "Straw2010.jpg",
+		"journal": "J. R. Soc. Interface",
+		"authors": [
+			"Andrew D. Straw+https://strawlab.org/",
+			"Kristin Branson",
+			"Titus R. Neumann",
+			"Michael H. Dickinson+https://www.bbe.caltech.edu/people/michael-h-dickinson"
+		],
+		"adddate": "20211215",
+		"keyword": [
+			"multi-view",
+			"fly",
+			"3d",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "The Mouse Action Recognition System (MARS) software pipeline for automated analysis of social behaviors in mice",
+		"year": 2021,
+		"paper_link": "https://elifesciences.org/articles/63720.pdf",
+		"project_page": "https://neuroethology.github.io/MARS/",
+		"teaser": "Segalin2021.jpg",
+		"journal": "eLife",
+		"authors": [
+			"Cristina Segalin",
+			"Jalani Williams",
+			"Tomomi Karigo",
+			"May Hui",
+			"Moriel Zelikowsky",
+			"Jennifer J Sun",
+			"Pietro Perona",
+			"David J Anderson",
+			"Ann Kennedy"
+		],
+		"adddate": "20211210",
+		"keyword": [
+			"mouse",
+			"social",
+			"2d",
+			"dataset",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Self-Supervised Keypoint Discovery in Behavioral Videos",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2112.05121.pdf",
+		"project_page": "none",
+		"teaser": "Sun2021-2.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Jennifer J. Sun",
+			"Serim Ryou",
+			"Roni Goldshmid",
+			"Brandon Weissbourd",
+			"John Dabiri",
+			"David J. Anderson",
+			"Ann Kennedy",
+			"Yisong Yue",
+			"Pietro Perona"
+		],
+		"adddate": "20211210",
+		"keyword": [
+			"2d",
+			"mouse",
+			"behavior",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions",
+		"year": 2021,
+		"paper_link": "https://deepai.org/publication/the-multi-agent-behavior-dataset-mouse-dyadic-social-interactions",
+		"project_page": "https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications",
+		"teaser": "Sun2021.jpg",
+		"journal": "NeurIPS (Dataset & Benchmarks)",
+		"authors": [
+			"Jennifer J. Sun",
+			"Tomomi Karigo",
+			"Dipam Chakraborty",
+			"Sharada P. Mohanty",
+			"David J. Anderson",
+			"Pietro Perona",
+			"Yisong Yue",
+			"Ann Kennedy"
+		],
+		"adddate": "20211210",
+		"keyword": [
+			"social",
+			"mouse",
+			"2d",
+			"dataset",
+			"behavior",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Task Programming: Learning Data Efficient Behavior Representations",
+		"year": 2021,
+		"paper_link": "http://export.arxiv.org/pdf/2011.13917",
+		"project_page": "http://sites.google.com/view/task-programming",
+		"teaser": "Sun2021-1.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Jennifer J. Sun",
+			"Ann Kennedy",
+			"Eric Zhan",
+			"David J. Anderson",
+			"Yisong Yue",
+			"Pietro Perona"
+		],
+		"adddate": "20211210",
+		"keyword": [
+			"behavior",
+			"social",
+			"mouse",
+			"bio"
+		],
+		"grade": "Best Student Paper Award"
+	},
+	{
+		"title": "Coarse-to-fine Animal Pose and Shape Estimation",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2111.08176.pdf",
+		"project_page": "none",
+		"teaser": "Li2021-3.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Chen Li+https://chaneyddtt.github.io/",
+			"Gim Hee Lee+https://www.comp.nus.edu.sg/~leegh/"
+		],
+		"adddate": "20211117",
+		"keyword": [
+			"mesh",
+			"dog",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Unified 3D Mesh Recovery of Humans and Animals by Learning Animal Exercise",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2111.02450.pdf",
+		"project_page": "none",
+		"teaser": "Kim2021.jpg",
+		"journal": "BMVC",
+		"authors": [
+			"Kim Youwang",
+			"Kim Ji-Yeon",
+			"Kyungdon Joo",
+			"Tae-Hyun Oh"
+		],
+		"adddate": "20211112",
+		"keyword": [
+			"mesh",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Anipose: a toolkit for robust markerless 3D pose estimation",
+		"year": 2021,
+		"paper_link": "https://www.sciencedirect.com/science/article/pii/S2211124721011797?via%3Dihub",
+		"project_page": "https://anipose.readthedocs.io/en/latest/index.html",
+		"teaser": "Karashchuk2021.jpg",
+		"journal": "Cell Reports (Resource)",
+		"authors": [
+			"Pierre Karashchuk+https://github.com/lambdaloop",
+			"Katie L. Rupp",
+			"Evyn S. Dickinson",
+			"SarahWalling-Bell",
+			"Elischa Sanders",
+			"Eiman Azim+https://www.salk.edu/scientist/eiman-azim/",
+			"Bingni W. Brunton+https://www.bingbrunton.com/",
+			"John C. Tuthill+http://faculty.washington.edu/tuthill/"
+		],
+		"adddate": "20211111",
+		"keyword": [
+			"3d",
+			"single-view",
+			"fly",
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Multimodal-based Scene-Aware Framework for Aquatic Animal Segmentation",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2112.06193.pdf",
+		"project_page": "none",
+		"teaser": "Le2021.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Minh-Quan Le",
+			"Trung-Nghia Le",
+			"Tam V. Nguyen",
+			"Isao Echizen",
+			"Minh-Triet Tran"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"aquatic",
+			"segmentation",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Learning interaction rules from multi-animal trajectories via augmented behavioral models",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2107.05326.pdf",
+		"project_page": "none",
+		"teaser": "Fujii2021.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Keisuke Fujii",
+			"Naoya Takeishi",
+			"Kazushi Tsutsui",
+			"Emyo Fujioka",
+			"Nozomi Nishiumi",
+			"Ryoya Tanaka",
+			"Mika Fukushiro",
+			"Kaoru Ide",
+			"Hiroyoshi Kohno",
+			"Ken Yoda",
+			"Susumu Takahashi",
+			"Shizuko Hiryu",
+			"Yoshinobu Kawahara+http://en.kawahara-lab.org/~kawahara/"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"social",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "The PAIR-R24M Dataset for Multi-animal 3D Pose Estimation",
+		"year": 2021,
+		"paper_link": "https://openreview.net/pdf?id=-wVVl_UPr8",
+		"project_page": "https://figshare.com/projects/The_PAIR-R24M_Dataset_for_Multi-animal_3D_Pose_Estimation/115587",
+		"teaser": "Marshall2021-2.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Jesse Marshall",
+			"Ugne Klibaite",
+			"Amanda Gellis",
+			"Diego Aldarondo",
+			"Bence O\u7bd3lveczky+https://oeb.harvard.edu/people/bence-p-olveczky",
+			"Tim Dunn"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"3d",
+			"social",
+			"mouse",
+			"dataset",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Across-animal odor decoding by probabilistic manifold alignment",
+		"year": 2021,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Vidal2021.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Pedro Herrero-Vidal",
+			"Dmitry Rinberg",
+			"Cristina Savin+https://as.nyu.edu/content/nyu-as/as/faculty/cristina-savin.html"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "4DComplete: Non-Rigid Motion Estimation Beyond the Observable Surface",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2105.01905.pdf",
+		"project_page": "https://github.com/rabbityl/DeformingThings4D",
+		"teaser": "Li2021-2.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Yang Li",
+			"Hikari Takehara",
+			"Takafumi Taketomi",
+			"Bo Zheng",
+			"Matthias Nie\u813dner+https://niessnerlab.org/"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"dense surface",
+			"cv",
+			"dataset"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "DensePose 3D: Lifting Canonical Surface Maps of Articulated Objects to the Third Dimension",
+		"year": 2021,
+		"paper_link": "https://openaccess.thecvf.com/content/ICCV2021/html/Shapovalov_DensePose_3D_Lifting_Canonical_Surface_Maps_of_Articulated_Objects_to_ICCV_2021_paper.html",
+		"project_page": "none",
+		"teaser": "Shapovalov2021.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Roman Shapovalov",
+			"David Novotny",
+			"Benjamin Graham",
+			"Patrick Labatut",
+			"Andrea Vedaldi"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"dense surface",
+			"quadruped",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Body language signals for rodent social communication",
+		"year": 2021,
+		"paper_link": "https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC8243782&blobtype=pdf",
+		"project_page": "none",
+		"teaser": "Ebbesen2021.jpg",
+		"journal": "Current Opinion in Neurobiology",
+		"authors": [
+			"Christian L. Ebbesen",
+			"Robert C. Froemke+https://med.nyu.edu/faculty/robert-c-froemke"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"mouse",
+			"social",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "coding of facial expressions of pain in the laboratory mouse",
+		"year": 2010,
+		"paper_link": "https://www.nature.com/articles/nmeth.1455",
+		"project_page": "none",
+		"teaser": "Langford2010.jpg",
+		"journal": "Nature Methods (brief communications)",
+		"authors": [
+			"Dale J Langford",
+			"Andrea L Bailey",
+			"Mona Lisa Chanda",
+			"Sarah E Clarke",
+			"Tanya E Drummond",
+			"Stephanie Echols",
+			"Sarah Glick",
+			"Joelle Ingrao",
+			"Tammy Klassen-Ross",
+			"Michael L LaCroix-Fralish",
+			"Lynn Matsumiya",
+			"Robert E Sorge",
+			"Susana G Sotocinal",
+			"John M Tabaka",
+			"David Wong",
+			"Arn M J M van den Maagdenberg",
+			"Michel D Ferrari",
+			"Kenneth D Craig",
+			"Jeffrey S Mogil"
+		],
+		"adddate": "20211102",
+		"keyword": [
+			"mouse",
+			"face",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "AP-10K: A Benchmark for Animal Pose Estimation in the Wild",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2108.12617.pdf",
+		"project_page": "https://github.com/AlexTheBad/AP-10K",
+		"teaser": "Yu2021.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Hang Yu",
+			"Yufei Xu",
+			"Jing Zhang",
+			"Wei Zhao",
+			"Ziyu Guan",
+			"Dacheng Tao+https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html"
+		],
+		"adddate": "20211101",
+		"keyword": [
+			"2d",
+			"dataset",
+			"quadruped",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "DeepImageJ: A user-friendly environment to run deep learning models in ImageJ",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s41592-021-01262-9.pdf",
+		"project_page": "https://deepimagej.github.io/deepimagej/",
+		"teaser": "Mariscal2021.jpg",
+		"journal": "Nature Methods (brief communication)",
+		"authors": [
+			"Estibaliz G\u8d38mez-de-Mariscal",
+			"Carlos Garc\u94c6a-L\u8d38pez-de-Haro",
+			"Wei Ouyang",
+			"Laur\u732bne Donati",
+			"Emma Lundberg",
+			"Michael Unser",
+			"Arrate Mu\u5e3doz-Barrutia",
+			"Daniel Sage+https://people.epfl.ch/daniel.sage/?lang=en"
+		],
+		"adddate": "20211004",
+		"keyword": [
+			"2d",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "idtracker.ai: tracking all individuals in small or large collectives of unmarked animals",
+		"year": 2019,
+		"paper_link": "https://arxiv.org/abs/1803.04351",
+		"project_page": "https://idtrackerai.readthedocs.io/en/latest/",
+		"teaser": "Ferrero2019.jpg",
+		"journal": "Nature Methods (Brief Communication)",
+		"authors": [
+			"Francisco Romero-Ferrero+https://www.researchgate.net/profile/Francisco_Romero-Ferrero",
+			"Mattia G. Bergomi",
+			"Robert C. Hinz",
+			"Francisco J. H. Heras",
+			"Gonzalo G. de Polavieja+http://www.neuro.fchampalimaud.org/en/person/276/"
+		],
+		"adddate": "20211004",
+		"keyword": [
+			"fly",
+			"bio",
+			"social",
+			"2d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "OpenMonkeyChallenge: Dataset and Benchmark Challenges for Pose Tracking of Non-human Primates",
+		"year": 2022,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2021.09.08.459549v1.full.pdf",
+		"project_page": "http://openmonkeychallenge.com/",
+		"teaser": "Yao2021.jpg",
+		"journal": "IJCV",
+		"authors": [
+			"Yuan Yao",
+			"Abhiraj Mohan",
+			"Eliza Bliss-Moreau",
+			"Kristine Coleman",
+			"Sienna M. Freeman",
+			"Christopher J. Machado",
+			"Jessica Raper",
+			"Jan Zimmermann",
+			"Benjamin Y. Hayden",
+			"Hyun Soo Park"
+		],
+		"adddate": "20210927",
+		"keyword": [
+			"monkey",
+			"dataset",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A Novel Dataset for Keypoint Detection of Quadruped Animals from Images",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2108.13958.pdf",
+		"project_page": "none",
+		"teaser": "Banik2021.jpg",
+		"journal": "arxiv",
+		"authors": [
+			"Prianka Banik",
+			"Lin Li",
+			"Xishuang Dong"
+		],
+		"adddate": "20210901",
+		"keyword": [
+			"quadruped",
+			"dataset",
+			"2d",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Discovering Relationships between Object Categories via Universal Canonical Maps",
+		"year": 2021,
+		"paper_link": "https://openaccess.thecvf.com/content/CVPR2021/papers/Neverova_Discovering_Relationships_Between_Object_Categories_via_Universal_Canonical_Maps_CVPR_2021_paper.pdf",
+		"project_page": "none",
+		"teaser": "Neverova2021.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Natalia Neverova",
+			"Artsiom Sanakoyeu",
+			"Patrick Labatut",
+			"David Novotny",
+			"Andrea Vedaldi+https://www.robots.ox.ac.uk/~vedaldi/"
+		],
+		"adddate": "20210819",
+		"keyword": [
+			"dense surface",
+			"quadruped",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "LiftPose3D, a deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s41592-021-01226-z.pdf",
+		"project_page": "https://github.com/NeLy-EPFL/LiftPose3D",
+		"teaser": "Gosztolai2020.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Adam Gosztolai",
+			"Semih Gunel",
+			"Marco Pietro Abrate",
+			"Daniel Morales",
+			"Victor Lobato Rios",
+			"Helge Rhodin+https://www.cs.ubc.ca/~rhodin/",
+			"Pascal Fua",
+			"Pavan Ramdya+https://www.epfl.ch/labs/ramdya-lab/"
+		],
+		"adddate": "20210816",
+		"keyword": [
+			"single-view",
+			"3d",
+			"bio",
+			"fly",
+			"mouse",
+			"monkey"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Geometric deep learning enables 3D kinematic profiling across species and environments",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s41592-021-01106-6.pdf",
+		"project_page": "https://github.com/spoonsso/DANNCE",
+		"teaser": "Dunn2021.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Timothy W. Dunn",
+			"Jesse D. Marshall",
+			"Kyle S. Severson",
+			"Diego E. Aldarondo",
+			"David G. C. Hildebrand",
+			"Selmaan N. Chettih",
+			"William L. Wang",
+			"Amanda J. Gellis",
+			"David E. Carlson",
+			"Dmitriy Aronov",
+			"Winrich A. Freiwald",
+			"Fan Wang",
+			"Bence P. \u8130lveczky"
+		],
+		"adddate": "20210531",
+		"keyword": [
+			"3d",
+			"multi-view",
+			"mouse",
+			"monkey",
+			"bird",
+			"bio",
+			"dataset"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Birds of a Feather: Capturing Avian Shape Models from Images",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2105.09396.pdf",
+		"project_page": "https://yufu-wang.github.io/aves/",
+		"teaser": "Wang2021.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Yufu Wang+https://yufu-wang.github.io/",
+			"Nikos Kolotouros+https://www.seas.upenn.edu/~nkolot/",
+			"Kostas Daniilidis+https://www.cis.upenn.edu/~kostas/",
+			"Marc Badger+https://www.ocf.berkeley.edu/~badger/"
+		],
+		"adddate": "20210521",
+		"keyword": [
+			"bird",
+			"mesh",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "ThruTracker: Open-Source Software for 2-D and 3-D Animal Video Tracking",
+		"year": 2021,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2021.05.12.443854v1.full.pdf",
+		"project_page": "none",
+		"teaser": "Corcoran2021.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Aaron J. Corcoran",
+			"Michael R. Schirmacher",
+			"Eric Black",
+			"Tyson L. Hedrick+https://biomech.web.unc.edu/people/"
+		],
+		"adddate": "20210514",
+		"keyword": [
+			"bio",
+			"2d",
+			"3d"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A Hierarchical 3D-motion Learning Framework for Animal Spontaneous Behavior Mapping",
+		"year": 2021,
+		"paper_link": "https://doi.org/10.1101/2020.09.14.295808",
+		"project_page": "https://behavioratlas.tech/",
+		"teaser": "Huang2020.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Kang Huang",
+			"Yaning Han",
+			"Ke Chen",
+			"Hongli Pan",
+			"Wenling Yi",
+			"Xiaoxi Li",
+			"Siyuan Liu",
+			"Liping Wang+http://wanglab.siat.ac.cn/wanglab_en/index.php?a=lab_members",
+			"Pengfei Wei+https://www.researchgate.net/profile/Pengfei_Wei2"
+		],
+		"adddate": "20210514",
+		"keyword": [
+			"3d",
+			"mouse",
+			"multi-view",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Big behavior: challenges and opportunities in a new era of deep behavior profiling",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s41386-020-0751-7",
+		"project_page": "none",
+		"teaser": "Ziegler2021.jpg",
+		"journal": "Neuropsychopharmacology",
+		"authors": [
+			"Lukas von Ziegler",
+			"Oliver Sturman",
+			"Johannes Bohacek"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"review",
+			"bio",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A three-dimensional virtual mouse generates synthetic training data for behavioral analysis",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s41592-021-01103-9",
+		"project_page": "https://github.com/ubcbraincircuits/mCBF",
+		"teaser": "Bolanos2021.jpg",
+		"journal": "Nature Methods (Brief Communication)",
+		"authors": [
+			"Luis A. Bola\u5e3dos",
+			"Dongsheng Xiao",
+			"Nancy L. Ford",
+			"Jeff M. LeDue",
+			"Pankaj K. Gupta",
+			"Carlos Doebeli",
+			"Hao Hu",
+			"Helge Rhodin",
+			"Timothy H. Murphy"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"mouse",
+			"dataset",
+			"mesh",
+			"bio"
+		],
+		"grade": "cover"
+	},
+	{
+		"title": "DeepLabStream enables closed-loop behavioral experiments using deep learning-based markerless, real-time posture detection",
+		"year": 2021,
+		"paper_link": "https://www.nature.com/articles/s42003-021-01654-9",
+		"project_page": "https://github.com/SchwarzNeuroconLab/DeepLabStream",
+		"teaser": "Schweihoff2021.jpg",
+		"journal": "Communications Biology",
+		"authors": [
+			"Jens F. Schweihoff",
+			"Matvey Loshakov",
+			"Irina Pavlova",
+			"Laura K\u7709ck",
+			"Laura A. Ewell",
+			"Martin K. Schwarz"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"2d",
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2103.14843.pdf",
+		"project_page": "https://github.com/chaneyddtt/UDA-Animal-Pose",
+		"teaser": "Li2021.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Chen Li+https://chaneyddtt.github.io/",
+			"Gim Hee Lee+https://www.comp.nus.edu.sg/~leegh/"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"mesh",
+			"3d",
+			"cv",
+			"quadruped"
+		],
+		"grade": "oral"
+	},
+	{
+		"title": "LASR: Learning Articulated Shape Reconstruction from a Monocular Video",
+		"year": 2021,
+		"paper_link": "https://arxiv.org/pdf/2105.02976.pdf",
+		"project_page": "https://lasr-google.github.io/",
+		"teaser": "Yang2021.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Gengshan Yang+https://gengshan-y.github.io/",
+			"Deqing Sun+https://deqings.github.io/",
+			"Varun Jampani+https://varunjampani.github.io/",
+			"Daniel Vlasic+https://people.csail.mit.edu/drdaniel/",
+			"Forrester Cole+https://people.csail.mit.edu/fcole/",
+			"Huiwen Chang",
+			"Deva Ramanan+http://www.cs.cmu.edu/~deva/",
+			"William T. Freeman+https://billf.mit.edu/",
+			"Ce Liu+https://people.csail.mit.edu/celiu/"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"dense surface",
+			"quadruped",
+			"single-view",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Real-time, low-latency closed-loop feedback using markerless posture tracking",
+		"year": 2020,
+		"paper_link": "https://elifesciences.org/articles/61909",
+		"project_page": "https://github.com/DeepLabCut/DeepLabCut-live",
+		"teaser": "Kane2020.jpg",
+		"journal": "eLife",
+		"authors": [
+			"Gary Kane",
+			"Gon\u83bdalo Lopes",
+			"Jonny L. Saunders",
+			"Alexander Mathis+https://www.mathislab.org/people",
+			"Mackenzie W. Mathis"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"2d",
+			"bio",
+			"mouse"
+		],
+		"grade": "Featured by Nature Methods"
+	},
+	{
+		"title": "Dynamics of gaze control during prey capture in freely moving mice",
+		"year": 2020,
+		"paper_link": "https://elifesciences.org/articles/57458",
+		"project_page": "none",
+		"teaser": "Michaiel2020.jpg",
+		"journal": "eLife",
+		"authors": [
+			"Angie M Michaiel",
+			"Elliott TT Abe",
+			"Cristopher M Niell"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"face",
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Continuous Whole-Body 3D Kinematic Recordings across the Rodent Behavioral Repertoire",
+		"year": 2020,
+		"paper_link": "https://www.cell.com/neuron/fulltext/S0896-6273(20)30894-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627320308941%3Fshowall%3Dtrue",
+		"project_page": "none",
+		"teaser": "Marshall2020.jpg",
+		"journal": "Neuron",
+		"authors": [
+			"Jesse D. Marshall",
+			"Diego E. Aldarondo",
+			"Timothy W. Dunn",
+			"William L. Wang",
+			"Gordon J. Berman",
+			"Bence P. O\u7bd3lveczky+https://oeb.harvard.edu/people/bence-p-olveczky"
+		],
+		"adddate": "20210510",
+		"keyword": [
+			"dataset",
+			"marker",
+			"mouse",
+			"bio",
+			"multi-view",
+			"behavior"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Robust mouse tracking in complex environments using neural networks",
+		"year": 2019,
+		"paper_link": "https://www.nature.com/articles/s42003-019-0362-1",
+		"project_page": "none",
+		"teaser": "Geuther2019.jpg",
+		"journal": "Communications Biology",
+		"authors": [
+			"Brian Q. Geuther",
+			"Sean P. Deats",
+			"Kai J. Fox",
+			"Steve A. Murray",
+			"Robert E. Braun",
+			"Jacqueline K. White",
+			"Elissa J. Chesler",
+			"Cathleen M. Lutz",
+			"Vivek Kumar"
+		],
+		"adddate": "20210108",
+		"keyword": [
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool",
+		"year": 2023,
+		"paper_link": "https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2023.1111908/full",
+		"project_page": "https://github.com/ZexinChen/AlphaTracker",
+		"teaser": "Chen2020.jpg",
+		"journal": "Frontiers in Behavioral Neuroscience",
+		"authors": [
+			"Zexin Chen",
+			"Ruihan Zhang",
+			"Yu Eva Zhang",
+			"Haowen Zhou",
+			"Hao-Shu Fang",
+			"Rachel R. Rock",
+			"Aneesh Bal",
+			"Nancy Padilla-Coreano",
+			"Laurel Keyes",
+			"Kay M. Tye",
+			"Cewu Lu+https://www.mvig.org/"
+		],
+		"adddate": "20201210",
+		"keyword": [
+			"bio",
+			"2d",
+			"social"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Deep Graph Pose: a semi-supervised deep graphical model for improved animal pose tracking",
+		"year": 2020,
+		"paper_link": "https://www.biorxiv.org/content/biorxiv/early/2020/08/22/2020.08.20.259705.full.pdf",
+		"project_page": "https://drive.google.com/drive/folders/1W79W1m1JQNvL9bDoqBPhwOXqtyz0gc24?usp=sharing",
+		"teaser": "Wu2020-1.jpg",
+		"journal": "NeurIPS",
+		"authors": [
+			"Anqi Wu",
+			"E. Kelly Buchanan",
+			"Matthew Whiteway",
+			"Michael Schartner",
+			"Guido Meijer",
+			"Jean-Paul Noel",
+			"Erica Rodriguez",
+			"Claire Everett",
+			"Amy Norovich",
+			"Evan Schaffer",
+			"Neeli Mishra",
+			"C. Daniel Salzman",
+			"Dora Angelaki",
+			"Andr\u8305s Bendesky",
+			"The International Brain Laboratory",
+			"John Cunningham",
+			"Liam Paninski+http://www.stat.columbia.edu/~liam/"
+		],
+		"adddate": "20201210",
+		"keyword": [
+			"2d",
+			"mouse",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "SLEAP: Multi-animal pose tracking",
+		"year": 2020,
+		"paper_link": "https://doi.org/10.1101/2020.08.31.276246",
+		"project_page": "https://sleap.ai/",
+		"teaser": "Pereira2020.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira",
+			"Nathaniel Tabris",
+			"Junyu Li",
+			"Shruthi Ravindranath",
+			"Eleni S. Papadoyannis",
+			"Z. Yan Wang",
+			"David M. Turner",
+			"Grace McKenzie-Smith",
+			"Sarah D. Kocher",
+			"Annegret L. Falkner",
+			"Joshua W. Shaevitz",
+			"Mala Murthy+https://murthylab.princeton.edu/mala-murthy"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"2d",
+			"social",
+			"mouse",
+			"fly",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces",
+		"year": 2020,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2020.02.27.967620v1",
+		"project_page": "https://lmb.informatik.uni-freiburg.de/projects/freipose/",
+		"teaser": "Zimmermann2020.jpg",
+		"journal": "biorxiv",
+		"authors": [
+			"Christian Zimmermann+https://lmb.informatik.uni-freiburg.de/people/zimmermc/",
+			"Artur Schneider",
+			"Mansour Alyahyay",
+			"Thomas Brox+https://lmb.informatik.uni-freiburg.de/people/brox/",
+			"Ilka Diester+https://www.optophysiology.uni-freiburg.de/labmembers/diester/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"mouse",
+			"3d",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Multiview Supervision By Registration",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/abs/1811.11251",
+		"project_page": "none",
+		"teaser": "Zhang2020.jpg",
+		"journal": "WACV",
+		"authors": [
+			"Yilun Zhang",
+			"Hyun Soo Park+https://www-users.cs.umn.edu/~hspark/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"monkey",
+			"multi-view",
+			"3d",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Facial expressions of emotion states and their neuronal correlates in mice",
+		"year": 2020,
+		"paper_link": "https://science.sciencemag.org/content/368/6486/89.full#:~:text=Facial%20expressions%20thus%20provide%20a%20means%20to%20infer,hormonal%2C%20and%20autonomic%20responses%20aimed%20at%20promoting%20survival.",
+		"project_page": "none",
+		"teaser": "Dolensek2020.jpg",
+		"journal": "Science",
+		"authors": [
+			"Nejc Dolensek",
+			"Daniel A. Gehrlach",
+			"Alexandra S. Klein+https://muckrack.com/alexandra-s-klein",
+			"Nadine Gogolla+https://www.neuro.mpg.de/gogolla"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"mouse",
+			"face",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "ZooBuilder: 2D and 3D Pose Estimation for Quadrupeds Using Synthetic Data",
+		"year": 2020,
+		"paper_link": "https://export.arxiv.org/abs/2009.05389",
+		"project_page": "none",
+		"teaser": "Fangbemi2020.jpg",
+		"journal": "SCA (ACM Siggraph/Eurographics Symposium on Computer Animation)",
+		"authors": [
+			"Abassin Sourou Fangbemi",
+			"Yi Fei Lu",
+			"Mao Yuan Xu",
+			"Xiao Wu Luo",
+			"Alexis Rolland",
+			"Chedy Raissi"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"quadruped",
+			"2d",
+			"3d",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "A Primer on Motion Capture with Deep Learning: Principles, Pitfalls and Perspectives",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/pdf/2009.00564.pdf",
+		"project_page": "none",
+		"teaser": "Mathis2020.jpg",
+		"journal": "Neuron",
+		"authors": [
+			"Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/",
+			"Steffen Schneider",
+			"Jessy Lauer",
+			"Mackenzie W. Mathis+https://scholar.harvard.edu/mwamoroso/home"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"review",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Quantifying behavior to understand the brain",
+		"year": 2020,
+		"paper_link": "https://www.nature.com/articles/s41593-020-00734-z",
+		"project_page": "none",
+		"teaser": "Pereira2020-1.jpg",
+		"journal": "Nature Neuroscience",
+		"authors": [
+			"Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira",
+			"Joshua W. Shaevitz+https://molbiod.princeton.edu/people/joshua-w-shaevitz",
+			"Mala Murthy+htps://murthylab.princeton.edu/mala-murthy"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"review"
+		],
+		"grade": "review article"
+	},
+	{
+		"title": "EthoLoop: automated closed-loop neuroethology in naturalistic environments",
+		"year": 2020,
+		"paper_link": "https://pubmed.ncbi.nlm.nih.gov/32994566/",
+		"project_page": "none",
+		"teaser": "Nourizonoz2020.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Ali Nourizonoz",
+			"Robert Zimmermann",
+			"Chun Lum Andy Ho",
+			"Sebastien Pellat",
+			"Yannick Ormen",
+			"Cl\u8305ment Pr\u8305vost-Soli\u8305",
+			"Gilles Reymond",
+			"Fabien Pifferi",
+			"Fabienne Aujard",
+			"Anthony Herrel",
+			"Daniel Huber+https://www.unige.ch/medecine/neuf/en/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"mouse lemur",
+			"3d",
+			"behavior",
+			"brain"
+		],
+		"grade": "cover"
+	},
+	{
+		"title": "Automated Markerless Pose Estimation in Freely Moving Macaques using OpenMonkeyStudio",
+		"year": 2020,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2020.01.31.928861v1",
+		"project_page": "openmonkeystudio.org",
+		"teaser": "Bala2020.jpg",
+		"journal": "Nature Communications",
+		"authors": [
+			"Praneet C. Bala",
+			"Benjamin R. Eisenreich",
+			"Seng Bum Michael Yoo",
+			"Benjamin Y. Hayden",
+			"Hyun Soo Park+https://www-users.cs.umn.edu/~hspark/",
+			"Jan Zimmermann+https://med.umn.edu/bio/medical-discovery-teams/jan-zimmermann"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"monkey",
+			"multi-view",
+			"3d",
+			"dataset",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "3D Bird Reconstruction: a Dataset, Model, and Shape Recovery from a Single View",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/abs/2008.06133",
+		"project_page": "https://marcbadger.github.io/avian-mesh/",
+		"teaser": "Badger2020.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Marc Badger+https://www.ocf.berkeley.edu/~badger/",
+			"Yufu Wang+https://yufu-wang.github.io/",
+			"Adarsh Modh+https://www.seas.upenn.edu/~adarshm/",
+			"Ammon Perkes+https://aperkes.github.io/",
+			"Nikos Kolotouros+https://www.seas.upenn.edu/~nkolot/",
+			"Bernd Pfrommer+http://pfrommer.us/",
+			"Marc F. Schmidt+https://web.sas.upenn.edu/marcschmidtlab/pages/people/",
+			"Kostas Daniilidis+https://www.cis.upenn.edu/~kostas/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"bird",
+			"mesh",
+			"single-view",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Who Left the Dogs Out? 3D Animal Reconstruction with Expectation Maximization in the Loop",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/abs/2007.11110",
+		"project_page": "none",
+		"teaser": "Biggs2020.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Benjamin Biggs+http://mi.eng.cam.ac.uk/~bjb56/",
+			"Oliver Boyne+https://uk.linkedin.com/in/ollie-boyne",
+			"James Charles+http://www.jjcvision.com/",
+			"Andrew Fitzgibbon+https://www.microsoft.com/en-us/research/people/awf/",
+			"Roberto Cipolla+https://mi.eng.cam.ac.uk/~cipolla/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"dog",
+			"mesh",
+			"quadruped",
+			"rgbd",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Shape and Viewpoint without Keypoints",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/pdf/2007.10982.pdf",
+		"project_page": "https://shubham-goel.github.io/ucmr/",
+		"teaser": "Goel2020.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Shubham Goel+https://people.eecs.berkeley.edu/~shubham-goel/",
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/",
+			"Jitendra Malik+https://people.eecs.berkeley.edu/~malik/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"dense surface",
+			"bird",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network",
+		"year": 2020,
+		"paper_link": "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720664.pdf",
+		"project_page": "none",
+		"teaser": "Shi2020.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Xiao Shi",
+			"Chenxue Yang",
+			"Xue Xia",
+			"Xiujuan Chai+http://aii.caas.cn/bsgk/ywbm/nyxxjzsyb/xzbm3/203034.htm"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"face",
+			"pig",
+			"cv"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "RGBD-Dog: Predicting Canine Pose from RGBD Sensors",
+		"year": 2020,
+		"paper_link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Kearney_RGBD-Dog_Predicting_Canine_Pose_from_RGBD_Sensors_CVPR_2020_paper.pdf",
+		"project_page": "https://github.com/CAMERA-Bath/RGBD-Dog#:~:text=%20RGBD-Dog%3A%20Predicting%20Canine%20Pose%20from%20RGBD%20Sensors,5%20Citation.%20%206%20Contact.%20%20More%20",
+		"teaser": "Kearney2020.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Sinead Kearney+https://researchportal.bath.ac.uk/en/persons/sinead-kearney",
+			"Wenbin Li+https://wbli.me/",
+			"Martin Parsons",
+			"Kwang In Kim+http://kimki.unist.ac.kr/",
+			"Darren Cosker+http://www.cs.bath.ac.uk/~dpc/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"dog",
+			"rgbd",
+			"dataset",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "AnimalWeb: A Large-Scale Hierarchical Dataset of Annotated Animal Faces",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/abs/1909.04951",
+		"project_page": "https://fdmaproject.wordpress.com/",
+		"teaser": "Khan2020.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Muhammad Haris Khan",
+			"John McDonagh",
+			"Salman Khan",
+			"Muhammad Shahabuddin",
+			"Aditya Arora",
+			"Fahad Shahbaz Khan",
+			"Ling Shao",
+			"Georgios Tzimiropoulos+http://www.cs.nott.ac.uk/~pszyt/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"face",
+			"cv",
+			"2d"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Articulation Aware Canonical Surface Mapping",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/pdf/2004.00614.pdf",
+		"project_page": "https://nileshkulkarni.github.io/acsm/",
+		"teaser": "Kulkarni2020.png",
+		"journal": "CVPR",
+		"authors": [
+			"Nilesh Kulkarni+https://nileshkulkarni.github.io/",
+			"Abhinav Gupta+http://www.cs.cmu.edu/~abhinavg/",
+			"David F. Fouhey+http://web.eecs.umich.edu/~fouhey/",
+			"Shubham Tulsiani+https://shubhtuls.github.io/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"dense surface",
+			"quadruped",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals",
+		"year": 2020,
+		"paper_link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deformation-Aware_Unpaired_Image_Translation_for_Pose_Estimation_on_Laboratory_Animals_CVPR_2020_paper.pdf",
+		"project_page": "https://github.com/siyliepfl/deformation-aware-unpaired-image-translation",
+		"teaser": "Li2020.JPG",
+		"journal": "CVPR",
+		"authors": [
+			"Siyuan Li+https://siyliepfl.github.io/",
+			"Semih Gunel+https://semihgunel.com/",
+			"Mirela Ostrek",
+			"Pavan Ramdya",
+			"Pascal Fua",
+			"Helge Rhodin+https://www.cs.ubc.ca/~rhodin/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"3d",
+			"mesh",
+			"fly",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Learning from Synthetic Animals",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/abs/1912.08265",
+		"project_page": "https://github.com/JitengMu/Learning-from-Synthetic-Animals",
+		"teaser": "Mu2020.JPG",
+		"journal": "CVPR",
+		"authors": [
+			"Jiteng Mu",
+			"Weichao Qiu+https://weichaoqiu.com/",
+			"Gregory Hager+https://www.cs.jhu.edu/hager/",
+			"Alan Yuille+http://www.cs.jhu.edu/~ayuille/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"mesh",
+			"2d",
+			"cv",
+			"quadruped"
+		],
+		"grade": "oral"
+	},
+	{
+		"title": "3D-ZeF: A 3D Zebrafish Tracking Benchmark Dataset",
+		"year": 2020,
+		"paper_link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Pedersen_3D-ZeF_A_3D_Zebrafish_Tracking_Benchmark_Dataset_CVPR_2020_paper.pdf",
+		"project_page": "https://vap.aau.dk/3d-zef/",
+		"teaser": "Pedersen2020.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Malte Pedersen+https://vbn.aau.dk/en/persons/141158",
+			"Joakim Bruslund Haurum",
+			"Stefan Hein Bengtson+https://vbn.aau.dk/en/persons/138111",
+			"Thomas B. Moeslund+https://vbn.aau.dk/en/persons/103282"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"zebrafish",
+			"3d",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Transferring Dense Pose to Proximal Animal Classes",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/abs/2003.00080",
+		"project_page": "https://gdude.de/densepose-evolution/",
+		"teaser": "Sanakoyeu2020.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Artsiom Sanakoyeu+https://gdude.de/",
+			"Vasil Khalidov+https://research.fb.com/people/khalidov-vasil/",
+			"Maureen S. McCarthy+https://www.maureenmccarthyphd.com/",
+			"Andrea Vedaldi+https://www.robots.ox.ac.uk/~vedaldi/",
+			"Natalia Neverova+https://nneverova.github.io/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"dense surface",
+			"chimp",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild",
+		"year": 2020,
+		"paper_link": "https://arxiv.org/abs/1911.11130",
+		"project_page": "https://elliottwu.com/projects/unsup3d/",
+		"teaser": "Wu2020.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Shangzhe Wu+https://elliottwu.com/",
+			"Christian Rupprecht+https://chrirupp.github.io/",
+			"Andrea Vedaldi+http://www.robots.ox.ac.uk/~vedaldi/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"cat",
+			"face",
+			"dense surface",
+			"cv"
+		],
+		"grade": "Best Paper Award"
+	},
+	{
+		"title": "DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning",
+		"year": 2019,
+		"paper_link": "https://www.biorxiv.org/content/10.1101/620245v7",
+		"project_page": "https://github.com/jgraving/deepposekit",
+		"teaser": "Graving2019.jpg",
+		"journal": "eLife",
+		"authors": [
+			"Jacob M. Graving+https://jakegraving.com/files/cv/jacob_graving_cv.pdf",
+			"Daniel Chae+https://www.danielchae.com/",
+			"Hemal Naik",
+			"Liang Li",
+			"Benjamin Koger",
+			"Blair R. Costelloe+http://www.blaircostelloe.com/",
+			"Iain D. Couzin+http://collectivebehaviour.com/people/couzin-iain/#:~:text=Iain%20Couzin%20is%20Director%20of%20the%20Max%20Planck,Fellow%20in%20the%20Sciences%20at%20Balliol%20College%2C%20Oxford."
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"mouse",
+			"2d",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Using DeepLabCut for 3D markerless pose estimation across species and behaviors",
+		"year": 2019,
+		"paper_link": "https://www.nature.com/articles/s41596-019-0176-0",
+		"project_page": "https://github.com/DeepLabCut/DeepLabCut/blob/master/README.md",
+		"teaser": "Nath2019.jpg",
+		"journal": "Nature Protocols",
+		"authors": [
+			"Tanmay Nath",
+			"Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/",
+			"An Chi Chen",
+			"Amir Patel",
+			"Matthias Bethge+http://bethgelab.org/",
+			"Mackenzie Weygandt Mathis+https://scholar.harvard.edu/mwamoroso/home"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"3d",
+			"mouse",
+			"bio"
+		],
+		"grade": "cover"
+	},
+	{
+		"title": "Fast animal pose estimation using deep neural networks",
+		"year": 2019,
+		"paper_link": "https://www.nature.com/articles/s41592-018-0234-5",
+		"project_page": "https://github.com/talmo/leap",
+		"teaser": "Pereira2019.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Talmo D. Pereira+https://biophysics.princeton.edu/people/talmo-pereira",
+			"Diego E. Aldarondo+https://olveczkylab.oeb.harvard.edu/people/diego-etiony-aldarondo",
+			"Lindsay Willmore",
+			"Mikhail Kislin+Mikhail Kislin",
+			"Samuel S.-H. Wang+https://scholar.princeton.edu/wanglab/people/samuel-s-h-wang",
+			"Mala Murthy+https://murthylab.princeton.edu/mala-murthy",
+			"Joshua W. Shaevitz+https://molbiod.princeton.edu/people/joshua-w-shaevitz"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"2d",
+			"fly",
+			"mouse",
+			"behavior",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Real-time analysis of the behaviour of groups of mice via a depth-sensing camera and machine learning",
+		"year": 2019,
+		"paper_link": "https://www.nature.com/articles/s41551-019-0396-1",
+		"project_page": "https://edspace.american.edu/openbehavior/2018/12/05/live-mouse-tracker/",
+		"teaser": "Chaumont2019.jpg",
+		"journal": "Nature Biomedical Engineering",
+		"authors": [
+			"Fabrice de Chaumont+https://research.pasteur.fr/en/member/fabrice-de-chaumont/",
+			"Elodie Ey",
+			"Nicolas Torquet",
+			"Thibault Lagache",
+			"St\u8305phane Dallongeville",
+			"Albane Imbert",
+			"Thierry Legou",
+			"Anne-Marie Le Sourd",
+			"Philippe Faure",
+			"Thomas Bourgeron+https://research.pasteur.fr/en/member/thomas-bourgeron/",
+			"Jean-Christophe Olivo-Marin+https://research.pasteur.fr/en/member/jean-christophe-olivo-marin/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"bio",
+			"mouse",
+			"social",
+			"depth"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Cross-Domain Adaptation for Animal Pose Estimation",
+		"year": 2019,
+		"paper_link": "https://arxiv.org/abs/1908.05806",
+		"project_page": "http://www.jinkuncao.com/animalpose",
+		"teaser": "Cao2019.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Jinkun Cao+http://www.jinkuncao.com/",
+			"Hongyang Tang",
+			"Hao-Shu Fang+https://fang-haoshu.github.io/",
+			"Xiaoyong Shen+http://xiaoyongshen.me/",
+			"Cewu Lu+https://www.mvig.org/",
+			"Yu-Wing Tai"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"2d",
+			"quadruped",
+			"cv"
+		],
+		"grade": "oral"
+	},
+	{
+		"title": "Canonical Surface Mapping via Geometric Cycle Consistency",
+		"year": 2019,
+		"paper_link": "https://arxiv.org/pdf/1907.10043.pdf",
+		"project_page": "https://nileshkulkarni.github.io/csm/",
+		"teaser": "Kulkarni2019.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Nilesh Kulkarni+https://nileshkulkarni.github.io/",
+			"Abhinav Gupta+http://www.cs.cmu.edu/~abhinavg/",
+			"Shubham Tulsiani+https://shubhtuls.github.io/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"dense surface",
+			"cv",
+			"quadruped"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "MONET: Multiview Semi-supervised Keypoint Detection via Epipolar Divergence",
+		"year": 2019,
+		"paper_link": "https://arxiv.org/abs/1806.00104",
+		"project_page": "none",
+		"teaser": "Yao2019.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Yuan Yao",
+			"Yasamin Jafarian",
+			"Hyun Soo Park+https://www-users.cs.umn.edu/~hspark/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"monkey",
+			"multi-view",
+			"3d",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Three-D Safari: Learning to Estimate Zebra Pose, Shape, and Texture from Images \"In the Wild\"",
+		"year": 2019,
+		"paper_link": "https://arxiv.org/abs/1908.07201",
+		"project_page": "https://github.com/silviazuffi/smalst",
+		"teaser": "Zuffi2019.jpg",
+		"journal": "ICCV",
+		"authors": [
+			"Silvia Zuffi+https://ps.is.tuebingen.mpg.de/person/szuffi",
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/",
+			"Tanya Berger-Wolf+https://www.cs.uic.edu/~tanyabw/",
+			"Michael J. Black+https://ps.is.tuebingen.mpg.de/person/black"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"zebra",
+			"mesh",
+			"single-view",
+			"cv"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "DeepLabCut: markerless pose estimation of user-defined body parts with deep learning",
+		"year": 2018,
+		"paper_link": "https://www.nature.com/articles/s41593-018-0209-y",
+		"project_page": "http://www.mousemotorlab.org/deeplabcut",
+		"teaser": "Mathis2018.jpg",
+		"journal": "Nature Neuroscience",
+		"authors": [
+			"Alexander Mathis+http://www.people.fas.harvard.edu/~amathis/",
+			"Pranav Mamidanna",
+			"Kevin M. Cury+https://muckrack.com/kevin-m-cury",
+			"Taiga Abe",
+			"Venkatesh N. Murthy+https://vnmurthylab.org/",
+			"Mackenzie Weygandt Mathis+https://scholar.harvard.edu/mwamoroso/home",
+			"Matthias Bethge+http://bethgelab.org/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"2d",
+			"mouse",
+			"fly",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Learning Category-Specific Mesh Reconstruction from Image Collections",
+		"year": 2018,
+		"paper_link": "https://people.eecs.berkeley.edu/~kanazawa/papers/cmr_camera_ready.pdf",
+		"project_page": "https://akanazawa.github.io/cmr/",
+		"teaser": "Kanazawa2018.jpg",
+		"journal": "ECCV",
+		"authors": [
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/",
+			"Shubham Tulsiani+https://shubhtuls.github.io/",
+			"Alexei A. Efros+https://people.eecs.berkeley.edu/~efros/",
+			"Jitendra Malik+https://people.eecs.berkeley.edu/~malik/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"bird",
+			"cv",
+			"dense surface"
+		],
+		"grade": "poster"
+	},
+	{
+		"title": "Lions and Tigers and Bears: Capturing Non-Rigid, 3D, Articulated Shape from Images",
+		"year": 2018,
+		"paper_link": "http://files.is.tue.mpg.de/black/papers/zuffiCVPR2018.pdf",
+		"project_page": "http://smalr.is.tue.mpg.de/",
+		"teaser": "Zuffi2018.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Silvia Zuffi+https://ps.is.tuebingen.mpg.de/person/szuffi",
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/",
+			"Michael J. Black+https://ps.is.tuebingen.mpg.de/person/black"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"quadruped",
+			"mesh",
+			"cv"
+		],
+		"grade": "spotlight"
+	},
+	{
+		"title": "Creatures great and SMAL: Recovering the shape and motion of animals from video",
+		"year": 2018,
+		"paper_link": "https://arxiv.org/abs/1811.05804",
+		"project_page": "none",
+		"teaser": "Biggs2018.jpg",
+		"journal": "ACCV",
+		"authors": [
+			"Benjamin Biggs+http://mi.eng.cam.ac.uk/~bjb56/",
+			"Thomas Roddick+http://mi.eng.cam.ac.uk/~tr346/",
+			"Andrew Fitzgibbon+https://www.microsoft.com/en-us/research/people/awf/",
+			"Roberto Cipolla+https://mi.eng.cam.ac.uk/~cipolla/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"quadruped",
+			"mesh",
+			"single-view",
+			"cv"
+		],
+		"grade": "oral"
+	},
+	{
+		"title": "An unsupervised method for quantifying the behavior of paired animals",
+		"year": 2017,
+		"paper_link": "https://doi.org/10.1088/1478-3975/aa5c50",
+		"project_page": "none",
+		"teaser": "Klibaite2017.jpg",
+		"journal": "Physical Biology",
+		"authors": [
+			"Ugne Klibaite",
+			"Gordon J Berman",
+			"Jessica Cande",
+			"David L Stern",
+			"Joshua W Shaevitz+https://molbio.princeton.edu/people/joshua-w-shaevitz"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"social",
+			"behavior",
+			"mouse",
+			"bio"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Single-View 3D Reconstruction of Animals",
+		"year": 2017,
+		"paper_link": "https://people.eecs.berkeley.edu/~kanazawa/papers/thesis.pdf",
+		"project_page": "none",
+		"teaser": "Kanazawa2017.jpg",
+		"journal": "Ph.D Thesis",
+		"authors": [
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"thesis",
+			"mesh",
+			"single-view",
+			"quadruped"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "3D Menagerie: Modeling the 3D shape and pose of animals",
+		"year": 2017,
+		"paper_link": "https://people.eecs.berkeley.edu/~kanazawa/papers/cvpr17_menagerie_camready.pdf",
+		"project_page": "http://smal.is.tue.mpg.de/",
+		"teaser": "Zuffi2017.jpg",
+		"journal": "CVPR",
+		"authors": [
+			"Silvia Zuffi+https://ps.is.tuebingen.mpg.de/person/szuffi",
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/",
+			"David W. Jacobs+https://www.cs.umd.edu/~djacobs/",
+			"Michael J. Black+https://ps.is.tuebingen.mpg.de/person/black"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"mesh",
+			"quadruped",
+			"cv",
+			"dataset"
+		],
+		"grade": "spotlight"
+	},
+	{
+		"title": "3D Pose Estimation of Flying Animals in Multi-view Video Datasets",
+		"year": 2016,
+		"paper_link": "https://open.bu.edu/handle/2144/19720",
+		"project_page": "none",
+		"teaser": "Breslav2016.jpg",
+		"journal": "Ph.D Thesis",
+		"authors": [
+			"Mikhail Breslav+http://people.bu.edu/breslav/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"multi-view",
+			"bird",
+			"3d",
+			"cv",
+			"thesis"
+		],
+		"grade": "none"
+	},
+	{
+		"title": "Learning 3D Deformation of Animals from 2D Images",
+		"year": 2016,
+		"paper_link": "https://people.eecs.berkeley.edu/~kanazawa/papers/cat_eg2016.pdf",
+		"project_page": "https://github.com/akanazawa/catdeform",
+		"teaser": "Kanazawa2016.jpg",
+		"journal": "Eurographics",
+		"authors": [
+			"Angjoo Kanazawa+https://people.eecs.berkeley.edu/~kanazawa/",
+			"Shahar Kovalsky+https://shaharkov.github.io/",
+			"Ronen Basri+http://www.weizmann.ac.il/math/ronen/home",
+			"David W. Jacobs+https://www.cs.umd.edu/~djacobs/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"mesh",
+			"cat",
+			"cv"
+		],
+		"grade": "G\u7709nter Enderle Best Paper Award"
+	},
+	{
+		"title": "idTracker: Tracking individuals in a group by automatic identification of unmarked animals",
+		"year": 2014,
+		"paper_link": "https://www.nature.com/articles/nmeth.2994",
+		"project_page": "http://www.idtracker.es/",
+		"teaser": "Escudero2014.jpg",
+		"journal": "Nature Methods",
+		"authors": [
+			"Alfonso P\u8305rez-Escudero",
+			"Juli\u8c29n Vicente-Page",
+			"Robert C Hinz",
+			"Sara Arganda",
+			"Gonzalo G de Polavieja1+http://www.neuro.fchampalimaud.org/en/person/276/"
+		],
+		"adddate": "20201209",
+		"keyword": [
+			"fly",
+			"bio",
+			"2d",
+			"social"
+		],
+		"grade": "none"
+	}
+]
