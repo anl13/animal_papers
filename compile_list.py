@@ -3,7 +3,7 @@ import argparse
 import datetime
 import pickle 
 from paper import Paper, g_badges
-import json 
+import commentjson as json 
 
 def read_papers():
     papers = []

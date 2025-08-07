@@ -1171,17 +1171,17 @@
 		"grade": "none"
 	},
 	{
-		"title": "vmTracking: Virtual Markers Overcome Occlusion and Crowding in Multi-Animal Pose Tracking",
-		"year": 2024,
-		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.02.07.579241v1.full.pdf",
+		"title": "vmTracking enables highly accurate multianimal pose tracking in crowded environments",
+		"year": 2025,
+		"paper_link": "https://doi.org/10.1371/journal.pbio.3003002",
 		"project_page": "none",
 		"teaser": "Azechi2024.jpg",
-		"journal": "biorxiv",
+		"journal": "PLOS Biology",
 		"authors": [
 			"Hirotsugu Azechi",
 			"Susumu Takahashi"
 		],
-		"adddate": "20240210",
+		"adddate": "20250807",
 		"keyword": [
 			"social"
 		],
@@ -1296,11 +1296,11 @@
 	},
 	{
 		"title": "Computer Vision for Primate Behavior Analysis in the Wild",
-		"year": 2024,
-		"paper_link": "https://arxiv.org/pdf/2401.16424.pdf",
+		"year": 2025,
+		"paper_link": "https://doi.org/10.1038/s41592-025-02653-y",
 		"project_page": "none",
 		"teaser": "Vogg2024.jpg",
-		"journal": "arxiv",
+		"journal": "Nature Methods (Perspective)",
 		"authors": [
 			"Richard Vogg",
 			"Timo Luddecke",
@@ -1320,7 +1320,7 @@
 			"Florentin Worg otter",
 			"Alexander S. Ecker+https://eckerlab.org/"
 		],
-		"adddate": "20240131",
+		"adddate": "20250806",
 		"keyword": [
 			"primate"
 		],
@@ -1755,11 +1755,11 @@
 	},
 	{
 		"title": "Three-dimensional markerless motion capture of multiple freely behaving monkeys for automated characterization of social behavior",
-		"year": 2023,
+		"year": 2025,
 		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.09.13.556332v1.full.pdf",
 		"project_page": "none",
 		"teaser": "Matsumoto2023.jpg",
-		"journal": "biorxiv",
+		"journal": "Science Advances",
 		"authors": [
 			"Jumpei Matsumoto",
 			"Takaaki Kaneko",
@@ -1777,7 +1777,8 @@
 			"Masahiko Takada",
 			"Ken-ichi Inoue"
 		],
-		"adddate": "20230920",
+		// "adddate": "20230920",
+		"adddate": "20250806",
 		"keyword": [
 			"monkey",
 			"3d",
