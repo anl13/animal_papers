@@ -1,0 +1,44 @@
+[
+    {
+		"title": "MoReMouse: Monocular Reconstruction of Laboratory Mouse",
+		"year": 2026,
+		"paper_link": "https://arxiv.org/abs/2507.04258",
+		"project_page": "https://zyyw-eric.github.io/MoreMouse-webpage/",
+		"teaser": "Zhong2025-3.jpg",
+		"journal": "AAAI",
+		"authors": [
+			"Yuan Zhong", 
+			"Jingxiang Sun",
+			"Zhongbin Zhang",
+			"Liang An", 
+			"Yebin Liu"
+		],
+		"adddate": "20260112",
+		"keyword": ["mouse", "3d"
+		],
+		"grade": "none"
+	},
+    {
+		"title": "4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos",
+		"year": 2026,
+		"paper_link": "https://arxiv.org/pdf/2507.10437",
+		"project_page": "https://github.com/zhongshsh/4D-Animal",
+		"teaser": "Zhong2025-1.jpg",
+		"journal": "WACV",
+		"authors": [
+			"Shanshan Zhong",
+			"Jiawei Peng",
+			"Zehan Zheng",
+			"Zhongzhan Huang",
+			"Wufei Ma",
+			"Guofeng Zhang",
+			"Qihao Liu",
+			"Alan Yuille",
+			"Jieneng Chen"
+		],
+		"adddate": "20260112",
+		"keyword": [
+		],
+		"grade": "none"
+	},
+]

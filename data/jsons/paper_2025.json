@@ -645,12 +645,12 @@
 		"grade": "none"
 	},
 	{
-		"title": "Graph-Based Approach for Category-Agnostic Pose Estimation",
+		"title": "A Graph-Based Approach for Category-Agnostic Pose Estimation",
 		"year": 2024,
 		"paper_link": "https://arxiv.org/pdf/2311.17891.pdf",
 		"project_page": "https://github.com/orhir/PoseAnything",
 		"teaser": "Hirschorn2025.jpg",
-		"journal": "arxiv",
+		"journal": "ECCV",
 		"authors": [
 			"Or Hirschorn", 
 			"Shai Avidan"
@@ -803,29 +803,6 @@
 		"grade": "none"
 	},
 	{
-		"title": "4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos",
-		"year": 2025,
-		"paper_link": "https://arxiv.org/pdf/2507.10437",
-		"project_page": "https://github.com/zhongshsh/4D-Animal",
-		"teaser": "Zhong2025-1.jpg",
-		"journal": "arxiv",
-		"authors": [
-			"Shanshan Zhong",
-			"Jiawei Peng",
-			"Zehan Zheng",
-			"Zhongzhan Huang",
-			"Wufei Ma",
-			"Guofeng Zhang",
-			"Qihao Liu",
-			"Alan Yuille",
-			"Jieneng Chen"
-		],
-		"adddate": "20250806",
-		"keyword": [
-		],
-		"grade": "none"
-	},
-	{
 		"title": "Towards Multi-Modal Animal Pose Estimation: A Survey and In-Depth Analysis",
 		"year": 2025,
 		"paper_link": "https://arxiv.org/abs/2410.09312",
@@ -906,7 +883,7 @@
 		"paper_link": "https://doi.org/10.1038/s41598-024-51755-8",
 		"project_page": "none",
 		"teaser": "Nie2025.jpg",
-		"journal": "scientific reports",
+		"journal": "Scientific Reports",
 		"authors": [
 			 "Lili Nie",
 			 "Bugao Li",
@@ -948,7 +925,7 @@
 		"paper_link": "https://doi.org/10.1038/s41598-025-98184-9",
 		"project_page": "none",
 		"teaser": "Ashiquzzaman2025.jpg",
-		"journal": "scientific reports",
+		"journal": "Scientific Reports",
 		"authors": [
 			"Akm Ashiquzzaman et al."
 		],
@@ -963,7 +940,7 @@
 		"paper_link": "https://arxiv.org/abs/2502.19771",
 		"project_page": "none",
 		"teaser": "Sheng2025.jpg",
-		"journal": "arxiv",
+		"journal": "FAccT",
 		"authors": [
 			"Kehan Sheng", 
 			"Frank A.M. Tuyttens", "Marina A.G. von Keyserlingk"
@@ -990,41 +967,54 @@
 		"grade": "none"
 	},
 	{
-		"title": "MoReMouse: Monocular Reconstruction of Laboratory Mouse",
-		"year": 2025,
-		"paper_link": "https://arxiv.org/abs/2507.04258",
-		"project_page": "https://semanticsplat.github.io/",
-		"teaser": "Zhong2025-3.jpg",
-		"journal": "arxiv",
-		"authors": [
-			"Yuan Zhong", 
-			"Jingxiang Sun",
-			"Liang An", 
-			"Yebin Liu"
-		],
-		"adddate": "20250806",
-		"keyword": [
-		],
-		"grade": "none"
-	},
-	{
 		"title": "AniMer+: Unified Pose and Shape Estimation Across Mammalia and Aves via Family-Aware Transformer",
 		"year": 2025,
 		"paper_link": "https://arxiv.org/abs/2508.00298",
 		"project_page": "https://animerplus.github.io/",
 		"teaser": "Lyu2025.jpg",
-		"journal": "arxiv",
+		"journal": "TPAMI",
 		"authors": [
-			"Jin Lyu", 
-			"Liang An",
+			"Liang An", 
+			"Jin Lyu",
 			"Li Lin", 
 			"Pujin Cheng",
 			"Yebin Liu", 
 			"Xiaoying Tang"
 		],
-		"adddate": "20250806",
-		"keyword": [
+		"adddate": "20251212",
+		"keyword": ["3d"
 		],
+		"grade": "none"
+	},
+	{
+		"title": "A Study of Spontaneous Self-Injurious Behavior and Neuroimaging in Rhesus Macaques",
+		"year": 2025, 
+		"paper_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12311303/",
+		"project_page": "none",
+		"teaser": "Zhang2025-2.jpg",
+		"journal": "Research", 
+		"authors": [
+			"Yali Zhang", "Yicheng Qiao", "Yunchao Ji", "Hongdi Huang", "Long Zhang", "Jianxiong Ruan", "Chenyao Li", 
+			"Huiheng Xie", "Baolin Zhang", "Qi Zhou", "Shasha Yue", "Xiaomei Yu", "Minghao Qiu", "Chuankai Yu", "Sichu Wu", 
+			"Yufang Zhou", "Yanling Li", "Hongmei Zhu", "Shuzhen Dong", "Kang Huang", "Yun Wang", "Qiong Wang", "Yijiang Li",
+			"Ya Xie", "Huiling Chen", "Longbao Lv", "Shu Liu", "Yonggang Yao", "Chun Wang", "Ning Liu", "Jianhong Wang"
+		],
+		"adddate": "20251212",
+		"keyword": ["monkey"], 
+		"grade": "none"
+	},
+	{
+		"title": "SyDog-Video: A Synthetic Dog Video Dataset for Temporal Pose Estimation",
+		"year": 2024, 
+		"paper_link": "https://doi.org/10.1007/s11263-023-01946-z",
+		"project_page": "none",
+		"teaser": "Shooter2024.jpg",
+		"journal": "IJCV", 
+		"authors": [
+			"Moira Shooter", "Charles Malleson", "Adrian Hilton"
+		],
+		"adddate": "20251212",
+		"keyword": [], 
 		"grade": "none"
 	},
 ]

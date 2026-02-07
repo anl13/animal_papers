@@ -26,6 +26,103 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/zhongshsh/4D-Animal"><img src="teasers_small/Zhong2025-1.jpg"/></a></td>
+<td align="left" width=550><em>4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos</em><br>
+<font size=2.5>Shanshan Zhong</font>, 
+<font size=2.5>Jiawei Peng</font>, 
+<font size=2.5>Zehan Zheng</font>, 
+<font size=2.5>Zhongzhan Huang</font>, 
+<font size=2.5>Wufei Ma</font>, 
+<font size=2.5>Guofeng Zhang</font>, 
+<font size=2.5>Qihao Liu</font>, 
+<font size=2.5>Alan Yuille</font>, 
+<font size=2.5>Jieneng Chen</font><br>
+<font size=2.5>In WACV 2026 </font><br>
+<a href="https://arxiv.org/pdf/2507.10437"><img src="data/paper.png"></a> 
+<a href="https://github.com/zhongshsh/4D-Animal"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://zyyw-eric.github.io/MoreMouse-webpage/"><img src="teasers_small/Zhong2025-3.jpg"/></a></td>
+<td align="left" width=550><em>MoReMouse: Monocular Reconstruction of Laboratory Mouse</em><br>
+<font size=2.5>Yuan Zhong</font>, 
+<font size=2.5>Jingxiang Sun</font>, 
+<font size=2.5>Zhongbin Zhang</font>, 
+<font size=2.5>Liang An</font>, 
+<font size=2.5>Yebin Liu</font><br>
+<font size=2.5>In AAAI 2026 </font><br>
+<a href="https://arxiv.org/abs/2507.04258"><img src="data/paper.png"></a> 
+<a href="https://zyyw-eric.github.io/MoreMouse-webpage/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a><a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://animerplus.github.io/"><img src="teasers_small/Lyu2025.jpg"/></a></td>
+<td align="left" width=550><em>AniMer+: Unified Pose and Shape Estimation Across Mammalia and Aves via Family-Aware Transformer</em><br>
+<font size=2.5>Liang An</font>, 
+<font size=2.5>Jin Lyu</font>, 
+<font size=2.5>Li Lin</font>, 
+<font size=2.5>Pujin Cheng</font>, 
+<font size=2.5>Yebin Liu</font>, 
+<font size=2.5>Xiaoying Tang</font><br>
+<font size=2.5>In TPAMI 2025 </font><br>
+<a href="https://arxiv.org/abs/2508.00298"><img src="data/paper.png"></a> 
+<a href="https://animerplus.github.io/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12311303/"><img src="teasers_small/Zhang2025-2.jpg"/></a></td>
+<td align="left" width=550><em>A Study of Spontaneous Self-Injurious Behavior and Neuroimaging in Rhesus Macaques</em><br>
+<font size=2.5>Yali Zhang</font>, 
+<font size=2.5>Yicheng Qiao</font>, 
+<font size=2.5>Yunchao Ji</font>, 
+<font size=2.5>Hongdi Huang</font>, 
+<font size=2.5>Long Zhang</font>, 
+<font size=2.5>Jianxiong Ruan</font>, 
+<font size=2.5>Chenyao Li</font>, 
+<font size=2.5>Huiheng Xie</font>, 
+<font size=2.5>Baolin Zhang</font>, 
+<font size=2.5>Qi Zhou</font>, 
+<font size=2.5>Shasha Yue</font>, 
+<font size=2.5>Xiaomei Yu</font>, 
+<font size=2.5>Minghao Qiu</font>, 
+<font size=2.5>Chuankai Yu</font>, 
+<font size=2.5>Sichu Wu</font>, 
+<font size=2.5>Yufang Zhou</font>, 
+<font size=2.5>Yanling Li</font>, 
+<font size=2.5>Hongmei Zhu</font>, 
+<font size=2.5>Shuzhen Dong</font>, 
+<font size=2.5>Kang Huang</font>, 
+<font size=2.5>Yun Wang</font>, 
+<font size=2.5>Qiong Wang</font>, 
+<font size=2.5>Yijiang Li</font>, 
+<font size=2.5>Ya Xie</font>, 
+<font size=2.5>Huiling Chen</font>, 
+<font size=2.5>Longbao Lv</font>, 
+<font size=2.5>Shu Liu</font>, 
+<font size=2.5>Yonggang Yao</font>, 
+<font size=2.5>Chun Wang</font>, 
+<font size=2.5>Ning Liu</font>, 
+<font size=2.5>Jianhong Wang</font><br>
+<font size=2.5>In Research 2025 </font><br>
+<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12311303/"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://doi.org/10.1007/s11263-023-01946-z"><img src="teasers_small/Shooter2024.jpg"/></a></td>
+<td align="left" width=550><em>SyDog-Video: A Synthetic Dog Video Dataset for Temporal Pose Estimation</em><br>
+<font size=2.5>Moira Shooter</font>, 
+<font size=2.5>Charles Malleson</font>, 
+<font size=2.5>Adrian Hilton</font><br>
+<font size=2.5>In IJCV 2024 </font><br>
+<a href="https://doi.org/10.1007/s11263-023-01946-z"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://doi.org/10.1371/journal.pbio.3003002"><img src="teasers_small/Azechi2024.jpg"/></a></td>
 <td align="left" width=550><em>vmTracking enables highly accurate multianimal pose tracking in crowded environments</em><br>
 <font size=2.5>Hirotsugu Azechi</font>, 
@@ -33,15 +130,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In PLOS Biology 2025 </font><br>
 <a href="https://doi.org/10.1371/journal.pbio.3003002"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://doi.org/10.1038/s41598-025-98184-9"><img src="teasers_small/Ashiquzzaman2025.jpg"/></a></td>
-<td align="left" width=550><em>MoSeq based 3D behavioral profiling uncovers neuropathic behavior changes in diabetic mouse model</em><br>
-<font size=2.5>Akm Ashiquzzaman et al.</font><br>
-<font size=2.5>In scientific reports 2025 </font><br>
-<a href="https://doi.org/10.1038/s41598-025-98184-9"><img src="data/paper.png"></a> 
-</td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -265,24 +353,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/zhongshsh/4D-Animal"><img src="teasers_small/Zhong2025-1.jpg"/></a></td>
-<td align="left" width=550><em>4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos</em><br>
-<font size=2.5>Shanshan Zhong</font>, 
-<font size=2.5>Jiawei Peng</font>, 
-<font size=2.5>Zehan Zheng</font>, 
-<font size=2.5>Zhongzhan Huang</font>, 
-<font size=2.5>Wufei Ma</font>, 
-<font size=2.5>Guofeng Zhang</font>, 
-<font size=2.5>Qihao Liu</font>, 
-<font size=2.5>Alan Yuille</font>, 
-<font size=2.5>Jieneng Chen</font><br>
-<font size=2.5>In arxiv 2025 </font><br>
-<a href="https://arxiv.org/pdf/2507.10437"><img src="data/paper.png"></a> 
-<a href="https://github.com/zhongshsh/4D-Animal"><img src="data/project.png"></a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
 <a href="https://arxiv.org/abs/2410.09312"><img src="teasers_small/Deng2025.jpg"/></a></td>
 <td align="left" width=550><em>Towards Multi-Modal Animal Pose Estimation: A Survey and In-Depth Analysis</em><br>
 <font size=2.5>Qianyi Deng</font>, 
@@ -298,41 +368,11 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://arxiv.org/abs/2502.19771"><img src="teasers_small/Sheng2025.jpg"/></a></td>
-<td align="left" width=550><em>The erasure of intensive livestock farming in text-to-image generative AI</em><br>
-<font size=2.5>Kehan Sheng</font>, 
-<font size=2.5>Frank A.M. Tuyttens</font>, 
-<font size=2.5>Marina A.G. von Keyserlingk</font><br>
-<font size=2.5>In arxiv 2025 </font><br>
-<a href="https://arxiv.org/abs/2502.19771"><img src="data/paper.png"></a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://semanticsplat.github.io/"><img src="teasers_small/Zhong2025-3.jpg"/></a></td>
-<td align="left" width=550><em>MoReMouse: Monocular Reconstruction of Laboratory Mouse</em><br>
-<font size=2.5>Yuan Zhong</font>, 
-<font size=2.5>Jingxiang Sun</font>, 
-<font size=2.5>Liang An</font>, 
-<font size=2.5>Yebin Liu</font><br>
-<font size=2.5>In arxiv 2025 </font><br>
-<a href="https://arxiv.org/abs/2507.04258"><img src="data/paper.png"></a> 
-<a href="https://semanticsplat.github.io/"><img src="data/project.png"></a>
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://animerplus.github.io/"><img src="teasers_small/Lyu2025.jpg"/></a></td>
-<td align="left" width=550><em>AniMer+: Unified Pose and Shape Estimation Across Mammalia and Aves via Family-Aware Transformer</em><br>
-<font size=2.5>Jin Lyu</font>, 
-<font size=2.5>Liang An</font>, 
-<font size=2.5>Li Lin</font>, 
-<font size=2.5>Pujin Cheng</font>, 
-<font size=2.5>Yebin Liu</font>, 
-<font size=2.5>Xiaoying Tang</font><br>
-<font size=2.5>In arxiv 2025 </font><br>
-<a href="https://arxiv.org/abs/2508.00298"><img src="data/paper.png"></a> 
-<a href="https://animerplus.github.io/"><img src="data/project.png"></a>
+<a href="https://doi.org/10.1038/s41598-025-98184-9"><img src="teasers_small/Ashiquzzaman2025.jpg"/></a></td>
+<td align="left" width=550><em>MoSeq based 3D behavioral profiling uncovers neuropathic behavior changes in diabetic mouse model</em><br>
+<font size=2.5>Akm Ashiquzzaman et al.</font><br>
+<font size=2.5>In Scientific Reports 2025 </font><br>
+<a href="https://doi.org/10.1038/s41598-025-98184-9"><img src="data/paper.png"></a> 
 </td></tr></tbody>
 
 
@@ -485,6 +525,17 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2502.19771"><img src="teasers_small/Sheng2025.jpg"/></a></td>
+<td align="left" width=550><em>The erasure of intensive livestock farming in text-to-image generative AI</em><br>
+<font size=2.5>Kehan Sheng</font>, 
+<font size=2.5>Frank A.M. Tuyttens</font>, 
+<font size=2.5>Marina A.G. von Keyserlingk</font><br>
+<font size=2.5>In FAccT 2025 </font><br>
+<a href="https://arxiv.org/abs/2502.19771"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Brookes_The_PanAf-FGBG_Dataset_Understanding_the_Impact_of_Backgrounds_in_Wildlife_CVPR_2025_paper.pdf"><img src="teasers_small/Brookes2025.jpg"/></a></td>
 <td align="left" width=550><em>The PanAf-FGBG Dataset: Understanding the Impact of Backgrounds in Wildlife Behaviour Recognition</em><br>
 <font size=2.5>Otto Brookes</font>, 
@@ -521,19 +572,8 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Fan Jiao</font>, 
 <font size=2.5>Xinyue Song</font>, 
 <font size=2.5>Zhenyu Liu</font><br>
-<font size=2.5>In scientific reports 2024 </font><br>
+<font size=2.5>In Scientific Reports 2024 </font><br>
 <a href="https://doi.org/10.1038/s41598-024-51755-8"><img src="data/paper.png"></a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://github.com/orhir/PoseAnything"><img src="teasers_small/Hirschorn2025.jpg"/></a></td>
-<td align="left" width=550><em>Graph-Based Approach for Category-Agnostic Pose Estimation</em><br>
-<font size=2.5>Or Hirschorn</font>, 
-<font size=2.5>Shai Avidan</font><br>
-<font size=2.5>In arxiv 2024 </font><br>
-<a href="https://arxiv.org/pdf/2311.17891.pdf"><img src="data/paper.png"></a> 
-<a href="https://github.com/orhir/PoseAnything"><img src="data/project.png"></a>
 </td></tr></tbody>
 
 
@@ -558,6 +598,17 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>Shingo Maeda</font><br>
 <font size=2.5>In IEEE International Conference on Mechatronics and Automation (ICMA) 2024 </font><br>
 <a href="https://ieeexplore.ieee.org/document/10633032"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/orhir/PoseAnything"><img src="teasers_small/Hirschorn2025.jpg"/></a></td>
+<td align="left" width=550><em>A Graph-Based Approach for Category-Agnostic Pose Estimation</em><br>
+<font size=2.5>Or Hirschorn</font>, 
+<font size=2.5>Shai Avidan</font><br>
+<font size=2.5>In ECCV 2024 </font><br>
+<a href="https://arxiv.org/pdf/2311.17891.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/orhir/PoseAnything"><img src="data/project.png"></a>
 </td></tr></tbody>
 
 
@@ -4267,7 +4318,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Aug 2025
+Last updated in Feb 2026
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 
