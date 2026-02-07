@@ -9,7 +9,9 @@ def compress():
     data = os.listdir(source_dir)
     for d in tqdm(data): 
         src_filename = os.path.join(source_dir, d) 
-        tgt_filename = os.path.join(target_dir, d) 
+        tgt_filename = os.path.join(target_dir, d)
+        if "JPG" in tgt_filename: 
+            tgt_filename = tgt_filename.replace("JPG", "jpg")
         img = cv2.imread(src_filename) 
         H = img.shape[0] 
         W = img.shape[1] 

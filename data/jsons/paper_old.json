@@ -4780,7 +4780,7 @@
 		"year": 2020,
 		"paper_link": "https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Deformation-Aware_Unpaired_Image_Translation_for_Pose_Estimation_on_Laboratory_Animals_CVPR_2020_paper.pdf",
 		"project_page": "https://github.com/siyliepfl/deformation-aware-unpaired-image-translation",
-		"teaser": "Li2020.JPG",
+		"teaser": "Li2020.jpg",
 		"journal": "CVPR",
 		"authors": [
 			"Siyuan Li+https://siyliepfl.github.io/",
@@ -4804,7 +4804,7 @@
 		"year": 2020,
 		"paper_link": "https://arxiv.org/abs/1912.08265",
 		"project_page": "https://github.com/JitengMu/Learning-from-Synthetic-Animals",
-		"teaser": "Mu2020.JPG",
+		"teaser": "Mu2020.jpg",
 		"journal": "CVPR",
 		"authors": [
 			"Jiteng Mu",
