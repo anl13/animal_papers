@@ -192,7 +192,7 @@ class Paper():
 
     def write_md(self, md):
         paper_md = '<tbody> <tr> <td align="left" width=250>\n'
-        paper_md += '<a href="%s"><img src="teasers_small/%s"/></a></td>\n' % (self.imgurl, self.teaser)
+        paper_md += '<a href="%s"><img src="teasers_small1/%s"/></a></td>\n' % (self.imgurl, self.teaser)
         paper_md += '<td align="left" width=550><em>%s</em><br>\n' % self.title
         paper_md = self.add_authors(paper_md)
         paper_md += '<font size=2.5>In %s %d </font>' % (self.article, self.year)

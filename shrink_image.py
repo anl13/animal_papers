@@ -5,13 +5,18 @@ from tqdm import tqdm
 
 def compress():
     source_dir = "teasers"
-    target_dir = "teasers_small"
+    target_dir = "teasers_small1"
     data = os.listdir(source_dir)
+    os.makedirs(target_dir, exist_ok=True)
     for d in tqdm(data): 
         src_filename = os.path.join(source_dir, d) 
         tgt_filename = os.path.join(target_dir, d)
         if "JPG" in tgt_filename: 
             tgt_filename = tgt_filename.replace("JPG", "jpg")
+        if "png" in tgt_filename: 
+            tgt_filename = tgt_filename.replace("png", "jpg") 
+        if "PNG" in tgt_filename: 
+            tgt_filename = tgt_filename.replace("PNG", "jpg")
         img = cv2.imread(src_filename) 
         H = img.shape[0] 
         W = img.shape[1] 
