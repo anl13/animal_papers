@@ -40,4 +40,35 @@
 		"keyword": [],
 		"grade": "none"
 	},
+    {
+		"title": "High-throughput multi-camera array microscope platform for automated 3D behavioral analysis of freely swimming zebra fish larvae",
+		"year": 2026, 
+		"paper_link": "https://www.nature.com/articles/s42003-025-09421-w",
+		"project_page": "https://github.com/haitao-chen0248/ZebraPheno3D/",
+		"teaser": "Chen2026.jpg",
+		"journal": "Communications Biology", 
+		"authors": [
+			"Haitao Chen", "Kevin Li", "Lucas Kreiss", "Paul Reamey", "Lain X. Pierce", "Ralph Zhang", 
+            "Ricardo Da Luz", "Amey Chaware", "Kanghyun Kim", "Clare B. Cook", "Xi Yang", "Joshua F. Lerner", 
+            "Jed Doman", "Aurélien Bègue", "John Efromson", "Mark Harfouche", "Gregor Horstmeyer", "Matthew N. McCarroll",
+            "Roarke Horstmeyer"
+		],
+		"adddate": "20260112",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "SAMBA: A Segment Anything Model-based tool for semi-automated Behavioural Analysis of Drosophila and other model organisms",
+		"year": 2026, 
+		"paper_link": "https://doi.org/10.1242/dmm.052631",
+		"project_page": "none",
+		"teaser": "Mele2026.jpg",
+		"journal": "Disease Models & Mechanisms", 
+		"authors": [
+			"Sarah Mele", "Long Nguyen", "Joshua Millward", "Jemma Gasperoni", "Sebastian Dworkin", "Zhen He", "Travis K. Johnson"
+		],
+		"adddate": "20260209",
+		"keyword": [], 
+		"grade": "none"
+	},
 ]

@@ -986,6 +986,8 @@
 		],
 		"grade": "none"
 	},
+
+	// 2026.02.07
 	{
 		"title": "A Study of Spontaneous Self-Injurious Behavior and Neuroimaging in Rhesus Macaques",
 		"year": 2025, 
@@ -999,7 +1001,7 @@
 			"Yufang Zhou", "Yanling Li", "Hongmei Zhu", "Shuzhen Dong", "Kang Huang", "Yun Wang", "Qiong Wang", "Yijiang Li",
 			"Ya Xie", "Huiling Chen", "Longbao Lv", "Shu Liu", "Yonggang Yao", "Chun Wang", "Ning Liu", "Jianhong Wang"
 		],
-		"adddate": "20251212",
+		"adddate": "20250815",
 		"keyword": ["monkey"], 
 		"grade": "none"
 	},
@@ -1013,8 +1015,167 @@
 		"authors": [
 			"Moira Shooter", "Charles Malleson", "Adrian Hilton"
 		],
-		"adddate": "20251212",
+		"adddate": "20250815",
 		"keyword": [], 
 		"grade": "none"
 	},
+	{
+		"title": "Scaling Up Social Behavior Studies: Real-Time, Large-Scale and Prolonged Social Behavior Analysis with PrecisionTrack",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/biorxiv/early/2025/08/13/2024.12.26.630112.full.pdf",
+		"project_page": "none",
+		"teaser": "Coulombe2025-1.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Vincent Coulombe", "Sadegh Monfared", "Khadijeh Aghel", "Quentin Leboulleux", 
+			"Modesto R. Peralta III", "Benoit Gosselin", "Benoit Labonté"
+		],
+		"adddate": "20250815",
+		"keyword": [], 
+		"grade": "none"
+	},
+    {
+		"title": "The eyelid and pupil dynamics underlying stress levels in awake mice",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2023.08.31.555827v2",
+		"project_page": "",
+		"teaser": "Zeng2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Hang Zeng"
+		],
+		"adddate": "20250815",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "AnimalClue: Recognizing Animals by their Traces",
+		"year": 2025, 
+		"paper_link": "https://openaccess.thecvf.com/content/ICCV2025/papers/Shinoda_AnimalClue_Recognizing_Animals_by_their_Traces_ICCV_2025_paper.pdf",
+		"project_page": "https://dahlian00.github.io/AnimalCluePage/",
+		"teaser": "Shinoda2025.jpg",
+		"journal": "ICCV", 
+		"authors": [
+			"Risa Shinoda", "Nakamasa Inoue", "Iro Laina", "Christian Rupprecht", "Hirokatsu Kataoka"
+		],
+		"adddate": "20250815",
+		"keyword": [], 
+		"grade": "highlight"
+	},
+	{
+		"title": "X-MoGen: Unified Motion Generation across Humans and Animals",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/abs/2508.05162",
+		"project_page": "none",
+		"teaser": "Wang2025-1.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Xuan Wang", "Kai Ruan", "Liyang Qian", "Zhizhi Guo", "Chang Su", "Gaoang Wang"
+		],
+		"adddate": "20250815",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "An Explainable AI based approach for Monitoring Animal Health",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/abs/2508.10210",
+		"project_page": "none",
+		"teaser": "Jana2025.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Rahul Jana", "Shubham Dixit", "Mrityunjay Sharma", "Ritesh Kumar"
+		],
+		"adddate": "20250815",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "DiffPose-Animal: A Language-Conditioned Diffusion Framework for Animal Pose Estimation",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/html/2508.08783v1",
+		"project_page": "none",
+		"teaser": "Xiong2025.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Tianyu Xiong", "Dayi Tan", "Wei Tian"
+		],
+		"adddate": "20250816",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/abs/2504.00394",
+		"project_page": "none",
+		"teaser": "Wang2025-2.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Lei Wang", "Yujie Zhong", "Xiaopeng Sun", "Jingchun Cheng", "Chengjian Feng", "Qiong Cao", "Lin Ma", "Zhaoxin Fan"
+		],
+		"adddate": "20250816",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Advances and Trends in the 3D Reconstruction of the Shape and Motion of Animals",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/abs/2508.16062",
+		"project_page": "none",
+		"teaser": "Li2025-3.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Ziqi Li", "Abderraouf Amrani", "Shri Rai", "Hamid Laga"
+		],
+		"adddate": "20250912",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "JAX Animal Behavior System (JABS): A genetics informed, end-to-end advanced behavioral phenotyping platform for the laboratory mouse",
+		"year": 2025, 
+		"paper_link": "https://elifesciences.org/reviewed-preprints/107259v1",
+		"project_page": "none",
+		"teaser": "Choudhary2025.jpg",
+		"journal": "eLife", 
+		"authors": [
+			"Anshul Choudhary", "Brian Q Geuther", "Thomas J Sproule", "Glen Beane", "Vivek Kohar", "Jarek Trapszo", "Vivek Kumar"
+		],
+		"adddate": "20250919",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "AutoGaitA: A versatile quantitative framework for kinematic analyses across species, perturbations and behaviours",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.04.14.589409v2",
+		"project_page": "https://github.com/mahan-hosseini/AutoGaitA",
+		"teaser": "Hosseini2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Mahan Hosseini", "Ines Klein", "Veronika Wunderle", "Carolin Semmler", "Taylan D. Kuzu", 
+			"Ann-Kathrin Kramer", "Marianna Tolve", "Vlad Mardare", "Ana Galvao", "Moritz Haustein", 
+			"Christian Grefkes", "Tatiana Korotkova", "Ansgar Büschges", "Gereon R. Fink", "Peter H. Weiss", "Silvia Daun",  
+			"Graziana Gatto"
+		],
+		"adddate": "20250919",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "DIPLOMAT: multi-animal tracking with efficient manual editing",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2024.04.14.589409v2",
+		"project_page": "https://github.com/mahan-hosseini/AutoGaitA",
+		"teaser": "Robinson2025.jpg",
+		"journal": "eLife", 
+		"authors": [
+			"Isaac Robinson", "George Glidden-Handgis", "Neekesh Panchal", "Nathan Insel", "TravisJ.Wheeler"
+		],
+		"adddate": "20250919",
+		"keyword": [], 
+		"grade": "none"
+	},
+
 ]

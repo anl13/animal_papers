@@ -26,6 +26,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://doi.org/10.1242/dmm.052631"><img src="teasers_small1/Mele2026.jpg"/></a></td>
+<td align="left" width=550><em>SAMBA: A Segment Anything Model-based tool for semi-automated Behavioural Analysis of Drosophila and other model organisms</em><br>
+<font size=2.5>Sarah Mele</font>, 
+<font size=2.5>Long Nguyen</font>, 
+<font size=2.5>Joshua Millward</font>, 
+<font size=2.5>Jemma Gasperoni</font>, 
+<font size=2.5>Sebastian Dworkin</font>, 
+<font size=2.5>Zhen He</font>, 
+<font size=2.5>Travis K. Johnson</font><br>
+<font size=2.5>In Disease Models & Mechanisms 2026 </font><br>
+<a href="https://doi.org/10.1242/dmm.052631"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/zhongshsh/4D-Animal"><img src="teasers_small1/Zhong2025-1.jpg"/></a></td>
 <td align="left" width=550><em>4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos</em><br>
 <font size=2.5>Shanshan Zhong</font>, 
@@ -40,6 +55,34 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In WACV 2026 </font><br>
 <a href="https://arxiv.org/pdf/2507.10437"><img src="data/paper.png"></a> 
 <a href="https://github.com/zhongshsh/4D-Animal"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/haitao-chen0248/ZebraPheno3D/"><img src="teasers_small1/Chen2026.jpg"/></a></td>
+<td align="left" width=550><em>High-throughput multi-camera array microscope platform for automated 3D behavioral analysis of freely swimming zebra fish larvae</em><br>
+<font size=2.5>Haitao Chen</font>, 
+<font size=2.5>Kevin Li</font>, 
+<font size=2.5>Lucas Kreiss</font>, 
+<font size=2.5>Paul Reamey</font>, 
+<font size=2.5>Lain X. Pierce</font>, 
+<font size=2.5>Ralph Zhang</font>, 
+<font size=2.5>Ricardo Da Luz</font>, 
+<font size=2.5>Amey Chaware</font>, 
+<font size=2.5>Kanghyun Kim</font>, 
+<font size=2.5>Clare B. Cook</font>, 
+<font size=2.5>Xi Yang</font>, 
+<font size=2.5>Joshua F. Lerner</font>, 
+<font size=2.5>Jed Doman</font>, 
+<font size=2.5>Aurélien Bègue</font>, 
+<font size=2.5>John Efromson</font>, 
+<font size=2.5>Mark Harfouche</font>, 
+<font size=2.5>Gregor Horstmeyer</font>, 
+<font size=2.5>Matthew N. McCarroll</font>, 
+<font size=2.5>Roarke Horstmeyer</font><br>
+<font size=2.5>In Communications Biology 2026 </font><br>
+<a href="https://www.nature.com/articles/s42003-025-09421-w"><img src="data/paper.png"></a> 
+<a href="https://github.com/haitao-chen0248/ZebraPheno3D/"><img src="data/project.png"></a>
 </td></tr></tbody>
 
 
@@ -70,6 +113,151 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://arxiv.org/abs/2508.00298"><img src="data/paper.png"></a> 
 <a href="https://animerplus.github.io/"><img src="data/project.png"></a>
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://elifesciences.org/reviewed-preprints/107259v1"><img src="teasers_small1/Choudhary2025.jpg"/></a></td>
+<td align="left" width=550><em>JAX Animal Behavior System (JABS): A genetics informed, end-to-end advanced behavioral phenotyping platform for the laboratory mouse</em><br>
+<font size=2.5>Anshul Choudhary</font>, 
+<font size=2.5>Brian Q Geuther</font>, 
+<font size=2.5>Thomas J Sproule</font>, 
+<font size=2.5>Glen Beane</font>, 
+<font size=2.5>Vivek Kohar</font>, 
+<font size=2.5>Jarek Trapszo</font>, 
+<font size=2.5>Vivek Kumar</font><br>
+<font size=2.5>In eLife 2025 </font><br>
+<a href="https://elifesciences.org/reviewed-preprints/107259v1"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/mahan-hosseini/AutoGaitA"><img src="teasers_small1/Robinson2025.jpg"/></a></td>
+<td align="left" width=550><em>DIPLOMAT: multi-animal tracking with efficient manual editing</em><br>
+<font size=2.5>Isaac Robinson</font>, 
+<font size=2.5>George Glidden-Handgis</font>, 
+<font size=2.5>Neekesh Panchal</font>, 
+<font size=2.5>Nathan Insel</font>, 
+<font size=2.5>TravisJ.Wheeler</font><br>
+<font size=2.5>In eLife 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.04.14.589409v2"><img src="data/paper.png"></a> 
+<a href="https://github.com/mahan-hosseini/AutoGaitA"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/mahan-hosseini/AutoGaitA"><img src="teasers_small1/Hosseini2025.jpg"/></a></td>
+<td align="left" width=550><em>AutoGaitA: A versatile quantitative framework for kinematic analyses across species, perturbations and behaviours</em><br>
+<font size=2.5>Mahan Hosseini</font>, 
+<font size=2.5>Ines Klein</font>, 
+<font size=2.5>Veronika Wunderle</font>, 
+<font size=2.5>Carolin Semmler</font>, 
+<font size=2.5>Taylan D. Kuzu</font>, 
+<font size=2.5>Ann-Kathrin Kramer</font>, 
+<font size=2.5>Marianna Tolve</font>, 
+<font size=2.5>Vlad Mardare</font>, 
+<font size=2.5>Ana Galvao</font>, 
+<font size=2.5>Moritz Haustein</font>, 
+<font size=2.5>Christian Grefkes</font>, 
+<font size=2.5>Tatiana Korotkova</font>, 
+<font size=2.5>Ansgar Büschges</font>, 
+<font size=2.5>Gereon R. Fink</font>, 
+<font size=2.5>Peter H. Weiss</font>, 
+<font size=2.5>Silvia Daun</font>, 
+<font size=2.5>Graziana Gatto</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.04.14.589409v2"><img src="data/paper.png"></a> 
+<a href="https://github.com/mahan-hosseini/AutoGaitA"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2508.16062"><img src="teasers_small1/Li2025-3.jpg"/></a></td>
+<td align="left" width=550><em>Advances and Trends in the 3D Reconstruction of the Shape and Motion of Animals</em><br>
+<font size=2.5>Ziqi Li</font>, 
+<font size=2.5>Abderraouf Amrani</font>, 
+<font size=2.5>Shri Rai</font>, 
+<font size=2.5>Hamid Laga</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/abs/2508.16062"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/html/2508.08783v1"><img src="teasers_small1/Xiong2025.jpg"/></a></td>
+<td align="left" width=550><em>DiffPose-Animal: A Language-Conditioned Diffusion Framework for Animal Pose Estimation</em><br>
+<font size=2.5>Tianyu Xiong</font>, 
+<font size=2.5>Dayi Tan</font>, 
+<font size=2.5>Wei Tian</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/html/2508.08783v1"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2504.00394"><img src="teasers_small1/Wang2025-2.jpg"/></a></td>
+<td align="left" width=550><em>AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline</em><br>
+<font size=2.5>Lei Wang</font>, 
+<font size=2.5>Yujie Zhong</font>, 
+<font size=2.5>Xiaopeng Sun</font>, 
+<font size=2.5>Jingchun Cheng</font>, 
+<font size=2.5>Chengjian Feng</font>, 
+<font size=2.5>Qiong Cao</font>, 
+<font size=2.5>Lin Ma</font>, 
+<font size=2.5>Zhaoxin Fan</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/abs/2504.00394"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2025/08/13/2024.12.26.630112.full.pdf"><img src="teasers_small1/Coulombe2025-1.jpg"/></a></td>
+<td align="left" width=550><em>Scaling Up Social Behavior Studies: Real-Time, Large-Scale and Prolonged Social Behavior Analysis with PrecisionTrack</em><br>
+<font size=2.5>Vincent Coulombe</font>, 
+<font size=2.5>Sadegh Monfared</font>, 
+<font size=2.5>Khadijeh Aghel</font>, 
+<font size=2.5>Quentin Leboulleux</font>, 
+<font size=2.5>Modesto R. Peralta III</font>, 
+<font size=2.5>Benoit Gosselin</font>, 
+<font size=2.5>Benoit Labonté</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/biorxiv/early/2025/08/13/2024.12.26.630112.full.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href=""><img src="teasers_small1/Zeng2025.jpg"/></a></td>
+<td align="left" width=550><em>The eyelid and pupil dynamics underlying stress levels in awake mice</em><br>
+<font size=2.5>Hang Zeng</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.08.31.555827v2"><img src="data/paper.png"></a> 
+<a href=""><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2508.05162"><img src="teasers_small1/Wang2025-1.jpg"/></a></td>
+<td align="left" width=550><em>X-MoGen: Unified Motion Generation across Humans and Animals</em><br>
+<font size=2.5>Xuan Wang</font>, 
+<font size=2.5>Kai Ruan</font>, 
+<font size=2.5>Liyang Qian</font>, 
+<font size=2.5>Zhizhi Guo</font>, 
+<font size=2.5>Chang Su</font>, 
+<font size=2.5>Gaoang Wang</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/abs/2508.05162"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2508.10210"><img src="teasers_small1/Jana2025.jpg"/></a></td>
+<td align="left" width=550><em>An Explainable AI based approach for Monitoring Animal Health</em><br>
+<font size=2.5>Rahul Jana</font>, 
+<font size=2.5>Shubham Dixit</font>, 
+<font size=2.5>Mrityunjay Sharma</font>, 
+<font size=2.5>Ritesh Kumar</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/abs/2508.10210"><img src="data/paper.png"></a> 
+</td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -109,6 +297,20 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In Research 2025 </font><br>
 <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12311303/"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://dahlian00.github.io/AnimalCluePage/"><img src="teasers_small1/Shinoda2025.jpg"/></a></td>
+<td align="left" width=550><em>AnimalClue: Recognizing Animals by their Traces</em><br>
+<font size=2.5>Risa Shinoda</font>, 
+<font size=2.5>Nakamasa Inoue</font>, 
+<font size=2.5>Iro Laina</font>, 
+<font size=2.5>Christian Rupprecht</font>, 
+<font size=2.5>Hirokatsu Kataoka</font><br>
+<font size=2.5>In ICCV 2025 </font>(<b><font size=2.5>highlight</font></b>)<br>
+<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Shinoda_AnimalClue_Recognizing_Animals_by_their_Traces_ICCV_2025_paper.pdf"><img src="data/paper.png"></a> 
+<a href="https://dahlian00.github.io/AnimalCluePage/"><img src="data/project.png"></a>
+</td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
