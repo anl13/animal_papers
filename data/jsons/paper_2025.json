@@ -1177,5 +1177,20 @@
 		"keyword": [], 
 		"grade": "none"
 	},
-
+	{
+		"title": "PrimateFace: A Machine Learning Resource for Automated Face Analysis in Human and Non-human Primates",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.08.12.669927v2.full.pdf",
+		"project_page": "https://docs.primateface.studio/#license",
+		"teaser": "Parodi2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Felipe Parodi", "Jordan K. Matelsky", "Alessandro P. Lamacchia", "Melanie Segado", "Yaoguang Jiang", 
+			"Alejandra Regla-Vargas", "Liala Sofi", "Clare Kimock", "Bridget M. Waller", "Michael L. Platt", 
+			"Konrad P. Kording"
+		],
+		"adddate": "20250919",
+		"keyword": [], 
+		"grade": "none"
+	},
 ]

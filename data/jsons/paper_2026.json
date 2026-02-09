@@ -4,7 +4,7 @@
 		"year": 2026,
 		"paper_link": "https://arxiv.org/abs/2507.04258",
 		"project_page": "https://zyyw-eric.github.io/MoreMouse-webpage/",
-		"teaser": "Zhong2025-3.jpg",
+		"teaser": "zhong2025-3.jpg",
 		"journal": "AAAI",
 		"authors": [
 			"Yuan Zhong", 
@@ -71,4 +71,19 @@
 		"keyword": [], 
 		"grade": "none"
 	},
+	{
+		"title": "When Trackers Date Fish: A Benchmark and Framework for Underwater Multiple Fish Tracking",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/pdf/2507.06400",
+		"project_page": "https://vranlee.github.io/SU-T/",
+		"teaser": "Li2026.jpg",
+		"journal": "AAAI", 
+		"authors": [
+			"Weiran Li", "Yeqiang Liu", "Qiannan Guo", "Yijie Wei", "Hwa Liang Leo", "Zhenbo Li"
+		],
+		"adddate": "20260209",
+		"keyword": ["fish"], 
+		"grade": "oral"
+	},
+
 ]

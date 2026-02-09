@@ -41,6 +41,21 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://vranlee.github.io/SU-T/"><img src="teasers_small1/Li2026.jpg"/></a></td>
+<td align="left" width=550><em>When Trackers Date Fish: A Benchmark and Framework for Underwater Multiple Fish Tracking</em><br>
+<font size=2.5>Weiran Li</font>, 
+<font size=2.5>Yeqiang Liu</font>, 
+<font size=2.5>Qiannan Guo</font>, 
+<font size=2.5>Yijie Wei</font>, 
+<font size=2.5>Hwa Liang Leo</font>, 
+<font size=2.5>Zhenbo Li</font><br>
+<font size=2.5>In AAAI 2026 </font>(<b><font size=2.5>oral</font></b>)<br>
+<a href="https://arxiv.org/pdf/2507.06400"><img src="data/paper.png"></a> 
+<a href="https://vranlee.github.io/SU-T/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/zhongshsh/4D-Animal"><img src="teasers_small1/Zhong2025-1.jpg"/></a></td>
 <td align="left" width=550><em>4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos</em><br>
 <font size=2.5>Shanshan Zhong</font>, 
@@ -87,7 +102,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://zyyw-eric.github.io/MoreMouse-webpage/"><img src="teasers_small1/Zhong2025-3.jpg"/></a></td>
+<a href="https://zyyw-eric.github.io/MoreMouse-webpage/"><img src="teasers_small1/zhong2025-3.jpg"/></a></td>
 <td align="left" width=550><em>MoReMouse: Monocular Reconstruction of Laboratory Mouse</em><br>
 <font size=2.5>Yuan Zhong</font>, 
 <font size=2.5>Jingxiang Sun</font>, 
@@ -167,6 +182,26 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2025 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2024.04.14.589409v2"><img src="data/paper.png"></a> 
 <a href="https://github.com/mahan-hosseini/AutoGaitA"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://docs.primateface.studio/#license"><img src="teasers_small1/Parodi2025.jpg"/></a></td>
+<td align="left" width=550><em>PrimateFace: A Machine Learning Resource for Automated Face Analysis in Human and Non-human Primates</em><br>
+<font size=2.5>Felipe Parodi</font>, 
+<font size=2.5>Jordan K. Matelsky</font>, 
+<font size=2.5>Alessandro P. Lamacchia</font>, 
+<font size=2.5>Melanie Segado</font>, 
+<font size=2.5>Yaoguang Jiang</font>, 
+<font size=2.5>Alejandra Regla-Vargas</font>, 
+<font size=2.5>Liala Sofi</font>, 
+<font size=2.5>Clare Kimock</font>, 
+<font size=2.5>Bridget M. Waller</font>, 
+<font size=2.5>Michael L. Platt</font>, 
+<font size=2.5>Konrad P. Kording</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669927v2.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://docs.primateface.studio/#license"><img src="data/project.png"></a>
 </td></tr></tbody>
 
 
