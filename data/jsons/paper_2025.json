@@ -1193,4 +1193,330 @@
 		"keyword": [], 
 		"grade": "none"
 	},
+	{
+		"title": "AI-powered home cage system for real-time tracking and analysis of rodent behavior",
+		"year": 2024, 
+		"paper_link": "https://www.sciencedirect.com/science/article/pii/S2589004224024489",
+		"project_page": "none",
+		"teaser": "Hsieh2024.jpg",
+		"journal": "iScience", 
+		"authors": [
+			"Chia-Ming Hsieh", "Ching-Han Hsu", "Jen-Kun Chen", "Lun-De Liao"
+		],
+		"adddate": "20250919",
+		"keyword": ["mouse"], 
+		"grade": "none"
+	},
+	{
+		"title": "Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/abs/2507.09513",
+		"project_page": "none",
+		"teaser": "Wang2025-3.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Yanchen Wang", "Han Yu", "Ari Blau", "Yizi Zhang", "The International Brain Laboratory", "Liam Paninski", "Cole Hurwitz", "Matt Whiteway"
+		],
+		"adddate": "20251005",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "OpenAnimals: Revisiting Person Re-Identification for Animals Towards Better Generalization",
+		"year": 2025, 
+		"paper_link": "https://openaccess.thecvf.com/content/ICCV2025/papers/Hou_OpenAnimals_Revisiting_Person_Re-Identification_for_Animals_Towards_Better_Generalization_ICCV_2025_paper.pdf",
+		"project_page": "https://github.com/hshustc/OpenAnimals/tree/main",
+		"teaser": "Hou2025.jpg",
+		"journal": "ICCV", 
+		"authors": [
+			"Saihui Hou", "Panjian Huang", "Zengbin Wang", "Yuan Liu", "Zeyu Li", "Man Zhang", "Yongzhen Huang"
+		],
+		"adddate": "20251005",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "DogMo: A Large-Scale Multi-View RGB-D Dataset for 4D Canine Motion Recovery",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/abs/2510.24117",
+		"project_page": "https://pie-lab.cn/DogMo/",
+		"teaser": "Wang2025-4.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Zan Wang", "Siyu Chen", "Luya Mo", "Xinfeng Gao", "Yuxin Shen", "Lebin Ding", "Wei Liang"
+		],
+		"adddate": "20251005",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Zero-Shot Multi-Animal Tracking in the Wild",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/html/2511.02591v1",
+		"project_page": "https://github.com/ecker-lab/SAM2-Animal-Tracking",
+		"teaser": "Meier2025.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Jan Frederik Meier", "Timo Lüddecke"
+		],
+		"adddate": "20251111",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "A Markerless Approach for Full-Body Biomechanics of Horses",
+		"year": 2025, 
+		"paper_link": "https://www.mdpi.com/2076-2615/15/15/2281",
+		"project_page": "none",
+		"teaser": "Shaffer2025.jpg",
+		"journal": "Animals", 
+		"authors": [
+			"Sarah K. Shaffer", "Omar Medjaouri", "Brian Swenson", "Travis Eliason", "Daniel P. Nicolella"
+		],
+		"adddate": "20251111",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Detect+Track: robust and flexible software tools for improved tracking and behavioural analysis of fish",
+		"year": 2025, 
+		"paper_link": "https://royalsocietypublishing.org/rsos/article/12/7/242086/235376/Detect-Track-robust-and-flexible-software-tools",
+		"project_page": "https://www.robots.ox.ac.uk/~vgg/research/fish/",
+		"teaser": "Dutta2025.jpg",
+		"journal": "Royal Society Open Science", 
+		"authors": [
+			"Abhishek Dutta", "Natalia Pérez-Campanero", "Graham K.Taylor", "Andrew Zisserman", "Cait Newport"
+		],
+		"adddate": "20251111",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking",
+		"year": 2023, 
+		"paper_link": "https://proceedings.nips.cc/paper_files/paper/2022/file/6e566c91d381bd7a45647d9a90838817-Paper-Datasets_and_Benchmarks.pdf",
+		"project_page": "https://github.com/pandorgan/APT-36K",
+		"teaser": "Yang2023-3.jpg",
+		"journal": "NeurIPS", 
+		"authors": [
+			"Yuxiang Yang", "Junjie Yang", "Yufei Xu", "Jing Zhang", "Long Lan", "Dacheng Tao"
+		],
+		"adddate": "20251111",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Dessie: Disentanglement for Articulated 3D Horse Shape and Pose Estimation from Images",
+		"year": 2024, 
+		"paper_link": "https://arxiv.org/abs/2410.03438",
+		"project_page": "https://celiali.github.io/Dessie/",
+		"teaser": "Li2024-1.jpg",
+		"journal": "ACCV", 
+		"authors": [
+			"Ci Li", "Yi Yang", "Zehang Weng", "Elin Hernlund", "Silvia Zuffi", "Hedvig Kjellström"
+		],
+		"adddate": "20251111",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification",
+		"year": 2025, 
+		"paper_link": "https://arxiv.org/abs/2511.15622",
+		"project_page": "https://www.conservationxlabs.com/sa-fari",
+		"teaser": "Wasmuht2025.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Dante Francisco Wasmuht", "Otto Brookes", "Maximillian Schall", "Pablo Palencia", "Chris Beirne", 
+			"Tilo Burghardt", "Majid Mirmehdi", "Hjalmar Kühl", "Mimi Arandjelovic", "Sam Pottie", "Peter Bermant", 
+			"Brandon Asheim", "Yi Jin Toh", "Adam Elzinga", "Jason Holmberg", "Andrew Whitworth", "Eleanor Flatt", 
+			"Laura Gustafson", "Chaitanya Ryali", "Yuan-Ting Hu", "Baishan Guo", "Andrew Westbury", "Kate Saenko", "Didac Suris"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Video-Based Cattle Behavior Detection for Digital Twin Development in Precision Dairy Systems",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.11.13.688203v1",
+		"project_page": "none",
+		"teaser": "Rao2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Shreya Rao", "Eduardo Garcia", "Suresh Neethirajan"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "FERAL: A Video-Understanding System for Direct Video-to-Behavior Mapping",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.11.16.688666v1",
+		"project_page": "none",
+		"teaser": "Skovorodnikov2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Peter Skovorodnikov", "Janet Zhao",  "Friederike Buck",  "Tomas Kay",  "Dominic D. Frank",  
+			"Benjamin Koger",  "Blair R. Costelloe",  "Iain D. Couzin",  "Jacopo Razzauti"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Biologically-constrained insect models enable realistic simulations and improve biomechanical predictions of locomotion",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.11.13.687989v1.full",
+		"project_page": "none",
+		"teaser": "Yuval2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Omer Yuval", "Elad Ozeri", "Avi Amir", "Amir Ayali"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Deep-Pose-Tracker: a unified model for behavioural studies of Caenorhabditis elegans",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.11.23.689997v1",
+		"project_page": "https://github.com/cebpLab/Deep-Pose-Tracker",
+		"teaser": "Saha2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Debasish Saha", "Shivam Chaudhary", "Dhyey Vyas", "Anindya Ghosh Roy", "Rati Sharma"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Detection dog performance state estimation from pre-stimulus video and physiological signals using deep learning and Bayesian inference",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.10.31.685787v2",
+		"project_page": "none",
+		"teaser": "Schultz2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Jörg Schultz", "Liza Rothkoff", "Edgar Aviles-Rosa", "Nathaniel J. Hall", "Michele N. Maughan"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "New idtracker.ai: rethinking multi-animal tracking as a representation learning problem to increase accuracy and reduce tracking times",
+		"year": 2025, 
+		"paper_link": "https://elifesciences.org/reviewed-preprints/107602",
+		"project_page": "none",
+		"teaser": "Torrents2025.jpg",
+		"journal": "eLife", 
+		"authors": [
+			"Jordi Torrents", "Tiago Costa", "Gonzalo G de Polavieja"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Automated Facial Landmark Analysis vs. Manual Coding: Accuracy in Dog Emotional Expression Classification",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.10.23.683931v1",
+		"project_page": "none",
+		"teaser": "Appels2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Jiao-Ling Appels", "George Martvel", "Anna Zamansky", "Stefanie Riemer"
+		],
+		"adddate": "20251201",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "DLC2Action: A Deep Learning-based Toolbox for Automated Behavior Segmentation",
+		"year": 2025, 
+		"paper_link": "https://www.biorxiv.org/content/10.1101/2025.09.27.678941v1",
+		"project_page": "https://github.com/amathislab/DLC2action",
+		"teaser": "Kozlova2025.jpg",
+		"journal": "biorxiv", 
+		"authors": [
+			"Elizaveta Kozlova", "Andy Bonnetto", "Alexander Mathis"
+		],
+		"adddate": "20251205",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Facial expressions in mice reveal latent cognitive variables and their neural correlates",
+		"year": 2025, 
+		"paper_link": "https://doi.org/10.1038/s41593-025-02071-5",
+		"project_page": "none",
+		"teaser": "Cazettes2025.jpg",
+		"journal": "Nature Neuroscience", 
+		"authors": [
+			"Fanny Cazettes", "Davide Reato",  "Elisabete Augusto","Raphael Steinfeld",  "Alfonso Renart","Zachary F. Mainen"
+		],
+		"adddate": "20251205",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+		"title": "Facial expressions in mice reveal latent cognitive variables and their neural correlates",
+		"year": 2025, 
+		"paper_link": "https://doi.org/10.1038/s41593-025-02071-5",
+		"project_page": "none",
+		"teaser": "Cazettes2025.jpg",
+		"journal": "Nature Neuroscience", 
+		"authors": [
+			"Fanny Cazettes", "Davide Reato",  "Elisabete Augusto","Raphael Steinfeld",  "Alfonso Renart","Zachary F. Mainen"
+		],
+		"adddate": "20251205",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+	    "title": "MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps",
+		"year": 2025, 
+		"paper_link": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gabeff_MammAlps_A_Multi-view_Video_Behavior_Monitoring_Dataset_of_Wild_Mammals_CVPR_2025_paper.pdf",
+		"project_page": "none",
+		"teaser": "Gabeff2025.jpg",
+		"journal": "CVPR", 
+		"authors": [
+			"Valentin Gabeff", "Haozhe Qi", "Brendan Flaherty", "Gencer Sumbul", "Alexander Mathis", "Devis Tuia"
+		],
+		"adddate": "20251205",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+	    "title": "Automatic fish weight estimation and 3D surface reconstruction with a lightweight instance segmentation model",
+		"year": 2025, 
+		"paper_link": "https://doi.org/10.1016/j.eswa.2025.128275",
+		"project_page": "none",
+		"teaser": "Wang2025-5.jpg",
+		"journal": "Expert Systems With Applications", 
+		"authors": [
+			"Guangxu Wang","Jiaxuan Yu",  "Sitao Liu", "Wenkai Xu", "Xin Li", "Yinfeng Hao", "Daoliang Li"
+		],
+		"adddate": "20251205",
+		"keyword": [], 
+		"grade": "none"
+	},
+	{
+	    "title": "YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top-Down View",
+		"year": 2025, 
+		"paper_link": "https://ieeexplore.ieee.org/document/10929680",
+		"project_page": "https://github.com/bujihao/YOLO-MousePose",
+		"teaser": "Yu2025-2.jpg",
+		"journal": "IEEE Transactions on Instrumentation and Measurement", 
+		"authors": [
+			"Mingxin Yu", "Hao Dong", "Rui You", "Shengjun Liang", "Qihao Zhang", "Yiyuan Ge", "Mingwei Lin", "Zeshui Xu"
+		],
+		"adddate": "20251205",
+		"keyword": [], 
+		"grade": "none"
+	},
 ]

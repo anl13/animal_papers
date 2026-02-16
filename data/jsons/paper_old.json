@@ -2750,16 +2750,17 @@
 	},
 	{
 		"title": "Development of a new 3D tracking system for multiple marmosets under free-moving conditions",
-		"year": 2022,
+		"year": 2024,
 		"paper_link": "https://www.biorxiv.org/content/10.1101/2022.03.29.486138v3.full.pdf",
 		"project_page": "none",
 		"teaser": "Yurimoto2022.jpg",
-		"journal": "biorxiv",
+		"journal": "Communications Biology",
 		"authors": [
 			"Terumi Yurimoto",
 			"Wakako Kumita",
 			"Kenya Sato",
 			"Rika Kikuchi",
+			"Gohei Oka", 
 			"Yusuke Shibuki",
 			"Rino Hashimoto",
 			"Michiko Kamioka",
@@ -2772,7 +2773,7 @@
 			"Takashi Inoue",
 			"Erika Sasaki"
 		],
-		"adddate": "20220922",
+		"adddate": "20251111",
 		"keyword": [
 			"3d",
 			"monkey",

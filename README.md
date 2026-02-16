@@ -131,6 +131,355 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/amathislab/DLC2action"><img src="teasers_small1/Kozlova2025.jpg"/></a></td>
+<td align="left" width=550><em>DLC2Action: A Deep Learning-based Toolbox for Automated Behavior Segmentation</em><br>
+<font size=2.5>Elizaveta Kozlova</font>, 
+<font size=2.5>Andy Bonnetto</font>, 
+<font size=2.5>Alexander Mathis</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.27.678941v1"><img src="data/paper.png"></a> 
+<a href="https://github.com/amathislab/DLC2action"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://doi.org/10.1038/s41593-025-02071-5"><img src="teasers_small1/Cazettes2025.jpg"/></a></td>
+<td align="left" width=550><em>Facial expressions in mice reveal latent cognitive variables and their neural correlates</em><br>
+<font size=2.5>Fanny Cazettes</font>, 
+<font size=2.5>Davide Reato</font>, 
+<font size=2.5>Elisabete Augusto</font>, 
+<font size=2.5>Raphael Steinfeld</font>, 
+<font size=2.5>Alfonso Renart</font>, 
+<font size=2.5>Zachary F. Mainen</font><br>
+<font size=2.5>In Nature Neuroscience 2025 </font><br>
+<a href="https://doi.org/10.1038/s41593-025-02071-5"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://doi.org/10.1038/s41593-025-02071-5"><img src="teasers_small1/Cazettes2025.jpg"/></a></td>
+<td align="left" width=550><em>Facial expressions in mice reveal latent cognitive variables and their neural correlates</em><br>
+<font size=2.5>Fanny Cazettes</font>, 
+<font size=2.5>Davide Reato</font>, 
+<font size=2.5>Elisabete Augusto</font>, 
+<font size=2.5>Raphael Steinfeld</font>, 
+<font size=2.5>Alfonso Renart</font>, 
+<font size=2.5>Zachary F. Mainen</font><br>
+<font size=2.5>In Nature Neuroscience 2025 </font><br>
+<a href="https://doi.org/10.1038/s41593-025-02071-5"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/bujihao/YOLO-MousePose"><img src="teasers_small1/Yu2025-2.jpg"/></a></td>
+<td align="left" width=550><em>YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top-Down View</em><br>
+<font size=2.5>Mingxin Yu</font>, 
+<font size=2.5>Hao Dong</font>, 
+<font size=2.5>Rui You</font>, 
+<font size=2.5>Shengjun Liang</font>, 
+<font size=2.5>Qihao Zhang</font>, 
+<font size=2.5>Yiyuan Ge</font>, 
+<font size=2.5>Mingwei Lin</font>, 
+<font size=2.5>Zeshui Xu</font><br>
+<font size=2.5>In IEEE Transactions on Instrumentation and Measurement 2025 </font><br>
+<a href="https://ieeexplore.ieee.org/document/10929680"><img src="data/paper.png"></a> 
+<a href="https://github.com/bujihao/YOLO-MousePose"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://doi.org/10.1016/j.eswa.2025.128275"><img src="teasers_small1/Wang2025-5.jpg"/></a></td>
+<td align="left" width=550><em>Automatic fish weight estimation and 3D surface reconstruction with a lightweight instance segmentation model</em><br>
+<font size=2.5>Guangxu Wang</font>, 
+<font size=2.5>Jiaxuan Yu</font>, 
+<font size=2.5>Sitao Liu</font>, 
+<font size=2.5>Wenkai Xu</font>, 
+<font size=2.5>Xin Li</font>, 
+<font size=2.5>Yinfeng Hao</font>, 
+<font size=2.5>Daoliang Li</font><br>
+<font size=2.5>In Expert Systems With Applications 2025 </font><br>
+<a href="https://doi.org/10.1016/j.eswa.2025.128275"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gabeff_MammAlps_A_Multi-view_Video_Behavior_Monitoring_Dataset_of_Wild_Mammals_CVPR_2025_paper.pdf"><img src="teasers_small1/Gabeff2025.jpg"/></a></td>
+<td align="left" width=550><em>MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps</em><br>
+<font size=2.5>Valentin Gabeff</font>, 
+<font size=2.5>Haozhe Qi</font>, 
+<font size=2.5>Brendan Flaherty</font>, 
+<font size=2.5>Gencer Sumbul</font>, 
+<font size=2.5>Alexander Mathis</font>, 
+<font size=2.5>Devis Tuia</font><br>
+<font size=2.5>In CVPR 2025 </font><br>
+<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Gabeff_MammAlps_A_Multi-view_Video_Behavior_Monitoring_Dataset_of_Wild_Mammals_CVPR_2025_paper.pdf"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://elifesciences.org/reviewed-preprints/107602"><img src="teasers_small1/Torrents2025.jpg"/></a></td>
+<td align="left" width=550><em>New idtracker.ai: rethinking multi-animal tracking as a representation learning problem to increase accuracy and reduce tracking times</em><br>
+<font size=2.5>Jordi Torrents</font>, 
+<font size=2.5>Tiago Costa</font>, 
+<font size=2.5>Gonzalo G de Polavieja</font><br>
+<font size=2.5>In eLife 2025 </font><br>
+<a href="https://elifesciences.org/reviewed-preprints/107602"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.13.688203v1"><img src="teasers_small1/Rao2025.jpg"/></a></td>
+<td align="left" width=550><em>Video-Based Cattle Behavior Detection for Digital Twin Development in Precision Dairy Systems</em><br>
+<font size=2.5>Shreya Rao</font>, 
+<font size=2.5>Eduardo Garcia</font>, 
+<font size=2.5>Suresh Neethirajan</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.13.688203v1"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.16.688666v1"><img src="teasers_small1/Skovorodnikov2025.jpg"/></a></td>
+<td align="left" width=550><em>FERAL: A Video-Understanding System for Direct Video-to-Behavior Mapping</em><br>
+<font size=2.5>Peter Skovorodnikov</font>, 
+<font size=2.5>Janet Zhao</font>, 
+<font size=2.5>Friederike Buck</font>, 
+<font size=2.5>Tomas Kay</font>, 
+<font size=2.5>Dominic D. Frank</font>, 
+<font size=2.5>Benjamin Koger</font>, 
+<font size=2.5>Blair R. Costelloe</font>, 
+<font size=2.5>Iain D. Couzin</font>, 
+<font size=2.5>Jacopo Razzauti</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.16.688666v1"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.13.687989v1.full"><img src="teasers_small1/Yuval2025.jpg"/></a></td>
+<td align="left" width=550><em>Biologically-constrained insect models enable realistic simulations and improve biomechanical predictions of locomotion</em><br>
+<font size=2.5>Omer Yuval</font>, 
+<font size=2.5>Elad Ozeri</font>, 
+<font size=2.5>Avi Amir</font>, 
+<font size=2.5>Amir Ayali</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.13.687989v1.full"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/cebpLab/Deep-Pose-Tracker"><img src="teasers_small1/Saha2025.jpg"/></a></td>
+<td align="left" width=550><em>Deep-Pose-Tracker: a unified model for behavioural studies of Caenorhabditis elegans</em><br>
+<font size=2.5>Debasish Saha</font>, 
+<font size=2.5>Shivam Chaudhary</font>, 
+<font size=2.5>Dhyey Vyas</font>, 
+<font size=2.5>Anindya Ghosh Roy</font>, 
+<font size=2.5>Rati Sharma</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.23.689997v1"><img src="data/paper.png"></a> 
+<a href="https://github.com/cebpLab/Deep-Pose-Tracker"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/10.1101/2025.10.31.685787v2"><img src="teasers_small1/Schultz2025.jpg"/></a></td>
+<td align="left" width=550><em>Detection dog performance state estimation from pre-stimulus video and physiological signals using deep learning and Bayesian inference</em><br>
+<font size=2.5>Jörg Schultz</font>, 
+<font size=2.5>Liza Rothkoff</font>, 
+<font size=2.5>Edgar Aviles-Rosa</font>, 
+<font size=2.5>Nathaniel J. Hall</font>, 
+<font size=2.5>Michele N. Maughan</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.10.31.685787v2"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/10.1101/2025.10.23.683931v1"><img src="teasers_small1/Appels2025.jpg"/></a></td>
+<td align="left" width=550><em>Automated Facial Landmark Analysis vs. Manual Coding: Accuracy in Dog Emotional Expression Classification</em><br>
+<font size=2.5>Jiao-Ling Appels</font>, 
+<font size=2.5>George Martvel</font>, 
+<font size=2.5>Anna Zamansky</font>, 
+<font size=2.5>Stefanie Riemer</font><br>
+<font size=2.5>In biorxiv 2025 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.10.23.683931v1"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.conservationxlabs.com/sa-fari"><img src="teasers_small1/Wasmuht2025.jpg"/></a></td>
+<td align="left" width=550><em>The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification</em><br>
+<font size=2.5>Dante Francisco Wasmuht</font>, 
+<font size=2.5>Otto Brookes</font>, 
+<font size=2.5>Maximillian Schall</font>, 
+<font size=2.5>Pablo Palencia</font>, 
+<font size=2.5>Chris Beirne</font>, 
+<font size=2.5>Tilo Burghardt</font>, 
+<font size=2.5>Majid Mirmehdi</font>, 
+<font size=2.5>Hjalmar Kühl</font>, 
+<font size=2.5>Mimi Arandjelovic</font>, 
+<font size=2.5>Sam Pottie</font>, 
+<font size=2.5>Peter Bermant</font>, 
+<font size=2.5>Brandon Asheim</font>, 
+<font size=2.5>Yi Jin Toh</font>, 
+<font size=2.5>Adam Elzinga</font>, 
+<font size=2.5>Jason Holmberg</font>, 
+<font size=2.5>Andrew Whitworth</font>, 
+<font size=2.5>Eleanor Flatt</font>, 
+<font size=2.5>Laura Gustafson</font>, 
+<font size=2.5>Chaitanya Ryali</font>, 
+<font size=2.5>Yuan-Ting Hu</font>, 
+<font size=2.5>Baishan Guo</font>, 
+<font size=2.5>Andrew Westbury</font>, 
+<font size=2.5>Kate Saenko</font>, 
+<font size=2.5>Didac Suris</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/abs/2511.15622"><img src="data/paper.png"></a> 
+<a href="https://www.conservationxlabs.com/sa-fari"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/ecker-lab/SAM2-Animal-Tracking"><img src="teasers_small1/Meier2025.jpg"/></a></td>
+<td align="left" width=550><em>Zero-Shot Multi-Animal Tracking in the Wild</em><br>
+<font size=2.5>Jan Frederik Meier</font>, 
+<font size=2.5>Timo Lüddecke</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/html/2511.02591v1"><img src="data/paper.png"></a> 
+<a href="https://github.com/ecker-lab/SAM2-Animal-Tracking"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.robots.ox.ac.uk/~vgg/research/fish/"><img src="teasers_small1/Dutta2025.jpg"/></a></td>
+<td align="left" width=550><em>Detect+Track: robust and flexible software tools for improved tracking and behavioural analysis of fish</em><br>
+<font size=2.5>Abhishek Dutta</font>, 
+<font size=2.5>Natalia Pérez-Campanero</font>, 
+<font size=2.5>Graham K.Taylor</font>, 
+<font size=2.5>Andrew Zisserman</font>, 
+<font size=2.5>Cait Newport</font><br>
+<font size=2.5>In Royal Society Open Science 2025 </font><br>
+<a href="https://royalsocietypublishing.org/rsos/article/12/7/242086/235376/Detect-Track-robust-and-flexible-software-tools"><img src="data/paper.png"></a> 
+<a href="https://www.robots.ox.ac.uk/~vgg/research/fish/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.mdpi.com/2076-2615/15/15/2281"><img src="teasers_small1/Shaffer2025.jpg"/></a></td>
+<td align="left" width=550><em>A Markerless Approach for Full-Body Biomechanics of Horses</em><br>
+<font size=2.5>Sarah K. Shaffer</font>, 
+<font size=2.5>Omar Medjaouri</font>, 
+<font size=2.5>Brian Swenson</font>, 
+<font size=2.5>Travis Eliason</font>, 
+<font size=2.5>Daniel P. Nicolella</font><br>
+<font size=2.5>In Animals 2025 </font><br>
+<a href="https://www.mdpi.com/2076-2615/15/15/2281"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.29.486138v3.full.pdf"><img src="teasers_small1/Yurimoto2022.jpg"/></a></td>
+<td align="left" width=550><em>Development of a new 3D tracking system for multiple marmosets under free-moving conditions</em><br>
+<font size=2.5>Terumi Yurimoto</font>, 
+<font size=2.5>Wakako Kumita</font>, 
+<font size=2.5>Kenya Sato</font>, 
+<font size=2.5>Rika Kikuchi</font>, 
+<font size=2.5>Gohei Oka</font>, 
+<font size=2.5>Yusuke Shibuki</font>, 
+<font size=2.5>Rino Hashimoto</font>, 
+<font size=2.5>Michiko Kamioka</font>, 
+<font size=2.5>Yumi Hayasegawa</font>, 
+<font size=2.5>Eiko Yamazaki</font>, 
+<font size=2.5>Yoko Kurotaki</font>, 
+<font size=2.5>Norio Goda</font>, 
+<font size=2.5>Junichi Kitakami</font>, 
+<font size=2.5>Tatsuya Fujita</font>, 
+<font size=2.5>Takashi Inoue</font>, 
+<font size=2.5>Erika Sasaki</font><br>
+<font size=2.5>In Communications Biology 2024 </font><br>
+<a href="https://www.biorxiv.org/content/10.1101/2022.03.29.486138v3.full.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://celiali.github.io/Dessie/"><img src="teasers_small1/Li2024-1.jpg"/></a></td>
+<td align="left" width=550><em>Dessie: Disentanglement for Articulated 3D Horse Shape and Pose Estimation from Images</em><br>
+<font size=2.5>Ci Li</font>, 
+<font size=2.5>Yi Yang</font>, 
+<font size=2.5>Zehang Weng</font>, 
+<font size=2.5>Elin Hernlund</font>, 
+<font size=2.5>Silvia Zuffi</font>, 
+<font size=2.5>Hedvig Kjellström</font><br>
+<font size=2.5>In ACCV 2024 </font><br>
+<a href="https://arxiv.org/abs/2410.03438"><img src="data/paper.png"></a> 
+<a href="https://celiali.github.io/Dessie/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/pandorgan/APT-36K"><img src="teasers_small1/Yang2023-3.jpg"/></a></td>
+<td align="left" width=550><em>APT-36K: A Large-scale Benchmark for Animal Pose Estimation and Tracking</em><br>
+<font size=2.5>Yuxiang Yang</font>, 
+<font size=2.5>Junjie Yang</font>, 
+<font size=2.5>Yufei Xu</font>, 
+<font size=2.5>Jing Zhang</font>, 
+<font size=2.5>Long Lan</font>, 
+<font size=2.5>Dacheng Tao</font><br>
+<font size=2.5>In NeurIPS 2023 </font><br>
+<a href="https://proceedings.nips.cc/paper_files/paper/2022/file/6e566c91d381bd7a45647d9a90838817-Paper-Datasets_and_Benchmarks.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/pandorgan/APT-36K"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2507.09513"><img src="teasers_small1/Wang2025-3.jpg"/></a></td>
+<td align="left" width=550><em>Self-supervised pretraining of vision transformers for animal behavioral analysis and neural encoding</em><br>
+<font size=2.5>Yanchen Wang</font>, 
+<font size=2.5>Han Yu</font>, 
+<font size=2.5>Ari Blau</font>, 
+<font size=2.5>Yizi Zhang</font>, 
+<font size=2.5>The International Brain Laboratory</font>, 
+<font size=2.5>Liam Paninski</font>, 
+<font size=2.5>Cole Hurwitz</font>, 
+<font size=2.5>Matt Whiteway</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/abs/2507.09513"><img src="data/paper.png"></a> 
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://pie-lab.cn/DogMo/"><img src="teasers_small1/Wang2025-4.jpg"/></a></td>
+<td align="left" width=550><em>DogMo: A Large-Scale Multi-View RGB-D Dataset for 4D Canine Motion Recovery</em><br>
+<font size=2.5>Zan Wang</font>, 
+<font size=2.5>Siyu Chen</font>, 
+<font size=2.5>Luya Mo</font>, 
+<font size=2.5>Xinfeng Gao</font>, 
+<font size=2.5>Yuxin Shen</font>, 
+<font size=2.5>Lebin Ding</font>, 
+<font size=2.5>Wei Liang</font><br>
+<font size=2.5>In arxiv 2025 </font><br>
+<a href="https://arxiv.org/abs/2510.24117"><img src="data/paper.png"></a> 
+<a href="https://pie-lab.cn/DogMo/"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/hshustc/OpenAnimals/tree/main"><img src="teasers_small1/Hou2025.jpg"/></a></td>
+<td align="left" width=550><em>OpenAnimals: Revisiting Person Re-Identification for Animals Towards Better Generalization</em><br>
+<font size=2.5>Saihui Hou</font>, 
+<font size=2.5>Panjian Huang</font>, 
+<font size=2.5>Zengbin Wang</font>, 
+<font size=2.5>Yuan Liu</font>, 
+<font size=2.5>Zeyu Li</font>, 
+<font size=2.5>Man Zhang</font>, 
+<font size=2.5>Yongzhen Huang</font><br>
+<font size=2.5>In ICCV 2025 </font><br>
+<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Hou_OpenAnimals_Revisiting_Person_Re-Identification_for_Animals_Towards_Better_Generalization_ICCV_2025_paper.pdf"><img src="data/paper.png"></a> 
+<a href="https://github.com/hshustc/OpenAnimals/tree/main"><img src="data/project.png"></a>
+</td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://elifesciences.org/reviewed-preprints/107259v1"><img src="teasers_small1/Choudhary2025.jpg"/></a></td>
 <td align="left" width=550><em>JAX Animal Behavior System (JABS): A genetics informed, end-to-end advanced behavioral phenotyping platform for the laboratory mouse</em><br>
 <font size=2.5>Anshul Choudhary</font>, 
@@ -203,6 +552,18 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <a href="https://www.biorxiv.org/content/10.1101/2025.08.12.669927v2.full.pdf"><img src="data/paper.png"></a> 
 <a href="https://docs.primateface.studio/#license"><img src="data/project.png"></a>
 </td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.sciencedirect.com/science/article/pii/S2589004224024489"><img src="teasers_small1/Hsieh2024.jpg"/></a></td>
+<td align="left" width=550><em>AI-powered home cage system for real-time tracking and analysis of rodent behavior</em><br>
+<font size=2.5>Chia-Ming Hsieh</font>, 
+<font size=2.5>Ching-Han Hsu</font>, 
+<font size=2.5>Jen-Kun Chen</font>, 
+<font size=2.5>Lun-De Liao</font><br>
+<font size=2.5>In iScience 2024 </font><br>
+<a href="https://www.sciencedirect.com/science/article/pii/S2589004224024489"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
@@ -2940,29 +3301,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <font size=2.5>In biorxiv 2022 </font><br>
 <a href="https://www.biorxiv.org/content/10.1101/2022.09.19.508605v1"><img src="data/paper.png"></a> 
 <a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-mouse-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-mouse-yellowgreen"></a></td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
-<a href="https://www.biorxiv.org/content/10.1101/2022.03.29.486138v3.full.pdf"><img src="teasers_small1/Yurimoto2022.jpg"/></a></td>
-<td align="left" width=550><em>Development of a new 3D tracking system for multiple marmosets under free-moving conditions</em><br>
-<font size=2.5>Terumi Yurimoto</font>, 
-<font size=2.5>Wakako Kumita</font>, 
-<font size=2.5>Kenya Sato</font>, 
-<font size=2.5>Rika Kikuchi</font>, 
-<font size=2.5>Yusuke Shibuki</font>, 
-<font size=2.5>Rino Hashimoto</font>, 
-<font size=2.5>Michiko Kamioka</font>, 
-<font size=2.5>Yumi Hayasegawa</font>, 
-<font size=2.5>Eiko Yamazaki</font>, 
-<font size=2.5>Yoko Kurotaki</font>, 
-<font size=2.5>Norio Goda</font>, 
-<font size=2.5>Junichi Kitakami</font>, 
-<font size=2.5>Tatsuya Fujita</font>, 
-<font size=2.5>Takashi Inoue</font>, 
-<font size=2.5>Erika Sasaki</font><br>
-<font size=2.5>In biorxiv 2022 </font><br>
-<a href="https://www.biorxiv.org/content/10.1101/2022.03.29.486138v3.full.pdf"><img src="data/paper.png"></a> 
-<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a><a href="https://img.shields.io/badge/animal-monkey-yellowgreen" align="bottom"><img src="https://img.shields.io/badge/animal-monkey-yellowgreen"></a><a href="https://img.shields.io/badge/topic-social-orange" align="bottom"><img src="https://img.shields.io/badge/topic-social-orange"></a></td></tr></tbody>
 
 
 <tbody> <tr> <td align="left" width=250>
