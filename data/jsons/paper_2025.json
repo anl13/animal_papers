@@ -1464,20 +1464,6 @@
 		"grade": "none"
 	},
 	{
-		"title": "Facial expressions in mice reveal latent cognitive variables and their neural correlates",
-		"year": 2025, 
-		"paper_link": "https://doi.org/10.1038/s41593-025-02071-5",
-		"project_page": "none",
-		"teaser": "Cazettes2025.jpg",
-		"journal": "Nature Neuroscience", 
-		"authors": [
-			"Fanny Cazettes", "Davide Reato",  "Elisabete Augusto","Raphael Steinfeld",  "Alfonso Renart","Zachary F. Mainen"
-		],
-		"adddate": "20251205",
-		"keyword": [], 
-		"grade": "none"
-	},
-	{
 	    "title": "MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps",
 		"year": 2025, 
 		"paper_link": "https://openaccess.thecvf.com/content/CVPR2025/papers/Gabeff_MammAlps_A_Multi-view_Video_Behavior_Monitoring_Dataset_of_Wild_Mammals_CVPR_2025_paper.pdf",

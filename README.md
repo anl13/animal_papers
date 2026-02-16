@@ -157,20 +157,6 @@ Therefore, I contribute this repository to track every step towards the ultimate
 
 
 <tbody> <tr> <td align="left" width=250>
-<a href="https://doi.org/10.1038/s41593-025-02071-5"><img src="teasers_small1/Cazettes2025.jpg"/></a></td>
-<td align="left" width=550><em>Facial expressions in mice reveal latent cognitive variables and their neural correlates</em><br>
-<font size=2.5>Fanny Cazettes</font>, 
-<font size=2.5>Davide Reato</font>, 
-<font size=2.5>Elisabete Augusto</font>, 
-<font size=2.5>Raphael Steinfeld</font>, 
-<font size=2.5>Alfonso Renart</font>, 
-<font size=2.5>Zachary F. Mainen</font><br>
-<font size=2.5>In Nature Neuroscience 2025 </font><br>
-<a href="https://doi.org/10.1038/s41593-025-02071-5"><img src="data/paper.png"></a> 
-</td></tr></tbody>
-
-
-<tbody> <tr> <td align="left" width=250>
 <a href="https://github.com/bujihao/YOLO-MousePose"><img src="teasers_small1/Yu2025-2.jpg"/></a></td>
 <td align="left" width=550><em>YOLO-MousePose: A Novel Framework and Dataset for Mouse Pose Estimation From a Top-Down View</em><br>
 <font size=2.5>Mingxin Yu</font>, 
