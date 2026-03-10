@@ -26,6 +26,164 @@ Therefore, I contribute this repository to track every step towards the ultimate
 <br>
 
 <table><tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/AdaptiveMotorControlLab/FMPose3D"><img src="teasers_small1/Wang2026.jpg"/></a></td>
+<td align="left" width=550><em>FMPose3D: monocular 3D pose estimation via flow matching</em><br>
+<font size=2.5>Ti Wang</font>, 
+<font size=2.5>Xiaohang Yu</font>, 
+<font size=2.5>Mackenzie Weygandt Mathis</font><br>
+<font size=2.5>In arxiv 2026 </font><br>
+<a href="https://arxiv.org/abs/2602.05755"><img src="data/paper.png"></a> 
+<a href="https://github.com/AdaptiveMotorControlLab/FMPose3D"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/pdf/2601.22522"><img src="teasers_small1/Tang2026.jpg"/></a></td>
+<td align="left" width=550><em>Can 3D point cloud data improve automated body condition score prediction in dairy cattle?</em><br>
+<font size=2.5>Zhou Tang</font>, 
+<font size=2.5>Jin Wang</font>, 
+<font size=2.5>Angelo De Castro</font>, 
+<font size=2.5>Yuxi Zhang</font>, 
+<font size=2.5>Victoria Bastos Primo</font>, 
+<font size=2.5>Ana Beatriz Montevecchio Bernardino</font>, 
+<font size=2.5>Gota Morota</font>, 
+<font size=2.5>Xu Wang</font>, 
+<font size=2.5>Ricardo C Chebel</font>, 
+<font size=2.5>Haipeng Yu</font><br>
+<font size=2.5>In arxiv 2026 </font><br>
+<a href="https://arxiv.org/pdf/2601.22522"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2601.19519"><img src="teasers_small1/Abramovich2026.jpg"/></a></td>
+<td align="left" width=550><em>Mocap Anywhere: Towards Pairwise-Distance based Motion Capture in the Wild (for the Wild)</em><br>
+<font size=2.5>Ofir Abramovich</font>, 
+<font size=2.5>Ariel Shamir</font>, 
+<font size=2.5>Andreas Aristidou</font><br>
+<font size=2.5>In arxiv 2026 </font><br>
+<a href="https://arxiv.org/abs/2601.19519"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://arxiv.org/abs/2601.17791"><img src="teasers_small1/Dulal2026.jpg"/></a></td>
+<td align="left" width=550><em>Agreement-driven Multi-view 3D Reconstruction for Live Cattle Weight Estimation</em><br>
+<font size=2.5>Rabin Dulal</font>, 
+<font size=2.5>Wenfeng Jia</font>, 
+<font size=2.5>Lihong Zheng</font>, 
+<font size=2.5>Jane Quinn</font><br>
+<font size=2.5>In arxiv 2026 </font><br>
+<a href="https://arxiv.org/abs/2601.17791"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://openaccess.thecvf.com/content/WACV2026/papers/Parhy_Improving_Animal_Pose_Estimation_through_Species_Similarity_Measures_and_Rigorous_WACV_2026_paper.pdf"><img src="teasers_small1/Parhy2026.jpg"/></a></td>
+<td align="left" width=550><em>Improving Animal Pose Estimation through Species Similarity Measures and Rigorous Label Definition</em><br>
+<font size=2.5>Medhashree Parhy</font>, 
+<font size=2.5>Shaan Chanchani</font>, 
+<font size=2.5>Claire Kim</font>, 
+<font size=2.5>Josh Mansky</font>, 
+<font size=2.5>Zian Pan</font>, 
+<font size=2.5>Parth Thakre</font>, 
+<font size=2.5>Haoyu Chen</font>, 
+<font size=2.5>Amy R. Reibman</font><br>
+<font size=2.5>In WACV 2026 </font><br>
+<a href="https://openaccess.thecvf.com/content/WACV2026/papers/Parhy_Improving_Animal_Pose_Estimation_through_Species_Similarity_Measures_and_Rigorous_WACV_2026_paper.pdf"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://ieeexplore.ieee.org/document/11409375"><img src="teasers_small1/Zhang2026.jpg"/></a></td>
+<td align="left" width=550><em>HiAnimal: Towards High-fidelity and Animatable Mesh Reconstruction from Single-view In-the-Wild Animal Images</em><br>
+<font size=2.5>Huimin Zhang</font>, 
+<font size=2.5>Zhongjin Luo</font>, 
+<font size=2.5>Kenkun Liu</font>, 
+<font size=2.5>Xihe Yang</font>, 
+<font size=2.5>Haolin Liu</font>, 
+<font size=2.5>Weikai Chen</font>, 
+<font size=2.5>Xiaoguang Han</font><br>
+<font size=2.5>In TVCG 2026 </font><br>
+<a href="https://ieeexplore.ieee.org/document/11409375"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://martinivis.github.io/BigMaQ/"><img src="teasers_small1/Martini2026.jpg"/></a></td>
+<td align="left" width=550><em>BigMaq: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Representations</em><br>
+<font size=2.5>Lucas Martini</font>, 
+<font size=2.5>Alexander Lappe</font>, 
+<font size=2.5>Anna Bognar</font>, 
+<font size=2.5>Rufin Vogels</font>, 
+<font size=2.5>Martin A. Giese</font><br>
+<font size=2.5>In ICLR 2026 </font><br>
+<a href="https://arxiv.org/html/2602.19874v1"><img src="data/paper.png"></a> 
+<a href="https://martinivis.github.io/BigMaQ/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://github.com/bojin-nwafu/Female-Saanen-Goats"><img src="teasers_small1/Jin2026.jpg"/></a></td>
+<td align="left" width=550><em>Monocular Mesh Recovery and Body Measurement of Female Saanen Goats</em><br>
+<font size=2.5>Bo Jin</font>, 
+<font size=2.5>Shichao Zhao</font>, 
+<font size=2.5>Jin Lyu</font>, 
+<font size=2.5>Bin Zhang</font>, 
+<font size=2.5>Tao Yu</font>, 
+<font size=2.5>Liang An</font>, 
+<font size=2.5>Yebin Liu</font>, 
+<font size=2.5>Meili Wang</font><br>
+<font size=2.5>In AAAI (AI for social impact track) 2026 </font><br>
+<a href="https://arxiv.org/abs/2602.19896"><img src="data/paper.png"></a> 
+<a href="https://github.com/bojin-nwafu/Female-Saanen-Goats"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://neuralfur.is.tue.mpg.de/"><img src="teasers_small1/Sklyarova2026.jpg"/></a></td>
+<td align="left" width=550><em>NeuralFur: Animal Fur Reconstruction From Multi-View Images</em><br>
+<font size=2.5>Vanessa Sklyarova</font>, 
+<font size=2.5>Berna Kabadayi</font>, 
+<font size=2.5>Anastasios Yiannakidis</font>, 
+<font size=2.5>Giorgio Becherini</font>, 
+<font size=2.5>Michael J. Black</font>, 
+<font size=2.5>Justus Thies</font><br>
+<font size=2.5>In 3DV 2026 </font>(<b><font size=2.5>oral</font></b>)<br>
+<a href="https://arxiv.org/abs/2601.12481"><img src="data/paper.png"></a> 
+<a href="https://neuralfur.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://neuralfur.is.tue.mpg.de/"><img src="teasers_small1/Sklyarova2026.jpg"/></a></td>
+<td align="left" width=550><em>NeuralFur: Animal Fur Reconstruction From Multi-View Images</em><br>
+<font size=2.5>Vanessa Sklyarova</font>, 
+<font size=2.5>Berna Kabadayi</font>, 
+<font size=2.5>Anastasios Yiannakidis</font>, 
+<font size=2.5>Giorgio Becherini</font>, 
+<font size=2.5>Michael J. Black</font>, 
+<font size=2.5>Justus Thies</font><br>
+<font size=2.5>In 3DV 2026 </font>(<b><font size=2.5>oral</font></b>)<br>
+<a href="https://arxiv.org/abs/2601.12481"><img src="data/paper.png"></a> 
+<a href="https://neuralfur.is.tue.mpg.de/"><img src="data/project.png"></a>
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
+<a href="https://www.sciencedirect.com/science/article/pii/S0168169924005520"><img src="teasers_small1/Liu2026.jpg"/></a></td>
+<td align="left" width=550><em>Deep learning in multiple animal tracking: A survey</em><br>
+<font size=2.5>Yeqiang Liu</font>, 
+<font size=2.5>Weiran Li</font>, 
+<font size=2.5>Xue Liu</font>, 
+<font size=2.5>Zhenbo Li</font>, 
+<font size=2.5>Jun Yue</font><br>
+<font size=2.5>In Computers and Electronics in Agriculture 2024 </font><br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0168169924005520"><img src="data/paper.png"></a> 
+<a href="https://img.shields.io/badge/datatype-3d-9cf" align="bottom"><img src="https://img.shields.io/badge/datatype-3d-9cf"></a></td></tr></tbody>
+
+
+<tbody> <tr> <td align="left" width=250>
 <a href="https://doi.org/10.1242/dmm.052631"><img src="teasers_small1/Mele2026.jpg"/></a></td>
 <td align="left" width=550><em>SAMBA: A Segment Anything Model-based tool for semi-automated Behavioural Analysis of Drosophila and other model organisms</em><br>
 <font size=2.5>Sarah Mele</font>, 
@@ -4879,7 +5037,7 @@ Therefore, I contribute this repository to track every step towards the ultimate
 </table>
 <br>
 
-Last updated in Feb 2026
+Last updated in Mar 2026
 <br>
 
 This repository is inspired by [Cat Papers](https://github.com/junyanz/CatPapers) with some code borrowed from it. Paper and project signs are taken from [http://kesen.realtimerendering.com/](http://kesen.realtimerendering.com/). 

@@ -85,5 +85,158 @@
 		"keyword": ["fish"], 
 		"grade": "oral"
 	},
-
+	{
+		"title": "Deep learning in multiple animal tracking: A survey",
+		"year": 2024, 
+		"paper_link": "https://www.sciencedirect.com/science/article/pii/S0168169924005520",
+		"project_page": "none",
+		"teaser": "Liu2026.jpg",
+		"journal": "Computers and Electronics in Agriculture", 
+		"authors": [
+			"Yeqiang Liu", "Weiran Li", "Xue Liu", "Zhenbo Li", "Jun Yue"
+		],
+		"adddate": "20260301",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "FMPose3D: monocular 3D pose estimation via flow matching",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/abs/2602.05755",
+		"project_page": "https://github.com/AdaptiveMotorControlLab/FMPose3D",
+		"teaser": "Wang2026.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Ti Wang", "Xiaohang Yu", "Mackenzie Weygandt Mathis"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "Can 3D point cloud data improve automated body condition score prediction in dairy cattle?",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/pdf/2601.22522",
+		"project_page": "none",
+		"teaser": "Tang2026.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Zhou Tang", "Jin Wang", "Angelo De Castro", "Yuxi Zhang", "Victoria Bastos Primo", "Ana Beatriz Montevecchio Bernardino", "Gota Morota", "Xu Wang", "Ricardo C Chebel", "Haipeng Yu"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "Monocular Mesh Recovery and Body Measurement of Female Saanen Goats",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/abs/2602.19896",
+		"project_page": "https://github.com/bojin-nwafu/Female-Saanen-Goats",
+		"teaser": "Jin2026.jpg",
+		"journal": "AAAI (AI for social impact track)", 
+		"authors": [
+			"Bo Jin", "Shichao Zhao", "Jin Lyu", "Bin Zhang", "Tao Yu", "Liang An", "Yebin Liu", "Meili Wang"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "Mocap Anywhere: Towards Pairwise-Distance based Motion Capture in the Wild (for the Wild)",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/abs/2601.19519",
+		"project_page": "none",
+		"teaser": "Abramovich2026.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Ofir Abramovich", "Ariel Shamir", "Andreas Aristidou" 
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "Agreement-driven Multi-view 3D Reconstruction for Live Cattle Weight Estimation",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/abs/2601.17791",
+		"project_page": "none",
+		"teaser": "Dulal2026.jpg",
+		"journal": "arxiv", 
+		"authors": [
+			"Rabin Dulal", "Wenfeng Jia", "Lihong Zheng", "Jane Quinn"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "NeuralFur: Animal Fur Reconstruction From Multi-View Images",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/abs/2601.12481",
+		"project_page": "https://neuralfur.is.tue.mpg.de/",
+		"teaser": "Sklyarova2026.jpg",
+		"journal": "3DV", 
+		"authors": [
+			"Vanessa Sklyarova", "Berna Kabadayi", "Anastasios Yiannakidis", "Giorgio Becherini", "Michael J. Black", "Justus Thies"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "oral"
+	},
+	{
+		"title": "NeuralFur: Animal Fur Reconstruction From Multi-View Images",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/abs/2601.12481",
+		"project_page": "https://neuralfur.is.tue.mpg.de/",
+		"teaser": "Sklyarova2026.jpg",
+		"journal": "3DV", 
+		"authors": [
+			"Vanessa Sklyarova", "Berna Kabadayi", "Anastasios Yiannakidis", "Giorgio Becherini", "Michael J. Black", "Justus Thies"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "oral"
+	},
+	{
+		"title": "BigMaq: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Representations",
+		"year": 2026, 
+		"paper_link": "https://arxiv.org/html/2602.19874v1",
+		"project_page": "https://martinivis.github.io/BigMaQ/",
+		"teaser": "Martini2026.jpg",
+		"journal": "ICLR", 
+		"authors": [
+			"Lucas Martini", "Alexander Lappe", "Anna Bognar", "Rufin Vogels", "Martin A. Giese"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "Improving Animal Pose Estimation through Species Similarity Measures and Rigorous Label Definition",
+		"year": 2026, 
+		"paper_link": "https://openaccess.thecvf.com/content/WACV2026/papers/Parhy_Improving_Animal_Pose_Estimation_through_Species_Similarity_Measures_and_Rigorous_WACV_2026_paper.pdf",
+		"project_page": "none",
+		"teaser": "Parhy2026.jpg",
+		"journal": "WACV", 
+		"authors": [
+			"Medhashree Parhy", "Shaan Chanchani", "Claire Kim", "Josh Mansky", "Zian Pan", "Parth Thakre", "Haoyu Chen", "Amy R. Reibman"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
+	{
+		"title": "HiAnimal: Towards High-fidelity and Animatable Mesh Reconstruction from Single-view In-the-Wild Animal Images",
+		"year": 2026, 
+		"paper_link": "https://ieeexplore.ieee.org/document/11409375",
+		"project_page": "none",
+		"teaser": "Zhang2026.jpg",
+		"journal": "TVCG", 
+		"authors": [
+			"Huimin Zhang", "Zhongjin Luo","Kenkun Liu","Xihe Yang","Haolin Liu","Weikai Chen","Xiaoguang Han"
+		],
+		"adddate": "20260310",
+		"keyword": ["3d"], 
+		"grade": "none"
+	},
 ]
